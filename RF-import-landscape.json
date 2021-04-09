@@ -1,9 +1,9 @@
 {
     "product_range_defaults": {
-        "published": true // should new products be published, or just uploaded into the app?
+        "published": true
     },
     "product_defaults": {
-        "enabled": false // do we want every single product on by default, or only those listed below?
+        "enabled": false
     },
     "products_defaults": {
         "global-cfp": {
@@ -14,12 +14,12 @@
         }
     },
     "variant_defaults": {
-        "enabled": false, // do we want every single product variant on by default, or only those listed below?
+        "enabled": false,
     },
     "variants_defaults": {
         "GLOBAL-CFP-6x8-LANDSCAPE": {
             "enabled": true,
-            "retail_price": 35 // this can be "retail_price" or "markup_percentage"
+            "retail_price": 35
         },
         "GLOBAL-CFP-12x16-LANDSCAPE": {
             "enabled": true,

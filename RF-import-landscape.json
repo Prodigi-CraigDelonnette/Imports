@@ -1,0 +1,271 @@
+{
+    "product_range_defaults": {
+        "published": true // should new products be published, or just uploaded into the app?
+    },
+    "product_defaults": {
+        "enabled": false // do we want every single product on by default, or only those listed below?
+    },
+    "products_defaults": {
+        "global-cfp": {
+            "enabled": true
+        },
+        "global-fap": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false, // do we want every single product variant on by default, or only those listed below?
+    },
+    "variants_defaults": {
+        "GLOBAL-CFP-6x8-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 35 // this can be "retail_price" or "markup_percentage"
+        },
+        "GLOBAL-CFP-12x16-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 65
+        },
+        "GLOBAL-CFP-18x24-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 95
+        },
+        "GLOBAL-CFP-24x32-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 125
+        },
+        "GLOBAL-FAP-6x8-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 20
+        },
+        "GLOBAL-FAP-12x16-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 40
+        },
+        "GLOBAL-FAP-18x24-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 60
+        },
+        "GLOBAL-FAP-24x32-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 80
+        },
+    },
+    "product_ranges": [
+        {
+            "title": "Aart-Jan Venema | Night Expedition",
+            "user_image_url": "https://www.dropbox.com/s/2bmk93rmk8okwr3/Aart%20Jan%20Venema%20print%203.tif?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "New import"
+                },
+                "global-fap": {
+                    "description": "New import"
+                }
+            }
+        },
+        {
+            "title": "Aart-Jan Venema | Night Expedition",
+            "user_image_url": "https://www.dropbox.com/s/2bmk93rmk8okwr3/Aart%20Jan%20Venema%20print%203.tif?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "New import"
+                },
+                "global-fap": {
+                    "description": "New import"
+                }
+            }
+        },
+        {
+            "title": "Ben Longden | Good Morning",
+            "user_image_url": "https://www.dropbox.com/s/wa6ywe1p751unxm/rf_s6_bl.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "New import"
+                },
+                "global-fap": {
+                    "description": "New import"
+                }
+            }
+        },
+        {
+            "title": "Ben Longden | Good Morning",
+            "user_image_url": "https://www.dropbox.com/s/wa6ywe1p751unxm/rf_s6_bl.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "New import"
+                },
+                "global-fap": {
+                    "description": "New import"
+                }
+            }
+        },
+        {
+            "title": "Cecile Gariepy | Family Portrait",
+            "user_image_url": "https://www.dropbox.com/s/tcamlp1ejoxrrcn/Cecile_Gariepy_Family%20portrait%20L%2018x24.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "New import"
+                },
+                "global-fap": {
+                    "description": "New import"
+                }
+            }
+        },
+        {
+            "title": "Cecile Gariepy | Family Portrait",
+            "user_image_url": "https://www.dropbox.com/s/tcamlp1ejoxrrcn/Cecile_Gariepy_Family%20portrait%20L%2018x24.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "New import"
+                },
+                "global-fap": {
+                    "description": "New import"
+                }
+            }
+        },
+        {
+            "title": "Gizem Vural | In a Day",
+            "user_image_url": "https://www.dropbox.com/s/qnqd3wan4o52oaw/InADay24x32.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "New import"
+                },
+                "global-fap": {
+                    "description": "New import"
+                }
+            }
+        },
+        {
+            "title": "Gizem Vural | In a Day",
+            "user_image_url": "https://www.dropbox.com/s/qnqd3wan4o52oaw/InADay24x32.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "New import"
+                },
+                "global-fap": {
+                    "description": "New import"
+                }
+            }
+        },
+        {
+            "title": "Greg Clarke | Blithe Spirit",
+            "user_image_url": "https://www.dropbox.com/s/lhu0sj6go2pml05/greg_clarke_blithespirit.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "New import"
+                },
+                "global-fap": {
+                    "description": "New import"
+                }
+            }
+        },
+        {
+            "title": "Greg Clarke | Blithe Spirit",
+            "user_image_url": "https://www.dropbox.com/s/lhu0sj6go2pml05/greg_clarke_blithespirit.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "New import"
+                },
+                "global-fap": {
+                    "description": "New import"
+                }
+            }
+        },
+        {
+            "title": "Greg Clarke | Extraterrestrial Vinyl Collector",
+            "user_image_url": "https://www.dropbox.com/s/vy0bw365ynvlxj7/extraterrestrial%20vinyl%20collector.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "New import"
+                },
+                "global-fap": {
+                    "description": "New import"
+                }
+            }
+        },
+        {
+            "title": "Greg Clarke | Extraterrestrial Vinyl Collector",
+            "user_image_url": "https://www.dropbox.com/s/vy0bw365ynvlxj7/extraterrestrial%20vinyl%20collector.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "New import"
+                },
+                "global-fap": {
+                    "description": "New import"
+                }
+            }
+        },
+        {
+            "title": "John Bond | Rainbow Fam",
+            "user_image_url": "https://www.dropbox.com/s/pfywsglimp4cib0/JohnBondxRoomFifty_S7_Rainbow_PRINT.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "New import"
+                },
+                "global-fap": {
+                    "description": "New import"
+                }
+            }
+        },
+        {
+            "title": "John Bond | Rainbow Fam",
+            "user_image_url": "https://www.dropbox.com/s/pfywsglimp4cib0/JohnBondxRoomFifty_S7_Rainbow_PRINT.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "New import"
+                },
+                "global-fap": {
+                    "description": "New import"
+                }
+            }
+        },
+        {
+            "title": "Pat Bradbury | Nature",
+            "user_image_url": "https://www.dropbox.com/s/exowztzhxxp21mf/Pat_Bradbury_Nature.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "New import"
+                },
+                "global-fap": {
+                    "description": "New import"
+                }
+            }
+        },
+        {
+            "title": "Pat Bradbury | Nature",
+            "user_image_url": "https://www.dropbox.com/s/exowztzhxxp21mf/Pat_Bradbury_Nature.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "New import"
+                },
+                "global-fap": {
+                    "description": "New import"
+                }
+            }
+        },
+        {
+            "title": "Pat Bradbury | Peachy Beachy Cheeky Party",
+            "user_image_url": "https://www.dropbox.com/s/p4y3qvyw365uqt1/Peachy%20Beachy%20Cheeky%20Party%20Flat%20Edited.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "New import"
+                },
+                "global-fap": {
+                    "description": "New import"
+                }
+            }
+        },
+        {
+            "title": "Pat Bradbury | Peachy Beachy Cheeky Party",
+            "user_image_url": "https://www.dropbox.com/s/p4y3qvyw365uqt1/Peachy%20Beachy%20Cheeky%20Party%20Flat%20Edited.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "New import"
+                },
+                "global-fap": {
+                    "description": "New import"
+                }
+            }
+        },
+    ]
+}

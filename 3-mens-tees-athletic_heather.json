@@ -1,0 +1,49 @@
+{
+    "product_range_defaults": {
+        "published": false
+    },
+    "product_defaults": {
+        "enabled": false
+    },
+    "products_defaults": {
+        "bc3001_tshirt_short_sleeve_uk": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false
+    },
+    "variants_defaults": {
+        "bc3001_tshirt_short_sleeve_uk/athletic_heather,S": {
+            "enabled": true,
+            "retail_price": 20
+        },
+        "bc3001_tshirt_short_sleeve_uk/athletic_heather,M": {
+            "enabled": true,
+            "retail_price": 20
+        },
+        "bc3001_tshirt_short_sleeve_uk/athletic_heather,L": {
+            "enabled": true,
+            "retail_price": 20
+        },
+        "bc3001_tshirt_short_sleeve_uk/athletic_heather,XL": {
+            "enabled": true,
+            "retail_price": 20
+        },
+        "bc3001_tshirt_short_sleeve_uk/athletic_heather,2XL": {
+            "enabled": true,
+            "retail_price": 20
+        }
+    },
+    "product_ranges": [
+        {
+            "title": "Retro Elephant Logo - Mens T-Shirt",
+            "user_image_url": "https://www.dropbox.com/sh/2gbucjp2n6uhebt/AACQFXGAlLr6la6X9Mq5gxgEa/Retro%20Elephant%20Logo%20-%20Mens%20T-Shirt/Tee_RetroSlogan_DarkBlue_P_Grey/Art_RetroNavyMens.png?dl=0",
+            "products": {
+                "bc3001_tshirt_short_sleeve_uk": {
+                    "description": ""
+                }
+            }
+        }
+    ]
+}

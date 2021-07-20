@@ -1,0 +1,76 @@
+{
+    "product_range_defaults": {
+        "published": false
+    },
+    "product_defaults": {
+        "enabled": false
+    },
+    "products_defaults": {
+        "bc3001_tshirt_short_sleeve_uk": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false
+    },
+    "variants_defaults": {
+        "bc3001_tshirt_short_sleeve_uk/navy,S": {
+            "enabled": true,
+            "retail_price": 20
+        },
+        "bc3001_tshirt_short_sleeve_uk/navy,M": {
+            "enabled": true,
+            "retail_price": 20
+        },
+        "bc3001_tshirt_short_sleeve_uk/navy,L": {
+            "enabled": true,
+            "retail_price": 20
+        },
+        "bc3001_tshirt_short_sleeve_uk/navy,XL": {
+            "enabled": true,
+            "retail_price": 20
+        },
+        "bc3001_tshirt_short_sleeve_uk/navy,2XL": {
+            "enabled": true,
+            "retail_price": 20
+        }
+    },
+    "product_ranges": [
+        {
+            "title": "Tree Tops Elephant Reserve - Mens Retro T-Shirt",
+            "user_image_url": "https://www.dropbox.com/sh/2gbucjp2n6uhebt/AAD1yZ18FBhWyBOgmM-mO49aa/Tree%20Tops%20Elephant%20Reserve%20-%20Mens%20Retro%20T-Shirt/Tee_TTRetro_WhiteP_Navy/Art_TTRetro_WhiteP.png?dl=0",
+            "products": {
+                "bc3001_tshirt_short_sleeve_uk": {
+                    "description": ""
+                }
+            }
+        },
+        {
+            "title": "Tree Tops Elephant Reserve - Mens Logo T-Shirt",
+            "user_image_url": "https://www.dropbox.com/sh/2gbucjp2n6uhebt/AABv3vJEhzNlc4jcCKNh1k3Ja/Tree%20Tops%20Elephant%20Reserve%20-%20Mens%20Logo%20T-Shirt/Tee_TTLogo_WhiteP_Navy/Art_TTLogoW_WhiteP24cm-01.png?dl=0",
+            "products": {
+                "bc3001_tshirt_short_sleeve_uk": {
+                    "description": ""
+                }
+            }
+        },
+        {
+            "title": "Official Elephant Logo - Mens T-Shirt",
+            "user_image_url": "https://www.dropbox.com/sh/2gbucjp2n6uhebt/AABrX6cJBSkn5ltvYk-GwYsta/Official%20Elephant%20Logo%20-%20Mens%20T-Shirt/Tee_OfficialLogo_WhiteP_Navy/Art_OfficialLogo_WH.png?dl=0",
+            "products": {
+                "bc3001_tshirt_short_sleeve_uk": {
+                    "description": ""
+                }
+            }
+        },
+        {
+            "title": "Retro Elephant Logo - Mens T-Shirt",
+            "user_image_url": "https://www.dropbox.com/sh/2gbucjp2n6uhebt/AAAG2ncUA7WzUJ5qgc74PuTOa/Retro%20Elephant%20Logo%20-%20Mens%20T-Shirt/Tee_RetroSlogan_WhiteP_Navy/Art_Retro_White_Mens.png?dl=0",
+            "products": {
+                "bc3001_tshirt_short_sleeve_uk": {
+                    "description": ""
+                }
+            }
+        }
+    ]
+}

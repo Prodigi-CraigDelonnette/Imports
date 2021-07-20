@@ -1,0 +1,211 @@
+{
+    "product_range_defaults": {
+        "published": false
+    },
+    "product_defaults": {
+        "enabled": false
+    },
+    "products_defaults": {
+        "sweatshirt_uk": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false
+    },
+    "variants_defaults": {
+        "sweatshirt_uk/arctic_white,S": {
+            "enabled": true,
+            "retail_price": 26
+        },
+        "sweatshirt_uk/arctic_white,M": {
+            "enabled": true,
+            "retail_price": 26
+        },
+        "sweatshirt_uk/arctic_white,L": {
+            "enabled": true,
+            "retail_price": 26
+        },
+        "sweatshirt_uk/arctic_white,XL": {
+            "enabled": true,
+            "retail_price": 26
+        },
+        "sweatshirt_uk/arctic_white,2XL": {
+            "enabled": true,
+            "retail_price": 26
+        }
+    },
+    "product_ranges": [
+        {
+            "title": "The Goldie Collection - Womens Sweater",
+            "user_image_url": "https://www.dropbox.com/sh/2gbucjp2n6uhebt/AAB9W0SbrXDEyi9EgTf2fMZqa/The%20Goldie%20Collection%20-%20Womens%20Sweater/SWT_Goldie_BlackP_White/Art_Goldie_BlackP.png?dl=0",
+            "products": {
+                "sweatshirt_uk": {
+                    "description": ""
+                }
+            }
+        },
+        {
+            "title": "Tree Tops Elephant Reserve - Womens Logo Sweater",
+            "user_image_url": "https://www.dropbox.com/sh/2gbucjp2n6uhebt/AAAicyzpE0pgDh7adjgcNthSa/Tree%20Tops%20Elephant%20Reserve%20-%20Womens%20Logo%20Sweater/SWT_W_TTLogo_NavyP_White/Art_TTLogoW_BlueP24cm-01.png?dl=0",
+            "products": {
+                "sweatshirt_uk": {
+                    "description": ""
+                }
+            }
+        },
+        {
+            "title": "Tree Tops Elephant Reserve - Womens Retro Sweater",
+            "user_image_url": "https://www.dropbox.com/sh/2gbucjp2n6uhebt/AADtysXz2BDyu8m6kWNntsAJa/Tree%20Tops%20Elephant%20Reserve%20-%20Womens%20Retro%20Sweater/SWT_W_TTRetro_NavyP_White/Art_TTRetro_Navy.png?dl=0",
+            "products": {
+                "sweatshirt_uk": {
+                    "description": ""
+                }
+            }
+        },
+        {
+            "title": "Mother Baby Elephant - Perfect Womens Sweater",
+            "user_image_url": "https://www.dropbox.com/sh/2gbucjp2n6uhebt/AAD4gjJ8Tx9REqPpA-64RqWGa/Mother%20Baby%20Elephant%20-%20Perfect%20Womens%20Sweater/SWT_W_Motherbaby_DgreyP_White/Art_MotherBaby_DGreyP.png?dl=0",
+            "products": {
+                "sweatshirt_uk": {
+                    "description": ""
+                }
+            }
+        },
+        {
+            "title": "Mother Baby Elephant - Perfect Womens Sweater",
+            "user_image_url": "https://www.dropbox.com/sh/2gbucjp2n6uhebt/AACqAkfi5t2BhW6noOV_mzNEa/Mother%20Baby%20Elephant%20-%20Perfect%20Womens%20Sweater/SWT_W_Motherbaby_GoldP_White/Art_Gold_MotherBaby.png?dl=0",
+            "products": {
+                "sweatshirt_uk": {
+                    "description": ""
+                }
+            }
+        },
+        {
+            "title": "I Love Elephants - Perfect Womens Sweater",
+            "user_image_url": "https://www.dropbox.com/sh/2gbucjp2n6uhebt/AABYOPY2z8_Qo9QBSKlCASi-a/I%20Love%20Elephants-%20Perfect%20Womens%20Sweater/SWT_W_Ilove_BlueCamoP_White/ArtI_LOVE_BlueCamo_22cm.png?dl=0",
+            "products": {
+                "sweatshirt_uk": {
+                    "description": ""
+                }
+            }
+        },
+        {
+            "title": "I Love Elephants - Perfect Womens Sweater",
+            "user_image_url": "https://www.dropbox.com/sh/2gbucjp2n6uhebt/AAC_67NPVhvrcEAvkk6PvFZqa/I%20Love%20Elephants-%20Perfect%20Womens%20Sweater/SWT_W_Ilove_DarkGreyP_White/Art_ILOVE_DGrey_22cm_ARTWORK.png?dl=0",
+            "products": {
+                "sweatshirt_uk": {
+                    "description": ""
+                }
+            }
+        },
+        {
+            "title": "I Love Elephants - Perfect Womens Sweater",
+            "user_image_url": "https://www.dropbox.com/sh/2gbucjp2n6uhebt/AAD8jnm5Q-LziGsYhkDEml3Ra/I%20Love%20Elephants-%20Perfect%20Womens%20Sweater/SWT_W_Ilove_GreyCamoP_White/Art_ILOVE_GreyCamo_22cm.png?dl=0",
+            "products": {
+                "sweatshirt_uk": {
+                    "description": ""
+                }
+            }
+        },
+        {
+            "title": "I Love Elephants - Perfect Womens Sweater",
+            "user_image_url": "https://www.dropbox.com/sh/2gbucjp2n6uhebt/AADRKGrXQGC1SuchAJvQnmJVa/I%20Love%20Elephants-%20Perfect%20Womens%20Sweater/SWT_W_Ilove_PinkCamoP_White/Art_ILOVE_PinkCamo_22cm.png?dl=0",
+            "products": {
+                "sweatshirt_uk": {
+                    "description": ""
+                }
+            }
+        },
+        {
+            "title": "I Love Elephants - Perfect Womens Sweater",
+            "user_image_url": "https://www.dropbox.com/sh/2gbucjp2n6uhebt/AADKjigHp3y0Rt-m3TZQHwWJa/I%20Love%20Elephants-%20Perfect%20Womens%20Sweater/SWT_W_Ilove_UnionJP_White/Art_ILOVE_UnionJack_22cm.png?dl=0",
+            "products": {
+                "sweatshirt_uk": {
+                    "description": ""
+                }
+            }
+        },
+        {
+            "title": "Elephant Stars - Perfect Womens Sweater",
+            "user_image_url": "https://www.dropbox.com/sh/2gbucjp2n6uhebt/AADy8cqjvzK5IoqJMyuwrLswa/Elephant%20Stars-%20Perfect%20Womens%20Sweater/SWT_W_elephantstars_GreyP_White/Art_Stars_DGrey.png?dl=0",
+            "products": {
+                "sweatshirt_uk": {
+                    "description": ""
+                }
+            }
+        },
+        {
+            "title": "Elephant Stars - Perfect Womens Sweater",
+            "user_image_url": "https://www.dropbox.com/sh/2gbucjp2n6uhebt/AAAMlEAnRe2Y621y9riUPVzia/Elephant%20Stars-%20Perfect%20Womens%20Sweater/SWT_W_elephantstars_TielP_White/Art_Stars_TealP.png?dl=0",
+            "products": {
+                "sweatshirt_uk": {
+                    "description": ""
+                }
+            }
+        },
+        {
+            "title": "Womens Perfect Sweater - Elephant Conservation",
+            "user_image_url": "https://www.dropbox.com/sh/2gbucjp2n6uhebt/AACchjOwYgtdLH0nQnbmMZiIa/Womens%20Perfect%20Sweater%20-%20Conservation/SWT_W_Conservation_DGreyP_White/Art_Conservation_DGrey.png?dl=0",
+            "products": {
+                "sweatshirt_uk": {
+                    "description": ""
+                }
+            }
+        },
+        {
+            "title": "Womens Perfect Sweater - Elephant Conservation",
+            "user_image_url": "https://www.dropbox.com/sh/2gbucjp2n6uhebt/AABB9ac-X-_mRYe8RXwlfG87a/Womens%20Perfect%20Sweater%20-%20Conservation/SWT_W_Conservation_KhakiCamoP_White/Art_Conservation_KhakiCamo.png?dl=0",
+            "products": {
+                "sweatshirt_uk": {
+                    "description": ""
+                }
+            }
+        },
+        {
+            "title": "Womens Perfect Sweater - Elephant Conservation",
+            "user_image_url": "https://www.dropbox.com/sh/2gbucjp2n6uhebt/AACd5QDi0hlZwJzhrJW1LX-Za/Womens%20Perfect%20Sweater%20-%20Conservation/SWT_W_Conservation_OrgGradient_White/Art_Conservation_OrangeP.png?dl=0",
+            "products": {
+                "sweatshirt_uk": {
+                    "description": ""
+                }
+            }
+        },
+        {
+            "title": "Womens Perfect Sweater - Elephant Conservation",
+            "user_image_url": "https://www.dropbox.com/sh/2gbucjp2n6uhebt/AAAoD6BS_LZZ0c3vAyIHSIS4a/Womens%20Perfect%20Sweater%20-%20Conservation/SWT_W_Conservation_PetrolBlueP_White/Art_Conservation_PetrolBlue.png?dl=0",
+            "products": {
+                "sweatshirt_uk": {
+                    "description": ""
+                }
+            }
+        },
+        {
+            "title": "Womens Perfect Sweater - Elephant Conservation",
+            "user_image_url": "https://www.dropbox.com/sh/2gbucjp2n6uhebt/AADbw6RXMTppFAcxQEK7Tu7Oa/Womens%20Perfect%20Sweater%20-%20Conservation/SWT_W_Conservation_RoyalP_White/Art_Conservation_BrightBlue.png?dl=0",
+            "products": {
+                "sweatshirt_uk": {
+                    "description": ""
+                }
+            }
+        },
+        {
+            "title": "Elephant Dreams - Perfect Womens Sweater",
+            "user_image_url": "https://www.dropbox.com/sh/2gbucjp2n6uhebt/AAAj-VxjAODLSmrhoa1L-8qha/Elephant%20Dreams%20-%20Perfect%20Womens%20Sweater/SWT_W_Dreams_MultiP_White/Art_Dreams_MultiP.png?dl=0",
+            "products": {
+                "sweatshirt_uk": {
+                    "description": ""
+                }
+            }
+        },
+        {
+            "title": "Water Color Elephant - Perfect Womens Sweater",
+            "user_image_url": "https://www.dropbox.com/sh/2gbucjp2n6uhebt/AAA1GDEs78fbUE5KFo0Xl5g0a/WaterColor%20Elephant%20-%20Perfect%20Womens%20Sweater/SWT_W_WaterColorP_White/Art_Watercolour_22cm.png?dl=0",
+            "products": {
+                "sweatshirt_uk": {
+                    "description": ""
+                }
+            }
+        }
+    ]
+}

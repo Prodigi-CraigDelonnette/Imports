@@ -14,23 +14,23 @@
         "enabled": false
     },
     "variants_defaults": {
-        "bc6004_womens_tshirt_uk/athletic_grey,S": {
+        "bc6004_womens_tshirt_uk/s,athletic_grey": {
             "enabled": true,
             "retail_price": 20
         },
-        "bc6004_womens_tshirt_uk/athletic_grey,M": {
+        "bc6004_womens_tshirt_uk/m,athletic_grey": {
             "enabled": true,
             "retail_price": 20
         },
-        "bc6004_womens_tshirt_uk/athletic_grey,L": {
+        "bc6004_womens_tshirt_uk/l,athletic_grey": {
             "enabled": true,
             "retail_price": 20
         },
-        "bc6004_womens_tshirt_uk/athletic_grey,XL": {
+        "bc6004_womens_tshirt_uk/xl,athletic_grey": {
             "enabled": true,
             "retail_price": 20
         },
-        "bc6004_womens_tshirt_uk/athletic_grey,2XL": {
+        "bc6004_womens_tshirt_uk/2xl,athletic_grey": {
             "enabled": true,
             "retail_price": 20
         }

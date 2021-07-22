@@ -14,23 +14,23 @@
         "enabled": false
     },
     "variants_defaults": {
-        "college_hoodie_uk/jet_black,S": {
+        "college_hoodie_uk/s,jet_black": {
             "enabled": true,
             "retail_price": 34
         },
-        "college_hoodie_uk/jet_black,M": {
+        "college_hoodie_uk/m,jet_black": {
             "enabled": true,
             "retail_price": 34
         },
-        "college_hoodie_uk/jet_black,L": {
+        "college_hoodie_uk/l,jet_black": {
             "enabled": true,
             "retail_price": 34
         },
-        "college_hoodie_uk/jet_black,XL": {
+        "college_hoodie_uk/xl,jet_black": {
             "enabled": true,
             "retail_price": 34
         },
-        "college_hoodie_uk/jet_black,2XL": {
+        "college_hoodie_uk/2xl,jet_black": {
             "enabled": true,
             "retail_price": 34
         }

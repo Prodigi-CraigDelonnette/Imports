@@ -14,23 +14,23 @@
         "enabled": false
     },
     "variants_defaults": {
-        "college_hoodie_uk/oxford_navy,S": {
+        "college_hoodie_uk/s,oxford_navy": {
             "enabled": true,
             "retail_price": 34
         },
-        "college_hoodie_uk/oxford_navy,M": {
+        "college_hoodie_uk/m,oxford_navy": {
             "enabled": true,
             "retail_price": 34
         },
-        "college_hoodie_uk/oxford_navy,L": {
+        "college_hoodie_uk/l,oxford_navy": {
             "enabled": true,
             "retail_price": 34
         },
-        "college_hoodie_uk/oxford_navy,XL": {
+        "college_hoodie_uk/xl,oxford_navy": {
             "enabled": true,
             "retail_price": 34
         },
-        "college_hoodie_uk/oxford_navy,2XL": {
+        "college_hoodie_uk/2xl,oxford_navy": {
             "enabled": true,
             "retail_price": 34
         }

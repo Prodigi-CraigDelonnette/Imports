@@ -14,23 +14,23 @@
         "enabled": false
     },
     "variants_defaults": {
-        "college_hoodie_uk/arctic_white,S": {
+        "college_hoodie_uk/s,arctic_white": {
             "enabled": true,
             "retail_price": 34
         },
-        "college_hoodie_uk/arctic_white,M": {
+        "college_hoodie_uk/m,arctic_white": {
             "enabled": true,
             "retail_price": 34
         },
-        "college_hoodie_uk/arctic_white,L": {
+        "college_hoodie_uk/l,arctic_white": {
             "enabled": true,
             "retail_price": 34
         },
-        "college_hoodie_uk/arctic_white,XL": {
+        "college_hoodie_uk/xl,arctic_white": {
             "enabled": true,
             "retail_price": 34
         },
-        "college_hoodie_uk/arctic_white,2XL": {
+        "college_hoodie_uk/2xl,arctic_white": {
             "enabled": true,
             "retail_price": 34
         }

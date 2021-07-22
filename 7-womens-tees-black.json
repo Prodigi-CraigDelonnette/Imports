@@ -14,23 +14,23 @@
         "enabled": false
     },
     "variants_defaults": {
-        "bc6004_womens_tshirt_uk/black,S": {
+        "bc6004_womens_tshirt_uk/s,black": {
             "enabled": true,
             "retail_price": 20
         },
-        "bc6004_womens_tshirt_uk/black,M": {
+        "bc6004_womens_tshirt_uk/m,black": {
             "enabled": true,
             "retail_price": 20
         },
-        "bc6004_womens_tshirt_uk/black,L": {
+        "bc6004_womens_tshirt_uk/l,black": {
             "enabled": true,
             "retail_price": 20
         },
-        "bc6004_womens_tshirt_uk/black,XL": {
+        "bc6004_womens_tshirt_uk/xl,black": {
             "enabled": true,
             "retail_price": 20
         },
-        "bc6004_womens_tshirt_uk/black,2XL": {
+        "bc6004_womens_tshirt_uk/2xl,black": {
             "enabled": true,
             "retail_price": 20
         }

@@ -14,23 +14,23 @@
         "enabled": false
     },
     "variants_defaults": {
-        "bc3001_tshirt_short_sleeve_uk/athletic_heather,S": {
+        "bc3001_tshirt_short_sleeve_uk/s,athletic_heather": {
             "enabled": true,
             "retail_price": 20
         },
-        "bc3001_tshirt_short_sleeve_uk/athletic_heather,M": {
+        "bc3001_tshirt_short_sleeve_uk/m,athletic_heather": {
             "enabled": true,
             "retail_price": 20
         },
-        "bc3001_tshirt_short_sleeve_uk/athletic_heather,L": {
+        "bc3001_tshirt_short_sleeve_uk/l,athletic_heather": {
             "enabled": true,
             "retail_price": 20
         },
-        "bc3001_tshirt_short_sleeve_uk/athletic_heather,XL": {
+        "bc3001_tshirt_short_sleeve_uk/xl,athletic_heather": {
             "enabled": true,
             "retail_price": 20
         },
-        "bc3001_tshirt_short_sleeve_uk/athletic_heather,2XL": {
+        "bc3001_tshirt_short_sleeve_uk/2xl,athletic_heather": {
             "enabled": true,
             "retail_price": 20
         }

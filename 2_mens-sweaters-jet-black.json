@@ -14,23 +14,23 @@
         "enabled": false
     },
     "variants_defaults": {
-        "sweatshirt_uk/jet_black,S": {
+        "sweatshirt_uk/s,jet_black": {
             "enabled": true,
             "retail_price": 26
         },
-        "sweatshirt_uk/jet_black,M": {
+        "sweatshirt_uk/m,jet_black": {
             "enabled": true,
             "retail_price": 26
         },
-        "sweatshirt_uk/jet_black,L": {
+        "sweatshirt_uk/l,jet_black": {
             "enabled": true,
             "retail_price": 26
         },
-        "sweatshirt_uk/jet_black,XL": {
+        "sweatshirt_uk/xl,jet_black": {
             "enabled": true,
             "retail_price": 26
         },
-        "sweatshirt_uk/jet_black,2XL": {
+        "sweatshirt_uk/2xl,jet_black": {
             "enabled": true,
             "retail_price": 26
         }

@@ -14,23 +14,23 @@
         "enabled": false
     },
     "variants_defaults": {
-        "bc3001_tshirt_short_sleeve_uk/navy,S": {
+        "bc3001_tshirt_short_sleeve_uk/s,navy": {
             "enabled": true,
             "retail_price": 20
         },
-        "bc3001_tshirt_short_sleeve_uk/navy,M": {
+        "bc3001_tshirt_short_sleeve_uk/m,navy": {
             "enabled": true,
             "retail_price": 20
         },
-        "bc3001_tshirt_short_sleeve_uk/navy,L": {
+        "bc3001_tshirt_short_sleeve_uk/l,navy": {
             "enabled": true,
             "retail_price": 20
         },
-        "bc3001_tshirt_short_sleeve_uk/navy,XL": {
+        "bc3001_tshirt_short_sleeve_uk/xl,navy": {
             "enabled": true,
             "retail_price": 20
         },
-        "bc3001_tshirt_short_sleeve_uk/navy,2XL": {
+        "bc3001_tshirt_short_sleeve_uk/2xl,navy": {
             "enabled": true,
             "retail_price": 20
         }

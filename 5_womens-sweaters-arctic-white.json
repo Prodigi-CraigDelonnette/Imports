@@ -14,23 +14,23 @@
         "enabled": false
     },
     "variants_defaults": {
-        "sweatshirt_uk/arctic_white,S": {
+        "sweatshirt_uk/s,arctic_white": {
             "enabled": true,
             "retail_price": 26
         },
-        "sweatshirt_uk/arctic_white,M": {
+        "sweatshirt_uk/m,arctic_white": {
             "enabled": true,
             "retail_price": 26
         },
-        "sweatshirt_uk/arctic_white,L": {
+        "sweatshirt_uk/l,arctic_white": {
             "enabled": true,
             "retail_price": 26
         },
-        "sweatshirt_uk/arctic_white,XL": {
+        "sweatshirt_uk/xl,arctic_white": {
             "enabled": true,
             "retail_price": 26
         },
-        "sweatshirt_uk/arctic_white,2XL": {
+        "sweatshirt_uk/2xl,arctic_white": {
             "enabled": true,
             "retail_price": 26
         }

@@ -1,0 +1,112 @@
+{
+    "product_range_defaults": {
+        "published": false
+    },
+    "product_defaults": {
+        "enabled": false
+    },
+    "products_defaults": {
+        "bc3001_tshirt_short_sleeve_uk": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false
+    },
+    "variants_defaults": {
+        "bc3001_tshirt_short_sleeve_uk/s,white": {
+            "enabled": true,
+            "retail_price": 20
+        },
+        "bc3001_tshirt_short_sleeve_uk/m,white": {
+            "enabled": true,
+            "retail_price": 20
+        },
+        "bc3001_tshirt_short_sleeve_uk/l,white": {
+            "enabled": true,
+            "retail_price": 20
+        },
+        "bc3001_tshirt_short_sleeve_uk/xl,white": {
+            "enabled": true,
+            "retail_price": 20
+        },
+        "bc3001_tshirt_short_sleeve_uk/2xl,white": {
+            "enabled": true,
+            "retail_price": 20
+        }
+    },
+    "product_ranges": [
+        {
+            "title": "The Goldie Collection - Mens T-Shirt",
+            "user_image_url": "https://www.dropbox.com/sh/2gbucjp2n6uhebt/AADmbpm6yPCfORbMVQrbpdWKa/The%20Goldie%20Collection%20-%20Mens%20T-Shirt/Tee_Goldie_BlackP_White/Art_Goldie_BlackP.png?dl=0",
+            "products": {
+                "bc3001_tshirt_short_sleeve_uk": {
+                    "description": ""
+                }
+            }
+        },
+        {
+            "title": "Tree Tops Elephant Reserve - Mens Retro T-Shirt",
+            "user_image_url": "https://www.dropbox.com/sh/2gbucjp2n6uhebt/AAAYN7rYRuMlIc3mQrFjbFrIa/Tree%20Tops%20Elephant%20Reserve%20-%20Mens%20Retro%20T-Shirt/Tee_TTRetro_NavyP_White/Art_TTRetro_NavyP.png?dl=0",
+            "products": {
+                "bc3001_tshirt_short_sleeve_uk": {
+                    "description": ""
+                }
+            }
+        },
+        {
+            "title": "Tree Tops Elephant Reserve - Mens Logo T-Shirt",
+            "user_image_url": "https://www.dropbox.com/sh/2gbucjp2n6uhebt/AAC0umKzDtICiV8xAeVSOXE3a/Tree%20Tops%20Elephant%20Reserve%20-%20Mens%20Logo%20T-Shirt/Tee_TTLogo_NavyP_White/Art_TTLogoW_BlueP24cm-01.png?dl=0",
+            "products": {
+                "bc3001_tshirt_short_sleeve_uk": {
+                    "description": ""
+                }
+            }
+        },
+        {
+            "title": "Elephant Tusker - Mens T-Shirt",
+            "user_image_url": "https://www.dropbox.com/sh/2gbucjp2n6uhebt/AAAYpyf5OVp0OOaj0S7Vay7Ia/Elephant%20Tusker%20-%20Mens%20T-Shirt/Tee_ElephantTusker_WhiteP_Black/ART_ElephantTusker_White.png?dl=0",
+            "products": {
+                "bc3001_tshirt_short_sleeve_uk": {
+                    "description": ""
+                }
+            }
+        },
+        {
+            "title": "WaterColor Elephant -Mens T-Shirt",
+            "user_image_url": "https://www.dropbox.com/sh/2gbucjp2n6uhebt/AABEslDnBSMMoRg9rLKret_qa/WaterColor%20Elephant%20-%20Mens%20Perfect%20T-Shirt/Tee_WatercolourMen_White/Art_watercolourmenP.png?dl=0",
+            "products": {
+                "bc3001_tshirt_short_sleeve_uk": {
+                    "description": ""
+                }
+            }
+        },
+        {
+            "title": "Lucky Number 12 - Mens T-Shirt",
+            "user_image_url": "https://www.dropbox.com/sh/2gbucjp2n6uhebt/AAAlgjQNuUA9-pKAoqOxzFSxa/Lucky%20Number%2012%20-%20Mens%20T-Shirt/Tee_LuckyNumber12_BlackP_White/Art_LuckyNumber12.png?dl=0",
+            "products": {
+                "bc3001_tshirt_short_sleeve_uk": {
+                    "description": ""
+                }
+            }
+        },
+        {
+            "title": "Official Elephant Logo - Mens T-Shirt",
+            "user_image_url": "https://www.dropbox.com/sh/2gbucjp2n6uhebt/AACPc045e636B7tIPOFLHFhfa/Official%20Elephant%20Logo%20-%20Mens%20T-Shirt/Tee_OfficialLogo_BlackP_White/Art_OfficialLogo_BL.png?dl=0",
+            "products": {
+                "bc3001_tshirt_short_sleeve_uk": {
+                    "description": ""
+                }
+            }
+        },
+        {
+            "title": "Retro Elephant Logo - Mens T-Shirt",
+            "user_image_url": "https://www.dropbox.com/sh/2gbucjp2n6uhebt/AAB4gwGLkMQdT_rW4z23FFrGa/Retro%20Elephant%20Logo%20-%20Mens%20T-Shirt/Tee_RetroSlogan_DarkBlueP_White/Art_RetroNavyMens.png?dl=0",
+            "products": {
+                "bc3001_tshirt_short_sleeve_uk": {
+                    "description": ""
+                }
+            }
+        }
+    ]
+}

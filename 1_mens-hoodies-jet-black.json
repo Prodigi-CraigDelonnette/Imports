@@ -1,0 +1,103 @@
+{
+    "product_range_defaults": {
+        "published": false
+    },
+    "product_defaults": {
+        "enabled": false
+    },
+    "products_defaults": {
+        "college_hoodie_uk": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false
+    },
+    "variants_defaults": {
+        "college_hoodie_uk/s,jet_black": {
+            "enabled": true,
+            "retail_price": 34
+        },
+        "college_hoodie_uk/m,jet_black": {
+            "enabled": true,
+            "retail_price": 34
+        },
+        "college_hoodie_uk/l,jet_black": {
+            "enabled": true,
+            "retail_price": 34
+        },
+        "college_hoodie_uk/xl,jet_black": {
+            "enabled": true,
+            "retail_price": 34
+        },
+        "college_hoodie_uk/2xl,jet_black": {
+            "enabled": true,
+            "retail_price": 34
+        }
+    },
+    "product_ranges": [
+        {
+            "title": "The Goldie Collection - Over Head Mens Hoodie",
+            "user_image_url": "https://www.dropbox.com/sh/2gbucjp2n6uhebt/AACloBrLpL2vUT1y-jLKBPpNa/The%20Goldie%20Collection%20-%20Over%20Head%20Mens%20Hoodie/OHH_JH001_Goldie_WhiteP_Black/Art_Goldie_WhiteP.png",
+            "products": {
+                "college_hoodie_uk": {
+                    "description": ""
+                }
+            }
+        },
+        {
+            "title": "Tree Tops Elephant Reserve  - Mens Logo Hoodie",
+            "user_image_url": "https://www.dropbox.com/sh/2gbucjp2n6uhebt/AADzheI5LKuhSRxm-b5-QxEja/Tree%20Tops%20Elephant%20Reserve%20-%20Mens%20Logo%20Hoodie/OHH_JH001_TTLogo_WhiteP_Black/Art_TTLogoM_WhiteP28cm-01.png?dl=0",
+            "products": {
+                "college_hoodie_uk": {
+                    "description": ""
+                }
+            }
+        },
+        {
+            "title": "Tree Tops Elephant Reserve  - Retro Over Head Mens Hoodie",
+            "user_image_url": "https://www.dropbox.com/sh/2gbucjp2n6uhebt/AAAivQHcD9kCt8mvX0vQAb_ha/Tree%20Tops%20Elephant%20Reserve%20-%20Retro%20Over%20Head%20Mens%20Hoodie/OHH_JH001_TTRetro_WhiteP_Black/Art_TTRetro_White.png?dl=0",
+            "products": {
+                "college_hoodie_uk": {
+                    "description": ""
+                }
+            }
+        },
+        {
+            "title": "Official Elephant Logo - Over Head Mens Hoodie",
+            "user_image_url": "https://www.dropbox.com/sh/2gbucjp2n6uhebt/AACPqGrULH5oGcfQLj9EB2C2a/Official%20Elephant%20Logo%20-%20Over%20Head%20Mens%20Hoodie/OHH_JH001_Official_WhiteP_Black/Art_OfficialLogo_WhiteP.png?dl=0",
+            "products": {
+                "college_hoodie_uk": {
+                    "description": ""
+                }
+            }
+        },
+        {
+            "title": "Retro Elephant Logo - Over Head Mens Hoodie",
+            "user_image_url": "https://www.dropbox.com/sh/2gbucjp2n6uhebt/AAArwYTCmg5XI4gysDKom5Nsa/Retro%20Elephant%20Logo%20-%20Over%20Head%20Mens%20Hoodie/OHH_JH001_Retro_WhiteP_Black/Art_Retro_WhiteP_Mens.png?dl=0",
+            "products": {
+                "college_hoodie_uk": {
+                    "description": ""
+                }
+            }
+        },
+        {
+            "title": "Elephant Tusker - Over Head Mens Hoodie",
+            "user_image_url": "https://www.dropbox.com/sh/2gbucjp2n6uhebt/AAC0kNRx9svuLU9JmFOYE36fa/Elephant%20Tusker%20-%20Over%20Head%20Mens%20Hoodie/OHH_JH001_ElephantTusker_WhiteP_Black/ART_ElephantTusker_White.png?dl=0",
+            "products": {
+                "college_hoodie_uk": {
+                    "description": ""
+                }
+            }
+        },
+        {
+            "title": "Lucky Number 12 - Over Head Mens Hoodie",
+            "user_image_url": "https://www.dropbox.com/sh/2gbucjp2n6uhebt/AADmY6YGibZM2SYCnRtRvYfpa/Lucky%20Number%2012%20-%20Over%20Head%20Mens%20Hoodie/OHH_JH001_LuckyNumber12_BlackP_Black/Art_LuckyNumber12.png?dl=0",
+            "products": {
+                "college_hoodie_uk": {
+                    "description": ""
+                }
+            }
+        }
+    ]
+}

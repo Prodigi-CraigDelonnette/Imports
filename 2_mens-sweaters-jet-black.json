@@ -1,0 +1,103 @@
+{
+    "product_range_defaults": {
+        "published": false
+    },
+    "product_defaults": {
+        "enabled": false
+    },
+    "products_defaults": {
+        "sweatshirt_uk": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false
+    },
+    "variants_defaults": {
+        "sweatshirt_uk/s,jet_black": {
+            "enabled": true,
+            "retail_price": 26
+        },
+        "sweatshirt_uk/m,jet_black": {
+            "enabled": true,
+            "retail_price": 26
+        },
+        "sweatshirt_uk/l,jet_black": {
+            "enabled": true,
+            "retail_price": 26
+        },
+        "sweatshirt_uk/xl,jet_black": {
+            "enabled": true,
+            "retail_price": 26
+        },
+        "sweatshirt_uk/2xl,jet_black": {
+            "enabled": true,
+            "retail_price": 26
+        }
+    },
+    "product_ranges": [
+        {
+            "title": "The Goldie Collection - Mens Sweater",
+            "user_image_url": "https://www.dropbox.com/sh/2gbucjp2n6uhebt/AABwuOrpKrU7RklWoON0WgZza/The%20Goldie%20Collection%20-%20Mens%20Sweater/SWT_Goldie_WhiteP_Black/Art_Goldie_WhiteP.png?dl=0",
+            "products": {
+                "sweatshirt_uk": {
+                    "description": ""
+                }
+            }
+        },
+        {
+            "title": "Tree Tops Elephant Reserve - Mens Logo Sweater",
+            "user_image_url": "https://www.dropbox.com/sh/2gbucjp2n6uhebt/AAC1t99BqJjrmYyykmctAPz7a/Tree%20Tops%20Elephant%20Reserve%20-%20Mens%20Retro%20Sweater/SWT_TTRetro_WhiteP_Black/Art_TTRetro_White.png?dl=0",
+            "products": {
+                "sweatshirt_uk": {
+                    "description": ""
+                }
+            }
+        },
+        {
+            "title": "Tree Tops Elephant Reserve - Mens Retro Sweater",
+            "user_image_url": "https://www.dropbox.com/sh/2gbucjp2n6uhebt/AAC1t99BqJjrmYyykmctAPz7a/Tree%20Tops%20Elephant%20Reserve%20-%20Mens%20Retro%20Sweater/SWT_TTRetro_WhiteP_Black/Art_TTRetro_White.png?dl=0",
+            "products": {
+                "sweatshirt_uk": {
+                    "description": ""
+                }
+            }
+        },
+        {
+            "title": "Official Elephant Logo - Mens Sweater",
+            "user_image_url": "https://www.dropbox.com/sh/2gbucjp2n6uhebt/AAAyS2zAGTsWWAwOn4sWx28Ha/Official%20Elephant%20Logo%20-%20Mens%20Sweater/SWT_OfficialLogo_WhiteP_Black/Art_OfficialLogo_WhiteP.png?dl=0",
+            "products": {
+                "sweatshirt_uk": {
+                    "description": ""
+                }
+            }
+        },
+        {
+            "title": "Retro Elephant Logo - Mens Sweater",
+            "user_image_url": "https://www.dropbox.com/sh/2gbucjp2n6uhebt/AAB0UOgrNd0l6CquHNXNA-8va/Retro%20Elephant%20Logo%20-%20Mens%20Sweater/SWT_RetroSlogan_WhiteP_Black/Art_Retro_WhiteP_Mens.png?dl=0",
+            "products": {
+                "sweatshirt_uk": {
+                    "description": ""
+                }
+            }
+        },
+        {
+            "title": "Elephant Tusker - Mens Sweater",
+            "user_image_url": "https://www.dropbox.com/sh/2gbucjp2n6uhebt/AADf920u9mWS6RQmIA-w1T2Za/Elephant%20Tusker%20-%20Mens%20Sweater/SWT_ElephantTusker_WhiteP_Black/ART_ElephantTusker_White.png?dl=0",
+            "products": {
+                "sweatshirt_uk": {
+                    "description": ""
+                }
+            }
+        },
+        {
+            "title": "Lucky Number 12 - Mens Sweater",
+            "user_image_url": "https://www.dropbox.com/sh/2gbucjp2n6uhebt/AABzkcXSKuv4Ehgd9vHj4BiVa/Lucky%20Number%2012%20-%20Mens%20Sweater/SWT_LuckyNumber12_BlackP_Black/Art_LuckyNumber12.png?dl=0",
+            "products": {
+                "sweatshirt_uk": {
+                    "description": ""
+                }
+            }
+        }
+    ]
+}

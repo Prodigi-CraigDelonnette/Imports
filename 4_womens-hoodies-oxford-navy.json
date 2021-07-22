@@ -1,0 +1,85 @@
+{
+    "product_range_defaults": {
+        "published": false
+    },
+    "product_defaults": {
+        "enabled": false
+    },
+    "products_defaults": {
+        "college_hoodie_uk": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false
+    },
+    "variants_defaults": {
+        "college_hoodie_uk/s,oxford_navy": {
+            "enabled": true,
+            "retail_price": 34
+        },
+        "college_hoodie_uk/m,oxford_navy": {
+            "enabled": true,
+            "retail_price": 34
+        },
+        "college_hoodie_uk/l,oxford_navy": {
+            "enabled": true,
+            "retail_price": 34
+        },
+        "college_hoodie_uk/xl,oxford_navy": {
+            "enabled": true,
+            "retail_price": 34
+        },
+        "college_hoodie_uk/2xl,oxford_navy": {
+            "enabled": true,
+            "retail_price": 34
+        }
+    },
+    "product_ranges": [
+        {
+            "title": "Tree Tops Elephant Reserve - Retro Womens Hoodie",
+            "user_image_url": "https://www.dropbox.com/sh/2gbucjp2n6uhebt/AAB8Z8mvftcCDI0a_Q9li-dea/Tree%20Tops%20Elephant%20Reserve%20-%20Retro%20Womens%20Hoodie/OHH_W_JH001_TTRetro_WhiteP_Navy/Art_TTRetro_White.png?dl=0",
+            "products": {
+                "college_hoodie_uk": {
+                    "description": ""
+                }
+            }
+        },
+        {
+            "title": "Tree Tops Elephant Reserve - Original Womens Hoodie",
+            "user_image_url": "https://www.dropbox.com/sh/2gbucjp2n6uhebt/AACyap9hrrmC0rqsmYqVEhm_a/Tree%20Tops%20Elephant%20Reserve%20-%20Original%20Womens%20Hoodie/OHH_W_JH001_TToriginal_WhiteP_Navy/Art_TTLogoM_WhiteP28cm-01.png?dl=0",
+            "products": {
+                "college_hoodie_uk": {
+                    "description": ""
+                }
+            }
+        },
+        {
+            "title": "Elephant Conservation - Perfect Womens Hoodie",
+            "user_image_url": "https://www.dropbox.com/sh/2gbucjp2n6uhebt/AAB_cteL-LibIAWwjfips9rQa/Elephant%20Conservation%20-%20Perfect%20Womens%20Hoodie/OHH_W_JH001_Conservation_GoldP_Navy/Art_Conservation_GoldP.png?dl=0",
+            "products": {
+                "college_hoodie_uk": {
+                    "description": ""
+                }
+            }
+        },
+        {
+            "title": "Elephant Conservation - Perfect Womens Hoodie",
+            "user_image_url": "https://www.dropbox.com/sh/2gbucjp2n6uhebt/AACQZ5IQtIko4LPl_TqrY4m5a/Elephant%20Conservation%20-%20Perfect%20Womens%20Hoodie/OHH_W_JH001_Conservation_OrangeP_Navy/Art_Conservation_BurntOrangeGradient%20%281%29.png?dl=0",
+            "products": {
+                "college_hoodie_uk": {
+                    "description": ""
+                }
+            }
+        },
+        {
+            "title": "Elephant Conservation - Perfect Womens Hoodie",
+            "user_image_url": "https://www.dropbox.com/sh/2gbucjp2n6uhebt/AAAYbyfke2sWckSp4MLX7U_Ja/Elephant%20Conservation%20-%20Perfect%20Womens%20Hoodie/OHH_W_JH001_Conservation_WhiteP_Navy/Art_Conservation_White.png?dl=0",
+            "products": {
+                "college_hoodie_uk": {
+                    "description": ""
+                }
+            }
+        }
+    ]
+}

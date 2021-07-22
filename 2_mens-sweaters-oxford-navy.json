@@ -1,0 +1,85 @@
+{
+    "product_range_defaults": {
+        "published": false
+    },
+    "product_defaults": {
+        "enabled": false
+    },
+    "products_defaults": {
+        "sweatshirt_uk": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false
+    },
+    "variants_defaults": {
+        "sweatshirt_uk/s,oxford_navy": {
+            "enabled": true,
+            "retail_price": 26
+        },
+        "sweatshirt_uk/m,oxford_navy": {
+            "enabled": true,
+            "retail_price": 26
+        },
+        "sweatshirt_uk/l,oxford_navy": {
+            "enabled": true,
+            "retail_price": 26
+        },
+        "sweatshirt_uk/xl,oxford_navy": {
+            "enabled": true,
+            "retail_price": 26
+        },
+        "sweatshirt_uk/2xl,oxford_navy": {
+            "enabled": true,
+            "retail_price": 26
+        }
+    },
+    "product_ranges": [
+        {
+            "title": "Tree Tops Elephant Reserve - Mens Logo Sweater",
+            "user_image_url": "https://www.dropbox.com/sh/2gbucjp2n6uhebt/AAD7ztilu5wz11VXQJaWnueQa/Tree%20Tops%20Elephant%20Reserve%20-%20Mens%20Retro%20Sweater/SWT_TTRetro_WhiteP_Navy/Art_TTRetro_White.png?dl=0",
+            "products": {
+                "sweatshirt_uk": {
+                    "description": ""
+                }
+            }
+        },
+        {
+            "title": "Tree Tops Elephant Reserve - Mens Retro Sweater",
+            "user_image_url": "https://www.dropbox.com/sh/2gbucjp2n6uhebt/AAD7ztilu5wz11VXQJaWnueQa/Tree%20Tops%20Elephant%20Reserve%20-%20Mens%20Retro%20Sweater/SWT_TTRetro_WhiteP_Navy/Art_TTRetro_White.png?dl=0",
+            "products": {
+                "sweatshirt_uk": {
+                    "description": ""
+                }
+            }
+        },
+        {
+            "title": "Official Elephant Logo - Mens Sweater",
+            "user_image_url": "https://www.dropbox.com/sh/2gbucjp2n6uhebt/AABqVTGXINYTstonbUEdX7qMa/Official%20Elephant%20Logo%20-%20Mens%20Sweater/SWT_OfficialLogo_WhiteP_Navy/Art_OfficialLogo_WhiteP.png?dl=0",
+            "products": {
+                "sweatshirt_uk": {
+                    "description": ""
+                }
+            }
+        },
+        {
+            "title": "Retro Elephant Logo - Mens Sweater",
+            "user_image_url": "https://www.dropbox.com/sh/2gbucjp2n6uhebt/AADvy1cAKMH2kBGvNudfac8Oa/Retro%20Elephant%20Logo%20-%20Mens%20Sweater/SWT_RetroSlogan_WhiteP_Navy/Art_Retro_White_Mens.png?dl=0",
+            "products": {
+                "sweatshirt_uk": {
+                    "description": ""
+                }
+            }
+        },
+        {
+            "title": "Elephant Tusker - Mens Sweater",
+            "user_image_url": "https://www.dropbox.com/sh/2gbucjp2n6uhebt/AABTHQl0lCsG-pgYsnWwqc1Fa/Elephant%20Tusker%20-%20Mens%20Sweater/SWT_ElephantTusker_WhiteP_Navy/Art_ElephantTusker_WhiteP.png?dl=0",
+            "products": {
+                "sweatshirt_uk": {
+                    "description": ""
+                }
+            }
+        }
+    ]
+}

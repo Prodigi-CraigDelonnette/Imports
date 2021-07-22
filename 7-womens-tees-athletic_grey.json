@@ -1,0 +1,130 @@
+{
+    "product_range_defaults": {
+        "published": false
+    },
+    "product_defaults": {
+        "enabled": false
+    },
+    "products_defaults": {
+        "bc6004_womens_tshirt_uk": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false
+    },
+    "variants_defaults": {
+        "bc6004_womens_tshirt_uk/s,athletic_grey": {
+            "enabled": true,
+            "retail_price": 20
+        },
+        "bc6004_womens_tshirt_uk/m,athletic_grey": {
+            "enabled": true,
+            "retail_price": 20
+        },
+        "bc6004_womens_tshirt_uk/l,athletic_grey": {
+            "enabled": true,
+            "retail_price": 20
+        },
+        "bc6004_womens_tshirt_uk/xl,athletic_grey": {
+            "enabled": true,
+            "retail_price": 20
+        },
+        "bc6004_womens_tshirt_uk/2xl,athletic_grey": {
+            "enabled": true,
+            "retail_price": 20
+        }
+    },
+    "product_ranges": [
+        {
+            "title": "Wild Paradise - Womens Perfect T-Shirt",
+            "user_image_url": "https://www.dropbox.com/sh/2gbucjp2n6uhebt/AADw6VLsHURwoebpHGazneH9a/Wild%20Paradise%20-%20Women%27s%20Perfect%20T-Shirt/Tee_BC_TW04T_WildParadise_BlackP_Grey/Art_WildParadise_BlackP.png?dl=0",
+            "products": {
+                "bc6004_womens_tshirt_uk": {
+                    "description": ""
+                }
+            }
+        },
+        {
+            "title": "Mother Baby Elephant - Perfect Womens T-Shirt",
+            "user_image_url": "https://www.dropbox.com/sh/2gbucjp2n6uhebt/AABT7z6YkAF6_uJX_e15Slt8a/Mother%20Baby%20Elephant%20-%20Perfect%20Womens%20T-Shirt/Tee_BC_TW04T_MotherBaby_BlkP_Grey/Art_MotherBaby_BlackP.png?dl=0",
+            "products": {
+                "bc6004_womens_tshirt_uk": {
+                    "description": ""
+                }
+            }
+        },
+        {
+            "title": "Elephant Dreams - Womens Perfect T-Shirt",
+            "user_image_url": "https://www.dropbox.com/sh/2gbucjp2n6uhebt/AAB7L35rKeyhpTx4vxh0iLsoa/Elephant%20Dreams%20-%20Women%27s%20Perfect%20T-Shirt/Tee_BC_TW04T_Dreams_BlackLimeWhiteP_Grey/Art_Dreams_BlackLimeWhiteP.png?dl=0",
+            "products": {
+                "bc6004_womens_tshirt_uk": {
+                    "description": ""
+                }
+            }
+        },
+        {
+            "title": "Elephant Dreams - Womens Perfect T-Shirt",
+            "user_image_url": "https://www.dropbox.com/sh/2gbucjp2n6uhebt/AAClGUgvlC5XhHRlVJVQPUWda/Elephant%20Dreams%20-%20Women%27s%20Perfect%20T-Shirt/Tee_BC_TW04T_Dreams_GreyWhiteP_Grey/Art_Dreams_GreyWhiteP.png?dl=0",
+            "products": {
+                "bc6004_womens_tshirt_uk": {
+                    "description": ""
+                }
+            }
+        },
+        {
+            "title": "I Love Elephants - Perfect Womens T-Shirt",
+            "user_image_url": "https://www.dropbox.com/sh/2gbucjp2n6uhebt/AAA-JnsYV9CZvEokau5dvAmSa/I%20Love%20Elephants%20-%20Perfect%20Womens%20%20T-Shirt/Tee_BC_TW04T_ILOVE_DGreyP_HGrey/Art_ILOVE_DGrey_22cm.png?dl=0",
+            "products": {
+                "bc6004_womens_tshirt_uk": {
+                    "description": ""
+                }
+            }
+        },
+        {
+            "title": "I Love Elephants - Perfect Womens T-Shirt",
+            "user_image_url": "https://www.dropbox.com/sh/2gbucjp2n6uhebt/AAD0HP4sR8z07ATyLjg7jWP3a/I%20Love%20Elephants%20-%20Perfect%20Womens%20%20T-Shirt/Tee_BC_TW04T_ILOVE_GreyCamoP_HGrey/Art_ILOVE_GreyCamo_22cm.png?dl=0",
+            "products": {
+                "bc6004_womens_tshirt_uk": {
+                    "description": ""
+                }
+            }
+        },
+        {
+            "title": "Elephant Stars - Womens Perfect T-Shirt",
+            "user_image_url": "https://www.dropbox.com/sh/2gbucjp2n6uhebt/AAAdfrgcssILaA8CUtlTWS9Xa/Elephant%20Stars%20-%20Womens%20Perfect%20T-Shirt/Tee_BC_TW04T_ElephantStar_Grey/Art_Stars_DGrey.png?dl=0",
+            "products": {
+                "bc6004_womens_tshirt_uk": {
+                    "description": ""
+                }
+            }
+        },
+        {
+            "title": "Official Elephant Logo - Womens Perfect T-Shirt",
+            "user_image_url": "https://www.dropbox.com/sh/2gbucjp2n6uhebt/AAA45qUn_qwigszl4dLICE5Sa/Official%20Elephant%20Logo%20-%20Womens%20Perfect%20T-Shirt/Tee_BC_TW04T_OfficialLogo_BlackP_Grey/Art_Official_logo_WblackP.png?dl=0",
+            "products": {
+                "bc6004_womens_tshirt_uk": {
+                    "description": ""
+                }
+            }
+        },
+        {
+            "title": "Womens Perfect T-Shirt - Elephant Conservation",
+            "user_image_url": "https://www.dropbox.com/sh/2gbucjp2n6uhebt/AADvZNDDbgpLBtoFXHgJ1gROa/Women%27s%20Perfect%20T-Shirt%20-%20Elephant%20Conservation/Tee_BC_TW04T_Conservation_DGreyP_Grey/Art_Conservation_DGrey.png?dl=0",
+            "products": {
+                "bc6004_womens_tshirt_uk": {
+                    "description": ""
+                }
+            }
+        },
+        {
+            "title": "Be Kind to Animals - Womens Perfect T-Shirt",
+            "user_image_url": "https://www.dropbox.com/sh/2gbucjp2n6uhebt/AADDEE9A89jm9LcuOGxpXe3Ba/Be%20Kind%20To%20Animals%20-%20Womens%20Perfect%20T-Shirt/Tee_BC_TW04T_BeKind_BlackP_Grey/Art_Bekind_DgreyP.png?dl=0",
+            "products": {
+                "bc6004_womens_tshirt_uk": {
+                    "description": ""
+                }
+            }
+        }
+    ]
+}

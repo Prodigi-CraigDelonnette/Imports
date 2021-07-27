@@ -1,0 +1,314 @@
+{
+    "product_range_defaults": {
+        "published": false
+    },
+    "product_defaults": {
+        "enabled": false
+    },
+    "products_defaults": {
+        "global-cfp/*,white_frame": {
+            "enabled": true
+        },
+        "global-fap": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false,
+        "images": {
+            "front": {
+                "image_arguments": {
+                    "border": "0.5CM"
+                }
+            }
+        }
+    },
+    "variants_defaults": {
+        "GLOBAL-FAP-A3-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 30.00
+        },
+        "GLOBAL-CFP-A3-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 55.00
+        }
+    },
+    "product_ranges": [
+        {
+            "title": "LSA3 - Vintage Style Seaside Travel Poster by Joanne Short of Port Isaac in Cornwall",
+            "user_image_url": "https://www.dropbox.com/s/b1yq708ngl7ghgi/Port%20Isaac.jpg?dl=0",
+            "products": {
+                "GLOBAL-FAP-A3-LANDSCAPE": {
+                    "description": " "
+                },
+                "GLOBAL-CFP-A3-LANDSCAPE": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "LSA3 - Vintage Style Seaside Travel Poster by Joanne Short of Porthleven Harbour in Cornwall",
+            "user_image_url": "https://www.dropbox.com/s/5bt4t7z2s5zpn9c/porthleven.jpg?dl=0",
+            "products": {
+                "GLOBAL-FAP-A3-LANDSCAPE": {
+                    "description": " "
+                },
+                "GLOBAL-CFP-A3-LANDSCAPE": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "LSA3 - Vintage Style Travel Poster by Joanne Short. Illustrated Map of Somerset",
+            "user_image_url": "https://www.dropbox.com/s/oq2k6jtx9d7hhji/Visit%20Somerset%20Map.jpg?dl=0",
+            "products": {
+                "GLOBAL-FAP-A3-LANDSCAPE": {
+                    "description": " "
+                },
+                "GLOBAL-CFP-A3-LANDSCAPE": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "LSA3 - Vintage Style Seaside Travel Poster by John Dyer. Saucy Seaside Gyllyngvase Beach Cornwall",
+            "user_image_url": "https://www.dropbox.com/s/34x6nuv77gv152j/BeachyTreats.jpg?dl=0",
+            "products": {
+                "GLOBAL-FAP-A3-LANDSCAPE": {
+                    "description": " "
+                },
+                "GLOBAL-CFP-A3-LANDSCAPE": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "LSA3 - Vintage Style Seaside Travel Poster by John Dyer. Cadgwith Cornwall",
+            "user_image_url": "https://www.dropbox.com/s/p8050a5udwi85j2/Cadgwith.jpg?dl=0",
+            "products": {
+                "GLOBAL-FAP-A3-LANDSCAPE": {
+                    "description": " "
+                },
+                "GLOBAL-CFP-A3-LANDSCAPE": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "LSA3 - Vintage Style Travel Art Poster The Lost Gardens of Heligan. Italian Garden",
+            "user_image_url": "https://www.dropbox.com/s/kqvwrt9xt8zxkan/Heligan%20Italian%20Garden.jpg?dl=0",
+            "products": {
+                "GLOBAL-FAP-A3-LANDSCAPE": {
+                    "description": " "
+                },
+                "GLOBAL-CFP-A3-LANDSCAPE": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "LSA3 - Vintage Style Travel Art Poster The Lost Gardens of Heligan. Jungle",
+            "user_image_url": "https://www.dropbox.com/s/xw18sbhvrjdobo6/Heligan%20Jungle%20Garden.jpg?dl=0",
+            "products": {
+                "GLOBAL-FAP-A3-LANDSCAPE": {
+                    "description": " "
+                },
+                "GLOBAL-CFP-A3-LANDSCAPE": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "LSA3 - Vintage Style Travel Art Poster The Lost Gardens of Heligan. Lemons",
+            "user_image_url": "https://www.dropbox.com/s/5q561538gjtvbl5/Heligan%20Lemons.jpg?dl=0",
+            "products": {
+                "GLOBAL-FAP-A3-LANDSCAPE": {
+                    "description": " "
+                },
+                "GLOBAL-CFP-A3-LANDSCAPE": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "LSA3 - Vintage Style Travel Art Poster Lost Gardens of Heligan Rows of People",
+            "user_image_url": "https://www.dropbox.com/s/mxsaepf44sxlrif/Heligan%20Rows%20people.jpg?dl=0",
+            "products": {
+                "GLOBAL-FAP-A3-LANDSCAPE": {
+                    "description": " "
+                },
+                "GLOBAL-CFP-A3-LANDSCAPE": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "LSA3 - Vintage Style Travel Art Poster The Lost Gardens of Heligan. Love Jungle",
+            "user_image_url": "https://www.dropbox.com/s/3vqdi0aiv896dsg/Heligan%20Secret%20Jungle%20Garden.jpg?dl=0",
+            "products": {
+                "GLOBAL-FAP-A3-LANDSCAPE": {
+                    "description": " "
+                },
+                "GLOBAL-CFP-A3-LANDSCAPE": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "LSA3 - Vintage Style Travel Art Poster The Lost Gardens of Heligan. Night Jungle",
+            "user_image_url": "https://www.dropbox.com/s/rtdnqh9a9sx12ci/Heligan%20Secret%20Night%20Jungle.jpg?dl=0",
+            "products": {
+                "GLOBAL-FAP-A3-LANDSCAPE": {
+                    "description": " "
+                },
+                "GLOBAL-CFP-A3-LANDSCAPE": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "LSA3 - Vintage Style Seaside Travel Poster by John Dyer. Mother Ivey's Bay Cornwall",
+            "user_image_url": "https://www.dropbox.com/s/tev1nqykgrtch5f/Mother%20Ivey%27s%20Bay.jpg?dl=0",
+            "products": {
+                "GLOBAL-FAP-A3-LANDSCAPE": {
+                    "description": " "
+                },
+                "GLOBAL-CFP-A3-LANDSCAPE": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "LSA3 - Vintage Style Seaside Travel Poster by John Dyer. Portloe Cornwall",
+            "user_image_url": "https://www.dropbox.com/s/ea2v1a4pc29nclb/PortLoe.jpg?dl=0",
+            "products": {
+                "GLOBAL-FAP-A3-LANDSCAPE": {
+                    "description": " "
+                },
+                "GLOBAL-CFP-A3-LANDSCAPE": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "LSA3 - Poster of Rasteau by John Dyer. A Night of Shooting Stars, Grape Harvest, Rasteau, Provence.",
+            "user_image_url": "https://www.dropbox.com/s/me708icfn19t84p/A2%20A%20Night%20of%20Shooting%20Stars%2C%20Rasteau.jpg?dl=0",
+            "products": {
+                "GLOBAL-FAP-A3-LANDSCAPE": {
+                    "description": " "
+                },
+                "GLOBAL-CFP-A3-LANDSCAPE": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "LSA3 - Poster of Seguret by John Dyer. Autumn Grasses and Stripy Vineyards",
+            "user_image_url": "https://www.dropbox.com/s/x1sh9ln547j9eh1/A2%20Autumn%20Grasses%20and%20Stripy%20Vineyards%2C%20Seguret.jpg?dl=0",
+            "products": {
+                "GLOBAL-FAP-A3-LANDSCAPE": {
+                    "description": " "
+                },
+                "GLOBAL-CFP-A3-LANDSCAPE": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "LSA3 - Poster of Cairanne, Provence by John Dyer. Flowers for Honey, Cairanne",
+            "user_image_url": "https://www.dropbox.com/s/tdt18whunoy74t4/A2%20Flowers%20for%20Honey%2C%20Cairanne.jpg?dl=0",
+            "products": {
+                "GLOBAL-FAP-A3-LANDSCAPE": {
+                    "description": " "
+                },
+                "GLOBAL-CFP-A3-LANDSCAPE": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "LSA3 - John Dyer Art Poster Print. Gallery Monaco Range. It is Very Nice in Nice, France",
+            "user_image_url": "https://www.dropbox.com/s/rp33kb87wi9px6z/A2%20It%27s%20very%20Nice%20in%20Nice.jpg?dl=0",
+            "products": {
+                "GLOBAL-FAP-A3-LANDSCAPE": {
+                    "description": " "
+                },
+                "GLOBAL-CFP-A3-LANDSCAPE": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "LSA3 - Poster of Lavender Garden, Rasteau, Provence by John Dyer",
+            "user_image_url": "https://www.dropbox.com/s/l9j9iwr6pah844s/A2%20Lavender%20Garden%2C%20Provence.jpg?dl=0",
+            "products": {
+                "GLOBAL-FAP-A3-LANDSCAPE": {
+                    "description": " "
+                },
+                "GLOBAL-CFP-A3-LANDSCAPE": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "LSA3 - John Dyer Art Poster Print. Gallery Monaco Range. Love under an Italian Moon, Giardini Hanbury, Italy",
+            "user_image_url": "https://www.dropbox.com/s/kk6pm60wqqknbih/A2%20Love%20under%20an%20Italian%20Moon%2C%20Giardini%20Hanbury.jpg?dl=0",
+            "products": {
+                "GLOBAL-FAP-A3-LANDSCAPE": {
+                    "description": " "
+                },
+                "GLOBAL-CFP-A3-LANDSCAPE": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "LSA3 - Poster of Faucon Village, Provence by John Dyer. Patterned Hillside and pencil Pines",
+            "user_image_url": "https://www.dropbox.com/s/ba268fsgg521kno/A2%20Patterned%20Hillside%20and%20Pencil%20Pines%2C%20Faucon.jpg?dl=0",
+            "products": {
+                "GLOBAL-FAP-A3-LANDSCAPE": {
+                    "description": " "
+                },
+                "GLOBAL-CFP-A3-LANDSCAPE": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "LSA3 - Art Poster Springtime Cherry Pickers, Nyons, Provence by John Dyer",
+            "user_image_url": "https://www.dropbox.com/s/ir85z109h5iom4e/A2%20Springtime%20cherry%20Pickers%2C%20Nyons.jpg?dl=0",
+            "products": {
+                "GLOBAL-FAP-A3-LANDSCAPE": {
+                    "description": " "
+                },
+                "GLOBAL-CFP-A3-LANDSCAPE": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "LSA3 - Poster Rasteau, by John Dyer. Twinkling Stars over the Sleeping Valley",
+            "user_image_url": "https://www.dropbox.com/s/y7tj036bbxbrddg/A2%20Stars%20Twinklig%20over%20the%20Sleeping%20Valley%2C%20Rasteau.jpg?dl=0",
+            "products": {
+                "GLOBAL-FAP-A3-LANDSCAPE": {
+                    "description": " "
+                },
+                "GLOBAL-CFP-A3-LANDSCAPE": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "LSA3 - Art Poster. Rasteau. The Sun sets over the New Vines, Rasteau, Provence by John Dyer",
+            "user_image_url": "https://www.dropbox.com/s/szktwtv3mqhavae/A2%20The%20Sun%20Sets%20over%20the%20New%20Vines%2C%20Rasteau.jpg?dl=0",
+            "products": {
+                "GLOBAL-FAP-A3-LANDSCAPE": {
+                    "description": " "
+                },
+                "GLOBAL-CFP-A3-LANDSCAPE": {
+                    "description": " "
+                }
+            }
+        }
+    ]
+}

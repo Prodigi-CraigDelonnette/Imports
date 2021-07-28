@@ -24,7 +24,7 @@
         }
     },
     "variants_defaults": {
-        "global-cfp/*,white_frame": {
+        "global-cfp/40x28,white_frame": {
             "enabled": true
         },
         "GLOBAL-FAP-28x40-LANDSCAPE": {

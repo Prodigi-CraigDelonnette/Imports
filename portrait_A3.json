@@ -24,7 +24,7 @@
         }
     },
     "variants_defaults": {
-        "global-cfp/*,white_frame": {
+        "global-cfp/a3_portrait,white_frame": {
             "enabled": true
         },
         "GLOBAL-FAP-A3-PORTRAIT": {

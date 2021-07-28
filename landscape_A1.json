@@ -6,7 +6,7 @@
         "enabled": false
     },
     "products_defaults": {
-        "global-cfp/*,white_frame": {
+        "global-cfp": {
             "enabled": true
         },
         "global-fap": {
@@ -18,12 +18,15 @@
         "images": {
             "front": {
                 "image_arguments": {
-                    "border": "0.75CM"
+                    "border": "0.75cm"
                 }
             }
         }
     },
     "variants_defaults": {
+        "global-cfp/*,white_frame": {
+            "enabled": true
+        },
         "GLOBAL-FAP-A1-LANDSCAPE": {
             "enabled": true,
             "retail_price": 80.00

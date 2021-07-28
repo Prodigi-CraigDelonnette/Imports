@@ -24,7 +24,7 @@
         }
     },
     "variants_defaults": {
-        "global-cfp/*,white_frame": {
+        "global-cfp/28x40,white_frame": {
             "enabled": true
         },
         "GLOBAL-FAP-28x40-PORTRAIT": {

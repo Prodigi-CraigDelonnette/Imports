@@ -1,0 +1,158 @@
+{
+    "product_range_defaults": {
+        "published": true
+    },
+    "product_defaults": {
+        "enabled": false
+    },
+    "products_defaults": {
+        "global-cfp": {
+            "enabled": true
+        },
+        "global-fap": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false,
+        "images": {
+            "front": {
+                "image_arguments": {
+                    "border": "1in"
+                }
+            }
+        }
+    },
+    "variants_defaults": {
+        "GLOBAL-CFP-6x8-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 35.00
+        },
+        "GLOBAL-CFP-12x16-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 65.00
+        },
+        "GLOBAL-CFP-18x24-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 95.00
+        },
+        "GLOBAL-CFP-24x32-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 125.00
+        },
+        "GLOBAL-FAP-6x8-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 20.00
+        },
+        "GLOBAL-FAP-12x16-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 40.00
+        },
+        "GLOBAL-FAP-18x24-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 60.00
+        },
+        "GLOBAL-FAP-24x32-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 80.00
+        }
+    },
+    "product_ranges": [
+        {
+            "title": "Ben Hickey | Sailing",
+            "user_image_url": "https://www.dropbox.com/s/xau1e5db98qodcj/Sailing_BenHickey.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "New import"
+                },
+                "global-fap": {
+                    "description": "New import"
+                }
+            }
+        },
+        {
+            "title": "Cristina Spano | Formi",
+            "user_image_url": "https://www.dropbox.com/s/90q9rds6312r3cd/Fourmi.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "New import"
+                },
+                "global-fap": {
+                    "description": "New import"
+                }
+            }
+        },
+        {
+            "title": "Fuchsia MacAree | Lazy Days",
+            "user_image_url": "https://www.dropbox.com/s/5104lndurl13zbd/Fuchsia_RoomFifty10_LazyDays.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "New import"
+                },
+                "global-fap": {
+                    "description": "New import"
+                }
+            }
+        },
+        {
+            "title": "Katy Daft | Queue",
+            "user_image_url": "https://www.dropbox.com/s/39601hvbc828ecd/ROOM%20FIFTY%203c.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "New import"
+                },
+                "global-fap": {
+                    "description": "New import"
+                }
+            }
+        },
+        {
+            "title": "Molly Fairhurst | Lion",
+            "user_image_url": "https://www.dropbox.com/s/ccn36vfsv7tll58/molly%20fairhurst%20room%20fifty%20lion.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "New import"
+                },
+                "global-fap": {
+                    "description": "New import"
+                }
+            }
+        },
+        {
+            "title": "Peter Greenwood | Concorde",
+            "user_image_url": "https://www.dropbox.com/s/1prhsv25ivrrfi1/Concorde1976.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "New import"
+                },
+                "global-fap": {
+                    "description": "New import"
+                }
+            }
+        },
+        {
+            "title": "Stanley Galton | Bowling Alley",
+            "user_image_url": "https://www.dropbox.com/s/4v09hkiy35tgfop/IntoartSG.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "New import"
+                },
+                "global-fap": {
+                    "description": "New import"
+                }
+            }
+        },
+        {
+            "title": "Uduehi Imienwanrin",
+            "user_image_url": "https://www.dropbox.com/s/9c9rdjpen2xyzba/IntoartUI.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "New import"
+                },
+                "global-fap": {
+                    "description": "New import"
+                }
+            }
+        }
+    ]
+}

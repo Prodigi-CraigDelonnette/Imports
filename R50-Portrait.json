@@ -1,0 +1,458 @@
+{
+    "product_range_defaults": {
+        "published": true
+    },
+    "product_defaults": {
+        "enabled": false
+    },
+    "products_defaults": {
+        "global-cfp": {
+            "enabled": true
+        },
+        "global-fap": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false,
+        "images": {
+            "front": {
+                "image_arguments": {
+                    "border": "1in"
+                }
+            }
+        }
+    },
+    "variants_defaults": {
+        "GLOBAL-CFP-6x8-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 35.00
+        },
+        "GLOBAL-CFP-12x16-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 65.00
+        },
+        "GLOBAL-CFP-18x24-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 95.00
+        },
+        "GLOBAL-CFP-24x32-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 125.00
+        },
+        "GLOBAL-FAP-6x8-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 20.00
+        },
+        "GLOBAL-FAP-12x16-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 40.00
+        },
+        "GLOBAL-FAP-18x24-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 60.00
+        },
+        "GLOBAL-FAP-24x32-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 80.00
+        }
+    },
+    "product_ranges": [
+        {
+            "title": "Amrita Marino",
+            "user_image_url": "https://www.dropbox.com/s/uz4itdkw1w3ul9j/AM-RoomFifty-Season10-Poster.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "New import"
+                },
+                "global-fap": {
+                    "description": "New import"
+                }
+            }
+        },
+        {
+            "title": "Asia Pietrzyk | Peaceful",
+            "user_image_url": "https://www.dropbox.com/s/r5lk4veg18vvy3a/Asia-Pietrzyk_print4.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "New import"
+                },
+                "global-fap": {
+                    "description": "New import"
+                }
+            }
+        },
+        {
+            "title": "Benedikt Luft",
+            "user_image_url": "https://www.dropbox.com/s/zjycrk0elbidl8j/RoomFifty_Benedikt%20Luft%2002%20copy.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "New import"
+                },
+                "global-fap": {
+                    "description": "New import"
+                }
+            }
+        },
+        {
+            "title": "Cathal Duane | Distracted",
+            "user_image_url": "https://www.dropbox.com/s/8vyrq8ilzlk22j7/Distracted_Cathal%20Duane.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "New import"
+                },
+                "global-fap": {
+                    "description": "New import"
+                }
+            }
+        },
+        {
+            "title": "Charlotte Dumortier | Fishes",
+            "user_image_url": "https://www.dropbox.com/s/b4v0ofoffwx5v9u/RoomFifty%20-%20fishes%20-%20Charlotte%20Dumortier.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "New import"
+                },
+                "global-fap": {
+                    "description": "New import"
+                }
+            }
+        },
+        {
+            "title": "Chris Clarke | PAUSE",
+            "user_image_url": "https://www.dropbox.com/s/4ft9o4pm9oqqby2/ChrisClarke_Pause.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "New import"
+                },
+                "global-fap": {
+                    "description": "New import"
+                }
+            }
+        },
+        {
+            "title": "Christian Ovonlen | Roses and Forsythia",
+            "user_image_url": "https://www.dropbox.com/s/qookl03909391ih/IntoartCO.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "New import"
+                },
+                "global-fap": {
+                    "description": "New import"
+                }
+            }
+        },
+        {
+            "title": "Cristian Iacob | Self-fulfilling prophecy",
+            "user_image_url": "https://www.dropbox.com/s/f8csmj7d7s3a4b1/cicb_roomfifty_season10.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "New import"
+                },
+                "global-fap": {
+                    "description": "New import"
+                }
+            }
+        },
+        {
+            "title": "David Vanadia | Good Face",
+            "user_image_url": "https://www.dropbox.com/s/7y3llgvs9bhfnwx/Good_Face%20_Vanadia.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "New import"
+                },
+                "global-fap": {
+                    "description": "New import"
+                }
+            }
+        },
+        {
+            "title": "Eleonora Marton | Hey You Whats New",
+            "user_image_url": "https://www.dropbox.com/s/qpkkjnjinv15aar/EleonoraMarton-hey-you-whats-new.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "New import"
+                },
+                "global-fap": {
+                    "description": "New import"
+                }
+            }
+        },
+        {
+            "title": "Fernando Cobelo | Love your neighborhood",
+            "user_image_url": "https://www.dropbox.com/s/6s4h7qu1kxkfvr5/season%2010.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "New import"
+                },
+                "global-fap": {
+                    "description": "New import"
+                }
+            }
+        },
+        {
+            "title": "Francesco Ciccolella | Bad Vöslau",
+            "user_image_url": "https://www.dropbox.com/s/aym16qldu4kjetb/210714_FCiccolella_RoomFifty_Season10-Bad%20V%C3%B6slau.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "New import"
+                },
+                "global-fap": {
+                    "description": "New import"
+                }
+            }
+        },
+        {
+            "title": "Gizem Vural | The Big Bad Clock",
+            "user_image_url": "https://www.dropbox.com/s/scw2colurl85p32/TheBigBadClock_32x24.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "New import"
+                },
+                "global-fap": {
+                    "description": "New import"
+                }
+            }
+        },
+        {
+            "title": "Greg Clarke | Bauwauhaus",
+            "user_image_url": "https://www.dropbox.com/s/9rhe5kmrcteychr/bauwauhaus%20poster_ivory.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "New import"
+                },
+                "global-fap": {
+                    "description": "New import"
+                }
+            }
+        },
+        {
+            "title": "Jan Buchczik | Wheeling Along",
+            "user_image_url": "https://www.dropbox.com/s/apvb8olaj7b1adm/JanBuchczik_WheelingAlong_RoomFifty%20%281%29.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "New import"
+                },
+                "global-fap": {
+                    "description": "New import"
+                }
+            }
+        },
+        {
+            "title": "Jango Jim | Slow Chill",
+            "user_image_url": "https://www.dropbox.com/s/4fnqnhjnqn71kfg/SLOW%20CHILL_24x32_by%20jangojim.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "New import"
+                },
+                "global-fap": {
+                    "description": "New import"
+                }
+            }
+        },
+        {
+            "title": "Jasper Van Gestel | Abundance",
+            "user_image_url": "https://www.dropbox.com/s/uu5uokegs6yoyzj/ROOMFIFTY_SEASON10_jaspervangestel_ABUNDANCE.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "New import"
+                },
+                "global-fap": {
+                    "description": "New import"
+                }
+            }
+        },
+        {
+            "title": "Ji Hyun Yu | On Vacation",
+            "user_image_url": "https://www.dropbox.com/s/jrfx0betbqps8wy/Ji%20Hyun%20Yu_Roomfifty10.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "New import"
+                },
+                "global-fap": {
+                    "description": "New import"
+                }
+            }
+        },
+        {
+            "title": "Joe Gamble | Close Up",
+            "user_image_url": "https://www.dropbox.com/s/ag3q8pv5pfyxfrg/Close%20Up_Joegamble%20copy.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "New import"
+                },
+                "global-fap": {
+                    "description": "New import"
+                }
+            }
+        },
+        {
+            "title": "John Bond",
+            "user_image_url": "https://www.dropbox.com/s/3hoqapmxo8xeij8/JohnBond_S10_Artwork_PRINT.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "New import"
+                },
+                "global-fap": {
+                    "description": "New import"
+                }
+            }
+        },
+        {
+            "title": "Marcellus Hall | Skatepark",
+            "user_image_url": "https://www.dropbox.com/s/39601hvbc828ecd/ROOM%20FIFTY%203c.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "New import"
+                },
+                "global-fap": {
+                    "description": "New import"
+                }
+            }
+        },
+        {
+            "title": "Murugiah | Good Vibes",
+            "user_image_url": "https://www.dropbox.com/s/4zftn355yn3thsm/Good-Vibes_Murugiah_Room-Fifty-S10_web.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "New import"
+                },
+                "global-fap": {
+                    "description": "New import"
+                }
+            }
+        },
+        {
+            "title": "Nancy Clayton | The Man Looking Up at the Moon",
+            "user_image_url": "https://www.dropbox.com/s/s21r5mpo3v5h6fo/IntoartNC.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "New import"
+                },
+                "global-fap": {
+                    "description": "New import"
+                }
+            }
+        },
+        {
+            "title": "Nishant Choksi",
+            "user_image_url": "https://www.dropbox.com/s/r9810gpz663iqpa/nishant_choksi_24x32.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "New import"
+                },
+                "global-fap": {
+                    "description": "New import"
+                }
+            }
+        },
+        {
+            "title": "Pavel Popov | In My Shoes",
+            "user_image_url": "https://www.dropbox.com/s/y43d3e216ekefqx/IN%20MY%20SHOES_PAVEL%20POPOV_ROOM%20FIFTY%20SEASON%2010.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "New import"
+                },
+                "global-fap": {
+                    "description": "New import"
+                }
+            }
+        },
+        {
+            "title": "Philomena Powell | Tiger Beetle",
+            "user_image_url": "https://www.dropbox.com/s/qxmxynbeyg5kwuj/IntoartPP.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "New import"
+                },
+                "global-fap": {
+                    "description": "New import"
+                }
+            }
+        },
+        {
+            "title": "Roberto Blefari | Show Your Colours",
+            "user_image_url": "https://www.dropbox.com/s/sdqramnlfn19kd0/hikimi_show-your-colours.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "New import"
+                },
+                "global-fap": {
+                    "description": "New import"
+                }
+            }
+        },
+        {
+            "title": "Roisin O’Donnell | Summer Friends",
+            "user_image_url": "https://www.dropbox.com/s/zmuqzwntkb5r8so/stevenfritters-summerfriends.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "New import"
+                },
+                "global-fap": {
+                    "description": "New import"
+                }
+            }
+        },
+        {
+            "title": "Ryan Gillett | Take Me To Your Leader",
+            "user_image_url": "https://www.dropbox.com/s/l41ezkeaiw4ps50/TAKEMETOYOURLEADER.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "New import"
+                },
+                "global-fap": {
+                    "description": "New import"
+                }
+            }
+        },
+        {
+            "title": "Sergiy Maidukov",
+            "user_image_url": "https://www.dropbox.com/s/s0j4l2tbnsad0dj/room50_10_HR_sergiy_maidukov.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "New import"
+                },
+                "global-fap": {
+                    "description": "New import"
+                }
+            }
+        },
+        {
+            "title": "Suzanna Hubbard",
+            "user_image_url": "https://www.dropbox.com/s/y286cuvg62jahuh/room50_1.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "New import"
+                },
+                "global-fap": {
+                    "description": "New import"
+                }
+            }
+        },
+        {
+            "title": "Tomekah George | Summer Fruits",
+            "user_image_url": "https://www.dropbox.com/s/q9p6k1sjs0y1fzp/RoomFifty_10_Summer%20Fruits.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "New import"
+                },
+                "global-fap": {
+                    "description": "New import"
+                }
+            }
+        },
+        {
+            "title": "Wei Hsuan | Home",
+            "user_image_url": "https://www.dropbox.com/s/vw29ej1f2tazcko/RoomFifty10_HOME_Wei%20Hsuan_print.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "New import"
+                },
+                "global-fap": {
+                    "description": "New import"
+                }
+            }
+        }
+    ]
+}

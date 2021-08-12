@@ -105,43 +105,43 @@
                 }
             }
         },
-        "product_ranges": [
-            {
-                "title": "NEW - Ben Hickey | Sailing",
-                "user_image_url": "https://www.dropbox.com/s/xau1e5db98qodcj/Sailing_BenHickey.jpg?dl=0",
-                "products": {
-                    "global-cfp": {
-                        "description": "New import"
-                    },
-                    "global-fap": {
-                        "description": "New import"
-                    }
-                }
-            },
-            {
-                "title": "NEW - Cristina Spano | Formi",
-                "user_image_url": "https://www.dropbox.com/s/90q9rds6312r3cd/Fourmi.jpg?dl=0",
-                "products": {
-                    "global-cfp": {
-                        "description": "New import"
-                    },
-                    "global-fap": {
-                        "description": "New import"
-                    }
-                }
-            },
-            {
-                "title": "NEW - Uduehi Imienwanrin",
-                "user_image_url": "https://www.dropbox.com/s/9c9rdjpen2xyzba/IntoartUI.jpg?dl=0",
-                "products": {
-                    "global-cfp": {
-                        "description": "New import"
-                    },
-                    "global-fap": {
-                        "description": "New import"
-                    }
+    },
+    "product_ranges": [
+        {
+            "title": "NEW - Ben Hickey | Sailing",
+            "user_image_url": "https://www.dropbox.com/s/xau1e5db98qodcj/Sailing_BenHickey.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "New import"
+                },
+                "global-fap": {
+                    "description": "New import"
                 }
             }
-        ]
-    }
+        },
+        {
+            "title": "NEW - Cristina Spano | Formi",
+            "user_image_url": "https://www.dropbox.com/s/90q9rds6312r3cd/Fourmi.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "New import"
+                },
+                "global-fap": {
+                    "description": "New import"
+                }
+            }
+        },
+        {
+            "title": "NEW - Uduehi Imienwanrin",
+            "user_image_url": "https://www.dropbox.com/s/9c9rdjpen2xyzba/IntoartUI.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "New import"
+                },
+                "global-fap": {
+                    "description": "New import"
+                }
+            }
+        }
+    ]
 }

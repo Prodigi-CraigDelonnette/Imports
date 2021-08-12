@@ -22,72 +22,88 @@
             "retail_price": 35.00,
             "images": {
                 "front": {
-                "image_arguments": {
-                    "border": "1in"
+                    "image_arguments": {
+                        "border": "1in"
+                    }
                 }
+            }
         },
         "GLOBAL-CFP-12x16-LANDSCAPE": {
             "enabled": true,
             "retail_price": 65.00,
             "images": {
                 "front": {
-                "image_arguments": {
-                    "scale": "0.9"
+                    "image_arguments": {
+                        "scale": "0.9"
+                    }
                 }
+            }
         },
         "GLOBAL-CFP-18x24-LANDSCAPE": {
             "enabled": true,
             "retail_price": 95.00,
             "images": {
                 "front": {
-                "image_arguments": {
-                    "scale": "0.9"
+                    "image_arguments": {
+                        "scale": "0.9"
+                    }
                 }
+            }
         },
         "GLOBAL-CFP-24x32-LANDSCAPE": {
             "enabled": true,
             "retail_price": 125.00,
             "images": {
                 "front": {
-                "image_arguments": {
-                    "scale": "0.9"
+                    "image_arguments": {
+                        "scale": "0.9"
+                    }
                 }
+            }
         },
         "GLOBAL-FAP-6x8-LANDSCAPE": {
             "enabled": true,
             "retail_price": 20.00,
             "images": {
                 "front": {
-                "image_arguments": {
-                    "border": "1in"
+                    "image_arguments": {
+                        "border": "1in"
+                    }
                 }
+            }
         },
         "GLOBAL-FAP-12x16-LANDSCAPE": {
             "enabled": true,
             "retail_price": 40.00,
             "images": {
                 "front": {
-                "image_arguments": {
-                    "scale": "0.9"
+                    "image_arguments": {
+                        "scale": "0.9"
+                    }
                 }
+            }
         },
         "GLOBAL-FAP-18x24-LANDSCAPE": {
             "enabled": true,
             "retail_price": 60.00,
             "images": {
                 "front": {
-                "image_arguments": {
-                    "scale": "0.9"
+                    "image_arguments": {
+                        "scale": "0.9"
+                    }
                 }
+            }
         },
         "GLOBAL-FAP-24x32-LANDSCAPE": {
             "enabled": true,
             "retail_price": 80.00,
             "images": {
                 "front": {
-                "image_arguments": {
-                    "scale": "0.9"
+                    "image_arguments": {
+                        "scale": "0.9"
+                    }
                 }
+            }
         }
     },
     "product_ranges": [

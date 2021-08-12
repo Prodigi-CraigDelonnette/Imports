@@ -1,6 +1,6 @@
 {
     "product_range_defaults": {
-        "published": true
+        "published": false
     },
     "product_defaults": {
         "enabled": false

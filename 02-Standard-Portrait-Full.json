@@ -1,0 +1,41 @@
+{
+    "product_range_defaults": {
+        "published": true
+    },
+    "product_defaults": {
+        "enabled": false
+    },
+    "products_defaults": {
+        "global-fap": {
+            "enabled": true
+        },
+        "global-cfp": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false
+    },
+    "variants_defaults": {
+        "GLOBAL-FAP-12x16-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 48
+        },
+        "GLOBAL-CFP-12x16-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 73
+        }
+    },
+    "product_ranges": [
+        {
+            "title": "Michamvi",
+            "description": "Edition of 100. Archival film photographs by Fa Somers,  Amsterdam-based independent photographer. Postcard sized photographs engulfed by a minimalistic nude border reminiscent of holidays of yesteryear. With no clear indication of the date nor time these images were taken, void of context this series could exist in any decade over the past 100 years. Printed on museum quality fine art paper.",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1BlvTUjCoPvp877hnGIgpz9lz_Vp9H1EE"
+        },
+        {
+            "title": "Paje",
+            "description": "Edition of 100. Archival film photographs by Fa Somers,  Amsterdam-based independent photographer. Postcard sized photographs engulfed by a minimalistic nude border reminiscent of holidays of yesteryear. With no clear indication of the date nor time these images were taken, void of context this series could exist in any decade over the past 100 years. Printed on museum quality fine art paper.",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1RYlh_MqUcBQc2ZUtsj0wK0kBNjGDfTFN"
+        }
+    ]
+}

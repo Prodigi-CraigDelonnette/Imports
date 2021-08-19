@@ -1,0 +1,81 @@
+{
+    "product_range_defaults": {
+        "published": true
+    },
+    "product_defaults": {
+        "enabled": false
+    },
+    "products_defaults": {
+        "global-fap": {
+            "enabled": true
+        },
+        "global-cfp": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false
+    },
+    "variants_defaults": {
+        "GLOBAL-FAP-12x16-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 48
+        },
+        "GLOBAL-CFP-12x16-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 73
+        }
+    },
+    "product_ranges": [
+        {
+            "title": "Clifton",
+            "description": "Edition of 100. Archival film photographs by Fa Somers,  Amsterdam-based independent photographer. Postcard sized photographs engulfed by a minimalistic nude border reminiscent of holidays of yesteryear. With no clear indication of the date nor time these images were taken, void of context this series could exist in any decade over the past 100 years. Printed on museum quality fine art paper.",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1c4NGU9lv37RsFJyS9te44O00UYN32sV-"
+        },
+        {
+            "title": "Costeno",
+            "description": "Edition of 100. Archival film photographs by Fa Somers,  Amsterdam-based independent photographer. Postcard sized photographs engulfed by a minimalistic nude border reminiscent of holidays of yesteryear. With no clear indication of the date nor time these images were taken, void of context this series could exist in any decade over the past 100 years. Printed on museum quality fine art paper.",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1Oo11W9Qhs654x5bBbkAAg8Mzvk8Dm3Yj"
+        },
+        {
+            "title": "Dongwe",
+            "description": "Edition of 100. Archival film photographs by Fa Somers,  Amsterdam-based independent photographer. Postcard sized photographs engulfed by a minimalistic nude border reminiscent of holidays of yesteryear. With no clear indication of the date nor time these images were taken, void of context this series could exist in any decade over the past 100 years. Printed on museum quality fine art paper.",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1_ll1eByndeyw7zR_lbLSYAUrsayBUK1Y"
+        },
+        {
+            "title": "Guachaca",
+            "description": "Edition of 100. Archival film photographs by Fa Somers,  Amsterdam-based independent photographer. Postcard sized photographs engulfed by a minimalistic nude border reminiscent of holidays of yesteryear. With no clear indication of the date nor time these images were taken, void of context this series could exist in any decade over the past 100 years. Printed on museum quality fine art paper.",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1aCW04fhWpubcUWGaRJBARFlkgTRvz7CF"
+        },
+        {
+            "title": "Kampsbaai",
+            "description": "Edition of 100. Archival film photographs by Fa Somers,  Amsterdam-based independent photographer. Postcard sized photographs engulfed by a minimalistic nude border reminiscent of holidays of yesteryear. With no clear indication of the date nor time these images were taken, void of context this series could exist in any decade over the past 100 years. Printed on museum quality fine art paper.",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1k7GyBJ8lw_6rzov4xrJPMGxUaQPb6Rap"
+        },
+        {
+            "title": "La Guajira",
+            "description": "Edition of 100. Archival film photographs by Fa Somers,  Amsterdam-based independent photographer. Postcard sized photographs engulfed by a minimalistic nude border reminiscent of holidays of yesteryear. With no clear indication of the date nor time these images were taken, void of context this series could exist in any decade over the past 100 years. Printed on museum quality fine art paper.",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=14VM-ptUx0qf6BO3E-lzuDP1iCtwRrV5Y"
+        },
+        {
+            "title": "Libertad",
+            "description": "Edition of 100. Archival film photographs by Fa Somers,  Amsterdam-based independent photographer. Postcard sized photographs engulfed by a minimalistic nude border reminiscent of holidays of yesteryear. With no clear indication of the date nor time these images were taken, void of context this series could exist in any decade over the past 100 years. Printed on museum quality fine art paper.",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1_UZW6kg2tI3tDFpbWQ-V0vySYT6QNiV6"
+        },
+        {
+            "title": "Salvacion",
+            "description": "Edition of 100. Archival film photographs by Fa Somers,  Amsterdam-based independent photographer. Postcard sized photographs engulfed by a minimalistic nude border reminiscent of holidays of yesteryear. With no clear indication of the date nor time these images were taken, void of context this series could exist in any decade over the past 100 years. Printed on museum quality fine art paper.",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1y62TRKP8Ts8MWX0X-dqFw8KlwkCBOIKm"
+        },
+        {
+            "title": "Simonstad",
+            "description": "Edition of 100. Archival film photographs by Fa Somers,  Amsterdam-based independent photographer. Postcard sized photographs engulfed by a minimalistic nude border reminiscent of holidays of yesteryear. With no clear indication of the date nor time these images were taken, void of context this series could exist in any decade over the past 100 years. Printed on museum quality fine art paper.",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=18XIv638CEji-1Q6_m7eu5bMUwDg2ld9a"
+        },
+        {
+            "title": "Tayrona",
+            "description": "Edition of 100. Archival film photographs by Fa Somers,  Amsterdam-based independent photographer. Postcard sized photographs engulfed by a minimalistic nude border reminiscent of holidays of yesteryear. With no clear indication of the date nor time these images were taken, void of context this series could exist in any decade over the past 100 years. Printed on museum quality fine art paper.",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1LHk0CCqRWxiXKC9rT-LNiHjPzJ4Er8Ao"
+        }
+    ]
+}

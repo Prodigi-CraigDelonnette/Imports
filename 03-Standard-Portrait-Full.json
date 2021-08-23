@@ -39,7 +39,7 @@
     "product_ranges": [
         {
             "title": "Anne",
-            "user_image_url": "https://drive.google.com/file/d/1bNvBsuUtc7Q7k2NY8QLfC8JJ03GeBtAG/view?usp=sharing",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1bNvBsuUtc7Q7k2NY8QLfC8JJ03GeBtAG",
             "products": {
                 "global-fap": {
                     "description": "Edition of 100. Digital photographs by Tara Nehme, Amsterdam-based independent photographer. From dreamlike landscapes to urban wonders, the images portray the tender interplay between natural formations and the contemporary world. Frequently taken from a distance, in an almost voyeuristic perspective, the photographer separates herself from the scene only to capture the most natural of moments. Printed on museum quality fine art paper.",
@@ -47,7 +47,7 @@
                         "GLOBAL-FAP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1VWYNPej3Bi2EF_cUy0zWxryYnHBDo39v/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1VWYNPej3Bi2EF_cUy0zWxryYnHBDo39v"
                                 }
                             },
                             "retail_price": 103.00
@@ -55,7 +55,7 @@
                         "GLOBAL-FAP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1Y0kqPWqNzac47jy7_-WzTnp7YN93sF9p/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1Y0kqPWqNzac47jy7_-WzTnp7YN93sF9p"
                                 }
                             },
                             "retail_price": 183.00
@@ -63,7 +63,7 @@
                         "GLOBAL-FAP-28x40-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1bNvBsuUtc7Q7k2NY8QLfC8JJ03GeBtAG/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1bNvBsuUtc7Q7k2NY8QLfC8JJ03GeBtAG"
                                 }
                             },
                             "retail_price": 318.00
@@ -76,7 +76,7 @@
                         "GLOBAL-CFP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1VWYNPej3Bi2EF_cUy0zWxryYnHBDo39v/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1VWYNPej3Bi2EF_cUy0zWxryYnHBDo39v"
                                 }
                             },
                             "retail_price": 78.00
@@ -84,7 +84,7 @@
                         "GLOBAL-CFP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1Y0kqPWqNzac47jy7_-WzTnp7YN93sF9p/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1Y0kqPWqNzac47jy7_-WzTnp7YN93sF9p"
                                 }
                             },
                             "retail_price": 138.00
@@ -92,7 +92,7 @@
                         "GLOBAL-CFP-28x40-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1bNvBsuUtc7Q7k2NY8QLfC8JJ03GeBtAG/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1bNvBsuUtc7Q7k2NY8QLfC8JJ03GeBtAG"
                                 }
                             },
                             "retail_price": 258.00
@@ -103,7 +103,7 @@
         },
         {
             "title": "Another Cayo Blanco",
-            "user_image_url": "https://drive.google.com/file/d/1Iv3Jusvz7_Imdg-dSzhrj2Y0Rs9wj4o0/view?usp=sharing",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1Iv3Jusvz7_Imdg-dSzhrj2Y0Rs9wj4o0",
             "products": {
                 "global-fap": {
                     "description": "Edition of 100. Digital photographs by Tara Nehme, Amsterdam-based independent photographer. From dreamlike landscapes to urban wonders, the images portray the tender interplay between natural formations and the contemporary world. Frequently taken from a distance, in an almost voyeuristic perspective, the photographer separates herself from the scene only to capture the most natural of moments. Printed on museum quality fine art paper.",
@@ -111,7 +111,7 @@
                         "GLOBAL-FAP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1zwpJlBk_Yinn2tHtj3-dhGC4KkLzZJW9/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1zwpJlBk_Yinn2tHtj3-dhGC4KkLzZJW9"
                                 }
                             },
                             "retail_price": 103.00
@@ -119,7 +119,7 @@
                         "GLOBAL-FAP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1zwpJlBk_Yinn2tHtj3-dhGC4KkLzZJW9/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1zwpJlBk_Yinn2tHtj3-dhGC4KkLzZJW9"
                                 }
                             },
                             "retail_price": 183.00
@@ -127,7 +127,7 @@
                         "GLOBAL-FAP-28x40-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1Iv3Jusvz7_Imdg-dSzhrj2Y0Rs9wj4o0/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1Iv3Jusvz7_Imdg-dSzhrj2Y0Rs9wj4o0"
                                 }
                             },
                             "retail_price": 318.00
@@ -140,7 +140,7 @@
                         "GLOBAL-CFP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1zwpJlBk_Yinn2tHtj3-dhGC4KkLzZJW9/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1zwpJlBk_Yinn2tHtj3-dhGC4KkLzZJW9"
                                 }
                             },
                             "retail_price": 78.00
@@ -148,7 +148,7 @@
                         "GLOBAL-CFP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1zwpJlBk_Yinn2tHtj3-dhGC4KkLzZJW9/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1zwpJlBk_Yinn2tHtj3-dhGC4KkLzZJW9"
                                 }
                             },
                             "retail_price": 138.00
@@ -156,7 +156,7 @@
                         "GLOBAL-CFP-28x40-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1Iv3Jusvz7_Imdg-dSzhrj2Y0Rs9wj4o0/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1Iv3Jusvz7_Imdg-dSzhrj2Y0Rs9wj4o0"
                                 }
                             },
                             "retail_price": 258.00
@@ -167,7 +167,7 @@
         },
         {
             "title": "Blanco",
-            "user_image_url": "https://drive.google.com/file/d/1Dqbk0Z_pg4QCWNH9uDW5nummyWZNUqfE/view?usp=sharing",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1Dqbk0Z_pg4QCWNH9uDW5nummyWZNUqfE",
             "products": {
                 "global-fap": {
                     "description": "Edition of 100. Digital photographs by Tara Nehme, Amsterdam-based independent photographer. From dreamlike landscapes to urban wonders, the images portray the tender interplay between natural formations and the contemporary world. Frequently taken from a distance, in an almost voyeuristic perspective, the photographer separates herself from the scene only to capture the most natural of moments. Printed on museum quality fine art paper.",
@@ -175,7 +175,7 @@
                         "GLOBAL-FAP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1HUJnzNxqA8elNnhaiUR3wT5VwKmysNs4/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1HUJnzNxqA8elNnhaiUR3wT5VwKmysNs4"
                                 }
                             },
                             "retail_price": 103.00
@@ -183,7 +183,7 @@
                         "GLOBAL-FAP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/15u0gcqt_Efh_9687_toXu17W1unnaTc0/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=15u0gcqt_Efh_9687_toXu17W1unnaTc0"
                                 }
                             },
                             "retail_price": 183.00
@@ -191,7 +191,7 @@
                         "GLOBAL-FAP-28x40-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1Dqbk0Z_pg4QCWNH9uDW5nummyWZNUqfE/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1Dqbk0Z_pg4QCWNH9uDW5nummyWZNUqfE"
                                 }
                             },
                             "retail_price": 318.00
@@ -204,7 +204,7 @@
                         "GLOBAL-CFP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1HUJnzNxqA8elNnhaiUR3wT5VwKmysNs4/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1HUJnzNxqA8elNnhaiUR3wT5VwKmysNs4"
                                 }
                             },
                             "retail_price": 78.00
@@ -212,7 +212,7 @@
                         "GLOBAL-CFP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/15u0gcqt_Efh_9687_toXu17W1unnaTc0/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=15u0gcqt_Efh_9687_toXu17W1unnaTc0"
                                 }
                             },
                             "retail_price": 138.00
@@ -220,7 +220,7 @@
                         "GLOBAL-CFP-28x40-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1Dqbk0Z_pg4QCWNH9uDW5nummyWZNUqfE/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1Dqbk0Z_pg4QCWNH9uDW5nummyWZNUqfE"
                                 }
                             },
                             "retail_price": 258.00
@@ -231,7 +231,7 @@
         },
         {
             "title": "By Night",
-            "user_image_url": "https://drive.google.com/file/d/19a2TGct0rCp0gtMwqGCei5JG_u6Dc37g/view?usp=sharing",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=19a2TGct0rCp0gtMwqGCei5JG_u6Dc37g",
             "products": {
                 "global-fap": {
                     "description": "Edition of 100. Digital photographs by Tara Nehme, Amsterdam-based independent photographer. From dreamlike landscapes to urban wonders, the images portray the tender interplay between natural formations and the contemporary world. Frequently taken from a distance, in an almost voyeuristic perspective, the photographer separates herself from the scene only to capture the most natural of moments. Printed on museum quality fine art paper.",
@@ -239,7 +239,7 @@
                         "GLOBAL-FAP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1GcWEQbMMoJbErijZb8deecBW3f0yUlgX/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1GcWEQbMMoJbErijZb8deecBW3f0yUlgX"
                                 }
                             },
                             "retail_price": 103.00
@@ -247,7 +247,7 @@
                         "GLOBAL-FAP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1DuObjb7hkYIDvqusz38UAJslD4gNEkeL/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1DuObjb7hkYIDvqusz38UAJslD4gNEkeL"
                                 }
                             },
                             "retail_price": 183.00
@@ -255,7 +255,7 @@
                         "GLOBAL-FAP-28x40-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/19a2TGct0rCp0gtMwqGCei5JG_u6Dc37g/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=19a2TGct0rCp0gtMwqGCei5JG_u6Dc37g"
                                 }
                             },
                             "retail_price": 318.00
@@ -268,7 +268,7 @@
                         "GLOBAL-CFP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1GcWEQbMMoJbErijZb8deecBW3f0yUlgX/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1GcWEQbMMoJbErijZb8deecBW3f0yUlgX"
                                 }
                             },
                             "retail_price": 78.00
@@ -276,7 +276,7 @@
                         "GLOBAL-CFP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1DuObjb7hkYIDvqusz38UAJslD4gNEkeL/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1DuObjb7hkYIDvqusz38UAJslD4gNEkeL"
                                 }
                             },
                             "retail_price": 138.00
@@ -284,7 +284,7 @@
                         "GLOBAL-CFP-28x40-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/19a2TGct0rCp0gtMwqGCei5JG_u6Dc37g/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=19a2TGct0rCp0gtMwqGCei5JG_u6Dc37g"
                                 }
                             },
                             "retail_price": 258.00
@@ -295,7 +295,7 @@
         },
         {
             "title": "Conversations",
-            "user_image_url": "https://drive.google.com/file/d/1yynog2QdYBSxMRizLeGttlqAcLnBdhcs/view?usp=sharing",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1yynog2QdYBSxMRizLeGttlqAcLnBdhcs",
             "products": {
                 "global-fap": {
                     "description": "Edition of 100. Digital photographs by Tara Nehme, Amsterdam-based independent photographer. From dreamlike landscapes to urban wonders, the images portray the tender interplay between natural formations and the contemporary world. Frequently taken from a distance, in an almost voyeuristic perspective, the photographer separates herself from the scene only to capture the most natural of moments. Printed on museum quality fine art paper.",
@@ -303,7 +303,7 @@
                         "GLOBAL-FAP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/12KVfRGKnIuy6fyYiKpyaan_KgK-JtpSr/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=12KVfRGKnIuy6fyYiKpyaan_KgK-JtpSr"
                                 }
                             },
                             "retail_price": 103.00
@@ -311,7 +311,7 @@
                         "GLOBAL-FAP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1YAX5eFKzLwQ23yXxnoHKy29Ku4fgwJvd/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1YAX5eFKzLwQ23yXxnoHKy29Ku4fgwJvd"
                                 }
                             },
                             "retail_price": 183.00
@@ -319,7 +319,7 @@
                         "GLOBAL-FAP-28x40-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1yynog2QdYBSxMRizLeGttlqAcLnBdhcs/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1yynog2QdYBSxMRizLeGttlqAcLnBdhcs"
                                 }
                             },
                             "retail_price": 318.00
@@ -332,7 +332,7 @@
                         "GLOBAL-CFP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/12KVfRGKnIuy6fyYiKpyaan_KgK-JtpSr/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=12KVfRGKnIuy6fyYiKpyaan_KgK-JtpSr"
                                 }
                             },
                             "retail_price": 78.00
@@ -340,7 +340,7 @@
                         "GLOBAL-CFP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1YAX5eFKzLwQ23yXxnoHKy29Ku4fgwJvd/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1YAX5eFKzLwQ23yXxnoHKy29Ku4fgwJvd"
                                 }
                             },
                             "retail_price": 138.00
@@ -348,7 +348,7 @@
                         "GLOBAL-CFP-28x40-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1yynog2QdYBSxMRizLeGttlqAcLnBdhcs/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1yynog2QdYBSxMRizLeGttlqAcLnBdhcs"
                                 }
                             },
                             "retail_price": 258.00
@@ -359,7 +359,7 @@
         },
         {
             "title": "Deep Thinker",
-            "user_image_url": "https://drive.google.com/file/d/1SazNElM6X2nuEGyo6ZG2Wn_LLqIVqdHM/view?usp=sharing",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1SazNElM6X2nuEGyo6ZG2Wn_LLqIVqdHM",
             "products": {
                 "global-fap": {
                     "description": "Edition of 100. Digital photographs by Tara Nehme, Amsterdam-based independent photographer. From dreamlike landscapes to urban wonders, the images portray the tender interplay between natural formations and the contemporary world. Frequently taken from a distance, in an almost voyeuristic perspective, the photographer separates herself from the scene only to capture the most natural of moments. Printed on museum quality fine art paper.",
@@ -367,7 +367,7 @@
                         "GLOBAL-FAP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1U0F4GAR7oBhk7_soUc1iLk3AcQMB7TtH/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1U0F4GAR7oBhk7_soUc1iLk3AcQMB7TtH"
                                 }
                             },
                             "retail_price": 83.00
@@ -375,7 +375,7 @@
                         "GLOBAL-FAP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1hamxS1wgbKOL_ot_tUrnZmEEqtEto5ZN/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1hamxS1wgbKOL_ot_tUrnZmEEqtEto5ZN"
                                 }
                             },
                             "retail_price": 163.00
@@ -383,7 +383,7 @@
                         "GLOBAL-FAP-28x40-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1SazNElM6X2nuEGyo6ZG2Wn_LLqIVqdHM/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1SazNElM6X2nuEGyo6ZG2Wn_LLqIVqdHM"
                                 }
                             },
                             "retail_price": 298.00
@@ -396,7 +396,7 @@
                         "GLOBAL-CFP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1U0F4GAR7oBhk7_soUc1iLk3AcQMB7TtH/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1U0F4GAR7oBhk7_soUc1iLk3AcQMB7TtH"
                                 }
                             },
                             "retail_price": 58.00
@@ -404,7 +404,7 @@
                         "GLOBAL-CFP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1hamxS1wgbKOL_ot_tUrnZmEEqtEto5ZN/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1hamxS1wgbKOL_ot_tUrnZmEEqtEto5ZN"
                                 }
                             },
                             "retail_price": 118.00
@@ -412,7 +412,7 @@
                         "GLOBAL-CFP-28x40-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1SazNElM6X2nuEGyo6ZG2Wn_LLqIVqdHM/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1SazNElM6X2nuEGyo6ZG2Wn_LLqIVqdHM"
                                 }
                             },
                             "retail_price": 238.00
@@ -423,7 +423,7 @@
         },
         {
             "title": "Flicker",
-            "user_image_url": "https://drive.google.com/file/d/1m4KW6WMa2Z-MuEdqJibl5w5ogen8kmtl/view?usp=sharing",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1m4KW6WMa2Z-MuEdqJibl5w5ogen8kmtl",
             "products": {
                 "global-fap": {
                     "description": "Edition of 100. Digital photographs by Tara Nehme, Amsterdam-based independent photographer. From dreamlike landscapes to urban wonders, the images portray the tender interplay between natural formations and the contemporary world. Frequently taken from a distance, in an almost voyeuristic perspective, the photographer separates herself from the scene only to capture the most natural of moments. Printed on museum quality fine art paper.",
@@ -431,7 +431,7 @@
                         "GLOBAL-FAP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/11Fd8Mw1GBeW8PxcsNH2yIoKCyPFxolgB/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=11Fd8Mw1GBeW8PxcsNH2yIoKCyPFxolgB"
                                 }
                             },
                             "retail_price": 83.00
@@ -439,7 +439,7 @@
                         "GLOBAL-FAP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1HO-aGQxhszwFhSvSUI2U4B7xkV8Pwbjd/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1HO-aGQxhszwFhSvSUI2U4B7xkV8Pwbjd"
                                 }
                             },
                             "retail_price": 163.00
@@ -447,7 +447,7 @@
                         "GLOBAL-FAP-28x40-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1m4KW6WMa2Z-MuEdqJibl5w5ogen8kmtl/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1m4KW6WMa2Z-MuEdqJibl5w5ogen8kmtl"
                                 }
                             },
                             "retail_price": 298.00
@@ -460,7 +460,7 @@
                         "GLOBAL-CFP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/11Fd8Mw1GBeW8PxcsNH2yIoKCyPFxolgB/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=11Fd8Mw1GBeW8PxcsNH2yIoKCyPFxolgB"
                                 }
                             },
                             "retail_price": 58.00
@@ -468,7 +468,7 @@
                         "GLOBAL-CFP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1HO-aGQxhszwFhSvSUI2U4B7xkV8Pwbjd/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1HO-aGQxhszwFhSvSUI2U4B7xkV8Pwbjd"
                                 }
                             },
                             "retail_price": 118.00
@@ -476,7 +476,7 @@
                         "GLOBAL-CFP-28x40-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1m4KW6WMa2Z-MuEdqJibl5w5ogen8kmtl/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1m4KW6WMa2Z-MuEdqJibl5w5ogen8kmtl"
                                 }
                             },
                             "retail_price": 238.00
@@ -487,7 +487,7 @@
         },
         {
             "title": "Hay",
-            "user_image_url": "https://drive.google.com/file/d/1pFzm9NQV23ZvRACfwc2Nthsbo3VlGwuX/view?usp=sharing",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1pFzm9NQV23ZvRACfwc2Nthsbo3VlGwuX",
             "products": {
                 "global-fap": {
                     "description": "Edition of 100. Digital photographs by Tara Nehme, Amsterdam-based independent photographer. From dreamlike landscapes to urban wonders, the images portray the tender interplay between natural formations and the contemporary world. Frequently taken from a distance, in an almost voyeuristic perspective, the photographer separates herself from the scene only to capture the most natural of moments. Printed on museum quality fine art paper.",
@@ -495,7 +495,7 @@
                         "GLOBAL-FAP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1MynxYSiGO0u2950sTJ2hGgAIUGieirOh/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1MynxYSiGO0u2950sTJ2hGgAIUGieirOh"
                                 }
                             },
                             "retail_price": 83.00
@@ -503,7 +503,7 @@
                         "GLOBAL-FAP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1qk9-CAMMK6aFVKPi6oRb8rtTATjreWb7/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1qk9-CAMMK6aFVKPi6oRb8rtTATjreWb7"
                                 }
                             },
                             "retail_price": 163.00
@@ -511,7 +511,7 @@
                         "GLOBAL-FAP-28x40-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1pFzm9NQV23ZvRACfwc2Nthsbo3VlGwuX/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1pFzm9NQV23ZvRACfwc2Nthsbo3VlGwuX"
                                 }
                             },
                             "retail_price": 298.00
@@ -524,7 +524,7 @@
                         "GLOBAL-CFP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1MynxYSiGO0u2950sTJ2hGgAIUGieirOh/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1MynxYSiGO0u2950sTJ2hGgAIUGieirOh"
                                 }
                             },
                             "retail_price": 58.00
@@ -532,7 +532,7 @@
                         "GLOBAL-CFP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1qk9-CAMMK6aFVKPi6oRb8rtTATjreWb7/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1qk9-CAMMK6aFVKPi6oRb8rtTATjreWb7"
                                 }
                             },
                             "retail_price": 118.00
@@ -540,7 +540,7 @@
                         "GLOBAL-CFP-28x40-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1pFzm9NQV23ZvRACfwc2Nthsbo3VlGwuX/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1pFzm9NQV23ZvRACfwc2Nthsbo3VlGwuX"
                                 }
                             },
                             "retail_price": 238.00
@@ -551,7 +551,7 @@
         },
         {
             "title": "Island Gal",
-            "user_image_url": "https://drive.google.com/file/d/142IJi9XALCExQ9zO6ieUCB3YjNpmJ_i1/view?usp=sharing",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=142IJi9XALCExQ9zO6ieUCB3YjNpmJ_i1",
             "products": {
                 "global-fap": {
                     "description": "Edition of 100. Digital photographs by Tara Nehme, Amsterdam-based independent photographer. From dreamlike landscapes to urban wonders, the images portray the tender interplay between natural formations and the contemporary world. Frequently taken from a distance, in an almost voyeuristic perspective, the photographer separates herself from the scene only to capture the most natural of moments. Printed on museum quality fine art paper.",
@@ -559,7 +559,7 @@
                         "GLOBAL-FAP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1pZD9j1ZZ3Nnv0wDfRIyydR-7CvBhglMT/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1pZD9j1ZZ3Nnv0wDfRIyydR-7CvBhglMT"
                                 }
                             },
                             "retail_price": 83.00
@@ -567,7 +567,7 @@
                         "GLOBAL-FAP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1L_ZJ94ddByF4EzBxDC4rYu50nuRZ4SaT/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1L_ZJ94ddByF4EzBxDC4rYu50nuRZ4SaT"
                                 }
                             },
                             "retail_price": 163.00
@@ -575,7 +575,7 @@
                         "GLOBAL-FAP-28x40-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/142IJi9XALCExQ9zO6ieUCB3YjNpmJ_i1/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=142IJi9XALCExQ9zO6ieUCB3YjNpmJ_i1"
                                 }
                             },
                             "retail_price": 298.00
@@ -588,7 +588,7 @@
                         "GLOBAL-CFP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1pZD9j1ZZ3Nnv0wDfRIyydR-7CvBhglMT/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1pZD9j1ZZ3Nnv0wDfRIyydR-7CvBhglMT"
                                 }
                             },
                             "retail_price": 58.00
@@ -596,7 +596,7 @@
                         "GLOBAL-CFP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1L_ZJ94ddByF4EzBxDC4rYu50nuRZ4SaT/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1L_ZJ94ddByF4EzBxDC4rYu50nuRZ4SaT"
                                 }
                             },
                             "retail_price": 118.00
@@ -604,7 +604,7 @@
                         "GLOBAL-CFP-28x40-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/142IJi9XALCExQ9zO6ieUCB3YjNpmJ_i1/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=142IJi9XALCExQ9zO6ieUCB3YjNpmJ_i1"
                                 }
                             },
                             "retail_price": 238.00
@@ -615,7 +615,7 @@
         },
         {
             "title": "Jericho",
-            "user_image_url": "https://drive.google.com/file/d/1x6lYgxJgvuc10zfBbTH_08ZVZz9ImuZm/view?usp=sharing",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1x6lYgxJgvuc10zfBbTH_08ZVZz9ImuZm",
             "products": {
                 "global-fap": {
                     "description": "Edition of 100. Digital photographs by Tara Nehme, Amsterdam-based independent photographer. From dreamlike landscapes to urban wonders, the images portray the tender interplay between natural formations and the contemporary world. Frequently taken from a distance, in an almost voyeuristic perspective, the photographer separates herself from the scene only to capture the most natural of moments. Printed on museum quality fine art paper.",
@@ -623,7 +623,7 @@
                         "GLOBAL-FAP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1e-9v3pI2WnJBPT5lfi7qDuSke2V6ZI6P/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1e-9v3pI2WnJBPT5lfi7qDuSke2V6ZI6P"
                                 }
                             },
                             "retail_price": 103.00
@@ -631,7 +631,7 @@
                         "GLOBAL-FAP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1C9mizhckuZNMxF0zVe4RUcbzuLODrBAG/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1C9mizhckuZNMxF0zVe4RUcbzuLODrBAG"
                                 }
                             },
                             "retail_price": 183.00
@@ -639,7 +639,7 @@
                         "GLOBAL-FAP-28x40-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1x6lYgxJgvuc10zfBbTH_08ZVZz9ImuZm/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1x6lYgxJgvuc10zfBbTH_08ZVZz9ImuZm"
                                 }
                             },
                             "retail_price": 318.00
@@ -652,7 +652,7 @@
                         "GLOBAL-CFP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1e-9v3pI2WnJBPT5lfi7qDuSke2V6ZI6P/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1e-9v3pI2WnJBPT5lfi7qDuSke2V6ZI6P"
                                 }
                             },
                             "retail_price": 78.00
@@ -660,7 +660,7 @@
                         "GLOBAL-CFP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1C9mizhckuZNMxF0zVe4RUcbzuLODrBAG/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1C9mizhckuZNMxF0zVe4RUcbzuLODrBAG"
                                 }
                             },
                             "retail_price": 138.00
@@ -668,7 +668,7 @@
                         "GLOBAL-CFP-28x40-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1x6lYgxJgvuc10zfBbTH_08ZVZz9ImuZm/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1x6lYgxJgvuc10zfBbTH_08ZVZz9ImuZm"
                                 }
                             },
                             "retail_price": 258.00
@@ -679,7 +679,7 @@
         },
         {
             "title": "Laughing Dove",
-            "user_image_url": "https://drive.google.com/file/d/1fsFe6aQuR0mWP4KJx-ijWjb-4NvGOBKR/view?usp=sharing",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1fsFe6aQuR0mWP4KJx-ijWjb-4NvGOBKR",
             "products": {
                 "global-fap": {
                     "description": "Edition of 100. Digital photographs by Tara Nehme, Amsterdam-based independent photographer. From dreamlike landscapes to urban wonders, the images portray the tender interplay between natural formations and the contemporary world. Frequently taken from a distance, in an almost voyeuristic perspective, the photographer separates herself from the scene only to capture the most natural of moments. Printed on museum quality fine art paper.",
@@ -687,7 +687,7 @@
                         "GLOBAL-FAP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1N_liF01SU60E8Mh_yiy36WGCzTXBNDWe/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1N_liF01SU60E8Mh_yiy36WGCzTXBNDWe"
                                 }
                             },
                             "retail_price": 103.00
@@ -695,7 +695,7 @@
                         "GLOBAL-FAP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1uELL4kF5douUByCClS8WTLwa2V55qEUL/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1uELL4kF5douUByCClS8WTLwa2V55qEUL"
                                 }
                             },
                             "retail_price": 183.00
@@ -703,7 +703,7 @@
                         "GLOBAL-FAP-28x40-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1fsFe6aQuR0mWP4KJx-ijWjb-4NvGOBKR/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1fsFe6aQuR0mWP4KJx-ijWjb-4NvGOBKR"
                                 }
                             },
                             "retail_price": 318.00
@@ -716,7 +716,7 @@
                         "GLOBAL-CFP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1N_liF01SU60E8Mh_yiy36WGCzTXBNDWe/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1N_liF01SU60E8Mh_yiy36WGCzTXBNDWe"
                                 }
                             },
                             "retail_price": 78.00
@@ -724,7 +724,7 @@
                         "GLOBAL-CFP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1uELL4kF5douUByCClS8WTLwa2V55qEUL/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1uELL4kF5douUByCClS8WTLwa2V55qEUL"
                                 }
                             },
                             "retail_price": 138.00
@@ -732,7 +732,7 @@
                         "GLOBAL-CFP-28x40-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1fsFe6aQuR0mWP4KJx-ijWjb-4NvGOBKR/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1fsFe6aQuR0mWP4KJx-ijWjb-4NvGOBKR"
                                 }
                             },
                             "retail_price": 258.00
@@ -743,7 +743,7 @@
         },
         {
             "title": "Lifeline",
-            "user_image_url": "https://drive.google.com/file/d/1y5wfxIMk-AGZY-zgE7liEuSknsJRhKTI/view?usp=sharing",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1y5wfxIMk-AGZY-zgE7liEuSknsJRhKTI",
             "products": {
                 "global-fap": {
                     "description": "Edition of 100. Digital photographs by Tara Nehme, Amsterdam-based independent photographer. From dreamlike landscapes to urban wonders, the images portray the tender interplay between natural formations and the contemporary world. Frequently taken from a distance, in an almost voyeuristic perspective, the photographer separates herself from the scene only to capture the most natural of moments. Printed on museum quality fine art paper.",
@@ -751,7 +751,7 @@
                         "GLOBAL-FAP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1AGSiC0PoFnWzeKfstuXUpcwCwLEqGEbh/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1AGSiC0PoFnWzeKfstuXUpcwCwLEqGEbh"
                                 }
                             },
                             "retail_price": 83.00
@@ -759,7 +759,7 @@
                         "GLOBAL-FAP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1M4AOc7i7QpvV-g1DPxnouN2d1LESDi0Z/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1M4AOc7i7QpvV-g1DPxnouN2d1LESDi0Z"
                                 }
                             },
                             "retail_price": 163.00
@@ -767,7 +767,7 @@
                         "GLOBAL-FAP-28x40-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1y5wfxIMk-AGZY-zgE7liEuSknsJRhKTI/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1y5wfxIMk-AGZY-zgE7liEuSknsJRhKTI"
                                 }
                             },
                             "retail_price": 298.00
@@ -780,7 +780,7 @@
                         "GLOBAL-CFP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1AGSiC0PoFnWzeKfstuXUpcwCwLEqGEbh/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1AGSiC0PoFnWzeKfstuXUpcwCwLEqGEbh"
                                 }
                             },
                             "retail_price": 58.00
@@ -788,7 +788,7 @@
                         "GLOBAL-CFP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1M4AOc7i7QpvV-g1DPxnouN2d1LESDi0Z/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1M4AOc7i7QpvV-g1DPxnouN2d1LESDi0Z"
                                 }
                             },
                             "retail_price": 118.00
@@ -796,7 +796,7 @@
                         "GLOBAL-CFP-28x40-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1y5wfxIMk-AGZY-zgE7liEuSknsJRhKTI/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1y5wfxIMk-AGZY-zgE7liEuSknsJRhKTI"
                                 }
                             },
                             "retail_price": 238.00
@@ -807,7 +807,7 @@
         },
         {
             "title": "Malek",
-            "user_image_url": "https://drive.google.com/file/d/1Ixh_sZqoscUifWLbcKZcO6-xo59pSf7u/view?usp=sharing",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1Ixh_sZqoscUifWLbcKZcO6-xo59pSf7u",
             "products": {
                 "global-fap": {
                     "description": "Edition of 100. Digital photographs by Tara Nehme, Amsterdam-based independent photographer. From dreamlike landscapes to urban wonders, the images portray the tender interplay between natural formations and the contemporary world. Frequently taken from a distance, in an almost voyeuristic perspective, the photographer separates herself from the scene only to capture the most natural of moments. Printed on museum quality fine art paper.",
@@ -815,7 +815,7 @@
                         "GLOBAL-FAP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1NKLXvLPYqXMiKxj_g2486SVuHWCPc3Ag/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1NKLXvLPYqXMiKxj_g2486SVuHWCPc3Ag"
                                 }
                             },
                             "retail_price": 103.00
@@ -823,7 +823,7 @@
                         "GLOBAL-FAP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1Tb9x67YGcHJd91L0jisLYE90oVvLYrms/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1Tb9x67YGcHJd91L0jisLYE90oVvLYrms"
                                 }
                             },
                             "retail_price": 183.00
@@ -831,7 +831,7 @@
                         "GLOBAL-FAP-28x40-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1Ixh_sZqoscUifWLbcKZcO6-xo59pSf7u/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1Ixh_sZqoscUifWLbcKZcO6-xo59pSf7u"
                                 }
                             },
                             "retail_price": 318.00
@@ -844,7 +844,7 @@
                         "GLOBAL-CFP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1NKLXvLPYqXMiKxj_g2486SVuHWCPc3Ag/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1NKLXvLPYqXMiKxj_g2486SVuHWCPc3Ag"
                                 }
                             },
                             "retail_price": 78.00
@@ -852,7 +852,7 @@
                         "GLOBAL-CFP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1Tb9x67YGcHJd91L0jisLYE90oVvLYrms/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1Tb9x67YGcHJd91L0jisLYE90oVvLYrms"
                                 }
                             },
                             "retail_price": 138.00
@@ -860,7 +860,7 @@
                         "GLOBAL-CFP-28x40-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1Ixh_sZqoscUifWLbcKZcO6-xo59pSf7u/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1Ixh_sZqoscUifWLbcKZcO6-xo59pSf7u"
                                 }
                             },
                             "retail_price": 258.00
@@ -871,7 +871,7 @@
         },
         {
             "title": "Melancholy",
-            "user_image_url": "https://drive.google.com/file/d/1AT_xCvtbKVvDV-c0w7nfVen3xrsejYct/view?usp=sharing",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1AT_xCvtbKVvDV-c0w7nfVen3xrsejYct",
             "products": {
                 "global-fap": {
                     "description": "Edition of 100. Digital photographs by Tara Nehme, Amsterdam-based independent photographer. From dreamlike landscapes to urban wonders, the images portray the tender interplay between natural formations and the contemporary world. Frequently taken from a distance, in an almost voyeuristic perspective, the photographer separates herself from the scene only to capture the most natural of moments. Printed on museum quality fine art paper.",
@@ -879,7 +879,7 @@
                         "GLOBAL-FAP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1_6_vKcxYthzU3Vi8W9WulGxae5BovljL/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1_6_vKcxYthzU3Vi8W9WulGxae5BovljL"
                                 }
                             },
                             "retail_price": 83.00
@@ -887,7 +887,7 @@
                         "GLOBAL-FAP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1zRU-PWIbPYflYnk2_tmWOux_xsml5mJm/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1zRU-PWIbPYflYnk2_tmWOux_xsml5mJm"
                                 }
                             },
                             "retail_price": 163.00
@@ -895,7 +895,7 @@
                         "GLOBAL-FAP-28x40-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1AT_xCvtbKVvDV-c0w7nfVen3xrsejYct/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1AT_xCvtbKVvDV-c0w7nfVen3xrsejYct"
                                 }
                             },
                             "retail_price": 298.00
@@ -908,7 +908,7 @@
                         "GLOBAL-CFP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1_6_vKcxYthzU3Vi8W9WulGxae5BovljL/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1_6_vKcxYthzU3Vi8W9WulGxae5BovljL"
                                 }
                             },
                             "retail_price": 58.00
@@ -916,7 +916,7 @@
                         "GLOBAL-CFP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1zRU-PWIbPYflYnk2_tmWOux_xsml5mJm/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1zRU-PWIbPYflYnk2_tmWOux_xsml5mJm"
                                 }
                             },
                             "retail_price": 118.00
@@ -924,7 +924,7 @@
                         "GLOBAL-CFP-28x40-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1AT_xCvtbKVvDV-c0w7nfVen3xrsejYct/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1AT_xCvtbKVvDV-c0w7nfVen3xrsejYct"
                                 }
                             },
                             "retail_price": 238.00
@@ -935,7 +935,7 @@
         },
         {
             "title": "Mirage",
-            "user_image_url": "https://drive.google.com/file/d/12OJ03FceS5vYEW2AkR-ETwdVTmzWcuCf/view?usp=sharing",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=12OJ03FceS5vYEW2AkR-ETwdVTmzWcuCf",
             "products": {
                 "global-fap": {
                     "description": "Edition of 100. Digital photographs by Tara Nehme, Amsterdam-based independent photographer. From dreamlike landscapes to urban wonders, the images portray the tender interplay between natural formations and the contemporary world. Frequently taken from a distance, in an almost voyeuristic perspective, the photographer separates herself from the scene only to capture the most natural of moments. Printed on museum quality fine art paper.",
@@ -943,7 +943,7 @@
                         "GLOBAL-FAP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1FHwhztCnSN9lwTWlj6Dgg0_qruoGxofx/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1FHwhztCnSN9lwTWlj6Dgg0_qruoGxofx"
                                 }
                             },
                             "retail_price": 103.00
@@ -951,7 +951,7 @@
                         "GLOBAL-FAP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1wQX0IXGofwa45w1_Toeg9Qqns0YOEbYB/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1wQX0IXGofwa45w1_Toeg9Qqns0YOEbYB"
                                 }
                             },
                             "retail_price": 183.00
@@ -959,7 +959,7 @@
                         "GLOBAL-FAP-28x40-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/12OJ03FceS5vYEW2AkR-ETwdVTmzWcuCf/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=12OJ03FceS5vYEW2AkR-ETwdVTmzWcuCf"
                                 }
                             },
                             "retail_price": 318.00
@@ -972,7 +972,7 @@
                         "GLOBAL-CFP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1FHwhztCnSN9lwTWlj6Dgg0_qruoGxofx/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1FHwhztCnSN9lwTWlj6Dgg0_qruoGxofx"
                                 }
                             },
                             "retail_price": 78.00
@@ -980,7 +980,7 @@
                         "GLOBAL-CFP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1wQX0IXGofwa45w1_Toeg9Qqns0YOEbYB/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1wQX0IXGofwa45w1_Toeg9Qqns0YOEbYB"
                                 }
                             },
                             "retail_price": 138.00
@@ -988,7 +988,7 @@
                         "GLOBAL-CFP-28x40-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/12OJ03FceS5vYEW2AkR-ETwdVTmzWcuCf/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=12OJ03FceS5vYEW2AkR-ETwdVTmzWcuCf"
                                 }
                             },
                             "retail_price": 258.00
@@ -999,7 +999,7 @@
         },
         {
             "title": "Pink Waves in Blue",
-            "user_image_url": "https://drive.google.com/file/d/1Gb7f4yaWVAm3n6VlSR3KWJHMK7uvGLy3/view?usp=sharing",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1Gb7f4yaWVAm3n6VlSR3KWJHMK7uvGLy3",
             "products": {
                 "global-fap": {
                     "description": "Edition of 100. Digital photographs by Tara Nehme, Amsterdam-based independent photographer. From dreamlike landscapes to urban wonders, the images portray the tender interplay between natural formations and the contemporary world. Frequently taken from a distance, in an almost voyeuristic perspective, the photographer separates herself from the scene only to capture the most natural of moments. Printed on museum quality fine art paper.",
@@ -1007,7 +1007,7 @@
                         "GLOBAL-FAP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1EeWcd3x400TZ4Ba9GQ57lC6qH8WEwxUd/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1EeWcd3x400TZ4Ba9GQ57lC6qH8WEwxUd"
                                 }
                             },
                             "retail_price": 103.00
@@ -1015,7 +1015,7 @@
                         "GLOBAL-FAP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/13QMH9WXlDwGoFi_n1vMBWanLioFQTj7I/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=13QMH9WXlDwGoFi_n1vMBWanLioFQTj7I"
                                 }
                             },
                             "retail_price": 183.00
@@ -1023,7 +1023,7 @@
                         "GLOBAL-FAP-28x40-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1Gb7f4yaWVAm3n6VlSR3KWJHMK7uvGLy3/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1Gb7f4yaWVAm3n6VlSR3KWJHMK7uvGLy3"
                                 }
                             },
                             "retail_price": 318.00
@@ -1036,7 +1036,7 @@
                         "GLOBAL-CFP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1EeWcd3x400TZ4Ba9GQ57lC6qH8WEwxUd/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1EeWcd3x400TZ4Ba9GQ57lC6qH8WEwxUd"
                                 }
                             },
                             "retail_price": 78.00
@@ -1044,7 +1044,7 @@
                         "GLOBAL-CFP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/13QMH9WXlDwGoFi_n1vMBWanLioFQTj7I/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=13QMH9WXlDwGoFi_n1vMBWanLioFQTj7I"
                                 }
                             },
                             "retail_price": 138.00
@@ -1052,7 +1052,7 @@
                         "GLOBAL-CFP-28x40-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1Gb7f4yaWVAm3n6VlSR3KWJHMK7uvGLy3/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1Gb7f4yaWVAm3n6VlSR3KWJHMK7uvGLy3"
                                 }
                             },
                             "retail_price": 258.00
@@ -1063,7 +1063,7 @@
         },
         {
             "title": "Remember By Name",
-            "user_image_url": "https://drive.google.com/file/d/1CWRrMYGbziYZSBU4GUteUBdNK1zeLhHL/view?usp=sharing",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1CWRrMYGbziYZSBU4GUteUBdNK1zeLhHL",
             "products": {
                 "global-fap": {
                     "description": "Edition of 100. Digital photographs by Tara Nehme, Amsterdam-based independent photographer. From dreamlike landscapes to urban wonders, the images portray the tender interplay between natural formations and the contemporary world. Frequently taken from a distance, in an almost voyeuristic perspective, the photographer separates herself from the scene only to capture the most natural of moments. Printed on museum quality fine art paper.",
@@ -1071,7 +1071,7 @@
                         "GLOBAL-FAP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1yF5r_O1_XkWSvfX6XBUXic2xrVAlNnBr/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1yF5r_O1_XkWSvfX6XBUXic2xrVAlNnBr"
                                 }
                             },
                             "retail_price": 83.00
@@ -1079,7 +1079,7 @@
                         "GLOBAL-FAP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1GI27_IOVO_enkZfJQhcTheNiYAxrhYlf/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1GI27_IOVO_enkZfJQhcTheNiYAxrhYlf"
                                 }
                             },
                             "retail_price": 163.00
@@ -1087,7 +1087,7 @@
                         "GLOBAL-FAP-28x40-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1CWRrMYGbziYZSBU4GUteUBdNK1zeLhHL/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1CWRrMYGbziYZSBU4GUteUBdNK1zeLhHL"
                                 }
                             },
                             "retail_price": 298.00
@@ -1100,7 +1100,7 @@
                         "GLOBAL-CFP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1yF5r_O1_XkWSvfX6XBUXic2xrVAlNnBr/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1yF5r_O1_XkWSvfX6XBUXic2xrVAlNnBr"
                                 }
                             },
                             "retail_price": 58.00
@@ -1108,7 +1108,7 @@
                         "GLOBAL-CFP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1GI27_IOVO_enkZfJQhcTheNiYAxrhYlf/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1GI27_IOVO_enkZfJQhcTheNiYAxrhYlf"
                                 }
                             },
                             "retail_price": 118.00
@@ -1116,7 +1116,7 @@
                         "GLOBAL-CFP-28x40-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1CWRrMYGbziYZSBU4GUteUBdNK1zeLhHL/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1CWRrMYGbziYZSBU4GUteUBdNK1zeLhHL"
                                 }
                             },
                             "retail_price": 238.00
@@ -1127,7 +1127,7 @@
         },
         {
             "title": "Rosa",
-            "user_image_url": "https://drive.google.com/file/d/1qleZu7OrkkzyzI3n8VAuulFYe06vhAYl/view?usp=sharing",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1qleZu7OrkkzyzI3n8VAuulFYe06vhAYl",
             "products": {
                 "global-fap": {
                     "description": "Edition of 100. Digital photographs by Tara Nehme, Amsterdam-based independent photographer. From dreamlike landscapes to urban wonders, the images portray the tender interplay between natural formations and the contemporary world. Frequently taken from a distance, in an almost voyeuristic perspective, the photographer separates herself from the scene only to capture the most natural of moments. Printed on museum quality fine art paper.",
@@ -1135,7 +1135,7 @@
                         "GLOBAL-FAP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1lstWgIbXw2m6EJIpOyPJhmvfs-cyzH4J/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1lstWgIbXw2m6EJIpOyPJhmvfs-cyzH4J"
                                 }
                             },
                             "retail_price": 73.00
@@ -1143,7 +1143,7 @@
                         "GLOBAL-FAP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1EhHDuAK5cffef_yisJkDEN23A8DzSKT6/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1EhHDuAK5cffef_yisJkDEN23A8DzSKT6"
                                 }
                             },
                             "retail_price": 153.00
@@ -1151,7 +1151,7 @@
                         "GLOBAL-FAP-28x40-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1qleZu7OrkkzyzI3n8VAuulFYe06vhAYl/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1qleZu7OrkkzyzI3n8VAuulFYe06vhAYl"
                                 }
                             },
                             "retail_price": 288.00
@@ -1164,7 +1164,7 @@
                         "GLOBAL-CFP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1lstWgIbXw2m6EJIpOyPJhmvfs-cyzH4J/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1lstWgIbXw2m6EJIpOyPJhmvfs-cyzH4J"
                                 }
                             },
                             "retail_price": 48.00
@@ -1172,7 +1172,7 @@
                         "GLOBAL-CFP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1EhHDuAK5cffef_yisJkDEN23A8DzSKT6/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1EhHDuAK5cffef_yisJkDEN23A8DzSKT6"
                                 }
                             },
                             "retail_price": 108.00
@@ -1180,7 +1180,7 @@
                         "GLOBAL-CFP-28x40-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1qleZu7OrkkzyzI3n8VAuulFYe06vhAYl/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1qleZu7OrkkzyzI3n8VAuulFYe06vhAYl"
                                 }
                             },
                             "retail_price": 228.00
@@ -1191,7 +1191,7 @@
         },
         {
             "title": "Synthesis  (Part I)",
-            "user_image_url": "https://drive.google.com/file/d/1g99b0oGFdlNXoNuP96k4MXaPD3C20RCf/view?usp=sharing",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1g99b0oGFdlNXoNuP96k4MXaPD3C20RCf",
             "products": {
                 "global-fap": {
                     "description": "Edition of 100. Digital photographs by Tara Nehme, Amsterdam-based independent photographer. From dreamlike landscapes to urban wonders, the images portray the tender interplay between natural formations and the contemporary world. Frequently taken from a distance, in an almost voyeuristic perspective, the photographer separates herself from the scene only to capture the most natural of moments. Printed on museum quality fine art paper.",
@@ -1199,7 +1199,7 @@
                         "GLOBAL-FAP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1Tip3uITruQVdd2vN3pr8Nb0IbLHNtDGW/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1Tip3uITruQVdd2vN3pr8Nb0IbLHNtDGW"
                                 }
                             },
                             "retail_price": 103.00
@@ -1207,7 +1207,7 @@
                         "GLOBAL-FAP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1DY1e40c0_d5Z2NP2qLZ_tvW-wQOr0MHJ/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1DY1e40c0_d5Z2NP2qLZ_tvW-wQOr0MHJ"
                                 }
                             },
                             "retail_price": 183.00
@@ -1215,7 +1215,7 @@
                         "GLOBAL-FAP-28x40-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1g99b0oGFdlNXoNuP96k4MXaPD3C20RCf/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1g99b0oGFdlNXoNuP96k4MXaPD3C20RCf"
                                 }
                             },
                             "retail_price": 318.00
@@ -1228,7 +1228,7 @@
                         "GLOBAL-CFP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1Tip3uITruQVdd2vN3pr8Nb0IbLHNtDGW/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1Tip3uITruQVdd2vN3pr8Nb0IbLHNtDGW"
                                 }
                             },
                             "retail_price": 78.00
@@ -1236,7 +1236,7 @@
                         "GLOBAL-CFP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1DY1e40c0_d5Z2NP2qLZ_tvW-wQOr0MHJ/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1DY1e40c0_d5Z2NP2qLZ_tvW-wQOr0MHJ"
                                 }
                             },
                             "retail_price": 138.00
@@ -1244,7 +1244,7 @@
                         "GLOBAL-CFP-28x40-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1g99b0oGFdlNXoNuP96k4MXaPD3C20RCf/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1g99b0oGFdlNXoNuP96k4MXaPD3C20RCf"
                                 }
                             },
                             "retail_price": 258.00
@@ -1255,7 +1255,7 @@
         },
         {
             "title": "Synthesis  (Part II)",
-            "user_image_url": "https://drive.google.com/file/d/11UmIN7oVyBLgxbIpT0PMdu2sJBiSZleU/view?usp=sharing",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=11UmIN7oVyBLgxbIpT0PMdu2sJBiSZleU",
             "products": {
                 "global-fap": {
                     "description": "Edition of 100. Digital photographs by Tara Nehme, Amsterdam-based independent photographer. From dreamlike landscapes to urban wonders, the images portray the tender interplay between natural formations and the contemporary world. Frequently taken from a distance, in an almost voyeuristic perspective, the photographer separates herself from the scene only to capture the most natural of moments. Printed on museum quality fine art paper.",
@@ -1263,7 +1263,7 @@
                         "GLOBAL-FAP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1HC98nPGQBYVyHNpICotyUBnX8x-uXK7u/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1HC98nPGQBYVyHNpICotyUBnX8x-uXK7u"
                                 }
                             },
                             "retail_price": 103.00
@@ -1271,7 +1271,7 @@
                         "GLOBAL-FAP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1Sm5cdcnJI4hMA3NHepL_Nl5PYPG3ZTP2/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1Sm5cdcnJI4hMA3NHepL_Nl5PYPG3ZTP2"
                                 }
                             },
                             "retail_price": 183.00
@@ -1279,7 +1279,7 @@
                         "GLOBAL-FAP-28x40-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/11UmIN7oVyBLgxbIpT0PMdu2sJBiSZleU/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=11UmIN7oVyBLgxbIpT0PMdu2sJBiSZleU"
                                 }
                             },
                             "retail_price": 318.00
@@ -1292,7 +1292,7 @@
                         "GLOBAL-CFP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1HC98nPGQBYVyHNpICotyUBnX8x-uXK7u/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1HC98nPGQBYVyHNpICotyUBnX8x-uXK7u"
                                 }
                             },
                             "retail_price": 78.00
@@ -1300,7 +1300,7 @@
                         "GLOBAL-CFP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1Sm5cdcnJI4hMA3NHepL_Nl5PYPG3ZTP2/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1Sm5cdcnJI4hMA3NHepL_Nl5PYPG3ZTP2"
                                 }
                             },
                             "retail_price": 138.00
@@ -1308,7 +1308,7 @@
                         "GLOBAL-CFP-28x40-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/11UmIN7oVyBLgxbIpT0PMdu2sJBiSZleU/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=11UmIN7oVyBLgxbIpT0PMdu2sJBiSZleU"
                                 }
                             },
                             "retail_price": 258.00
@@ -1319,7 +1319,7 @@
         },
         {
             "title": "Synthesis  (Part III)",
-            "user_image_url": "https://drive.google.com/file/d/1vNgRq1oIqLlV6I6buReEfJG3pF2Ga0oh/view?usp=sharing",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1vNgRq1oIqLlV6I6buReEfJG3pF2Ga0oh",
             "products": {
                 "global-fap": {
                     "description": "Edition of 100. Digital photographs by Tara Nehme, Amsterdam-based independent photographer. From dreamlike landscapes to urban wonders, the images portray the tender interplay between natural formations and the contemporary world. Frequently taken from a distance, in an almost voyeuristic perspective, the photographer separates herself from the scene only to capture the most natural of moments. Printed on museum quality fine art paper.",
@@ -1327,7 +1327,7 @@
                         "GLOBAL-FAP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1ycVvvmHWFZa9w_Yki_dCVvOTH0ysVRI7/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1ycVvvmHWFZa9w_Yki_dCVvOTH0ysVRI7"
                                 }
                             },
                             "retail_price": 103.00
@@ -1335,7 +1335,7 @@
                         "GLOBAL-FAP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1zotwVZRQINEhiwZGA5JsCtGeSqxQDYlY/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1zotwVZRQINEhiwZGA5JsCtGeSqxQDYlY"
                                 }
                             },
                             "retail_price": 183.00
@@ -1343,7 +1343,7 @@
                         "GLOBAL-FAP-28x40-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1vNgRq1oIqLlV6I6buReEfJG3pF2Ga0oh/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1vNgRq1oIqLlV6I6buReEfJG3pF2Ga0oh"
                                 }
                             },
                             "retail_price": 318.00
@@ -1356,7 +1356,7 @@
                         "GLOBAL-CFP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1ycVvvmHWFZa9w_Yki_dCVvOTH0ysVRI7/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1ycVvvmHWFZa9w_Yki_dCVvOTH0ysVRI7"
                                 }
                             },
                             "retail_price": 78.00
@@ -1364,7 +1364,7 @@
                         "GLOBAL-CFP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1zotwVZRQINEhiwZGA5JsCtGeSqxQDYlY/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1zotwVZRQINEhiwZGA5JsCtGeSqxQDYlY"
                                 }
                             },
                             "retail_price": 138.00
@@ -1372,7 +1372,7 @@
                         "GLOBAL-CFP-28x40-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1vNgRq1oIqLlV6I6buReEfJG3pF2Ga0oh/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1vNgRq1oIqLlV6I6buReEfJG3pF2Ga0oh"
                                 }
                             },
                             "retail_price": 258.00
@@ -1383,7 +1383,7 @@
         },
         {
             "title": "Thrive",
-            "user_image_url": "https://drive.google.com/file/d/1ueEexAh-kjffXABPAu8rIq9vlPXSKhBB/view?usp=sharing",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1ueEexAh-kjffXABPAu8rIq9vlPXSKhBB",
             "products": {
                 "global-fap": {
                     "description": "Edition of 100. Digital photographs by Tara Nehme, Amsterdam-based independent photographer. From dreamlike landscapes to urban wonders, the images portray the tender interplay between natural formations and the contemporary world. Frequently taken from a distance, in an almost voyeuristic perspective, the photographer separates herself from the scene only to capture the most natural of moments. Printed on museum quality fine art paper.",
@@ -1391,7 +1391,7 @@
                         "GLOBAL-FAP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1Jm9XY8ISQx-NKW0qCx4tj6Te2zZWy0up/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1Jm9XY8ISQx-NKW0qCx4tj6Te2zZWy0up"
                                 }
                             },
                             "retail_price": 73.00
@@ -1399,7 +1399,7 @@
                         "GLOBAL-FAP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1WWwFXEtJHDTb0M5cvJz-3XSNSEvo4Yd7/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1WWwFXEtJHDTb0M5cvJz-3XSNSEvo4Yd7"
                                 }
                             },
                             "retail_price": 153.00
@@ -1407,7 +1407,7 @@
                         "GLOBAL-FAP-28x40-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1ueEexAh-kjffXABPAu8rIq9vlPXSKhBB/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1ueEexAh-kjffXABPAu8rIq9vlPXSKhBB"
                                 }
                             },
                             "retail_price": 288.00
@@ -1420,7 +1420,7 @@
                         "GLOBAL-CFP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1Jm9XY8ISQx-NKW0qCx4tj6Te2zZWy0up/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1Jm9XY8ISQx-NKW0qCx4tj6Te2zZWy0up"
                                 }
                             },
                             "retail_price": 48.00
@@ -1428,7 +1428,7 @@
                         "GLOBAL-CFP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1WWwFXEtJHDTb0M5cvJz-3XSNSEvo4Yd7/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1WWwFXEtJHDTb0M5cvJz-3XSNSEvo4Yd7"
                                 }
                             },
                             "retail_price": 108.00
@@ -1436,7 +1436,7 @@
                         "GLOBAL-CFP-28x40-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1ueEexAh-kjffXABPAu8rIq9vlPXSKhBB/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1ueEexAh-kjffXABPAu8rIq9vlPXSKhBB"
                                 }
                             },
                             "retail_price": 228.00
@@ -1447,7 +1447,7 @@
         },
         {
             "title": "Too Good To Care",
-            "user_image_url": "https://drive.google.com/file/d/14kBOqbI7HsYqNHMA9iXIP21BABP1DDHY/view?usp=sharing",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=14kBOqbI7HsYqNHMA9iXIP21BABP1DDHY",
             "products": {
                 "global-fap": {
                     "description": "Edition of 100. Digital photographs by Tara Nehme, Amsterdam-based independent photographer. From dreamlike landscapes to urban wonders, the images portray the tender interplay between natural formations and the contemporary world. Frequently taken from a distance, in an almost voyeuristic perspective, the photographer separates herself from the scene only to capture the most natural of moments. Printed on museum quality fine art paper.",
@@ -1455,7 +1455,7 @@
                         "GLOBAL-FAP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1OirJS4BU36eXaKFvFE-pc4wYyrc7gy3g/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1OirJS4BU36eXaKFvFE-pc4wYyrc7gy3g"
                                 }
                             },
                             "retail_price": 83.00
@@ -1463,7 +1463,7 @@
                         "GLOBAL-FAP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1j_7HuvF6pQZ_TF8rGDU7iKhD5OMcaLiI/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1j_7HuvF6pQZ_TF8rGDU7iKhD5OMcaLiI"
                                 }
                             },
                             "retail_price": 163.00
@@ -1471,7 +1471,7 @@
                         "GLOBAL-FAP-28x40-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/14kBOqbI7HsYqNHMA9iXIP21BABP1DDHY/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=14kBOqbI7HsYqNHMA9iXIP21BABP1DDHY"
                                 }
                             },
                             "retail_price": 298.00
@@ -1484,7 +1484,7 @@
                         "GLOBAL-CFP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1OirJS4BU36eXaKFvFE-pc4wYyrc7gy3g/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1OirJS4BU36eXaKFvFE-pc4wYyrc7gy3g"
                                 }
                             },
                             "retail_price": 58.00
@@ -1492,7 +1492,7 @@
                         "GLOBAL-CFP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1j_7HuvF6pQZ_TF8rGDU7iKhD5OMcaLiI/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1j_7HuvF6pQZ_TF8rGDU7iKhD5OMcaLiI"
                                 }
                             },
                             "retail_price": 118.00
@@ -1500,7 +1500,7 @@
                         "GLOBAL-CFP-28x40-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/14kBOqbI7HsYqNHMA9iXIP21BABP1DDHY/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=14kBOqbI7HsYqNHMA9iXIP21BABP1DDHY"
                                 }
                             },
                             "retail_price": 238.00
@@ -1511,7 +1511,7 @@
         },
         {
             "title": "Wholesome",
-            "user_image_url": "https://drive.google.com/file/d/1Um16E3zqhGRey8VAb-miqi-gkcqeWX6M/view?usp=sharing",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1Um16E3zqhGRey8VAb-miqi-gkcqeWX6M",
             "products": {
                 "global-fap": {
                     "description": "Edition of 100. Digital photographs by Tara Nehme, Amsterdam-based independent photographer. From dreamlike landscapes to urban wonders, the images portray the tender interplay between natural formations and the contemporary world. Frequently taken from a distance, in an almost voyeuristic perspective, the photographer separates herself from the scene only to capture the most natural of moments. Printed on museum quality fine art paper.",
@@ -1519,7 +1519,7 @@
                         "GLOBAL-FAP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1JysY4EEX2x6qbYRh4OPX6biD2joqnqN_/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1JysY4EEX2x6qbYRh4OPX6biD2joqnqN_"
                                 }
                             },
                             "retail_price": 73.00
@@ -1527,7 +1527,7 @@
                         "GLOBAL-FAP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1AafUPv404b_77QGey_XTK_ihrE_gB6Fq/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1AafUPv404b_77QGey_XTK_ihrE_gB6Fq"
                                 }
                             },
                             "retail_price": 153.00
@@ -1535,7 +1535,7 @@
                         "GLOBAL-FAP-28x40-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1Um16E3zqhGRey8VAb-miqi-gkcqeWX6M/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1Um16E3zqhGRey8VAb-miqi-gkcqeWX6M"
                                 }
                             },
                             "retail_price": 288.00
@@ -1548,7 +1548,7 @@
                         "GLOBAL-CFP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1JysY4EEX2x6qbYRh4OPX6biD2joqnqN_/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1JysY4EEX2x6qbYRh4OPX6biD2joqnqN_"
                                 }
                             },
                             "retail_price": 48.00
@@ -1556,7 +1556,7 @@
                         "GLOBAL-CFP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1AafUPv404b_77QGey_XTK_ihrE_gB6Fq/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1AafUPv404b_77QGey_XTK_ihrE_gB6Fq"
                                 }
                             },
                             "retail_price": 108.00
@@ -1564,7 +1564,7 @@
                         "GLOBAL-CFP-28x40-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/file/d/1Um16E3zqhGRey8VAb-miqi-gkcqeWX6M/view?usp=sharing"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1Um16E3zqhGRey8VAb-miqi-gkcqeWX6M"
                                 }
                             },
                             "retail_price": 228.00

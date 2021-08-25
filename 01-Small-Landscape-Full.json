@@ -26,38 +26,6 @@
     },
     "product_ranges": [
         {
-            "title": "Column (Blue) [Full]",
-            "user_image_url": "https://drive.google.com/uc?export=download&id=1gh4J0WjPgejdQBhryDqFoWMGZNaHHqmT",
-            "products": {
-                "global-fap": {
-                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. An air of the familiar, yet the excitement of the unknown is definitive of our illustrations. Nostalgic of a moment or an experience you’ve never had, a person you never knew or a song you never heard. The aim is for artworks to take you somewhere for the first time, again. Printed on museum quality fine art paper.",
-                    "variants": {
-                        "GLOBAL-FAP-12x16-LANDSCAPE": {
-                            "images": {
-                                "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1gh4J0WjPgejdQBhryDqFoWMGZNaHHqmT"
-                                }
-                            },
-                            "retail_price": 48.00
-                        }
-                    }
-                },
-                "global-cfp": {
-                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. An air of the familiar, yet the excitement of the unknown is definitive of our illustrations. Nostalgic of a moment or an experience you’ve never had, a person you never knew or a song you never heard. The aim is for artworks to take you somewhere for the first time, again. Printed on museum quality fine art paper.",
-                    "variants": {
-                        "GLOBAL-CFP-12x16-LANDSCAPE": {
-                            "images": {
-                                "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1gh4J0WjPgejdQBhryDqFoWMGZNaHHqmT"
-                                }
-                            },
-                            "retail_price": 153.00
-                        }
-                    }
-                }
-            }
-        },
-        {
             "title": "Column (Pink) [Full]",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1oe1DICBWIyAFq9bSvErG_75YMGjqvhbT",
             "products": {

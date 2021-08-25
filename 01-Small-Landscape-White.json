@@ -26,134 +26,6 @@
     },
     "product_ranges": [
         {
-            "title": "Après Chic [White]",
-            "user_image_url": "https://drive.google.com/uc?export=download&id=1J4iY_7paijNnO51zM30U83FPY6MWOYLS",
-            "products": {
-                "global-fap": {
-                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
-                    "variants": {
-                        "GLOBAL-FAP-12x16-LANDSCAPE": {
-                            "images": {
-                                "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1J4iY_7paijNnO51zM30U83FPY6MWOYLS"
-                                }
-                            },
-                            "retail_price": 58.00
-                        }
-                    }
-                },
-                "global-cfp": {
-                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
-                    "variants": {
-                        "GLOBAL-CFP-12x16-LANDSCAPE": {
-                            "images": {
-                                "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1J4iY_7paijNnO51zM30U83FPY6MWOYLS"
-                                }
-                            },
-                            "retail_price": 83.00
-                        }
-                    }
-                }
-            }
-        },
-        {
-            "title": "Bisoux [White]",
-            "user_image_url": "https://drive.google.com/uc?export=download&id=1SMwnIT_-8WaR51YWR_UAxd1GkC__KhbQ",
-            "products": {
-                "global-fap": {
-                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper. ",
-                    "variants": {
-                        "GLOBAL-FAP-12x16-LANDSCAPE": {
-                            "images": {
-                                "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1SMwnIT_-8WaR51YWR_UAxd1GkC__KhbQ"
-                                }
-                            },
-                            "retail_price": 58.00
-                        }
-                    }
-                },
-                "global-cfp": {
-                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper. ",
-                    "variants": {
-                        "GLOBAL-CFP-12x16-LANDSCAPE": {
-                            "images": {
-                                "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1SMwnIT_-8WaR51YWR_UAxd1GkC__KhbQ"
-                                }
-                            },
-                            "retail_price": 83.00
-                        }
-                    }
-                }
-            }
-        },
-        {
-            "title": "BRB [White]",
-            "user_image_url": "https://drive.google.com/uc?export=download&id=1RHJvy716KQmIJENbFl4AvE7TkmUE_J2L",
-            "products": {
-                "global-fap": {
-                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper. ",
-                    "variants": {
-                        "GLOBAL-FAP-12x16-LANDSCAPE": {
-                            "images": {
-                                "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1RHJvy716KQmIJENbFl4AvE7TkmUE_J2L"
-                                }
-                            },
-                            "retail_price": 48.00
-                        }
-                    }
-                },
-                "global-cfp": {
-                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper. ",
-                    "variants": {
-                        "GLOBAL-CFP-12x16-LANDSCAPE": {
-                            "images": {
-                                "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1RHJvy716KQmIJENbFl4AvE7TkmUE_J2L"
-                                }
-                            },
-                            "retail_price": 73.00
-                        }
-                    }
-                }
-            }
-        },
-        {
-            "title": "Checkmate [White]",
-            "user_image_url": "https://drive.google.com/uc?export=download&id=1aW7I1sGIVlu_RaGgF11RYxK3yi6ACRAo",
-            "products": {
-                "global-fap": {
-                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.                 ",
-                    "variants": {
-                        "GLOBAL-FAP-12x16-LANDSCAPE": {
-                            "images": {
-                                "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1aW7I1sGIVlu_RaGgF11RYxK3yi6ACRAo"
-                                }
-                            },
-                            "retail_price": 48.00
-                        }
-                    }
-                },
-                "global-cfp": {
-                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper. ",
-                    "variants": {
-                        "GLOBAL-CFP-12x16-LANDSCAPE": {
-                            "images": {
-                                "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1aW7I1sGIVlu_RaGgF11RYxK3yi6ACRAo"
-                                }
-                            },
-                            "retail_price": 73.00
-                        }
-                    }
-                }
-            }
-        },
-        {
             "title": "Concrete Goals [White]",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1H0Z0n1o7gNU5bXUHpAD8h6hwfG2YgDng",
             "products": {
@@ -163,7 +35,7 @@
                         "GLOBAL-FAP-12x16-LANDSCAPE": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1s5V1PEjuE4OZdKeceTeO5NSFMnDBsb0o"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1H0Z0n1o7gNU5bXUHpAD8h6hwfG2YgDng"
                                 }
                             },
                             "retail_price": 58.00
@@ -176,7 +48,7 @@
                         "GLOBAL-CFP-12x16-LANDSCAPE": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1s5V1PEjuE4OZdKeceTeO5NSFMnDBsb0o"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1H0Z0n1o7gNU5bXUHpAD8h6hwfG2YgDng"
                                 }
                             },
                             "retail_price": 83.00

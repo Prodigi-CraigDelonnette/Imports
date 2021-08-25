@@ -1,0 +1,1565 @@
+{
+    "product_range_defaults": {
+        "published": true
+    },
+    "product_defaults": {
+        "enabled": false
+    },
+    "products_defaults": {
+        "global-fap": {
+            "enabled": true
+        },
+        "global-cfp": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false
+    },
+    "variants_defaults": {
+        "GLOBAL-FAP-12x16-PORTRAIT": {
+            "enabled": true
+        },
+        "GLOBAL-CFP-12x16-PORTRAIT": {
+            "enabled": true
+        }
+    },
+    "product_ranges": [
+        {
+            "title": "All the Same [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1vYS95vdy28Qb91UwU1HkupAXrf2lHzHr",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1vYS95vdy28Qb91UwU1HkupAXrf2lHzHr"
+                                }
+                            },
+                            "retail_price": 58.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1vYS95vdy28Qb91UwU1HkupAXrf2lHzHr"
+                                }
+                            },
+                            "retail_price": 83.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Coral Sun [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1r-haLr6qsXTpraB0jkuiNUOwOCgHKf9T",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1r-haLr6qsXTpraB0jkuiNUOwOCgHKf9T"
+                                }
+                            },
+                            "retail_price": 48.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1r-haLr6qsXTpraB0jkuiNUOwOCgHKf9T"
+                                }
+                            },
+                            "retail_price": 73.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Fleruice [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=13oJzv9mfUWsELAPRJQqEP4D6JL1t_6jL",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=13oJzv9mfUWsELAPRJQqEP4D6JL1t_6jL"
+                                }
+                            },
+                            "retail_price": 48.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=13oJzv9mfUWsELAPRJQqEP4D6JL1t_6jL"
+                                }
+                            },
+                            "retail_price": 73.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Kiss, Kiss [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1H7DnGdc0kddg1unZ8FP_0muL3Z0U579O",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1H7DnGdc0kddg1unZ8FP_0muL3Z0U579O"
+                                }
+                            },
+                            "retail_price": 48.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1H7DnGdc0kddg1unZ8FP_0muL3Z0U579O"
+                                }
+                            },
+                            "retail_price": 73.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "La Isla Bonita [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1zfozJSXFbc6HYBj5-r8PD7hm2FIT9dzp",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1zfozJSXFbc6HYBj5-r8PD7hm2FIT9dzp"
+                                }
+                            },
+                            "retail_price": 58.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1zfozJSXFbc6HYBj5-r8PD7hm2FIT9dzp"
+                                }
+                            },
+                            "retail_price": 83.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Lasso the Moon [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1lIvuNWwyJ5aQZ8a1daGDCQjOYs5RiGBm",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1lIvuNWwyJ5aQZ8a1daGDCQjOYs5RiGBm"
+                                }
+                            },
+                            "retail_price": 58.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1lIvuNWwyJ5aQZ8a1daGDCQjOYs5RiGBm"
+                                }
+                            },
+                            "retail_price": 83.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Lunas [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1LazqcdcXEZwVYfx4--tqWcfLpYSQmpsM",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1LazqcdcXEZwVYfx4--tqWcfLpYSQmpsM"
+                                }
+                            },
+                            "retail_price": 58.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1LazqcdcXEZwVYfx4--tqWcfLpYSQmpsM"
+                                }
+                            },
+                            "retail_price": 83.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Moments [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1iTvnnctSKgoSak2kO2SV9FNEXk-O8EWC",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1iTvnnctSKgoSak2kO2SV9FNEXk-O8EWC"
+                                }
+                            },
+                            "retail_price": 48.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1iTvnnctSKgoSak2kO2SV9FNEXk-O8EWC"
+                                }
+                            },
+                            "retail_price": 73.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Oops [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1xZwt3uHJj4RwEUeDONTTnKuNgYPSJGR_",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1xZwt3uHJj4RwEUeDONTTnKuNgYPSJGR_"
+                                }
+                            },
+                            "retail_price": 48.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1xZwt3uHJj4RwEUeDONTTnKuNgYPSJGR_"
+                                }
+                            },
+                            "retail_price": 73.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Shelldom [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1g-B-oOwdukI71F9ZbF80Ev-p-YZgd3v1",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1g-B-oOwdukI71F9ZbF80Ev-p-YZgd3v1"
+                                }
+                            },
+                            "retail_price": 58.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1g-B-oOwdukI71F9ZbF80Ev-p-YZgd3v1"
+                                }
+                            },
+                            "retail_price": 83.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Snowball Sun [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1dGSQOpl-sZExEzghuDSt0Y_VgdeFbyLl",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1dGSQOpl-sZExEzghuDSt0Y_VgdeFbyLl"
+                                }
+                            },
+                            "retail_price": 48.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1dGSQOpl-sZExEzghuDSt0Y_VgdeFbyLl"
+                                }
+                            },
+                            "retail_price": 73.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Solar Surf [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1bczVIlPIIPh1CYROW4pmxD8Nlqb2mzuC",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1bczVIlPIIPh1CYROW4pmxD8Nlqb2mzuC"
+                                }
+                            },
+                            "retail_price": 48.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1bczVIlPIIPh1CYROW4pmxD8Nlqb2mzuC"
+                                }
+                            },
+                            "retail_price": 73.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "The Pink Ladies [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1SvorJuf_5854lYK6CzAMzS2TBowsH_Xq",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1SvorJuf_5854lYK6CzAMzS2TBowsH_Xq"
+                                }
+                            },
+                            "retail_price": 58.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1SvorJuf_5854lYK6CzAMzS2TBowsH_Xq"
+                                }
+                            },
+                            "retail_price": 83.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "The Warmth of the Sun [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1R9MhtEWxlXCiD6mfK3zZUoww31F4b6pH",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1R9MhtEWxlXCiD6mfK3zZUoww31F4b6pH"
+                                }
+                            },
+                            "retail_price": 58.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1R9MhtEWxlXCiD6mfK3zZUoww31F4b6pH"
+                                }
+                            },
+                            "retail_price": 83.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Toblerone [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1BNd1e7qe9Nemyuh1wvB3_mSHozvdOJOj",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1BNd1e7qe9Nemyuh1wvB3_mSHozvdOJOj"
+                                }
+                            },
+                            "retail_price": 58.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1BNd1e7qe9Nemyuh1wvB3_mSHozvdOJOj"
+                                }
+                            },
+                            "retail_price": 83.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "When Fish Fly [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1czgMqSWUalmAmz7Muca1MqYJOVVPYdo_",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1czgMqSWUalmAmz7Muca1MqYJOVVPYdo_"
+                                }
+                            },
+                            "retail_price": 48.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1czgMqSWUalmAmz7Muca1MqYJOVVPYdo_"
+                                }
+                            },
+                            "retail_price": 73.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Wishy Washy [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1OYN2vjQXdUjjjt-YL8SYZjOmnX6k6Eil",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1OYN2vjQXdUjjjt-YL8SYZjOmnX6k6Eil"
+                                }
+                            },
+                            "retail_price": 48.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1OYN2vjQXdUjjjt-YL8SYZjOmnX6k6Eil"
+                                }
+                            },
+                            "retail_price": 73.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Ancient Muse [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1XEi9DafcGNU28wixnZZ4VN-OEmX7zFb3",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. An air of the familiar, yet the excitement of the unknown is definitive of our illustrations. Nostalgic of a moment or an experience you’ve never had, a person you never knew or a song you never heard. The aim is for artworks to take you somewhere for the first time, again. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1XEi9DafcGNU28wixnZZ4VN-OEmX7zFb3"
+                                }
+                            },
+                            "retail_price": 58.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. An air of the familiar, yet the excitement of the unknown is definitive of our illustrations. Nostalgic of a moment or an experience you’ve never had, a person you never knew or a song you never heard. The aim is for artworks to take you somewhere for the first time, again. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1XEi9DafcGNU28wixnZZ4VN-OEmX7zFb3"
+                                }
+                            },
+                            "retail_price": 118.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Aqueduct [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1lWtbQb0Fwwf_c9WR-RYlrT3xES6gThGD",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. An air of the familiar, yet the excitement of the unknown is definitive of our illustrations. Nostalgic of a moment or an experience you’ve never had, a person you never knew or a song you never heard. The aim is for artworks to take you somewhere for the first time, again. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1lWtbQb0Fwwf_c9WR-RYlrT3xES6gThGD"
+                                }
+                            },
+                            "retail_price": 48.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. An air of the familiar, yet the excitement of the unknown is definitive of our illustrations. Nostalgic of a moment or an experience you’ve never had, a person you never knew or a song you never heard. The aim is for artworks to take you somewhere for the first time, again. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1lWtbQb0Fwwf_c9WR-RYlrT3xES6gThGD"
+                                }
+                            },
+                            "retail_price": 108.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Bath Scene [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1FabQjLUs0nvqRASK_HQhLfLsfZe9XiG3",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. An air of the familiar, yet the excitement of the unknown is definitive of our illustrations. Nostalgic of a moment or an experience you’ve never had, a person you never knew or a song you never heard. The aim is for artworks to take you somewhere for the first time, again. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1FabQjLUs0nvqRASK_HQhLfLsfZe9XiG3"
+                                }
+                            },
+                            "retail_price": 58.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. An air of the familiar, yet the excitement of the unknown is definitive of our illustrations. Nostalgic of a moment or an experience you’ve never had, a person you never knew or a song you never heard. The aim is for artworks to take you somewhere for the first time, again. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1FabQjLUs0nvqRASK_HQhLfLsfZe9XiG3"
+                                }
+                            },
+                            "retail_price": 118.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Contempt [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=11AQIuIHcRu6O9gRKAIxieLDkFY4tL8QF",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. An air of the familiar, yet the excitement of the unknown is definitive of our illustrations. Nostalgic of a moment or an experience you’ve never had, a person you never knew or a song you never heard. The aim is for artworks to take you somewhere for the first time, again. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=11AQIuIHcRu6O9gRKAIxieLDkFY4tL8QF"
+                                }
+                            },
+                            "retail_price": 58.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. An air of the familiar, yet the excitement of the unknown is definitive of our illustrations. Nostalgic of a moment or an experience you’ve never had, a person you never knew or a song you never heard. The aim is for artworks to take you somewhere for the first time, again. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=11AQIuIHcRu6O9gRKAIxieLDkFY4tL8QF"
+                                }
+                            },
+                            "retail_price": 118.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Don't Get Ahead [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1fInmPeWczE_InvvXnOJ_edWYtiJWcalZ",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. An air of the familiar, yet the excitement of the unknown is definitive of our illustrations. Nostalgic of a moment or an experience you’ve never had, a person you never knew or a song you never heard. The aim is for artworks to take you somewhere for the first time, again. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1fInmPeWczE_InvvXnOJ_edWYtiJWcalZ"
+                                }
+                            },
+                            "retail_price": 58.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. An air of the familiar, yet the excitement of the unknown is definitive of our illustrations. Nostalgic of a moment or an experience you’ve never had, a person you never knew or a song you never heard. The aim is for artworks to take you somewhere for the first time, again. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1fInmPeWczE_InvvXnOJ_edWYtiJWcalZ"
+                                }
+                            },
+                            "retail_price": 118.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Kisses to the Columns [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1YMFteg0quD3HECQQOsP1vJlW7MHHNPK7",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. An air of the familiar, yet the excitement of the unknown is definitive of our illustrations. Nostalgic of a moment or an experience you’ve never had, a person you never knew or a song you never heard. The aim is for artworks to take you somewhere for the first time, again. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1YMFteg0quD3HECQQOsP1vJlW7MHHNPK7"
+                                }
+                            },
+                            "retail_price": 48.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. An air of the familiar, yet the excitement of the unknown is definitive of our illustrations. Nostalgic of a moment or an experience you’ve never had, a person you never knew or a song you never heard. The aim is for artworks to take you somewhere for the first time, again. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1YMFteg0quD3HECQQOsP1vJlW7MHHNPK7"
+                                }
+                            },
+                            "retail_price": 108.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Lost at Sea [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1JWLryew_ZcQtJOUzF5pPuElf3FaA6bVs",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. An air of the familiar, yet the excitement of the unknown is definitive of our illustrations. Nostalgic of a moment or an experience you’ve never had, a person you never knew or a song you never heard. The aim is for artworks to take you somewhere for the first time, again. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1JWLryew_ZcQtJOUzF5pPuElf3FaA6bVs"
+                                }
+                            },
+                            "retail_price": 48.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. An air of the familiar, yet the excitement of the unknown is definitive of our illustrations. Nostalgic of a moment or an experience you’ve never had, a person you never knew or a song you never heard. The aim is for artworks to take you somewhere for the first time, again. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1JWLryew_ZcQtJOUzF5pPuElf3FaA6bVs"
+                                }
+                            },
+                            "retail_price": 108.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Magritte's Eye [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1CbPTR4perbCJv2h7-Wrd7YjMjf_gxvnp",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. An air of the familiar, yet the excitement of the unknown is definitive of our illustrations. Nostalgic of a moment or an experience you’ve never had, a person you never knew or a song you never heard. The aim is for artworks to take you somewhere for the first time, again. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1CbPTR4perbCJv2h7-Wrd7YjMjf_gxvnp"
+                                }
+                            },
+                            "retail_price": 58.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. An air of the familiar, yet the excitement of the unknown is definitive of our illustrations. Nostalgic of a moment or an experience you’ve never had, a person you never knew or a song you never heard. The aim is for artworks to take you somewhere for the first time, again. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1CbPTR4perbCJv2h7-Wrd7YjMjf_gxvnp"
+                                }
+                            },
+                            "retail_price": 118.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Marble Arch [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1GplCVVZ_fbtTAMSajaiYpUw-EeFmSPsU",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. An air of the familiar, yet the excitement of the unknown is definitive of our illustrations. Nostalgic of a moment or an experience you’ve never had, a person you never knew or a song you never heard. The aim is for artworks to take you somewhere for the first time, again. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1GplCVVZ_fbtTAMSajaiYpUw-EeFmSPsU"
+                                }
+                            },
+                            "retail_price": 48.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. An air of the familiar, yet the excitement of the unknown is definitive of our illustrations. Nostalgic of a moment or an experience you’ve never had, a person you never knew or a song you never heard. The aim is for artworks to take you somewhere for the first time, again. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1GplCVVZ_fbtTAMSajaiYpUw-EeFmSPsU"
+                                }
+                            },
+                            "retail_price": 108.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Respite [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1aPHe_8OaJVWT-7Sdj11A5A5pkqwq4XjP",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. An air of the familiar, yet the excitement of the unknown is definitive of our illustrations. Nostalgic of a moment or an experience you’ve never had, a person you never knew or a song you never heard. The aim is for artworks to take you somewhere for the first time, again. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1aPHe_8OaJVWT-7Sdj11A5A5pkqwq4XjP"
+                                }
+                            },
+                            "retail_price": 48.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. An air of the familiar, yet the excitement of the unknown is definitive of our illustrations. Nostalgic of a moment or an experience you’ve never had, a person you never knew or a song you never heard. The aim is for artworks to take you somewhere for the first time, again. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1aPHe_8OaJVWT-7Sdj11A5A5pkqwq4XjP"
+                                }
+                            },
+                            "retail_price": 108.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Shine [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1nVHHAIVnrQN-etAYfHjCT_vJkBEdNAYU",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. An air of the familiar, yet the excitement of the unknown is definitive of our illustrations. Nostalgic of a moment or an experience you’ve never had, a person you never knew or a song you never heard. The aim is for artworks to take you somewhere for the first time, again. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1nVHHAIVnrQN-etAYfHjCT_vJkBEdNAYU"
+                                }
+                            },
+                            "retail_price": 48.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. An air of the familiar, yet the excitement of the unknown is definitive of our illustrations. Nostalgic of a moment or an experience you’ve never had, a person you never knew or a song you never heard. The aim is for artworks to take you somewhere for the first time, again. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1nVHHAIVnrQN-etAYfHjCT_vJkBEdNAYU"
+                                }
+                            },
+                            "retail_price": 108.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Sneak Peak [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1k1yUT8bdLYHnv4gEtmJl2TzU7bBZfcbF",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. An air of the familiar, yet the excitement of the unknown is definitive of our illustrations. Nostalgic of a moment or an experience you’ve never had, a person you never knew or a song you never heard. The aim is for artworks to take you somewhere for the first time, again. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1k1yUT8bdLYHnv4gEtmJl2TzU7bBZfcbF"
+                                }
+                            },
+                            "retail_price": 58.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. An air of the familiar, yet the excitement of the unknown is definitive of our illustrations. Nostalgic of a moment or an experience you’ve never had, a person you never knew or a song you never heard. The aim is for artworks to take you somewhere for the first time, again. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1k1yUT8bdLYHnv4gEtmJl2TzU7bBZfcbF"
+                                }
+                            },
+                            "retail_price": 118.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Stone Cold Love [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1Ommm47MK0ldv3ExxaN_mZvdujCdkDeFX",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. An air of the familiar, yet the excitement of the unknown is definitive of our illustrations. Nostalgic of a moment or an experience you’ve never had, a person you never knew or a song you never heard. The aim is for artworks to take you somewhere for the first time, again. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1Ommm47MK0ldv3ExxaN_mZvdujCdkDeFX"
+                                }
+                            },
+                            "retail_price": 78.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. An air of the familiar, yet the excitement of the unknown is definitive of our illustrations. Nostalgic of a moment or an experience you’ve never had, a person you never knew or a song you never heard. The aim is for artworks to take you somewhere for the first time, again. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1Ommm47MK0ldv3ExxaN_mZvdujCdkDeFX"
+                                }
+                            },
+                            "retail_price": 138.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Swimmer [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1x39_ZNFRkF7V3xu1ivkxjpNoFJvx8Szq",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. An air of the familiar, yet the excitement of the unknown is definitive of our illustrations. Nostalgic of a moment or an experience you’ve never had, a person you never knew or a song you never heard. The aim is for artworks to take you somewhere for the first time, again. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1x39_ZNFRkF7V3xu1ivkxjpNoFJvx8Szq"
+                                }
+                            },
+                            "retail_price": 58.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. An air of the familiar, yet the excitement of the unknown is definitive of our illustrations. Nostalgic of a moment or an experience you’ve never had, a person you never knew or a song you never heard. The aim is for artworks to take you somewhere for the first time, again. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1x39_ZNFRkF7V3xu1ivkxjpNoFJvx8Szq"
+                                }
+                            },
+                            "retail_price": 118.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Tropique Bird [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1x6I-hCWNJ3dS6PLAGL3T1Q6TmYUFyj2C",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. An air of the familiar, yet the excitement of the unknown is definitive of our illustrations. Nostalgic of a moment or an experience you’ve never had, a person you never knew or a song you never heard. The aim is for artworks to take you somewhere for the first time, again. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1x6I-hCWNJ3dS6PLAGL3T1Q6TmYUFyj2C"
+                                }
+                            },
+                            "retail_price": 58.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. An air of the familiar, yet the excitement of the unknown is definitive of our illustrations. Nostalgic of a moment or an experience you’ve never had, a person you never knew or a song you never heard. The aim is for artworks to take you somewhere for the first time, again. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1x6I-hCWNJ3dS6PLAGL3T1Q6TmYUFyj2C"
+                                }
+                            },
+                            "retail_price": 118.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Wild One [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1hGr73hobRR00NPXJiPCfMzdPu6bLftdw",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. An air of the familiar, yet the excitement of the unknown is definitive of our illustrations. Nostalgic of a moment or an experience you’ve never had, a person you never knew or a song you never heard. The aim is for artworks to take you somewhere for the first time, again. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1hGr73hobRR00NPXJiPCfMzdPu6bLftdw"
+                                }
+                            },
+                            "retail_price": 48.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. An air of the familiar, yet the excitement of the unknown is definitive of our illustrations. Nostalgic of a moment or an experience you’ve never had, a person you never knew or a song you never heard. The aim is for artworks to take you somewhere for the first time, again. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1hGr73hobRR00NPXJiPCfMzdPu6bLftdw"
+                                }
+                            },
+                            "retail_price": 108.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "With Loving Arms (Blue) [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1GixGHOaUogJJlnd8maxeGWfMKGPb86Az",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. An air of the familiar, yet the excitement of the unknown is definitive of our illustrations. Nostalgic of a moment or an experience you’ve never had, a person you never knew or a song you never heard. The aim is for artworks to take you somewhere for the first time, again. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1GixGHOaUogJJlnd8maxeGWfMKGPb86Az"
+                                }
+                            },
+                            "retail_price": 58.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. An air of the familiar, yet the excitement of the unknown is definitive of our illustrations. Nostalgic of a moment or an experience you’ve never had, a person you never knew or a song you never heard. The aim is for artworks to take you somewhere for the first time, again. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1GixGHOaUogJJlnd8maxeGWfMKGPb86Az"
+                                }
+                            },
+                            "retail_price": 118.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "With Loving Arms (Green) [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1iunRpCxEC5HsGZ980rNEViXQ8IqsuBfO",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. An air of the familiar, yet the excitement of the unknown is definitive of our illustrations. Nostalgic of a moment or an experience you’ve never had, a person you never knew or a song you never heard. The aim is for artworks to take you somewhere for the first time, again. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1iunRpCxEC5HsGZ980rNEViXQ8IqsuBfO"
+                                }
+                            },
+                            "retail_price": 58.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. An air of the familiar, yet the excitement of the unknown is definitive of our illustrations. Nostalgic of a moment or an experience you’ve never had, a person you never knew or a song you never heard. The aim is for artworks to take you somewhere for the first time, again. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1iunRpCxEC5HsGZ980rNEViXQ8IqsuBfO"
+                                }
+                            },
+                            "retail_price": 118.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Hedone [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=10vuLU54t_1fhCpzCwcKLsawgoevuoYGs",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed in collaboration with Dušica Nešković, Belgrade-based multidisciplinary designer and founder of Tesseromni Design Studio. Inspired by civilizations before us, drawing on the flowing architecture of temples and sacred spaces Dušica Nešković’s signature style shines through with organic forms and hand drawn shapes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=10vuLU54t_1fhCpzCwcKLsawgoevuoYGs"
+                                }
+                            },
+                            "retail_price": 83.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Designed in collaboration with Dušica Nešković, Belgrade-based multidisciplinary designer and founder of Tesseromni Design Studio. Inspired by civilizations before us, drawing on the flowing architecture of temples and sacred spaces Dušica Nešković’s signature style shines through with organic forms and hand drawn shapes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=10vuLU54t_1fhCpzCwcKLsawgoevuoYGs"
+                                }
+                            },
+                            "retail_price": 83.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Leading The Way [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1GFD6KTkY8pI7SX2fN3akqzFhAtl41q4m",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed in collaboration with Dušica Nešković, Belgrade-based multidisciplinary designer and founder of Tesseromni Design Studio. Inspired by civilizations before us, drawing on the flowing architecture of temples and sacred spaces Dušica Nešković’s signature style shines through with organic forms and hand drawn shapes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1GFD6KTkY8pI7SX2fN3akqzFhAtl41q4m"
+                                }
+                            },
+                            "retail_price": 83.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Designed in collaboration with Dušica Nešković, Belgrade-based multidisciplinary designer and founder of Tesseromni Design Studio. Inspired by civilizations before us, drawing on the flowing architecture of temples and sacred spaces Dušica Nešković’s signature style shines through with organic forms and hand drawn shapes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1GFD6KTkY8pI7SX2fN3akqzFhAtl41q4m"
+                                }
+                            },
+                            "retail_price": 83.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Lucky Limbo [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1FWRMlhmEXyq-6cJrQLGTRGtjo2mak5fR",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed in collaboration with Dušica Nešković, Belgrade-based multidisciplinary designer and founder of Tesseromni Design Studio. Inspired by civilizations before us, drawing on the flowing architecture of temples and sacred spaces Dušica Nešković’s signature style shines through with organic forms and hand drawn shapes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1FWRMlhmEXyq-6cJrQLGTRGtjo2mak5fR"
+                                }
+                            },
+                            "retail_price": 83.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Designed in collaboration with Dušica Nešković, Belgrade-based multidisciplinary designer and founder of Tesseromni Design Studio. Inspired by civilizations before us, drawing on the flowing architecture of temples and sacred spaces Dušica Nešković’s signature style shines through with organic forms and hand drawn shapes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1FWRMlhmEXyq-6cJrQLGTRGtjo2mak5fR"
+                                }
+                            },
+                            "retail_price": 83.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Magritte Says Hi [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1OdGfQ330lhtEDCwe_BTzQA-W4UTOb7Lz",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed in collaboration with Dušica Nešković, Belgrade-based multidisciplinary designer and founder of Tesseromni Design Studio. Inspired by civilizations before us, drawing on the flowing architecture of temples and sacred spaces Dušica Nešković’s signature style shines through with organic forms and hand drawn shapes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1OdGfQ330lhtEDCwe_BTzQA-W4UTOb7Lz"
+                                }
+                            },
+                            "retail_price": 83.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Designed in collaboration with Dušica Nešković, Belgrade-based multidisciplinary designer and founder of Tesseromni Design Studio. Inspired by civilizations before us, drawing on the flowing architecture of temples and sacred spaces Dušica Nešković’s signature style shines through with organic forms and hand drawn shapes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1OdGfQ330lhtEDCwe_BTzQA-W4UTOb7Lz"
+                                }
+                            },
+                            "retail_price": 83.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Memory of Clay [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1cqlg3hSmIT1iVHDUVKI4vVhcCn5UtW8B",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed in collaboration with Dušica Nešković, Belgrade-based multidisciplinary designer and founder of Tesseromni Design Studio. Inspired by civilizations before us, drawing on the flowing architecture of temples and sacred spaces Dušica Nešković’s signature style shines through with organic forms and hand drawn shapes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1cqlg3hSmIT1iVHDUVKI4vVhcCn5UtW8B"
+                                }
+                            },
+                            "retail_price": 83.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Designed in collaboration with Dušica Nešković, Belgrade-based multidisciplinary designer and founder of Tesseromni Design Studio. Inspired by civilizations before us, drawing on the flowing architecture of temples and sacred spaces Dušica Nešković’s signature style shines through with organic forms and hand drawn shapes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1cqlg3hSmIT1iVHDUVKI4vVhcCn5UtW8B"
+                                }
+                            },
+                            "retail_price": 83.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Minoan Dream [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1D1o-91sdHzlcMFuMuvm0zUGJHMHEnHIf",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed in collaboration with Dušica Nešković, Belgrade-based multidisciplinary designer and founder of Tesseromni Design Studio. Inspired by civilizations before us, drawing on the flowing architecture of temples and sacred spaces Dušica Nešković’s signature style shines through with organic forms and hand drawn shapes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1D1o-91sdHzlcMFuMuvm0zUGJHMHEnHIf"
+                                }
+                            },
+                            "retail_price": 83.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Designed in collaboration with Dušica Nešković, Belgrade-based multidisciplinary designer and founder of Tesseromni Design Studio. Inspired by civilizations before us, drawing on the flowing architecture of temples and sacred spaces Dušica Nešković’s signature style shines through with organic forms and hand drawn shapes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1D1o-91sdHzlcMFuMuvm0zUGJHMHEnHIf"
+                                }
+                            },
+                            "retail_price": 83.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Olympus Blue Nostalgia  [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=16pNEP_3PGdtVI-GjdqZYm3VPvRct4l4K",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed in collaboration with Dušica Nešković, Belgrade-based multidisciplinary designer and founder of Tesseromni Design Studio. Inspired by civilizations before us, drawing on the flowing architecture of temples and sacred spaces Dušica Nešković’s signature style shines through with organic forms and hand drawn shapes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=16pNEP_3PGdtVI-GjdqZYm3VPvRct4l4K"
+                                }
+                            },
+                            "retail_price": 83.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Designed in collaboration with Dušica Nešković, Belgrade-based multidisciplinary designer and founder of Tesseromni Design Studio. Inspired by civilizations before us, drawing on the flowing architecture of temples and sacred spaces Dušica Nešković’s signature style shines through with organic forms and hand drawn shapes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=16pNEP_3PGdtVI-GjdqZYm3VPvRct4l4K"
+                                }
+                            },
+                            "retail_price": 83.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Qualis Rex, Talis Grex [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1oFnIWvVoXYMq9amQT8tlx5XJ_xGmAdcM",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed in collaboration with Dušica Nešković, Belgrade-based multidisciplinary designer and founder of Tesseromni Design Studio. Inspired by civilizations before us, drawing on the flowing architecture of temples and sacred spaces Dušica Nešković’s signature style shines through with organic forms and hand drawn shapes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1oFnIWvVoXYMq9amQT8tlx5XJ_xGmAdcM"
+                                }
+                            },
+                            "retail_price": 83.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Designed in collaboration with Dušica Nešković, Belgrade-based multidisciplinary designer and founder of Tesseromni Design Studio. Inspired by civilizations before us, drawing on the flowing architecture of temples and sacred spaces Dušica Nešković’s signature style shines through with organic forms and hand drawn shapes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1oFnIWvVoXYMq9amQT8tlx5XJ_xGmAdcM"
+                                }
+                            },
+                            "retail_price": 83.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Sumerian Vanity [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1jnkWSvY2fC1V0RD_j7r243Unl0zMqHsn",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed in collaboration with Dušica Nešković, Belgrade-based multidisciplinary designer and founder of Tesseromni Design Studio. Inspired by civilizations before us, drawing on the flowing architecture of temples and sacred spaces Dušica Nešković’s signature style shines through with organic forms and hand drawn shapes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1jnkWSvY2fC1V0RD_j7r243Unl0zMqHsn"
+                                }
+                            },
+                            "retail_price": 83.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Designed in collaboration with Dušica Nešković, Belgrade-based multidisciplinary designer and founder of Tesseromni Design Studio. Inspired by civilizations before us, drawing on the flowing architecture of temples and sacred spaces Dušica Nešković’s signature style shines through with organic forms and hand drawn shapes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1jnkWSvY2fC1V0RD_j7r243Unl0zMqHsn"
+                                }
+                            },
+                            "retail_price": 83.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Twilight Temple Zeal [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1ggO7-5-cKoAMvp9yjaq3nbb0ZmmHPb6z",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed in collaboration with Dušica Nešković, Belgrade-based multidisciplinary designer and founder of Tesseromni Design Studio. Inspired by civilizations before us, drawing on the flowing architecture of temples and sacred spaces Dušica Nešković’s signature style shines through with organic forms and hand drawn shapes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1ggO7-5-cKoAMvp9yjaq3nbb0ZmmHPb6z"
+                                }
+                            },
+                            "retail_price": 83.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Designed in collaboration with Dušica Nešković, Belgrade-based multidisciplinary designer and founder of Tesseromni Design Studio. Inspired by civilizations before us, drawing on the flowing architecture of temples and sacred spaces Dušica Nešković’s signature style shines through with organic forms and hand drawn shapes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1ggO7-5-cKoAMvp9yjaq3nbb0ZmmHPb6z"
+                                }
+                            },
+                            "retail_price": 83.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Bokeh V [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=15ZfcSFHYSdmbMzmyCAW0MoKHGPI238Cc",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. An air of the familiar, yet the excitement of the unknown is definitive of our illustrations. Nostalgic of a moment or an experience you’ve never had, a person you never knew or a song you never heard. The aim is for artworks to take you somewhere for the first time, again. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=15ZfcSFHYSdmbMzmyCAW0MoKHGPI238Cc"
+                                }
+                            },
+                            "retail_price": 58.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. An air of the familiar, yet the excitement of the unknown is definitive of our illustrations. Nostalgic of a moment or an experience you’ve never had, a person you never knew or a song you never heard. The aim is for artworks to take you somewhere for the first time, again. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=15ZfcSFHYSdmbMzmyCAW0MoKHGPI238Cc"
+                                }
+                            },
+                            "retail_price": 118.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Breeze [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1CrJ-YSaSxP4W_kAMnsuIMIQ1-yKqNEQA",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Coded Illustrations designed by Daniel Samama,  Amsterdam-based independent art director and designer. “Semi-autonomous processes, like feedback, decay, noise and other forms of controlled chaos fascinate me forever. Most of the time I'm just setting boundaries for chaos to mold around my ideas. The results are detailed, textural works with a digital yet analog feel, blending techniques like creative coding, video art, generative art, illustration and photography.” Daniel Samama Printed on Hahnemühle German Etching.",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1CrJ-YSaSxP4W_kAMnsuIMIQ1-yKqNEQA"
+                                }
+                            },
+                            "retail_price": 48.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Coded Illustrations designed by Daniel Samama,  Amsterdam-based independent art director and designer. “Semi-autonomous processes, like feedback, decay, noise and other forms of controlled chaos fascinate me forever. Most of the time I'm just setting boundaries for chaos to mold around my ideas. The results are detailed, textural works with a digital yet analog feel, blending techniques like creative coding, video art, generative art, illustration and photography.” Daniel Samama Printed on Hahnemühle German Etching.",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1CrJ-YSaSxP4W_kAMnsuIMIQ1-yKqNEQA"
+                                }
+                            },
+                            "retail_price": 108.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Hazy Days [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1o77P8PnEcHKQRPb_FHqQ7n5SyDaNVaCl",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Coded Illustrations designed by Daniel Samama,  Amsterdam-based independent art director and designer. “Semi-autonomous processes, like feedback, decay, noise and other forms of controlled chaos fascinate me forever. Most of the time I'm just setting boundaries for chaos to mold around my ideas. The results are detailed, textural works with a digital yet analog feel, blending techniques like creative coding, video art, generative art, illustration and photography.” Daniel Samama Printed on Hahnemühle German Etching.",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1o77P8PnEcHKQRPb_FHqQ7n5SyDaNVaCl"
+                                }
+                            },
+                            "retail_price": 58.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Coded Illustrations designed by Daniel Samama,  Amsterdam-based independent art director and designer. “Semi-autonomous processes, like feedback, decay, noise and other forms of controlled chaos fascinate me forever. Most of the time I'm just setting boundaries for chaos to mold around my ideas. The results are detailed, textural works with a digital yet analog feel, blending techniques like creative coding, video art, generative art, illustration and photography.” Daniel Samama Printed on Hahnemühle German Etching.",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1o77P8PnEcHKQRPb_FHqQ7n5SyDaNVaCl"
+                                }
+                            },
+                            "retail_price": 118.00
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}

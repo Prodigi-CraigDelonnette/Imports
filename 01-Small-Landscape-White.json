@@ -1,0 +1,861 @@
+{
+    "product_range_defaults": {
+        "published": true
+    },
+    "product_defaults": {
+        "enabled": false
+    },
+    "products_defaults": {
+        "global-fap": {
+            "enabled": true
+        },
+        "global-cfp": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false
+    },
+    "variants_defaults": {
+        "GLOBAL-FAP-12x16-LANDSCAPE": {
+            "enabled": true
+        },
+        "GLOBAL-CFP-12x16-LANDSCAPE": {
+            "enabled": true
+        }
+    },
+    "product_ranges": [
+        {
+            "title": "Après Chic [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1aswkCoXEwKCcjRioRJoT8UY6tEqC5hrb",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1aswkCoXEwKCcjRioRJoT8UY6tEqC5hrb"
+                                }
+                            },
+                            "retail_price": 58.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1aswkCoXEwKCcjRioRJoT8UY6tEqC5hrb"
+                                }
+                            },
+                            "retail_price": 83.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Bisoux [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1X2PRbAXeYqjHpszVjbOuzI5_ktQokmAP",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1X2PRbAXeYqjHpszVjbOuzI5_ktQokmAP"
+                                }
+                            },
+                            "retail_price": 58.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1X2PRbAXeYqjHpszVjbOuzI5_ktQokmAP"
+                                }
+                            },
+                            "retail_price": 83.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "BRB [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1CMbcLz1SCp4rpzGXxMtQZ8Dl1IuB7tMo",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1CMbcLz1SCp4rpzGXxMtQZ8Dl1IuB7tMo"
+                                }
+                            },
+                            "retail_price": 48.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1CMbcLz1SCp4rpzGXxMtQZ8Dl1IuB7tMo"
+                                }
+                            },
+                            "retail_price": 73.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Checkmate [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=163PLB0YzqASBJJd53sOARF1-eks8yTQs",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.                 ",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=163PLB0YzqASBJJd53sOARF1-eks8yTQs"
+                                }
+                            },
+                            "retail_price": 48.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=163PLB0YzqASBJJd53sOARF1-eks8yTQs"
+                                }
+                            },
+                            "retail_price": 73.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Concrete Goals [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1s5V1PEjuE4OZdKeceTeO5NSFMnDBsb0o",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1s5V1PEjuE4OZdKeceTeO5NSFMnDBsb0o"
+                                }
+                            },
+                            "retail_price": 58.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1s5V1PEjuE4OZdKeceTeO5NSFMnDBsb0o"
+                                }
+                            },
+                            "retail_price": 83.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Flying Saucer [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1f6k1RfrxILIuRTvzzDfzLrCGcWGsS2lx",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1f6k1RfrxILIuRTvzzDfzLrCGcWGsS2lx"
+                                }
+                            },
+                            "retail_price": 48.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1f6k1RfrxILIuRTvzzDfzLrCGcWGsS2lx"
+                                }
+                            },
+                            "retail_price": 73.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Gymnastics Team [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1PvsqzBDLO7bdjwuh1UGGFbhBOdGBe3fF",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1PvsqzBDLO7bdjwuh1UGGFbhBOdGBe3fF"
+                                }
+                            },
+                            "retail_price": 58.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1PvsqzBDLO7bdjwuh1UGGFbhBOdGBe3fF"
+                                }
+                            },
+                            "retail_price": 83.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "La Piscine  [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1YT8cfyq28JSg8v-FM2Rf16-zmUy3dO-a",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1YT8cfyq28JSg8v-FM2Rf16-zmUy3dO-a"
+                                }
+                            },
+                            "retail_price": 48.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1YT8cfyq28JSg8v-FM2Rf16-zmUy3dO-a"
+                                }
+                            },
+                            "retail_price": 73.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Meow [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1xhHwQdk4UTbnCm3LBAwg-eY_G-TEqHou",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1xhHwQdk4UTbnCm3LBAwg-eY_G-TEqHou"
+                                }
+                            },
+                            "retail_price": 48.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1xhHwQdk4UTbnCm3LBAwg-eY_G-TEqHou"
+                                }
+                            },
+                            "retail_price": 73.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Pass the Powder [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=19qi_l1OY0j62FAOf2yQ1uupWG1bPzExb",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=19qi_l1OY0j62FAOf2yQ1uupWG1bPzExb"
+                                }
+                            },
+                            "retail_price": 48.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=19qi_l1OY0j62FAOf2yQ1uupWG1bPzExb"
+                                }
+                            },
+                            "retail_price": 73.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Quench [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1-QR7EAworYndCPEAp7IhB1MWp63S703-",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1-QR7EAworYndCPEAp7IhB1MWp63S703-"
+                                }
+                            },
+                            "retail_price": 48.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1-QR7EAworYndCPEAp7IhB1MWp63S703-"
+                                }
+                            },
+                            "retail_price": 73.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Sea Beach Club [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1RpsxY5bUBL0b6EGY7OvHAjD3F7JejWk_",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1RpsxY5bUBL0b6EGY7OvHAjD3F7JejWk_"
+                                }
+                            },
+                            "retail_price": 48.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1RpsxY5bUBL0b6EGY7OvHAjD3F7JejWk_"
+                                }
+                            },
+                            "retail_price": 73.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Tender is the Night [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=14g2uA6Dd1WFnCvxxjEDDv8kOxnFgRe76",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=14g2uA6Dd1WFnCvxxjEDDv8kOxnFgRe76"
+                                }
+                            },
+                            "retail_price": 58.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=14g2uA6Dd1WFnCvxxjEDDv8kOxnFgRe76"
+                                }
+                            },
+                            "retail_price": 83.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Tralala [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1zsdDdsSjU2TaIsp7PUsm0pIAWhyE-5VP",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1zsdDdsSjU2TaIsp7PUsm0pIAWhyE-5VP"
+                                }
+                            },
+                            "retail_price": 48.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1zsdDdsSjU2TaIsp7PUsm0pIAWhyE-5VP"
+                                }
+                            },
+                            "retail_price": 73.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Wedding Cake [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1GndIcyUGZAd-x7qUweRbXahrPKLedIbA",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.                 ",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1GndIcyUGZAd-x7qUweRbXahrPKLedIbA"
+                                }
+                            },
+                            "retail_price": 58.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1GndIcyUGZAd-x7qUweRbXahrPKLedIbA"
+                                }
+                            },
+                            "retail_price": 83.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Japanese Flower (Pink) [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1iBGI2IFl6Vsm5ii1zg68FP5M-JLloSOg",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. An air of the familiar, yet the excitement of the unknown is definitive of our illustrations. Nostalgic of a moment or an experience you’ve never had, a person you never knew or a song you never heard. The aim is for artworks to take you somewhere for the first time, again. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1iBGI2IFl6Vsm5ii1zg68FP5M-JLloSOg"
+                                }
+                            },
+                            "retail_price": 48.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. An air of the familiar, yet the excitement of the unknown is definitive of our illustrations. Nostalgic of a moment or an experience you’ve never had, a person you never knew or a song you never heard. The aim is for artworks to take you somewhere for the first time, again. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1iBGI2IFl6Vsm5ii1zg68FP5M-JLloSOg"
+                                }
+                            },
+                            "retail_price": 108.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Le Mepris [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1dRp2qxjpgt9nLEB_Kt3V476kzh35meXo",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. An air of the familiar, yet the excitement of the unknown is definitive of our illustrations. Nostalgic of a moment or an experience you’ve never had, a person you never knew or a song you never heard. The aim is for artworks to take you somewhere for the first time, again. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1dRp2qxjpgt9nLEB_Kt3V476kzh35meXo"
+                                }
+                            },
+                            "retail_price": 48.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. An air of the familiar, yet the excitement of the unknown is definitive of our illustrations. Nostalgic of a moment or an experience you’ve never had, a person you never knew or a song you never heard. The aim is for artworks to take you somewhere for the first time, again. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1dRp2qxjpgt9nLEB_Kt3V476kzh35meXo"
+                                }
+                            },
+                            "retail_price": 108.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Muse [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1THmkZfNoD2zy9_vXH7Wp0FRMNMOR7LKn",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. An air of the familiar, yet the excitement of the unknown is definitive of our illustrations. Nostalgic of a moment or an experience you’ve never had, a person you never knew or a song you never heard. The aim is for artworks to take you somewhere for the first time, again. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1THmkZfNoD2zy9_vXH7Wp0FRMNMOR7LKn"
+                                }
+                            },
+                            "retail_price": 48.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. An air of the familiar, yet the excitement of the unknown is definitive of our illustrations. Nostalgic of a moment or an experience you’ve never had, a person you never knew or a song you never heard. The aim is for artworks to take you somewhere for the first time, again. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1THmkZfNoD2zy9_vXH7Wp0FRMNMOR7LKn"
+                                }
+                            },
+                            "retail_price": 108.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Sunset Kiss [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=11QaD6OeP96EQAHKUE3zVZEk3-LtEBln5",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. An air of the familiar, yet the excitement of the unknown is definitive of our illustrations. Nostalgic of a moment or an experience you’ve never had, a person you never knew or a song you never heard. The aim is for artworks to take you somewhere for the first time, again. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=11QaD6OeP96EQAHKUE3zVZEk3-LtEBln5"
+                                }
+                            },
+                            "retail_price": 48.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. An air of the familiar, yet the excitement of the unknown is definitive of our illustrations. Nostalgic of a moment or an experience you’ve never had, a person you never knew or a song you never heard. The aim is for artworks to take you somewhere for the first time, again. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=11QaD6OeP96EQAHKUE3zVZEk3-LtEBln5"
+                                }
+                            },
+                            "retail_price": 108.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Before The Storm [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=15ee2f8myMxVIPfdKHSB3qm-LZ20_XxEg",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Coded Illustrations designed by Daniel Samama,  Amsterdam-based independent art director and designer. “Semi-autonomous processes, like feedback, decay, noise and other forms of controlled chaos fascinate me forever. Most of the time I'm just setting boundaries for chaos to mold around my ideas. The results are detailed, textural works with a digital yet analog feel, blending techniques like creative coding, video art, generative art, illustration and photography.” Daniel Samama Printed on Hahnemühle German Etching.",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=15ee2f8myMxVIPfdKHSB3qm-LZ20_XxEg"
+                                }
+                            },
+                            "retail_price": 58.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Coded Illustrations designed by Daniel Samama,  Amsterdam-based independent art director and designer. “Semi-autonomous processes, like feedback, decay, noise and other forms of controlled chaos fascinate me forever. Most of the time I'm just setting boundaries for chaos to mold around my ideas. The results are detailed, textural works with a digital yet analog feel, blending techniques like creative coding, video art, generative art, illustration and photography.” Daniel Samama Printed on Hahnemühle German Etching.",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=15ee2f8myMxVIPfdKHSB3qm-LZ20_XxEg"
+                                }
+                            },
+                            "retail_price": 118.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Bloom [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1t2F2sl2LjKCGRF5OPRt8_iBEXr5O8e02",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Coded Illustrations designed by Daniel Samama,  Amsterdam-based independent art director and designer. “Semi-autonomous processes, like feedback, decay, noise and other forms of controlled chaos fascinate me forever. Most of the time I'm just setting boundaries for chaos to mold around my ideas. The results are detailed, textural works with a digital yet analog feel, blending techniques like creative coding, video art, generative art, illustration and photography.” Daniel Samama Printed on Hahnemühle German Etching.",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1t2F2sl2LjKCGRF5OPRt8_iBEXr5O8e02"
+                                }
+                            },
+                            "retail_price": 78.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Coded Illustrations designed by Daniel Samama,  Amsterdam-based independent art director and designer. “Semi-autonomous processes, like feedback, decay, noise and other forms of controlled chaos fascinate me forever. Most of the time I'm just setting boundaries for chaos to mold around my ideas. The results are detailed, textural works with a digital yet analog feel, blending techniques like creative coding, video art, generative art, illustration and photography.” Daniel Samama Printed on Hahnemühle German Etching.",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1t2F2sl2LjKCGRF5OPRt8_iBEXr5O8e02"
+                                }
+                            },
+                            "retail_price": 138.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Northern Lights [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1eTyLRCACu67tPhkLJAsVH4LV0FI5wPih",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Coded Illustrations designed by Daniel Samama,  Amsterdam-based independent art director and designer. “Semi-autonomous processes, like feedback, decay, noise and other forms of controlled chaos fascinate me forever. Most of the time I'm just setting boundaries for chaos to mold around my ideas. The results are detailed, textural works with a digital yet analog feel, blending techniques like creative coding, video art, generative art, illustration and photography.” Daniel Samama Printed on Hahnemühle German Etching.",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1eTyLRCACu67tPhkLJAsVH4LV0FI5wPih"
+                                }
+                            },
+                            "retail_price": 58.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Coded Illustrations designed by Daniel Samama,  Amsterdam-based independent art director and designer. “Semi-autonomous processes, like feedback, decay, noise and other forms of controlled chaos fascinate me forever. Most of the time I'm just setting boundaries for chaos to mold around my ideas. The results are detailed, textural works with a digital yet analog feel, blending techniques like creative coding, video art, generative art, illustration and photography.” Daniel Samama Printed on Hahnemühle German Etching.",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1eTyLRCACu67tPhkLJAsVH4LV0FI5wPih"
+                                }
+                            },
+                            "retail_price": 118.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Room With A View [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1xYCIwWA6AOKRamsmW3fvpSl-78n_kr4O",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Coded Illustrations designed by Daniel Samama,  Amsterdam-based independent art director and designer. “Semi-autonomous processes, like feedback, decay, noise and other forms of controlled chaos fascinate me forever. Most of the time I'm just setting boundaries for chaos to mold around my ideas. The results are detailed, textural works with a digital yet analog feel, blending techniques like creative coding, video art, generative art, illustration and photography.” Daniel Samama Printed on Hahnemühle German Etching.",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1xYCIwWA6AOKRamsmW3fvpSl-78n_kr4O"
+                                }
+                            },
+                            "retail_price": 48.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Coded Illustrations designed by Daniel Samama,  Amsterdam-based independent art director and designer. “Semi-autonomous processes, like feedback, decay, noise and other forms of controlled chaos fascinate me forever. Most of the time I'm just setting boundaries for chaos to mold around my ideas. The results are detailed, textural works with a digital yet analog feel, blending techniques like creative coding, video art, generative art, illustration and photography.” Daniel Samama Printed on Hahnemühle German Etching.",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1xYCIwWA6AOKRamsmW3fvpSl-78n_kr4O"
+                                }
+                            },
+                            "retail_price": 108.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Solar Winds [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1KFIvijY9aD-wadJzGZbmaCs4I2jaOpX5",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Coded Illustrations designed by Daniel Samama,  Amsterdam-based independent art director and designer. “Semi-autonomous processes, like feedback, decay, noise and other forms of controlled chaos fascinate me forever. Most of the time I'm just setting boundaries for chaos to mold around my ideas. The results are detailed, textural works with a digital yet analog feel, blending techniques like creative coding, video art, generative art, illustration and photography.” Daniel Samama Printed on Hahnemühle German Etching.",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1KFIvijY9aD-wadJzGZbmaCs4I2jaOpX5"
+                                }
+                            },
+                            "retail_price": 58.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Coded Illustrations designed by Daniel Samama,  Amsterdam-based independent art director and designer. “Semi-autonomous processes, like feedback, decay, noise and other forms of controlled chaos fascinate me forever. Most of the time I'm just setting boundaries for chaos to mold around my ideas. The results are detailed, textural works with a digital yet analog feel, blending techniques like creative coding, video art, generative art, illustration and photography.” Daniel Samama Printed on Hahnemühle German Etching.",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1KFIvijY9aD-wadJzGZbmaCs4I2jaOpX5"
+                                }
+                            },
+                            "retail_price": 118.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "The Wall [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1Cqii7DdIc4JS6nc_ayoGvNQ0gLE0F-lP",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Coded Illustrations designed by Daniel Samama,  Amsterdam-based independent art director and designer. “Semi-autonomous processes, like feedback, decay, noise and other forms of controlled chaos fascinate me forever. Most of the time I'm just setting boundaries for chaos to mold around my ideas. The results are detailed, textural works with a digital yet analog feel, blending techniques like creative coding, video art, generative art, illustration and photography.” Daniel Samama Printed on Hahnemühle German Etching.",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1Cqii7DdIc4JS6nc_ayoGvNQ0gLE0F-lP"
+                                }
+                            },
+                            "retail_price": 78.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Coded Illustrations designed by Daniel Samama,  Amsterdam-based independent art director and designer. “Semi-autonomous processes, like feedback, decay, noise and other forms of controlled chaos fascinate me forever. Most of the time I'm just setting boundaries for chaos to mold around my ideas. The results are detailed, textural works with a digital yet analog feel, blending techniques like creative coding, video art, generative art, illustration and photography.” Daniel Samama Printed on Hahnemühle German Etching.",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1Cqii7DdIc4JS6nc_ayoGvNQ0gLE0F-lP"
+                                }
+                            },
+                            "retail_price": 138.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Towards The Sun [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1hSsEOH4yDAFtxJDfOIicUqFwIF8vb7KG",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Coded Illustrations designed by Daniel Samama,  Amsterdam-based independent art director and designer. “Semi-autonomous processes, like feedback, decay, noise and other forms of controlled chaos fascinate me forever. Most of the time I'm just setting boundaries for chaos to mold around my ideas. The results are detailed, textural works with a digital yet analog feel, blending techniques like creative coding, video art, generative art, illustration and photography.” Daniel Samama Printed on Hahnemühle German Etching.",
+                    "variants": {
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1hSsEOH4yDAFtxJDfOIicUqFwIF8vb7KG"
+                                }
+                            },
+                            "retail_price": 78.00
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "Edition of 100. Coded Illustrations designed by Daniel Samama,  Amsterdam-based independent art director and designer. “Semi-autonomous processes, like feedback, decay, noise and other forms of controlled chaos fascinate me forever. Most of the time I'm just setting boundaries for chaos to mold around my ideas. The results are detailed, textural works with a digital yet analog feel, blending techniques like creative coding, video art, generative art, illustration and photography.” Daniel Samama Printed on Hahnemühle German Etching.",
+                    "variants": {
+                        "GLOBAL-CFP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1hSsEOH4yDAFtxJDfOIicUqFwIF8vb7KG"
+                                }
+                            },
+                            "retail_price": 138.00
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}

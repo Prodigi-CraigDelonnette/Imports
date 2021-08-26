@@ -20,27 +20,8 @@
     },
     "product_ranges": [
         {
-            "title": "Adrift [White]",
-            "user_image_url": "https://drive.google.com/uc?export=download&id=1a0dklrSYZsygmpQtJE4ybnzYAeQrzU_1",
-            "products": {
-                "global-fap": {
-                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper. ",
-                    "variants": {
-                        "GLOBAL-FAP-12x12-SQUARE": {
-                            "images": {
-                                "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1a0dklrSYZsygmpQtJE4ybnzYAeQrzU_1"
-                                }
-                            },
-                            "retail_price": 48.00
-                        }
-                    }
-                }
-            }
-        },
-        {
             "title": "Matterhorn Embrace [White]",
-            "user_image_url": "https://drive.google.com/uc?export=download&id=1euRz82wI4-CkWVMCzGoq-iqqOiLPrwG_",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1VV0MfMIU04SjxwXPdJx9NYnCKXzvcxDO",
             "products": {
                 "global-fap": {
                     "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
@@ -48,7 +29,7 @@
                         "GLOBAL-FAP-12x12-SQUARE": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1euRz82wI4-CkWVMCzGoq-iqqOiLPrwG_"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1VV0MfMIU04SjxwXPdJx9NYnCKXzvcxDO"
                                 }
                             },
                             "retail_price": 48.00

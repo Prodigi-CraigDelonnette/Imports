@@ -20,63 +20,6 @@
     },
     "product_ranges": [
         {
-            "title": "Matterhorn Embrace [White]",
-            "user_image_url": "https://drive.google.com/uc?export=download&id=1VV0MfMIU04SjxwXPdJx9NYnCKXzvcxDO",
-            "products": {
-                "global-fap": {
-                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
-                    "variants": {
-                        "GLOBAL-FAP-12x12-SQUARE": {
-                            "images": {
-                                "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1VV0MfMIU04SjxwXPdJx9NYnCKXzvcxDO"
-                                }
-                            },
-                            "retail_price": 48.00
-                        }
-                    }
-                }
-            }
-        },
-        {
-            "title": "Romeo [White]",
-            "user_image_url": "https://drive.google.com/uc?export=download&id=1KYZxPwTc9Aa3Ukfd6As429xIItLegEcn",
-            "products": {
-                "global-fap": {
-                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper. ",
-                    "variants": {
-                        "GLOBAL-FAP-12x12-SQUARE": {
-                            "images": {
-                                "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1KYZxPwTc9Aa3Ukfd6As429xIItLegEcn"
-                                }
-                            },
-                            "retail_price": 48.00
-                        }
-                    }
-                }
-            }
-        },
-        {
-            "title": "Body Positive [White]",
-            "user_image_url": "https://drive.google.com/uc?export=download&id=1tsXn1qK7n_ah4Lq0hEyJLhy_354482sg",
-            "products": {
-                "global-fap": {
-                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. An air of the familiar, yet the excitement of the unknown is definitive of our illustrations. Nostalgic of a moment or an experience you’ve never had, a person you never knew or a song you never heard. The aim is for artworks to take you somewhere for the first time, again. Printed on museum quality fine art paper. ",
-                    "variants": {
-                        "GLOBAL-FAP-12x12-SQUARE": {
-                            "images": {
-                                "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1tsXn1qK7n_ah4Lq0hEyJLhy_354482sg"
-                                }
-                            },
-                            "retail_price": 48.00
-                        }
-                    }
-                }
-            }
-        },
-        {
             "title": "Godard's Casa Malaparte [White]",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1CPVt9e3abTJvjIDsKgW-l8EMjdcUi2KI",
             "products": {
@@ -86,7 +29,7 @@
                         "GLOBAL-FAP-12x12-SQUARE": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https: //drive.google.com/file/d/1CPVt9e3abTJvjIDsKgW-l8EMjdcUi2KI"
+                                    "user_image_url": "https://drive.google.com/file/d/1CPVt9e3abTJvjIDsKgW-l8EMjdcUi2KI"
                                 }
                             },
                             "retail_price": 58.00
@@ -105,7 +48,7 @@
                         "GLOBAL-FAP-12x12-SQUARE": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https: //drive.google.com/file/d/1iOY5EVfk9q0DvYsALKGKomALZKfFE59K"
+                                    "user_image_url": "https://drive.google.com/file/d/1iOY5EVfk9q0DvYsALKGKomALZKfFE59K"
                                 }
                             },
                             "retail_price": 48.00
@@ -124,7 +67,7 @@
                         "GLOBAL-FAP-12x12-SQUARE": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https: //drive.google.com/file/d/1223SEXJW_iAXLYLxXTddCBRxIs0jah0n"
+                                    "user_image_url": "https://drive.google.com/file/d/1223SEXJW_iAXLYLxXTddCBRxIs0jah0n"
                                 }
                             },
                             "retail_price": 78.00
@@ -143,7 +86,7 @@
                         "GLOBAL-FAP-12x12-SQUARE": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https: //drive.google.com/file/d/1kWwKMhUNKGr6tvc7AmCzV4GCca8dy_BL"
+                                    "user_image_url": "https://drive.google.com/file/d/1kWwKMhUNKGr6tvc7AmCzV4GCca8dy_BL"
                                 }
                             },
                             "retail_price": 48.00

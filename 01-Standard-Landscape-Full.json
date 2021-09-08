@@ -1,0 +1,620 @@
+{
+    "product_range_defaults": {
+        "published": true
+    },
+    "product_defaults": {
+        "enabled": false
+    },
+    "products_defaults": {
+        "global-fap": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false
+    },
+    "variants_defaults": {
+        "GLOBAL-FAP-20x28-LANDSCAPE": {
+            "enabled": true
+        },
+        "GLOBAL-FAP-28x40-LANDSCAPE": {
+            "enabled": true
+        }
+    },
+    "product_ranges": [
+        {
+            "title": "Cecilia [Full]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=19UYBpCgAjZiqHN1hpCDoL_aTfACa81Zh",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=19UYBpCgAjZiqHN1hpCDoL_aTfACa81Zh"
+                                }
+                            },
+                            "retail_price": 108.00
+                        },
+                        "GLOBAL-FAP-28x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1KBN6IG18rPvsLXkcIppqEGsCSjNIK0LO"
+                                }
+                            },
+                            "retail_price": 228.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Column (Blue) [Full]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1gI6CUYiqiamva8lAfyrmQ-I-YBtOF7k2",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1gI6CUYiqiamva8lAfyrmQ-I-YBtOF7k2"
+                                }
+                            },
+                            "retail_price": 108.00
+                        },
+                        "GLOBAL-FAP-28x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1_oIcUyFrctYJWd-ZMongP8rtA2TSehWD"
+                                }
+                            },
+                            "retail_price": 228.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Column (Pink) [Full]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=19W2rgEMN7y__8C3iW9Um_YgzO14WaFev",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=19W2rgEMN7y__8C3iW9Um_YgzO14WaFev"
+                                }
+                            },
+                            "retail_price": 108.00
+                        },
+                        "GLOBAL-FAP-28x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1-qz73bI1K-zGmR30NIrTOTR7fMQmXtKD"
+                                }
+                            },
+                            "retail_price": 228.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Fan Girl (Green) [Full]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1ENxjQ8rS7u-aULu7ua4-8J55jaNqAibF",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1ENxjQ8rS7u-aULu7ua4-8J55jaNqAibF"
+                                }
+                            },
+                            "retail_price": 108.00
+                        },
+                        "GLOBAL-FAP-28x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1LwuOFsofEZv7qmih7TeO-_HsoB1IbjZg"
+                                }
+                            },
+                            "retail_price": 228.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Fan Girl (Orange) [Full]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=14KqJxtTTdDtwcMWEqSA_fYF8MR7KFXl8",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=14KqJxtTTdDtwcMWEqSA_fYF8MR7KFXl8"
+                                }
+                            },
+                            "retail_price": 108.00
+                        },
+                        "GLOBAL-FAP-28x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1wbierJ7_b6XxMW2Au-h_5lR99JbkwCwJ"
+                                }
+                            },
+                            "retail_price": 228.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Fan Girl (Yellow) [Full]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1SmBJlxgpcsU6N90bDxPTeFZt9E2mc6f0",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1SmBJlxgpcsU6N90bDxPTeFZt9E2mc6f0"
+                                }
+                            },
+                            "retail_price": 108.00
+                        },
+                        "GLOBAL-FAP-28x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1Bm-W3WzeCTy6iIHjs6DKHDY4TyaK6YJx"
+                                }
+                            },
+                            "retail_price": 228.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Gstaad [Full]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1hZdWxGOIxV4jOIZMwJ8VdD8eG9RcB49F",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1hZdWxGOIxV4jOIZMwJ8VdD8eG9RcB49F"
+                                }
+                            },
+                            "retail_price": 118.00
+                        },
+                        "GLOBAL-FAP-28x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1pRKnYeTFsWYp1ff2NwzgL9bB7Gj4I2xy"
+                                }
+                            },
+                            "retail_price": 238.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Japanese Flower (Blue) [Full]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1ubYVRDnaPr-Zlayre3Z2xjzNFB9qgGXK",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1ubYVRDnaPr-Zlayre3Z2xjzNFB9qgGXK"
+                                }
+                            },
+                            "retail_price": 108.00
+                        },
+                        "GLOBAL-FAP-28x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1sxQ2Swcx8yTjA5hhu_NCV0f1tUO0jsvw"
+                                }
+                            },
+                            "retail_price": 228.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Japanese Flower (Orange) [Full]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1eLyu2MmwfdEm0OmOyEyGEMOL-VW6qDFg",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1eLyu2MmwfdEm0OmOyEyGEMOL-VW6qDFg"
+                                }
+                            },
+                            "retail_price": 108.00
+                        },
+                        "GLOBAL-FAP-28x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1Nd4lCn-twSn0nK9t-ctYgfq3cEWiPSot"
+                                }
+                            },
+                            "retail_price": 228.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Japanese Flower (Pink) [Full]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=15L7RuJUcWl69fJ-9Zan9f-4s_7_ZW951",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=15L7RuJUcWl69fJ-9Zan9f-4s_7_ZW951"
+                                }
+                            },
+                            "retail_price": 108.00
+                        },
+                        "GLOBAL-FAP-28x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1XwQMroCj7f5OVKxZV_adOt5NwpQhqmXe"
+                                }
+                            },
+                            "retail_price": 228.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Japanese Flower (Purple) [Full]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1LD0a8IvRoEkpMhJJMwLe6sz4g4hg-yt0",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1LD0a8IvRoEkpMhJJMwLe6sz4g4hg-yt0"
+                                }
+                            },
+                            "retail_price": 108.00
+                        },
+                        "GLOBAL-FAP-28x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1eid9F8xiBgHY8G3DhPQQMmvF-i4yHpv8"
+                                }
+                            },
+                            "retail_price": 228.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Le Mepris [Full]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1UOrZIDUYFgqsJb8h2_XLvhFzp4qrR8JN",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1UOrZIDUYFgqsJb8h2_XLvhFzp4qrR8JN"
+                                }
+                            },
+                            "retail_price": 108.00
+                        },
+                        "GLOBAL-FAP-28x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1TllKrwTbRXB4AiWXbdgX4BGX526WFiV0"
+                                }
+                            },
+                            "retail_price": 228.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Muse [Full]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1ZyqrA93NXDZq5mCr4g69_jmqVWakWPOA",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1ZyqrA93NXDZq5mCr4g69_jmqVWakWPOA"
+                                }
+                            },
+                            "retail_price": 108.00
+                        },
+                        "GLOBAL-FAP-28x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1BjsNeyI63Qq7ByqpFCWh0Y4-c5jGYcSx"
+                                }
+                            },
+                            "retail_price": 228.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Sunset Kiss [Full]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1HuCsKLQmT-OtxgPgfuKBkna4-xibIF9n",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1HuCsKLQmT-OtxgPgfuKBkna4-xibIF9n"
+                                }
+                            },
+                            "retail_price": 108.00
+                        },
+                        "GLOBAL-FAP-28x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1HuCsKLQmT-OtxgPgfuKBkna4-xibIF9n"
+                                }
+                            },
+                            "retail_price": 228.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Sweet Dreams [Full]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1zgW6bNpMRBcmDEsl_VSZb8QrBUL9YWw-",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1zgW6bNpMRBcmDEsl_VSZb8QrBUL9YWw-"
+                                }
+                            },
+                            "retail_price": 108.00
+                        },
+                        "GLOBAL-FAP-28x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1uR4rvzWfUWsy3uttXR0B8dgTDUzED1Po"
+                                }
+                            },
+                            "retail_price": 228.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Before The Storm [Full]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1Vi6b6r6xE_rLiZx80AfWUHQGBbPGsDy2",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Coded Illustrations designed by Daniel Samama,  Amsterdam-based independent art director and designer. “Semi-autonomous processes, like feedback, decay, noise and other forms of controlled chaos fascinate me forever. Most of the time I'm just setting boundaries for chaos to mold around my ideas. The results are detailed, textural works with a digital yet analog feel, blending techniques like creative coding, video art, generative art, illustration and photography.” Daniel Samama Printed on Hahnemühle German Etching.",
+                    "variants": {
+                        "GLOBAL-FAP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1Vi6b6r6xE_rLiZx80AfWUHQGBbPGsDy2"
+                                }
+                            },
+                            "retail_price": 118.00
+                        }
+                    },
+                    "GLOBAL-FAP-28x40-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1802rDd45XsXuzJ8HhaYdQqcgTO4x2TCx"
+                            }
+                        },
+                        "retail_price": 238.00
+                    }
+                }
+            }
+        },
+        {
+            "title": "Bloom [Full]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1kTylSkuxarvFKr5SDh2undAb2dT8AFBO",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Coded Illustrations designed by Daniel Samama,  Amsterdam-based independent art director and designer. “Semi-autonomous processes, like feedback, decay, noise and other forms of controlled chaos fascinate me forever. Most of the time I'm just setting boundaries for chaos to mold around my ideas. The results are detailed, textural works with a digital yet analog feel, blending techniques like creative coding, video art, generative art, illustration and photography.” Daniel Samama Printed on Hahnemühle German Etching.",
+                    "variants": {
+                        "GLOBAL-FAP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1kTylSkuxarvFKr5SDh2undAb2dT8AFBO"
+                                }
+                            },
+                            "retail_price": 138.00
+                        }
+                    },
+                    "GLOBAL-FAP-28x40-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=10nNrs3Jaclr3rIHvgZ2HcDMgVqAtY845"
+                            }
+                        },
+                        "retail_price": 258.00
+                    }
+                }
+            }
+        },
+        {
+            "title": "Northern Lights [Full]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1A5ay7wRHb7UAyPlSLFG96uCUdsAC_rmi",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Coded Illustrations designed by Daniel Samama,  Amsterdam-based independent art director and designer. “Semi-autonomous processes, like feedback, decay, noise and other forms of controlled chaos fascinate me forever. Most of the time I'm just setting boundaries for chaos to mold around my ideas. The results are detailed, textural works with a digital yet analog feel, blending techniques like creative coding, video art, generative art, illustration and photography.” Daniel Samama Printed on Hahnemühle German Etching.",
+                    "variants": {
+                        "GLOBAL-FAP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1A5ay7wRHb7UAyPlSLFG96uCUdsAC_rmi"
+                                }
+                            },
+                            "retail_price": 118.00
+                        }
+                    },
+                    "GLOBAL-FAP-28x40-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1ZIfp-9WgLDu3yqCHtsepnRRyickwzFaf"
+                            }
+                        },
+                        "retail_price": 238.00
+                    }
+                }
+            }
+        },
+        {
+            "title": "Room With A View [Full]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1rXSbl81QTRsQxS1uTyOMw6qjeU31ReuA",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Coded Illustrations designed by Daniel Samama,  Amsterdam-based independent art director and designer. “Semi-autonomous processes, like feedback, decay, noise and other forms of controlled chaos fascinate me forever. Most of the time I'm just setting boundaries for chaos to mold around my ideas. The results are detailed, textural works with a digital yet analog feel, blending techniques like creative coding, video art, generative art, illustration and photography.” Daniel Samama Printed on Hahnemühle German Etching.",
+                    "variants": {
+                        "GLOBAL-FAP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1rXSbl81QTRsQxS1uTyOMw6qjeU31ReuA"
+                                }
+                            },
+                            "retail_price": 108.00
+                        }
+                    },
+                    "GLOBAL-FAP-28x40-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1IotQ7_gHYTOKzZhQTY1ohxk8xp_f0oVv"
+                            }
+                        },
+                        "retail_price": 228.00
+                    }
+                }
+            }
+        },
+        {
+            "title": "Solar Winds [Full]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1JprNxC5cigBW1I6Oh24KpTyjYAZsr_6h",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Coded Illustrations designed by Daniel Samama,  Amsterdam-based independent art director and designer. “Semi-autonomous processes, like feedback, decay, noise and other forms of controlled chaos fascinate me forever. Most of the time I'm just setting boundaries for chaos to mold around my ideas. The results are detailed, textural works with a digital yet analog feel, blending techniques like creative coding, video art, generative art, illustration and photography.” Daniel Samama Printed on Hahnemühle German Etching.",
+                    "variants": {
+                        "GLOBAL-FAP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1JprNxC5cigBW1I6Oh24KpTyjYAZsr_6h"
+                                }
+                            },
+                            "retail_price": 118.00
+                        }
+                    },
+                    "GLOBAL-FAP-28x40-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1qYeTJgNeML4N-Ems_RbI3MsvnSFzetRh"
+                            }
+                        },
+                        "retail_price": 238.00
+                    }
+                }
+            }
+        },
+        {
+            "title": "The Wall [Full]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=19FfVfcNV5CHg5vMowtDus302jQBznS25",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Coded Illustrations designed by Daniel Samama,  Amsterdam-based independent art director and designer. “Semi-autonomous processes, like feedback, decay, noise and other forms of controlled chaos fascinate me forever. Most of the time I'm just setting boundaries for chaos to mold around my ideas. The results are detailed, textural works with a digital yet analog feel, blending techniques like creative coding, video art, generative art, illustration and photography.” Daniel Samama Printed on Hahnemühle German Etching.",
+                    "variants": {
+                        "GLOBAL-FAP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=19FfVfcNV5CHg5vMowtDus302jQBznS25"
+                                }
+                            },
+                            "retail_price": 138.00
+                        }
+                    },
+                    "GLOBAL-FAP-28x40-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1uUbmL-9ov5GQI_g3UVTi7WACYgBjuTTZ"
+                            }
+                        },
+                        "retail_price": 258.00
+                    }
+                }
+            }
+        },
+        {
+            "title": "Towards The Sun [Full]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1vSpzwWJJ9S28EXxalQ1KLuJ2ApIYomj8",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Coded Illustrations designed by Daniel Samama,  Amsterdam-based independent art director and designer. “Semi-autonomous processes, like feedback, decay, noise and other forms of controlled chaos fascinate me forever. Most of the time I'm just setting boundaries for chaos to mold around my ideas. The results are detailed, textural works with a digital yet analog feel, blending techniques like creative coding, video art, generative art, illustration and photography.” Daniel Samama Printed on Hahnemühle German Etching.",
+                    "variants": {
+                        "GLOBAL-FAP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1vSpzwWJJ9S28EXxalQ1KLuJ2ApIYomj8"
+                                }
+                            },
+                            "retail_price": 138.00
+                        }
+                    },
+                    "GLOBAL-FAP-28x40-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1HHhDDWj35ZnmAujZ9qpyOqH052uY2zv-"
+                            }
+                        },
+                        "retail_price": 258.00
+                    }
+                }
+            }
+        }
+    ]
+}

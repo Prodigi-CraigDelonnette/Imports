@@ -1,0 +1,215 @@
+{
+    "product_range_defaults": {
+        "published": true
+    },
+    "product_defaults": {
+        "enabled": false
+    },
+    "products_defaults": {
+        "global-fap": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false
+    },
+    "variants_defaults": {
+        "GLOBAL-FAP-20x20-SQUARE": {
+            "enabled": true
+        },
+        "GLOBAL-FAP-28x28-SQUARE": {
+            "enabled": true
+        }
+    },
+    "product_ranges": [
+        {
+            "title": "Body Positive [Full]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1PEqjEs-BP5SpMBMcXihIVAt3u02Guuby",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. An air of the familiar, yet the excitement of the unknown is definitive of our illustrations. Nostalgic of a moment or an experience you’ve never had, a person you never knew or a song you never heard. The aim is for artworks to take you somewhere for the first time, again. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-FAP-20x20-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1PEqjEs-BP5SpMBMcXihIVAt3u02Guuby"
+                                }
+                            },
+                            "retail_price": 108.00
+                        },
+                        "GLOBAL-FAP-28x28-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1aw0hDIH2qDSp3pMKUsQTGPBRi5S1qb9H"
+                                }
+                            },
+                            "retail_price": 228.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Godard's Casa Malaparte [Full]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=13CRW19nJyjWbxj_-XtFbJDvnmKisPpzG",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. An air of the familiar, yet the excitement of the unknown is definitive of our illustrations. Nostalgic of a moment or an experience you’ve never had, a person you never knew or a song you never heard. The aim is for artworks to take you somewhere for the first time, again. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-20x20-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=13CRW19nJyjWbxj_-XtFbJDvnmKisPpzG"
+                                }
+                            },
+                            "retail_price": 118.00
+                        },
+                        "GLOBAL-FAP-28x28-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1ci_U9XUgWgY44xlv3sI10Kk1JEXjbL5M"
+                                }
+                            },
+                            "retail_price": 238.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Love Potion (Brown) [Full]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1JNv5w4YsCtMcc5krR3BisvBvea25QXXb",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. An air of the familiar, yet the excitement of the unknown is definitive of our illustrations. Nostalgic of a moment or an experience you’ve never had, a person you never knew or a song you never heard. The aim is for artworks to take you somewhere for the first time, again. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-20x20-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1JNv5w4YsCtMcc5krR3BisvBvea25QXXb"
+                                }
+                            },
+                            "retail_price": 108.00
+                        },
+                        "GLOBAL-FAP-28x28-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1xg_FpBIzKvL74x4c0ECZpVgzk9xj4AmQ"
+                                }
+                            },
+                            "retail_price": 228.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Love Potion (White) [Full]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1_CZqrGvpsAz0rJGw6iicPb9Fx7Z4qB1T",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. An air of the familiar, yet the excitement of the unknown is definitive of our illustrations. Nostalgic of a moment or an experience you’ve never had, a person you never knew or a song you never heard. The aim is for artworks to take you somewhere for the first time, again. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-20x20-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1_CZqrGvpsAz0rJGw6iicPb9Fx7Z4qB1T"
+                                }
+                            },
+                            "retail_price": 108.00
+                        },
+                        "GLOBAL-FAP-28x28-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1_RCQgTZBXTFFqcu6tZrYmssb6JA0GPRK"
+                                }
+                            },
+                            "retail_price": 228.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Mermaid [Full]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1oRSVAJoLMP15OQLh07abPhG2VRCuya6O",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. An air of the familiar, yet the excitement of the unknown is definitive of our illustrations. Nostalgic of a moment or an experience you’ve never had, a person you never knew or a song you never heard. The aim is for artworks to take you somewhere for the first time, again. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-20x20-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1oRSVAJoLMP15OQLh07abPhG2VRCuya6O"
+                                }
+                            },
+                            "retail_price": 108.00
+                        },
+                        "GLOBAL-FAP-28x28-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1RzFJhyP6aXiJngZEqFq0B0GTVogi6jKi"
+                                }
+                            },
+                            "retail_price": 228.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Palais Bulles [Full]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1GgiwCpYN84Nq1L6XRcOXAzVKPgvYHHnm",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. An air of the familiar, yet the excitement of the unknown is definitive of our illustrations. Nostalgic of a moment or an experience you’ve never had, a person you never knew or a song you never heard. The aim is for artworks to take you somewhere for the first time, again. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-20x20-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1GgiwCpYN84Nq1L6XRcOXAzVKPgvYHHnm"
+                                }
+                            },
+                            "retail_price": 138.00
+                        },
+                        "GLOBAL-FAP-28x28-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1FHYYls6GHbKVGxNxY_mDJoTR73WUsqLP"
+                                }
+                            },
+                            "retail_price": 258.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "She Sells [Full]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1kdLm-NCdoQsk0pa-sc-tZ4cie_y8zMQp",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. An air of the familiar, yet the excitement of the unknown is definitive of our illustrations. Nostalgic of a moment or an experience you’ve never had, a person you never knew or a song you never heard. The aim is for artworks to take you somewhere for the first time, again. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-20x20-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1kdLm-NCdoQsk0pa-sc-tZ4cie_y8zMQp"
+                                }
+                            },
+                            "retail_price": 108.00
+                        },
+                        "GLOBAL-FAP-28x28-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1cPC3qOkZaGlEmzlANr90SMnoi_9hGxEJ"
+                                }
+                            },
+                            "retail_price": 228.00
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}

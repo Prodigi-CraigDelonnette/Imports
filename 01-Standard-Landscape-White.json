@@ -1,0 +1,323 @@
+{
+    "product_range_defaults": {
+        "published": true
+    },
+    "product_defaults": {
+        "enabled": false
+    },
+    "products_defaults": {
+        "global-fap": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false
+    },
+    "variants_defaults": {
+        "GLOBAL-FAP-20x28-LANDSCAPE": {
+            "enabled": true
+        },
+        "GLOBAL-FAP-28x40-LANDSCAPE": {
+            "enabled": true
+        }
+    },
+    "product_ranges": [
+        {
+            "title": "Japanese Flower (Pink) [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1twMq8HidIQ20ayDQt5iaL0liZFmB_rPa",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/file/d/1DnyX9pPXwxSYJltxX70WSuHzU3jCNsmV/view?usp=sharing"
+                                }
+                            },
+                            "retail_price": 108.00
+                        },
+                        "GLOBAL-FAP-28x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/file/d/1twMq8HidIQ20ayDQt5iaL0liZFmB_rPa/view?usp=sharing"
+                                }
+                            },
+                            "retail_price": 228.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Le Mepris [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1lntEN5zkyT7YtqTwvIcUGJwikkwxVQbi",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/file/d/1RppllOLbxF2vxPtGmmFYZHKzOBwSUWKr/view?usp=sharing"
+                                }
+                            },
+                            "retail_price": 108.00
+                        },
+                        "GLOBAL-FAP-28x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/file/d/1lntEN5zkyT7YtqTwvIcUGJwikkwxVQbi/view?usp=sharing"
+                                }
+                            },
+                            "retail_price": 228.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Muse [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1rjYUYz3ZJyTcMWhUHYdLwM_4HIkNZuRw",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/file/d/1DQLuBuYGfwXr4rAV7ccekHUHDzibfD9P/view?usp=sharing"
+                                }
+                            },
+                            "retail_price": 108.00
+                        },
+                        "GLOBAL-FAP-28x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/file/d/1rjYUYz3ZJyTcMWhUHYdLwM_4HIkNZuRw/view?usp=sharing"
+                                }
+                            },
+                            "retail_price": 228.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Sunset Kiss [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1wWT_JXpRomtl-5AAmwVovplUTcyEfpdY",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/file/d/1SnITSAJK4CtaJApV_O-qBrLyYppMfFJV/view?usp=sharing"
+                                }
+                            },
+                            "retail_price": 108.00
+                        },
+                        "GLOBAL-FAP-28x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/file/d/1wWT_JXpRomtl-5AAmwVovplUTcyEfpdY/view?usp=sharing"
+                                }
+                            },
+                            "retail_price": 228.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Before The Storm [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1SPUyvlIcaZ4-zLqjhNme17mtSGyQW-vs",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Coded Illustrations designed by Daniel Samama,  Amsterdam-based independent art director and designer. “Semi-autonomous processes, like feedback, decay, noise and other forms of controlled chaos fascinate me forever. Most of the time I'm just setting boundaries for chaos to mold around my ideas. The results are detailed, textural works with a digital yet analog feel, blending techniques like creative coding, video art, generative art, illustration and photography.” Daniel Samama Printed on Hahnemühle German Etching.",
+                    "variants": {
+                        "GLOBAL-FAP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/file/d/1L-1Gh_jaxKHYPVITIexVznoxTAhNWZmw/view?usp=sharing"
+                                }
+                            },
+                            "retail_price": 118.00
+                        }
+                    },
+                    "GLOBAL-FAP-28x40-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/file/d/1SPUyvlIcaZ4-zLqjhNme17mtSGyQW-vs/view?usp=sharing"
+                            }
+                        },
+                        "retail_price": 238.00
+                    }
+                }
+            }
+        },
+        {
+            "title": "Bloom [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=11krz3kqVCjMjJi1nFEzplZU-Eib3JdpA",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Coded Illustrations designed by Daniel Samama,  Amsterdam-based independent art director and designer. “Semi-autonomous processes, like feedback, decay, noise and other forms of controlled chaos fascinate me forever. Most of the time I'm just setting boundaries for chaos to mold around my ideas. The results are detailed, textural works with a digital yet analog feel, blending techniques like creative coding, video art, generative art, illustration and photography.” Daniel Samama Printed on Hahnemühle German Etching.",
+                    "variants": {
+                        "GLOBAL-FAP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/file/d/12_hrZTWh4A3W0owh-GUAs2n3GVIPmhbI/view?usp=sharing"
+                                }
+                            },
+                            "retail_price": 138.00
+                        }
+                    },
+                    "GLOBAL-FAP-28x40-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/file/d/11krz3kqVCjMjJi1nFEzplZU-Eib3JdpA/view?usp=sharing"
+                            }
+                        },
+                        "retail_price": 258.00
+                    }
+                }
+            }
+        },
+        {
+            "title": "Northern Lights [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1w97qvdoNZ2WsWVqz3z8GqL8YI8exaO5P",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Coded Illustrations designed by Daniel Samama,  Amsterdam-based independent art director and designer. “Semi-autonomous processes, like feedback, decay, noise and other forms of controlled chaos fascinate me forever. Most of the time I'm just setting boundaries for chaos to mold around my ideas. The results are detailed, textural works with a digital yet analog feel, blending techniques like creative coding, video art, generative art, illustration and photography.” Daniel Samama Printed on Hahnemühle German Etching.",
+                    "variants": {
+                        "GLOBAL-FAP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/file/d/1z1zfiaAZpxRRuLGjQSMI4r5KrPOCiXbS/view?usp=sharing"
+                                }
+                            },
+                            "retail_price": 118.00
+                        }
+                    },
+                    "GLOBAL-FAP-28x40-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/file/d/1w97qvdoNZ2WsWVqz3z8GqL8YI8exaO5P/view?usp=sharing"
+                            }
+                        },
+                        "retail_price": 238.00
+                    }
+                }
+            }
+        },
+        {
+            "title": "Room With A View [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1ph0HYOlRN0p_NHds8dZ27q5Wb5jZM4Sb",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Coded Illustrations designed by Daniel Samama,  Amsterdam-based independent art director and designer. “Semi-autonomous processes, like feedback, decay, noise and other forms of controlled chaos fascinate me forever. Most of the time I'm just setting boundaries for chaos to mold around my ideas. The results are detailed, textural works with a digital yet analog feel, blending techniques like creative coding, video art, generative art, illustration and photography.” Daniel Samama Printed on Hahnemühle German Etching.",
+                    "variants": {
+                        "GLOBAL-FAP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/file/d/1uGQeRtJ2tiDARUB_h1lyTcSKprgE3Jgh/view?usp=sharing"
+                                }
+                            },
+                            "retail_price": 108.00
+                        }
+                    },
+                    "GLOBAL-FAP-28x40-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/file/d/1ph0HYOlRN0p_NHds8dZ27q5Wb5jZM4Sb/view?usp=sharing"
+                            }
+                        },
+                        "retail_price": 228.00
+                    }
+                }
+            }
+        },
+        {
+            "title": "Solar Winds [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1Fc7QQ0Orgg46EpaGvmA6PYX8djc19c_L",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Coded Illustrations designed by Daniel Samama,  Amsterdam-based independent art director and designer. “Semi-autonomous processes, like feedback, decay, noise and other forms of controlled chaos fascinate me forever. Most of the time I'm just setting boundaries for chaos to mold around my ideas. The results are detailed, textural works with a digital yet analog feel, blending techniques like creative coding, video art, generative art, illustration and photography.” Daniel Samama Printed on Hahnemühle German Etching.",
+                    "variants": {
+                        "GLOBAL-FAP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/file/d/1lLqvHsNJAhYpu6RxRUJ3yw3elACK_IGT/view?usp=sharing"
+                                }
+                            },
+                            "retail_price": 118.00
+                        }
+                    },
+                    "GLOBAL-FAP-28x40-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/file/d/1Fc7QQ0Orgg46EpaGvmA6PYX8djc19c_L/view?usp=sharing"
+                            }
+                        },
+                        "retail_price": 238.00
+                    }
+                }
+            }
+        },
+        {
+            "title": "The Wall [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1qVoNqBJgr5gpo6w5IySxK-b_eWaEPiBx",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Coded Illustrations designed by Daniel Samama,  Amsterdam-based independent art director and designer. “Semi-autonomous processes, like feedback, decay, noise and other forms of controlled chaos fascinate me forever. Most of the time I'm just setting boundaries for chaos to mold around my ideas. The results are detailed, textural works with a digital yet analog feel, blending techniques like creative coding, video art, generative art, illustration and photography.” Daniel Samama Printed on Hahnemühle German Etching.",
+                    "variants": {
+                        "GLOBAL-FAP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/file/d/1LLIHIyeFljGYrBDx2nDex2-JorknIsMa/view?usp=sharing"
+                                }
+                            },
+                            "retail_price": 138.00
+                        }
+                    },
+                    "GLOBAL-FAP-28x40-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/file/d/1qVoNqBJgr5gpo6w5IySxK-b_eWaEPiBx/view?usp=sharing"
+                            }
+                        },
+                        "retail_price": 258.00
+                    }
+                }
+            }
+        },
+        {
+            "title": "Towards The Sun [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1hBersSwPIqJ4H7_IzoFW9WfIxPSqGUNn",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Coded Illustrations designed by Daniel Samama,  Amsterdam-based independent art director and designer. “Semi-autonomous processes, like feedback, decay, noise and other forms of controlled chaos fascinate me forever. Most of the time I'm just setting boundaries for chaos to mold around my ideas. The results are detailed, textural works with a digital yet analog feel, blending techniques like creative coding, video art, generative art, illustration and photography.” Daniel Samama Printed on Hahnemühle German Etching.",
+                    "variants": {
+                        "GLOBAL-FAP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/file/d/1hPQLygXpFpnKOlE7FM53vXpLLPbkNhQ1/view?usp=sharing"
+                                }
+                            },
+                            "retail_price": 138.00
+                        }
+                    },
+                    "GLOBAL-FAP-28x40-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/file/d/1hBersSwPIqJ4H7_IzoFW9WfIxPSqGUNn/view?usp=sharing"
+                            }
+                        },
+                        "retail_price": 258.00
+                    }
+                }
+            }
+        }
+    ]
+}

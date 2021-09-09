@@ -1,0 +1,188 @@
+{
+    "product_range_defaults": {
+        "published": true
+    },
+    "product_defaults": {
+        "enabled": false
+    },
+    "products_defaults": {
+        "global-cfp": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false
+    },
+    "variants_defaults": {
+        "GLOBAL-CFP-20x28-LANDSCAPE": {
+            "enabled": true
+        },
+        "GLOBAL-CFP-28x40-LANDSCAPE": {
+            "enabled": true
+        }
+    },
+    "product_ranges": [
+        {
+            "title": "Bloom [White]",
+            "user_image_url": "https://www.dropbox.com/s/mnqrtb7jfzmxkmd/Bloom-100x70-300.jpg?dl=1",
+            "products": {
+                "global-cfp": {
+                    "description": "Edition of 100. Coded Illustrations designed by Daniel Samama,  Amsterdam-based independent art director and designer. “Semi-autonomous processes, like feedback, decay, noise and other forms of controlled chaos fascinate me forever. Most of the time I'm just setting boundaries for chaos to mold around my ideas. The results are detailed, textural works with a digital yet analog feel, blending techniques like creative coding, video art, generative art, illustration and photography.” Daniel Samama Printed on Hahnemühle German Etching.",
+                    "variants": {
+                        "GLOBAL-CFP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=12_hrZTWh4A3W0owh-GUAs2n3GVIPmhbI"
+                                }
+                            },
+                            "retail_price": 183.00
+                        }
+                    },
+                    "GLOBAL-CFP-28x40-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/s/mnqrtb7jfzmxkmd/Bloom-100x70-300.jpg?dl=1"
+                            }
+                        },
+                        "retail_price": 318.00
+                    }
+                }
+            }
+        },
+        {
+            "title": "Northern Lights [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1w97qvdoNZ2WsWVqz3z8GqL8YI8exaO5P",
+            "products": {
+                "global-cfp": {
+                    "description": "Edition of 100. Coded Illustrations designed by Daniel Samama,  Amsterdam-based independent art director and designer. “Semi-autonomous processes, like feedback, decay, noise and other forms of controlled chaos fascinate me forever. Most of the time I'm just setting boundaries for chaos to mold around my ideas. The results are detailed, textural works with a digital yet analog feel, blending techniques like creative coding, video art, generative art, illustration and photography.” Daniel Samama Printed on Hahnemühle German Etching.",
+                    "variants": {
+                        "GLOBAL-CFP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1z1zfiaAZpxRRuLGjQSMI4r5KrPOCiXbS"
+                                }
+                            },
+                            "retail_price": 163.00
+                        }
+                    },
+                    "GLOBAL-CFP-28x40-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1w97qvdoNZ2WsWVqz3z8GqL8YI8exaO5P"
+                            }
+                        },
+                        "retail_price": 318.00
+                    }
+                }
+            }
+        },
+        {
+            "title": "Room With A View [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1ph0HYOlRN0p_NHds8dZ27q5Wb5jZM4Sb",
+            "products": {
+                "global-cfp": {
+                    "description": "Edition of 100. Coded Illustrations designed by Daniel Samama,  Amsterdam-based independent art director and designer. “Semi-autonomous processes, like feedback, decay, noise and other forms of controlled chaos fascinate me forever. Most of the time I'm just setting boundaries for chaos to mold around my ideas. The results are detailed, textural works with a digital yet analog feel, blending techniques like creative coding, video art, generative art, illustration and photography.” Daniel Samama Printed on Hahnemühle German Etching.",
+                    "variants": {
+                        "GLOBAL-CFP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1uGQeRtJ2tiDARUB_h1lyTcSKprgE3Jgh"
+                                }
+                            },
+                            "retail_price": 153.00
+                        }
+                    },
+                    "GLOBAL-CFP-28x40-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1ph0HYOlRN0p_NHds8dZ27q5Wb5jZM4Sb"
+                            }
+                        },
+                        "retail_price": 288.00
+                    }
+                }
+            }
+        },
+        {
+            "title": "Solar Winds [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1Fc7QQ0Orgg46EpaGvmA6PYX8djc19c_L",
+            "products": {
+                "global-cfp": {
+                    "description": "Edition of 100. Coded Illustrations designed by Daniel Samama,  Amsterdam-based independent art director and designer. “Semi-autonomous processes, like feedback, decay, noise and other forms of controlled chaos fascinate me forever. Most of the time I'm just setting boundaries for chaos to mold around my ideas. The results are detailed, textural works with a digital yet analog feel, blending techniques like creative coding, video art, generative art, illustration and photography.” Daniel Samama Printed on Hahnemühle German Etching.",
+                    "variants": {
+                        "GLOBAL-CFP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1lLqvHsNJAhYpu6RxRUJ3yw3elACK_IGT"
+                                }
+                            },
+                            "retail_price": 163.00
+                        }
+                    },
+                    "GLOBAL-CFP-28x40-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1Fc7QQ0Orgg46EpaGvmA6PYX8djc19c_L"
+                            }
+                        },
+                        "retail_price": 298.00
+                    }
+                }
+            }
+        },
+        {
+            "title": "The Wall [White]",
+            "user_image_url": "https://www.dropbox.com/s/ferc04xctacuem0/_The-Wall-I-CAxDS-100x70-300.jpg?dl=1",
+            "products": {
+                "global-cfp": {
+                    "description": "Edition of 100. Coded Illustrations designed by Daniel Samama,  Amsterdam-based independent art director and designer. “Semi-autonomous processes, like feedback, decay, noise and other forms of controlled chaos fascinate me forever. Most of the time I'm just setting boundaries for chaos to mold around my ideas. The results are detailed, textural works with a digital yet analog feel, blending techniques like creative coding, video art, generative art, illustration and photography.” Daniel Samama Printed on Hahnemühle German Etching.",
+                    "variants": {
+                        "GLOBAL-CFP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1LLIHIyeFljGYrBDx2nDex2-JorknIsMa"
+                                }
+                            },
+                            "retail_price": 183.00
+                        }
+                    },
+                    "GLOBAL-CFP-28x40-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/s/ferc04xctacuem0/_The-Wall-I-CAxDS-100x70-300.jpg?dl=1"
+                            }
+                        },
+                        "retail_price": 318.00
+                    }
+                }
+            }
+        },
+        {
+            "title": "Towards The Sun [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1hBersSwPIqJ4H7_IzoFW9WfIxPSqGUNn",
+            "products": {
+                "global-cfp": {
+                    "description": "Edition of 100. Coded Illustrations designed by Daniel Samama,  Amsterdam-based independent art director and designer. “Semi-autonomous processes, like feedback, decay, noise and other forms of controlled chaos fascinate me forever. Most of the time I'm just setting boundaries for chaos to mold around my ideas. The results are detailed, textural works with a digital yet analog feel, blending techniques like creative coding, video art, generative art, illustration and photography.” Daniel Samama Printed on Hahnemühle German Etching.",
+                    "variants": {
+                        "GLOBAL-CFP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1hPQLygXpFpnKOlE7FM53vXpLLPbkNhQ1"
+                                }
+                            },
+                            "retail_price": 183.00
+                        }
+                    },
+                    "GLOBAL-CFP-28x40-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1hBersSwPIqJ4H7_IzoFW9WfIxPSqGUNn"
+                            }
+                        },
+                        "retail_price": 318.00
+                    }
+                }
+            }
+        }
+    ]
+}

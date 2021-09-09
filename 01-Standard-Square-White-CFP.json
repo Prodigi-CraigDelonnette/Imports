@@ -1,0 +1,161 @@
+{
+    "product_range_defaults": {
+        "published": true
+    },
+    "product_defaults": {
+        "enabled": false
+    },
+    "products_defaults": {
+        "global-cfp": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false
+    },
+    "variants_defaults": {
+        "GLOBAL-CFP-20x20-SQUARE": {
+            "enabled": true
+        },
+        "GLOBAL-CFP-28x28-SQUARE": {
+            "enabled": true
+        }
+    },
+    "product_ranges": [
+        {
+            "title": "Body Positive [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1PLJMKtEFUW5t8qZ8cgdlnb-2-nfeWCbe",
+            "products": {
+                "global-cfp": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. An air of the familiar, yet the excitement of the unknown is definitive of our illustrations. Nostalgic of a moment or an experience you’ve never had, a person you never knew or a song you never heard. The aim is for artworks to take you somewhere for the first time, again. Printed on museum quality fine art paper. ",
+                    "variants": {
+                        "GLOBAL-CFP-20x20-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1PLJMKtEFUW5t8qZ8cgdlnb-2-nfeWCbe"
+                                }
+                            },
+                            "retail_price": 153.00
+                        },
+                        "GLOBAL-CFP-28x28-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1k27Ru2HcR9ePVmpWaM7c3otli_3k-pJg"
+                                }
+                            },
+                            "retail_price": 288.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Godard's Casa Malaparte [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1nv2vRNcIATPrt4hke4gsqUpVkmOP33sU",
+            "products": {
+                "global-cfp": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. An air of the familiar, yet the excitement of the unknown is definitive of our illustrations. Nostalgic of a moment or an experience you’ve never had, a person you never knew or a song you never heard. The aim is for artworks to take you somewhere for the first time, again. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-CFP-20x20-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1nv2vRNcIATPrt4hke4gsqUpVkmOP33sU"
+                                }
+                            },
+                            "retail_price": 163.00
+                        },
+                        "GLOBAL-CFP-28x28-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1TIokBaOCSd3g9_Y5vBai2rUGj3qdRmYT"
+                                }
+                            },
+                            "retail_price": 298.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Mermaid [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1n6B1qBxYQyKHEoxD5PJP4Zo_LG0diBCo",
+            "products": {
+                "global-cfp": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. An air of the familiar, yet the excitement of the unknown is definitive of our illustrations. Nostalgic of a moment or an experience you’ve never had, a person you never knew or a song you never heard. The aim is for artworks to take you somewhere for the first time, again. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-CFP-20x20-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1n6B1qBxYQyKHEoxD5PJP4Zo_LG0diBCo"
+                                }
+                            },
+                            "retail_price": 153.00
+                        },
+                        "GLOBAL-CFP-28x28-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1cHikVYp7NxJar7Gd6hknjXbHOBtrToVy"
+                                }
+                            },
+                            "retail_price": 288.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Palais Bulles [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1FkB5jeOZCCDiKsucTevQxwGOrPiRGFbA",
+            "products": {
+                "global-cfp": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. An air of the familiar, yet the excitement of the unknown is definitive of our illustrations. Nostalgic of a moment or an experience you’ve never had, a person you never knew or a song you never heard. The aim is for artworks to take you somewhere for the first time, again. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-CFP-20x20-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1FkB5jeOZCCDiKsucTevQxwGOrPiRGFbA"
+                                }
+                            },
+                            "retail_price": 183.00
+                        },
+                        "GLOBAL-CFP-28x28-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1Mgj2S665BjicKTUzBjddxOozL3ya-UM4"
+                                }
+                            },
+                            "retail_price": 318.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "She Sells [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=19QL_1bMRgvIhNb2MBOzTJ1UuKrllM0_y",
+            "products": {
+                "global-cfp": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. An air of the familiar, yet the excitement of the unknown is definitive of our illustrations. Nostalgic of a moment or an experience you’ve never had, a person you never knew or a song you never heard. The aim is for artworks to take you somewhere for the first time, again. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-CFP-20x20-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=19QL_1bMRgvIhNb2MBOzTJ1UuKrllM0_y"
+                                }
+                            },
+                            "retail_price": 153.00
+                        },
+                        "GLOBAL-CFP-28x28-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1ZXiyVg9CoLWB5TfOLSwOVJWNYJcK9leX"
+                                }
+                            },
+                            "retail_price": 288.00
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}

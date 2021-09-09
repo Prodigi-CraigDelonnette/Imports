@@ -1,0 +1,1368 @@
+{
+    "product_range_defaults": {
+        "published": true
+    },
+    "product_defaults": {
+        "enabled": false
+    },
+    "products_defaults": {
+        "global-fap": {
+            "enabled": true
+        },
+        "global-cfp": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false
+    },
+    "variants_defaults": {
+       "GLOBAL-FAP-20x28-PORTRAIT": {
+            "enabled": true
+        },
+        "GLOBAL-FAP-28x40-PORTRAIT": {
+            "enabled": true
+        },
+        "GLOBAL-CFP-20x28-PORTRAIT": {
+            "enabled": true
+        },
+        "GLOBAL-CFP-28x40-PORTRAIT": {
+            "enabled": true
+        }
+    },
+    "product_ranges": [
+        {
+            "title": "Ancient Muse [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1CCR7-CPFxh-yNfv5xkJjW9OdWtvsZ_ow",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1hKX0C_nTFoerN9EIAUwd0Z_F_FJi83Ag"
+                                }
+                            },
+                            "retail_price": 118.00
+                        },
+                        "GLOBAL-FAP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1CCR7-CPFxh-yNfv5xkJjW9OdWtvsZ_ow"
+                                }
+                            },
+                            "retail_price": 238.00
+                        },
+                        "GLOBAL-CFP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1hKX0C_nTFoerN9EIAUwd0Z_F_FJi83Ag"
+                                }
+                            },
+                            "retail_price": 163.00
+                        },
+                        "GLOBAL-CFP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1CCR7-CPFxh-yNfv5xkJjW9OdWtvsZ_ow"
+                                }
+                            },
+                            "retail_price": 298.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Aqueduct [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1W3PFI9SevMDjwyDvc58QwkZV9PDzr1sx",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1ZNwQWCzr8XoCLUGGexpibPcsSRHyesxi"
+                                }
+                            },
+                            "retail_price": 108.00
+                        },
+                        "GLOBAL-FAP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1W3PFI9SevMDjwyDvc58QwkZV9PDzr1sx"
+                                }
+                            },
+                            "retail_price": 228.00
+                        },
+                        "GLOBAL-CFP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1ZNwQWCzr8XoCLUGGexpibPcsSRHyesxi"
+                                }
+                            },
+                            "retail_price": 153.00
+                        },
+                        "GLOBAL-CFP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1W3PFI9SevMDjwyDvc58QwkZV9PDzr1sx"
+                                }
+                            },
+                            "retail_price": 288.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Bath Scene [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1HnUsYvyYo-RV5hlzp6wA0x5vo9kszVbD",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1zC64ywnpLflYCXe7AsEiVxEmxAFyy-9Q"
+                                }
+                            },
+                            "retail_price": 118.00
+                        },
+                        "GLOBAL-FAP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1HnUsYvyYo-RV5hlzp6wA0x5vo9kszVbD"
+                                }
+                            },
+                            "retail_price": 238.00
+                        },
+                        "GLOBAL-CFP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1zC64ywnpLflYCXe7AsEiVxEmxAFyy-9Q"
+                                }
+                            },
+                            "retail_price": 163.00
+                        },
+                        "GLOBAL-CFP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1HnUsYvyYo-RV5hlzp6wA0x5vo9kszVbD"
+                                }
+                            },
+                            "retail_price": 298.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Contempt [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1kZpe356vAOuwpzgA_PlJJzmNPA5MeFl0",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1uzu1skYc7SRU1OIX_sysyuYtTTCtMS2U"
+                                }
+                            },
+                            "retail_price": 118.00
+                        },
+                        "GLOBAL-FAP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1kZpe356vAOuwpzgA_PlJJzmNPA5MeFl0"
+                                }
+                            },
+                            "retail_price": 238.00
+                        },
+                        "GLOBAL-CFP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1uzu1skYc7SRU1OIX_sysyuYtTTCtMS2U"
+                                }
+                            },
+                            "retail_price": 163.00
+                        },
+                        "GLOBAL-CFP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1kZpe356vAOuwpzgA_PlJJzmNPA5MeFl0"
+                                }
+                            },
+                            "retail_price": 298.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Don't Get Ahead [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1GzUsh37MEFqIhlO_Q9ox01jUjjvXnw98",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1bAWkjjc5b_XEBLdpNF3gUff-S1EVILpw"
+                                }
+                            },
+                            "retail_price": 118.00
+                        },
+                        "GLOBAL-FAP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1GzUsh37MEFqIhlO_Q9ox01jUjjvXnw98"
+                                }
+                            },
+                            "retail_price": 238.00
+                        },
+                        "GLOBAL-CFP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1bAWkjjc5b_XEBLdpNF3gUff-S1EVILpw"
+                                }
+                            },
+                            "retail_price": 163.00
+                        },
+                        "GLOBAL-CFP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1GzUsh37MEFqIhlO_Q9ox01jUjjvXnw98"
+                                }
+                            },
+                            "retail_price": 298.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Kisses to the Columns [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1B1PW44ttu6nagN3dIOI7W2YsW3qXw07V",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1oLW1LhucvBD_4OHaughr1KBelT0N74d7"
+                                }
+                            },
+                            "retail_price": 108.00
+                        },
+                        "GLOBAL-FAP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1B1PW44ttu6nagN3dIOI7W2YsW3qXw07V"
+                                }
+                            },
+                            "retail_price": 228.00
+                        },
+                        "GLOBAL-CFP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1oLW1LhucvBD_4OHaughr1KBelT0N74d7"
+                                }
+                            },
+                            "retail_price": 153.00
+                        },
+                        "GLOBAL-CFP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1B1PW44ttu6nagN3dIOI7W2YsW3qXw07V"
+                                }
+                            },
+                            "retail_price": 288.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Lost at Sea [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=13SkceAt3ySWcXrNzQuvmIXz5fAoZj5Pt",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1LFF9s63QkQzV5SrCWDXOOm6GYkd1l3QY"
+                                }
+                            },
+                            "retail_price": 108.00
+                        },
+                        "GLOBAL-FAP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=13SkceAt3ySWcXrNzQuvmIXz5fAoZj5Pt"
+                                }
+                            },
+                            "retail_price": 228.00
+                        },
+                        "GLOBAL-CFP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1LFF9s63QkQzV5SrCWDXOOm6GYkd1l3QY"
+                                }
+                            },
+                            "retail_price": 153.00
+                        },
+                        "GLOBAL-CFP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=13SkceAt3ySWcXrNzQuvmIXz5fAoZj5Pt"
+                                }
+                            },
+                            "retail_price": 288.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Magritte's Eye [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1JaLGuAteOzhc5N3RtPaDeLuZ8mzFpaLW",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1mF5x4uQ-bP_BzEDGPDWY9aLDvXYUhQAl"
+                                }
+                            },
+                            "retail_price": 118.00
+                        },
+                        "GLOBAL-FAP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1JaLGuAteOzhc5N3RtPaDeLuZ8mzFpaLW"
+                                }
+                            },
+                            "retail_price": 238.00
+                        },
+                        "GLOBAL-CFP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1mF5x4uQ-bP_BzEDGPDWY9aLDvXYUhQAl"
+                                }
+                            },
+                            "retail_price": 163.00
+                        },
+                        "GLOBAL-CFP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1JaLGuAteOzhc5N3RtPaDeLuZ8mzFpaLW"
+                                }
+                            },
+                            "retail_price": 298.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Marble Arch [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1mcIH-T63An_dgDXqpyHEWA3NueZ9-1gE",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1OCNrwX59zsU97-aPfFm2fF5lgG5xlpvI"
+                                }
+                            },
+                            "retail_price": 108.00
+                        },
+                        "GLOBAL-FAP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1mcIH-T63An_dgDXqpyHEWA3NueZ9-1gE"
+                                }
+                            },
+                            "retail_price": 228.00
+                        },
+                        "GLOBAL-CFP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1OCNrwX59zsU97-aPfFm2fF5lgG5xlpvI"
+                                }
+                            },
+                            "retail_price": 153.00
+                        },
+                        "GLOBAL-CFP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1mcIH-T63An_dgDXqpyHEWA3NueZ9-1gE"
+                                }
+                            },
+                            "retail_price": 288.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Respite [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=11HH--JQgMQVK3l47ViVBG1qQZRS8hDGb",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1E1LZjKDqcArmWZQk2-gIrLkB4jubeBcc"
+                                }
+                            },
+                            "retail_price": 108.00
+                        },
+                        "GLOBAL-FAP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=11HH--JQgMQVK3l47ViVBG1qQZRS8hDGb"
+                                }
+                            },
+                            "retail_price": 228.00
+                        },
+                        "GLOBAL-CFP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1E1LZjKDqcArmWZQk2-gIrLkB4jubeBcc"
+                                }
+                            },
+                            "retail_price": 153.00
+                        },
+                        "GLOBAL-CFP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=11HH--JQgMQVK3l47ViVBG1qQZRS8hDGb"
+                                }
+                            },
+                            "retail_price": 288.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Shine [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1PvuhHcJb5Aujylz8l0i-VsvarGbnVvNT",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1BuExWOSdCuGa3mOsahgGtfEWiCvHe1Ph"
+                                }
+                            },
+                            "retail_price": 108.00
+                        },
+                        "GLOBAL-FAP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1PvuhHcJb5Aujylz8l0i-VsvarGbnVvNT"
+                                }
+                            },
+                            "retail_price": 228.00
+                        },
+                        "GLOBAL-CFP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1BuExWOSdCuGa3mOsahgGtfEWiCvHe1Ph"
+                                }
+                            },
+                            "retail_price": 153.00
+                        },
+                        "GLOBAL-CFP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1PvuhHcJb5Aujylz8l0i-VsvarGbnVvNT"
+                                }
+                            },
+                            "retail_price": 288.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Sneak Peak [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1uNUZk5bjmKfIgR5k5RobnFq2uERz0Q4R",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1xq8NABTkaouiMjKrrNart0iWwzsxLkEX"
+                                }
+                            },
+                            "retail_price": 118.00
+                        },
+                        "GLOBAL-FAP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1uNUZk5bjmKfIgR5k5RobnFq2uERz0Q4R"
+                                }
+                            },
+                            "retail_price": 238.00
+                        },
+                        "GLOBAL-CFP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1xq8NABTkaouiMjKrrNart0iWwzsxLkEX"
+                                }
+                            },
+                            "retail_price": 163.00
+                        },
+                        "GLOBAL-CFP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1uNUZk5bjmKfIgR5k5RobnFq2uERz0Q4R"
+                                }
+                            },
+                            "retail_price": 298.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Stone Cold Love [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1XwT1pRjpNFKgHwgYwFYqg2O4gDP2kRDO",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1CNCTKXYlGsE0VIUhk2S_EyU15aQ7XFq9"
+                                }
+                            },
+                            "retail_price": 138.00
+                        },
+                        "GLOBAL-FAP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1XwT1pRjpNFKgHwgYwFYqg2O4gDP2kRDO"
+                                }
+                            },
+                            "retail_price": 258.00
+                        },
+                        "GLOBAL-CFP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1CNCTKXYlGsE0VIUhk2S_EyU15aQ7XFq9"
+                                }
+                            },
+                            "retail_price": 183.00
+                        },
+                        "GLOBAL-CFP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1XwT1pRjpNFKgHwgYwFYqg2O4gDP2kRDO"
+                                }
+                            },
+                            "retail_price": 318.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Swimmer [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1TI92kuV63tpqcXgFkatygiQIfXY2TXai",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1RnFJ4N_M224xDJ7N9vtm4bEqM-LzbRFj"
+                                }
+                            },
+                            "retail_price": 118.00
+                        },
+                        "GLOBAL-FAP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1TI92kuV63tpqcXgFkatygiQIfXY2TXai"
+                                }
+                            },
+                            "retail_price": 238.00
+                        },
+                        "GLOBAL-CFP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1RnFJ4N_M224xDJ7N9vtm4bEqM-LzbRFj"
+                                }
+                            },
+                            "retail_price": 163.00
+                        },
+                        "GLOBAL-CFP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1TI92kuV63tpqcXgFkatygiQIfXY2TXai"
+                                }
+                            },
+                            "retail_price": 298.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Tropique Bird [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=128WwPZbWVopuSdtR1TTmrxfDoWGR02Fa",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1ND0BZBvPp_-zLNUl_JTkdO8pnb4hm29Z"
+                                }
+                            },
+                            "retail_price": 118.00
+                        },
+                        "GLOBAL-FAP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=128WwPZbWVopuSdtR1TTmrxfDoWGR02Fa"
+                                }
+                            },
+                            "retail_price": 238.00
+                        },
+                        "GLOBAL-CFP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1ND0BZBvPp_-zLNUl_JTkdO8pnb4hm29Z"
+                                }
+                            },
+                            "retail_price": 163.00
+                        },
+                        "GLOBAL-CFP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=128WwPZbWVopuSdtR1TTmrxfDoWGR02Fa"
+                                }
+                            },
+                            "retail_price": 298.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Wild One [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1a5mbqkTKZesy33ttr4JZG3dfE_Q0pyY9",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1L3UQpep6tuRFaPB_UUc8Y-ZuNP4WTfsx"
+                                }
+                            },
+                            "retail_price": 108.00
+                        },
+                        "GLOBAL-FAP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1a5mbqkTKZesy33ttr4JZG3dfE_Q0pyY9"
+                                }
+                            },
+                            "retail_price": 228.00
+                        },
+                        "GLOBAL-CFP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1L3UQpep6tuRFaPB_UUc8Y-ZuNP4WTfsx"
+                                }
+                            },
+                            "retail_price": 153.00
+                        },
+                        "GLOBAL-CFP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1a5mbqkTKZesy33ttr4JZG3dfE_Q0pyY9"
+                                }
+                            },
+                            "retail_price": 288.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "With Loving Arms (Blue) [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1u76saiCYV2GPd_aAPiaBqfXJTkdKjS9a",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1xDKeB1v9tw-oPIhwLLYubcQSw3LdmZ5b"
+                                }
+                            },
+                            "retail_price": 118.00
+                        },
+                        "GLOBAL-FAP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1u76saiCYV2GPd_aAPiaBqfXJTkdKjS9a"
+                                }
+                            },
+                            "retail_price": 238.00
+                        },
+                        "GLOBAL-CFP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1xDKeB1v9tw-oPIhwLLYubcQSw3LdmZ5b"
+                                }
+                            },
+                            "retail_price": 163.00
+                        },
+                        "GLOBAL-CFP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1u76saiCYV2GPd_aAPiaBqfXJTkdKjS9a"
+                                }
+                            },
+                            "retail_price": 298.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "With Loving Arms (Green) [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1DnOAL9Gzc5x5EjfhGtqyzJv2_tkhk6o8",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=19-h2lGiBI-AoMyv_xB04yaffC5bGisyw"
+                                }
+                            },
+                            "retail_price": 118.00
+                        },
+                        "GLOBAL-FAP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1DnOAL9Gzc5x5EjfhGtqyzJv2_tkhk6o8"
+                                }
+                            },
+                            "retail_price": 238.00
+                        },
+                        "GLOBAL-CFP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=19-h2lGiBI-AoMyv_xB04yaffC5bGisyw"
+                                }
+                            },
+                            "retail_price": 163.00
+                        },
+                        "GLOBAL-CFP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1DnOAL9Gzc5x5EjfhGtqyzJv2_tkhk6o8"
+                                }
+                            },
+                            "retail_price": 298.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Hedone [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=143CZ6nvht1-UxbUD5a3se9vtX6UYLuBV",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed in collaboration with Dušica Nešković, Belgrade-based multidisciplinary designer and founder of Tesseromni Design Studio. Inspired by civilizations before us, drawing on the flowing architecture of temples and sacred spaces Dušica Nešković’s signature style shines through with organic forms and hand drawn shapes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1WvrI0ey8PNTGK7eD7n86LoSV1xNEtQ__"
+                                }
+                            },
+                            "retail_price": 163.00
+                        },
+                        "GLOBAL-FAP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=143CZ6nvht1-UxbUD5a3se9vtX6UYLuBV"
+                                }
+                            },
+                            "retail_price": 298.00
+                        },
+                        "GLOBAL-CFP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1WvrI0ey8PNTGK7eD7n86LoSV1xNEtQ__"
+                                }
+                            },
+                            "retail_price": 163.00
+                        },
+                        "GLOBAL-CFP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=143CZ6nvht1-UxbUD5a3se9vtX6UYLuBV"
+                                }
+                            },
+                            "retail_price": 298.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Leading The Way [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1-zTIK1QemV9bcYz6YCWXK1fTN3Nd7HfD",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed in collaboration with Dušica Nešković, Belgrade-based multidisciplinary designer and founder of Tesseromni Design Studio. Inspired by civilizations before us, drawing on the flowing architecture of temples and sacred spaces Dušica Nešković’s signature style shines through with organic forms and hand drawn shapes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1kM4CEhZFEgeLTuP32GHBufjbBVIX97Uu"
+                                }
+                            },
+                            "retail_price": 163.00
+                        },
+                        "GLOBAL-FAP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1-zTIK1QemV9bcYz6YCWXK1fTN3Nd7HfD"
+                                }
+                            },
+                            "retail_price": 298.00
+                        },
+                        "GLOBAL-CFP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1kM4CEhZFEgeLTuP32GHBufjbBVIX97Uu"
+                                }
+                            },
+                            "retail_price": 163.00
+                        },
+                        "GLOBAL-CFP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1-zTIK1QemV9bcYz6YCWXK1fTN3Nd7HfD"
+                                }
+                            },
+                            "retail_price": 298.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Lucky Limbo [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1Rfek1Ddw9yJRSNl-QAv4YdPwgV2FfHgC",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed in collaboration with Dušica Nešković, Belgrade-based multidisciplinary designer and founder of Tesseromni Design Studio. Inspired by civilizations before us, drawing on the flowing architecture of temples and sacred spaces Dušica Nešković’s signature style shines through with organic forms and hand drawn shapes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=13OHkwj31nYJ8fo5StG6HXt8xm6L9dVKV"
+                                }
+                            },
+                            "retail_price": 163.00
+                        },
+                        "GLOBAL-FAP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1Rfek1Ddw9yJRSNl-QAv4YdPwgV2FfHgC"
+                                }
+                            },
+                            "retail_price": 298.00
+                        },
+                        "GLOBAL-CFP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=13OHkwj31nYJ8fo5StG6HXt8xm6L9dVKV"
+                                }
+                            },
+                            "retail_price": 163.00
+                        },
+                        "GLOBAL-CFP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1Rfek1Ddw9yJRSNl-QAv4YdPwgV2FfHgC"
+                                }
+                            },
+                            "retail_price": 298.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Magritte Says Hi [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=19hsh9756K3Lgge0CIucq855x4wCh8N16",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed in collaboration with Dušica Nešković, Belgrade-based multidisciplinary designer and founder of Tesseromni Design Studio. Inspired by civilizations before us, drawing on the flowing architecture of temples and sacred spaces Dušica Nešković’s signature style shines through with organic forms and hand drawn shapes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1L-f9Ew3v1smJ7wZMpUhU2NsvwDEvGLvW"
+                                }
+                            },
+                            "retail_price": 163.00
+                        },
+                        "GLOBAL-FAP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=19hsh9756K3Lgge0CIucq855x4wCh8N16"
+                                }
+                            },
+                            "retail_price": 298.00
+                        },
+                        "GLOBAL-CFP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1L-f9Ew3v1smJ7wZMpUhU2NsvwDEvGLvW"
+                                }
+                            },
+                            "retail_price": 163.00
+                        },
+                        "GLOBAL-CFP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=19hsh9756K3Lgge0CIucq855x4wCh8N16"
+                                }
+                            },
+                            "retail_price": 298.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Memory of Clay [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1dHAGPh2x4QvCfNajXd6c130_buwLLM6Q",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed in collaboration with Dušica Nešković, Belgrade-based multidisciplinary designer and founder of Tesseromni Design Studio. Inspired by civilizations before us, drawing on the flowing architecture of temples and sacred spaces Dušica Nešković’s signature style shines through with organic forms and hand drawn shapes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1RS587FwU1thP9-ji-2VQ0XdaoiK3Ii_C"
+                                }
+                            },
+                            "retail_price": 163.00
+                        },
+                        "GLOBAL-FAP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1dHAGPh2x4QvCfNajXd6c130_buwLLM6Q"
+                                }
+                            },
+                            "retail_price": 298.00
+                        },
+                        "GLOBAL-CFP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1RS587FwU1thP9-ji-2VQ0XdaoiK3Ii_C"
+                                }
+                            },
+                            "retail_price": 163.00
+                        },
+                        "GLOBAL-CFP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1dHAGPh2x4QvCfNajXd6c130_buwLLM6Q"
+                                }
+                            },
+                            "retail_price": 298.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Minoan Dream [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1ryKm3XDHL9Z76ZTpMRemISTitFtaQ05v",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed in collaboration with Dušica Nešković, Belgrade-based multidisciplinary designer and founder of Tesseromni Design Studio. Inspired by civilizations before us, drawing on the flowing architecture of temples and sacred spaces Dušica Nešković’s signature style shines through with organic forms and hand drawn shapes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1gyh3Gy8CAcKUeuzltPrkUqq4D-k3Td5R"
+                                }
+                            },
+                            "retail_price": 163.00
+                        },
+                        "GLOBAL-FAP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1ryKm3XDHL9Z76ZTpMRemISTitFtaQ05v"
+                                }
+                            },
+                            "retail_price": 298.00
+                        },
+                        "GLOBAL-CFP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1gyh3Gy8CAcKUeuzltPrkUqq4D-k3Td5R"
+                                }
+                            },
+                            "retail_price": 163.00
+                        },
+                        "GLOBAL-CFP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1ryKm3XDHL9Z76ZTpMRemISTitFtaQ05v"
+                                }
+                            },
+                            "retail_price": 298.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Olympus Blue Nostalgia  [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1M5DUIVM5L5DpGf7unmjmUnNFIN3OpR42",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed in collaboration with Dušica Nešković, Belgrade-based multidisciplinary designer and founder of Tesseromni Design Studio. Inspired by civilizations before us, drawing on the flowing architecture of temples and sacred spaces Dušica Nešković’s signature style shines through with organic forms and hand drawn shapes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1Q-8DVwTcGh9BgiYMFKoZ4Wqperw6FB2V"
+                                }
+                            },
+                            "retail_price": 163.00
+                        },
+                        "GLOBAL-FAP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1M5DUIVM5L5DpGf7unmjmUnNFIN3OpR42"
+                                }
+                            },
+                            "retail_price": 298.00
+                        },
+                        "GLOBAL-CFP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1Q-8DVwTcGh9BgiYMFKoZ4Wqperw6FB2V"
+                                }
+                            },
+                            "retail_price": 163.00
+                        },
+                        "GLOBAL-CFP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1M5DUIVM5L5DpGf7unmjmUnNFIN3OpR42"
+                                }
+                            },
+                            "retail_price": 298.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Qualis Rex, Talis Grex [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1x34VQt8HvC0z8cyoylCbOMdczyjOSfOq",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed in collaboration with Dušica Nešković, Belgrade-based multidisciplinary designer and founder of Tesseromni Design Studio. Inspired by civilizations before us, drawing on the flowing architecture of temples and sacred spaces Dušica Nešković’s signature style shines through with organic forms and hand drawn shapes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1VSyFche11YVyo68PXl_oxfP5QVAAiGle"
+                                }
+                            },
+                            "retail_price": 163.00
+                        },
+                        "GLOBAL-FAP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1x34VQt8HvC0z8cyoylCbOMdczyjOSfOq"
+                                }
+                            },
+                            "retail_price": 298.00
+                        },
+                        "GLOBAL-CFP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1VSyFche11YVyo68PXl_oxfP5QVAAiGle"
+                                }
+                            },
+                            "retail_price": 163.00
+                        },
+                        "GLOBAL-CFP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1x34VQt8HvC0z8cyoylCbOMdczyjOSfOq"
+                                }
+                            },
+                            "retail_price": 298.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Sumerian Vanity [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1YGspuqFBz3Yq4VgL-zmbf90rnWSdu77i",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed in collaboration with Dušica Nešković, Belgrade-based multidisciplinary designer and founder of Tesseromni Design Studio. Inspired by civilizations before us, drawing on the flowing architecture of temples and sacred spaces Dušica Nešković’s signature style shines through with organic forms and hand drawn shapes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1RAVBXEqLSU9kV_bBP46ZVZMM99eutjFw"
+                                }
+                            },
+                            "retail_price": 163.00
+                        },
+                        "GLOBAL-FAP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1YGspuqFBz3Yq4VgL-zmbf90rnWSdu77i"
+                                }
+                            },
+                            "retail_price": 298.00
+                        },
+                        "GLOBAL-CFP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1RAVBXEqLSU9kV_bBP46ZVZMM99eutjFw"
+                                }
+                            },
+                            "retail_price": 163.00
+                        },
+                        "GLOBAL-CFP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1YGspuqFBz3Yq4VgL-zmbf90rnWSdu77i"
+                                }
+                            },
+                            "retail_price": 298.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Twilight Temple Zeal [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1yWxI41imPEjtRg8a-svb1Qk8VjfwDqJN",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed in collaboration with Dušica Nešković, Belgrade-based multidisciplinary designer and founder of Tesseromni Design Studio. Inspired by civilizations before us, drawing on the flowing architecture of temples and sacred spaces Dušica Nešković’s signature style shines through with organic forms and hand drawn shapes. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1v4y40CjaOba-uSAKDxBO0dEbONAZa6dk"
+                                }
+                            },
+                            "retail_price": 163.00
+                        },
+                        "GLOBAL-FAP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1yWxI41imPEjtRg8a-svb1Qk8VjfwDqJN"
+                                }
+                            },
+                            "retail_price": 298.00
+                        },
+                        "GLOBAL-CFP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1v4y40CjaOba-uSAKDxBO0dEbONAZa6dk"
+                                }
+                            },
+                            "retail_price": 163.00
+                        },
+                        "GLOBAL-CFP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1yWxI41imPEjtRg8a-svb1Qk8VjfwDqJN"
+                                }
+                            },
+                            "retail_price": 298.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Bokeh V [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1dZkASBgMDxYx6MAAGDZXepHXtGlSswKx",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. An air of the familiar, yet the excitement of the unknown is definitive of our illustrations. Nostalgic of a moment or an experience you’ve never had, a person you never knew or a song you never heard. The aim is for artworks to take you somewhere for the first time, again. Printed on museum quality fine art paper.",
+                    "variants": {
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=11isV8xmBbR8vgxmCVyrm9pUAaAyqYXko"
+                                }
+                            },
+                            "retail_price": 118.00
+                        },
+                        "GLOBAL-FAP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1dZkASBgMDxYx6MAAGDZXepHXtGlSswKx"
+                                }
+                            },
+                            "retail_price": 238.00
+                        },
+                        "GLOBAL-CFP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=11isV8xmBbR8vgxmCVyrm9pUAaAyqYXko"
+                                }
+                            },
+                            "retail_price": 163.00
+                        },
+                        "GLOBAL-CFP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1dZkASBgMDxYx6MAAGDZXepHXtGlSswKx"
+                                }
+                            },
+                            "retail_price": 298.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Breeze [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1Eq2HiMItpIiOUz-hN1_LHyFJ6lX4uDUs",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Coded Illustrations designed by Daniel Samama,  Amsterdam-based independent art director and designer. “Semi-autonomous processes, like feedback, decay, noise and other forms of controlled chaos fascinate me forever. Most of the time I'm just setting boundaries for chaos to mold around my ideas. The results are detailed, textural works with a digital yet analog feel, blending techniques like creative coding, video art, generative art, illustration and photography.” Daniel Samama Printed on Hahnemühle German Etching.",
+                    "variants": {
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1rSTvXX5903NExeCGKs88Eui8qCz6ccO7"
+                                }
+                            },
+                            "retail_price": 108.00
+                        },
+                        "GLOBAL-FAP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1Eq2HiMItpIiOUz-hN1_LHyFJ6lX4uDUs"
+                                }
+                            },
+                            "retail_price": 228.00
+                        },
+                        "GLOBAL-CFP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1rSTvXX5903NExeCGKs88Eui8qCz6ccO7"
+                                }
+                            },
+                            "retail_price": 153.00
+                        },
+                        "GLOBAL-CFP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1Eq2HiMItpIiOUz-hN1_LHyFJ6lX4uDUs"
+                                }
+                            },
+                            "retail_price": 288.00
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Hazy Days [White]",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1UmqIPKzDVGoPxaxFMHXJ0YwwCv_PTSvn",
+            "products": {
+                "global-fap": {
+                    "description": "Edition of 100. Coded Illustrations designed by Daniel Samama,  Amsterdam-based independent art director and designer. “Semi-autonomous processes, like feedback, decay, noise and other forms of controlled chaos fascinate me forever. Most of the time I'm just setting boundaries for chaos to mold around my ideas. The results are detailed, textural works with a digital yet analog feel, blending techniques like creative coding, video art, generative art, illustration and photography.” Daniel Samama Printed on Hahnemühle German Etching.",
+                    "variants": {
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1kK7VabXeHh8tQRGBcVNeTkz45ho3TVGo"
+                                }
+                            },
+                            "retail_price": 118.00
+                        },
+                        "GLOBAL-FAP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1UmqIPKzDVGoPxaxFMHXJ0YwwCv_PTSvn"
+                                }
+                            },
+                            "retail_price": 238.00
+                        },
+                        "GLOBAL-CFP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1kK7VabXeHh8tQRGBcVNeTkz45ho3TVGo"
+                                }
+                            },
+                            "retail_price": 163.00
+                        },
+                        "GLOBAL-CFP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1UmqIPKzDVGoPxaxFMHXJ0YwwCv_PTSvn"
+                                }
+                            },
+                            "retail_price": 298.00
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}

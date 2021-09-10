@@ -20,46 +20,8 @@
     },
     "product_ranges": [
         {
-            "title": "Matterhorn Embrace [White]",
-            "user_image_url": "https://drive.google.com/uc?export=download&id=1VV0MfMIU04SjxwXPdJx9NYnCKXzvcxDO",
-            "products": {
-                "global-cfp": {
-                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper.",
-                    "variants": {
-                        "GLOBAL-CFP-12x12-SQUARE": {
-                            "images": {
-                                "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1VV0MfMIU04SjxwXPdJx9NYnCKXzvcxDO"
-                                }
-                            },
-                            "retail_price": 73.00
-                        }
-                    }
-                }
-            }
-        },
-        {
-            "title": "Romeo [White]",
-            "user_image_url": "https://drive.google.com/uc?export=download&id=1KYZxPwTc9Aa3Ukfd6As429xIItLegEcn",
-            "products": {
-                "global-cfp": {
-                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. Surrealist at times but always palpable is the universe behind our series of digital collages. Like a still frame from a french Nouvelle Vague film or a Dali embossed dream sequence, our collages take you to another dimension within the comfort of your own homes. Printed on museum quality fine art paper. ",
-                    "variants": {
-                        "GLOBAL-CFP-12x12-SQUARE": {
-                            "images": {
-                                "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1KYZxPwTc9Aa3Ukfd6As429xIItLegEcn"
-                                }
-                            },
-                            "retail_price": 73.00
-                        }
-                    }
-                }
-            }
-        },
-        {
             "title": "Body Positive [White]",
-            "user_image_url": "https://drive.google.com/uc?export=download&id=1tsXn1qK7n_ah4Lq0hEyJLhy_354732sg",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1tsXn1qK7n_ah4Lq0hEyJLhy_354482sg",
             "products": {
                 "global-cfp": {
                     "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. An air of the familiar, yet the excitement of the unknown is definitive of our illustrations. Nostalgic of a moment or an experience you’ve never had, a person you never knew or a song you never heard. The aim is for artworks to take you somewhere for the first time, again. Printed on museum quality fine art paper. ",
@@ -67,7 +29,7 @@
                         "GLOBAL-CFP-12x12-SQUARE": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1tsXn1qK7n_ah4Lq0hEyJLhy_354732sg"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1tsXn1qK7n_ah4Lq0hEyJLhy_354482sg"
                                 }
                             },
                             "retail_price": 73.00

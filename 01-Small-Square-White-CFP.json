@@ -20,25 +20,6 @@
     },
     "product_ranges": [
         {
-            "title": "Body Positive [White]",
-            "user_image_url": "https://drive.google.com/uc?export=download&id=1tsXn1qK7n_ah4Lq0hEyJLhy_354482sg",
-            "products": {
-                "global-cfp": {
-                    "description": "Edition of 100. Designed by Current Art Studios in Amsterdam. An air of the familiar, yet the excitement of the unknown is definitive of our illustrations. Nostalgic of a moment or an experience you’ve never had, a person you never knew or a song you never heard. The aim is for artworks to take you somewhere for the first time, again. Printed on museum quality fine art paper. ",
-                    "variants": {
-                        "GLOBAL-CFP-12x12-SQUARE": {
-                            "images": {
-                                "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1tsXn1qK7n_ah4Lq0hEyJLhy_354482sg"
-                                }
-                            },
-                            "retail_price": 73.00
-                        }
-                    }
-                }
-            }
-        },
-        {
             "title": "Godard's Casa Malaparte [White]",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1CPVt9e3abTJvjIDsKgW-l8EMjdcUi2KI",
             "products": {
@@ -48,7 +29,7 @@
                         "GLOBAL-CFP-12x12-SQUARE": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https: //drive.google.com/file/d/1CPVt9e3abTJvjIDsKgW-l8EMjdcUi2KI"
+                                    "user_image_url": "https://drive.google.com/file/d/1CPVt9e3abTJvjIDsKgW-l8EMjdcUi2KI"
                                 }
                             },
                             "retail_price": 83.00
@@ -67,7 +48,7 @@
                         "GLOBAL-CFP-12x12-SQUARE": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https: //drive.google.com/file/d/1iOY5EVfk9q0DvYsALKGKomALZKfFE59K"
+                                    "user_image_url": "https://drive.google.com/file/d/1iOY5EVfk9q0DvYsALKGKomALZKfFE59K"
                                 }
                             },
                             "retail_price": 73.00
@@ -86,7 +67,7 @@
                         "GLOBAL-CFP-12x12-SQUARE": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https: //drive.google.com/file/d/1223SEXJW_iAXLYLxXTddCBRxIs0jah0n"
+                                    "user_image_url": "https://drive.google.com/file/d/1223SEXJW_iAXLYLxXTddCBRxIs0jah0n"
                                 }
                             },
                             "retail_price": 103.00
@@ -105,7 +86,7 @@
                         "GLOBAL-CFP-12x12-SQUARE": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https: //drive.google.com/file/d/1kWwKMhUNKGr6tvc7AmCzV4GCca8dy_BL"
+                                    "user_image_url": "https://drive.google.com/file/d/1kWwKMhUNKGr6tvc7AmCzV4GCca8dy_BL"
                                 }
                             },
                             "retail_price": 73.00

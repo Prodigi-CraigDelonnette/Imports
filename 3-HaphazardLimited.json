@@ -1,0 +1,291 @@
+{
+    "product_range_defaults": {
+        "published": false
+    },
+    "product_defaults": {
+        "enabled": false
+    },
+    "products_defaults": {
+        "global-cfp": {
+            "enabled": true
+        },
+        "global-fap": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false
+    },
+    "variants_defaults": {
+        "GLOBAL-CFP-20x28-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 160.00
+        },
+        "GLOBAL-CFP-12x16-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 90.00
+        },
+        "GLOBAL-FAP-20x28-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 70.00
+        },
+        "GLOBAL-FAP-12x16-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 40.00
+        }
+    },
+    "product_ranges": [
+        {
+            "title": "Haphazard Limited G",
+            "user_image_url": "https://www.dropbox.com/sh/rm4evj2qc2ttoy5/AAB_2VYiTwc0PCJ_E0iOyk1Ma/G-Haphazard%20Limited-50x70.jpg",
+            "products": {
+                "global-cfp": {
+                    "variants": {
+                        "GLOBAL-CFP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/sh/rm4evj2qc2ttoy5/AAB_2VYiTwc0PCJ_E0iOyk1Ma/G-Haphazard%20Limited-50x70.jpg"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/sh/rvgq13dmsx8mp1e/AAB3wUCy9_Tos4r5ngdM3ujUa/G-Haphazard%20Limited-30x40.jpg"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-fap": {
+                    "variants": {
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/sh/rm4evj2qc2ttoy5/AAB_2VYiTwc0PCJ_E0iOyk1Ma/G-Haphazard%20Limited-50x70.jpg"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/sh/rvgq13dmsx8mp1e/AAB3wUCy9_Tos4r5ngdM3ujUa/G-Haphazard%20Limited-30x40.jpg"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Haphazard Limited I",
+            "user_image_url": "https://www.dropbox.com/sh/rm4evj2qc2ttoy5/AABaR6syjq428jWcIvVczpPba/I-Haphazard%20Limited-50x70.jpg",
+            "products": {
+                "global-cfp": {
+                    "variants": {
+                        "GLOBAL-CFP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/sh/rm4evj2qc2ttoy5/AABaR6syjq428jWcIvVczpPba/I-Haphazard%20Limited-50x70.jpg"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/sh/rvgq13dmsx8mp1e/AAC-Kh52hEWx9e786jJiek-Da/I-Haphazard%20Limited-30x40.jpg"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-fap": {
+                    "variants": {
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/sh/rm4evj2qc2ttoy5/AABaR6syjq428jWcIvVczpPba/I-Haphazard%20Limited-50x70.jpg"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/sh/rvgq13dmsx8mp1e/AAC-Kh52hEWx9e786jJiek-Da/I-Haphazard%20Limited-30x40.jpg"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Haphazard Limited J",
+            "user_image_url": "https://www.dropbox.com/sh/rm4evj2qc2ttoy5/AABMLDSgTXLKbBcat2rYVVjSa/J-Haphazard%20Limited-50x70.jpg",
+            "products": {
+                "global-cfp": {
+                    "variants": {
+                        "GLOBAL-CFP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/sh/rm4evj2qc2ttoy5/AABMLDSgTXLKbBcat2rYVVjSa/J-Haphazard%20Limited-50x70.jpg"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/sh/rvgq13dmsx8mp1e/AABiK1FySyptwy_FAiIYMy44a/J-Haphazard%20Limited-30x40.jpg"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-fap": {
+                    "variants": {
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/sh/rm4evj2qc2ttoy5/AABMLDSgTXLKbBcat2rYVVjSa/J-Haphazard%20Limited-50x70.jpg"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/sh/rvgq13dmsx8mp1e/AABiK1FySyptwy_FAiIYMy44a/J-Haphazard%20Limited-30x40.jpg"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Haphazard Limited L",
+            "user_image_url": "https://www.dropbox.com/sh/rm4evj2qc2ttoy5/AAAeAx-7lE7vR5trGsJE-L4Ya/L-Haphazard%20Limited-50x70.jpg",
+            "products": {
+                "global-cfp": {
+                    "variants": {
+                        "GLOBAL-CFP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/sh/rm4evj2qc2ttoy5/AAAeAx-7lE7vR5trGsJE-L4Ya/L-Haphazard%20Limited-50x70.jpg"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/sh/rvgq13dmsx8mp1e/AACXePUqBa18Dd-7kyokmPcra/L-Haphazard%20Limited-30x40.jpg"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-fap": {
+                    "variants": {
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/sh/rm4evj2qc2ttoy5/AAAeAx-7lE7vR5trGsJE-L4Ya/L-Haphazard%20Limited-50x70.jpg"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/sh/rvgq13dmsx8mp1e/AACXePUqBa18Dd-7kyokmPcra/L-Haphazard%20Limited-30x40.jpg"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Haphazard Limited R",
+            "user_image_url": "https://www.dropbox.com/sh/rm4evj2qc2ttoy5/AABDZQD5KAD0EEwgIRouUWj5a/R-Haphazard%20Limited-50x70.jpg",
+            "products": {
+                "global-cfp": {
+                    "variants": {
+                        "GLOBAL-CFP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/sh/rm4evj2qc2ttoy5/AABDZQD5KAD0EEwgIRouUWj5a/R-Haphazard%20Limited-50x70.jpg"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/sh/rvgq13dmsx8mp1e/AAD2LEzmY5vaTzSCnguYEha6a/R-Haphazard%20Limited-30x40.jpg"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-fap": {
+                    "variants": {
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/sh/rm4evj2qc2ttoy5/AABDZQD5KAD0EEwgIRouUWj5a/R-Haphazard%20Limited-50x70.jpg"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/sh/rvgq13dmsx8mp1e/AAD2LEzmY5vaTzSCnguYEha6a/R-Haphazard%20Limited-30x40.jpg"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Haphazard Limited Y",
+            "user_image_url": "https://www.dropbox.com/sh/rm4evj2qc2ttoy5/AAC9toSb3WQn9HiUDn_IdvL2a/Y-Haphazard%20Limited-50x70.jpg",
+            "products": {
+                "global-cfp": {
+                    "variants": {
+                        "GLOBAL-CFP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/sh/rm4evj2qc2ttoy5/AAC9toSb3WQn9HiUDn_IdvL2a/Y-Haphazard%20Limited-50x70.jpg"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/sh/rvgq13dmsx8mp1e/AACB_gr_41ZqFDBoYaIFM_gWa/Y-Haphazard%20Limited-30x40.jpg"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-fap": {
+                    "variants": {
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/sh/rm4evj2qc2ttoy5/AAC9toSb3WQn9HiUDn_IdvL2a/Y-Haphazard%20Limited-50x70.jpg"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/sh/rvgq13dmsx8mp1e/AACB_gr_41ZqFDBoYaIFM_gWa/Y-Haphazard%20Limited-30x40.jpg"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}

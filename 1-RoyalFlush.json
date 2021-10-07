@@ -1,0 +1,165 @@
+{
+    "product_range_defaults": {
+        "published": true
+    },
+    "product_defaults": {
+        "enabled": false
+    },
+    "products_defaults": {
+        "global-cfp": {
+            "enabled": true
+        },
+        "global-fap": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false
+    },
+    "variants_defaults": {
+        "GLOBAL-CFP-20x28-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 160.00
+        },
+        "GLOBAL-CFP-12x16-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 90.00
+        },
+        "GLOBAL-FAP-20x28-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 70.00
+        },
+        "GLOBAL-FAP-12x16-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 40.00
+        }
+    },
+    "product_ranges": [
+        {
+            "title": "Royal Flush Jack",
+            "user_image_url": "https://www.dropbox.com/sh/1lq5fs2hqa1ifrb/AACBxsfS1VXy2l5AWe9jy5tsa/Royal%20Flush/Finshed%20Art/50x70/J%20Royal%20Flush-50x70.jpg?dl=1",
+            "products": {
+                "global-cfp": {
+                    "variants": {
+                        "GLOBAL-CFP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/sh/1lq5fs2hqa1ifrb/AACBxsfS1VXy2l5AWe9jy5tsa/Royal%20Flush/Finshed%20Art/50x70/J%20Royal%20Flush-50x70.jpg?dl=1"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/sh/1lq5fs2hqa1ifrb/AABwLMbDmmopMzZFb-4pCgqQa/Royal%20Flush/Finshed%20Art/30x40/J-Royal%20Flush%20-30x40.jpg?dl=1"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-fap": {
+                    "variants": {
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/sh/1lq5fs2hqa1ifrb/AACBxsfS1VXy2l5AWe9jy5tsa/Royal%20Flush/Finshed%20Art/50x70/J%20Royal%20Flush-50x70.jpg?dl=1"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/sh/1lq5fs2hqa1ifrb/AABwLMbDmmopMzZFb-4pCgqQa/Royal%20Flush/Finshed%20Art/30x40/J-Royal%20Flush%20-30x40.jpg?dl=1"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Royal Flush Queen",
+            "user_image_url": "https://www.dropbox.com/sh/1lq5fs2hqa1ifrb/AABuuSVvcK5HJvoeiJQGZynna/Royal%20Flush/Finshed%20Art/50x70/Q-FinishedArt-50x70.jpg?dl=1",
+            "products": {
+                "global-cfp": {
+                    "variants": {
+                        "GLOBAL-CFP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/sh/1lq5fs2hqa1ifrb/AABuuSVvcK5HJvoeiJQGZynna/Royal%20Flush/Finshed%20Art/50x70/Q-FinishedArt-50x70.jpg?dl=1"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/sh/1lq5fs2hqa1ifrb/AACtQQATmhbf-s9RPbP_vUdfa/Royal%20Flush/Finshed%20Art/30x40/Q-Royal%20Flush-30x40.jpg?dl=1"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-fap": {
+                    "variants": {
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/sh/1lq5fs2hqa1ifrb/AABuuSVvcK5HJvoeiJQGZynna/Royal%20Flush/Finshed%20Art/50x70/Q-FinishedArt-50x70.jpg?dl=1"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/sh/1lq5fs2hqa1ifrb/AACtQQATmhbf-s9RPbP_vUdfa/Royal%20Flush/Finshed%20Art/30x40/Q-Royal%20Flush-30x40.jpg?dl=1"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Royal Flush King",
+            "user_image_url": "https://www.dropbox.com/sh/1lq5fs2hqa1ifrb/AABWDR2Y7kRz9I_msQfY5Kpea/Royal%20Flush/Finshed%20Art/50x70/K-Royal%20Flush-50x70.jpg?dl=1",
+            "products": {
+                "global-cfp": {
+                    "variants": {
+                        "GLOBAL-CFP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/sh/1lq5fs2hqa1ifrb/AABWDR2Y7kRz9I_msQfY5Kpea/Royal%20Flush/Finshed%20Art/50x70/K-Royal%20Flush-50x70.jpg?dl=1"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/sh/1lq5fs2hqa1ifrb/AAAAw-PnU0w-lAK-S-bFwS8Ra/Royal%20Flush/Finshed%20Art/30x40/K-Royal%20Flush-30x40.jpg?dl=1"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-fap": {
+                    "variants": {
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/sh/1lq5fs2hqa1ifrb/AABWDR2Y7kRz9I_msQfY5Kpea/Royal%20Flush/Finshed%20Art/50x70/K-Royal%20Flush-50x70.jpg?dl=1"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/sh/1lq5fs2hqa1ifrb/AAAAw-PnU0w-lAK-S-bFwS8Ra/Royal%20Flush/Finshed%20Art/30x40/K-Royal%20Flush-30x40.jpg?dl=1"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}

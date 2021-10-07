@@ -37,21 +37,21 @@
     "product_ranges": [
         {
             "title": "Extruded Food Alphabet",
-            "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAAtZCSZIDxy8H_b3bzv4jYRa/0-Extruded%20Food-50x70.jpg",
+            "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAAtZCSZIDxy8H_b3bzv4jYRa/0-Extruded%20Food-50x70.jpg?dl=1",
             "products": {
                 "global-cfp": {
                     "variants": {
                         "GLOBAL-CFP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAAtZCSZIDxy8H_b3bzv4jYRa/0-Extruded%20Food-50x70.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAAtZCSZIDxy8H_b3bzv4jYRa/0-Extruded%20Food-50x70.jpg?dl=1"
                                 }
                             }
                         },
                         "GLOBAL-CFP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AABUncURsNabHTHdP9XYCJK-a/0-Extruded%20Food-30x40.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AABUncURsNabHTHdP9XYCJK-a/0-Extruded%20Food-30x40.jpg?dl=1"
                                 }
                             }
                         }
@@ -62,14 +62,14 @@
                         "GLOBAL-FAP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAAtZCSZIDxy8H_b3bzv4jYRa/0-Extruded%20Food-50x70.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAAtZCSZIDxy8H_b3bzv4jYRa/0-Extruded%20Food-50x70.jpg?dl=1"
                                 }
                             }
                         },
                         "GLOBAL-FAP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AABUncURsNabHTHdP9XYCJK-a/0-Extruded%20Food-30x40.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AABUncURsNabHTHdP9XYCJK-a/0-Extruded%20Food-30x40.jpg?dl=1"
                                 }
                             }
                         }
@@ -79,21 +79,21 @@
         },
         {
             "title": "Extruded Food A",
-            "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AABhC8jMLdawcF-2MxVUd-xwa/A-Extruded%20Food-50x70.jpg",
+            "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AABhC8jMLdawcF-2MxVUd-xwa/A-Extruded%20Food-50x70.jpg?dl=1",
             "products": {
                 "global-cfp": {
                     "variants": {
                         "GLOBAL-CFP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AABhC8jMLdawcF-2MxVUd-xwa/A-Extruded%20Food-50x70.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AABhC8jMLdawcF-2MxVUd-xwa/A-Extruded%20Food-50x70.jpg?dl=1"
                                 }
                             }
                         },
                         "GLOBAL-CFP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AAAVsBC88fHbSc-0m0ELNXcoa/A-Extruded%20Food-30x40.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AAAVsBC88fHbSc-0m0ELNXcoa/A-Extruded%20Food-30x40.jpg?dl=1"
                                 }
                             }
                         }
@@ -104,14 +104,14 @@
                         "GLOBAL-FAP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AABhC8jMLdawcF-2MxVUd-xwa/A-Extruded%20Food-50x70.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AABhC8jMLdawcF-2MxVUd-xwa/A-Extruded%20Food-50x70.jpg?dl=1"
                                 }
                             }
                         },
                         "GLOBAL-FAP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AAAVsBC88fHbSc-0m0ELNXcoa/A-Extruded%20Food-30x40.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AAAVsBC88fHbSc-0m0ELNXcoa/A-Extruded%20Food-30x40.jpg?dl=1"
                                 }
                             }
                         }
@@ -121,21 +121,21 @@
         },
         {
             "title": "Extruded Food B",
-            "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AABGOahVVEMTWvb1GbEAH0kEa/B-Extruded%20Food-50x70.jpg",
+            "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AABGOahVVEMTWvb1GbEAH0kEa/B-Extruded%20Food-50x70.jpg?dl=1",
             "products": {
                 "global-cfp": {
                     "variants": {
                         "GLOBAL-CFP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AABGOahVVEMTWvb1GbEAH0kEa/B-Extruded%20Food-50x70.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AABGOahVVEMTWvb1GbEAH0kEa/B-Extruded%20Food-50x70.jpg?dl=1"
                                 }
                             }
                         },
                         "GLOBAL-CFP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AADnNXV8drVrh3a53Tudl_vta/B-Extruded%20Food-30x40.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AADnNXV8drVrh3a53Tudl_vta/B-Extruded%20Food-30x40.jpg?dl=1"
                                 }
                             }
                         }
@@ -146,14 +146,14 @@
                         "GLOBAL-FAP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AABGOahVVEMTWvb1GbEAH0kEa/B-Extruded%20Food-50x70.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AABGOahVVEMTWvb1GbEAH0kEa/B-Extruded%20Food-50x70.jpg?dl=1"
                                 }
                             }
                         },
                         "GLOBAL-FAP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AADnNXV8drVrh3a53Tudl_vta/B-Extruded%20Food-30x40.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AADnNXV8drVrh3a53Tudl_vta/B-Extruded%20Food-30x40.jpg?dl=1"
                                 }
                             }
                         }
@@ -163,21 +163,21 @@
         },
         {
             "title": "Extruded Food C",
-            "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAB7LHij4YZHpCK8sUX6GObha/C-Extruded%20Food-50x70.jpg",
+            "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAB7LHij4YZHpCK8sUX6GObha/C-Extruded%20Food-50x70.jpg?dl=1",
             "products": {
                 "global-cfp": {
                     "variants": {
                         "GLOBAL-CFP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAB7LHij4YZHpCK8sUX6GObha/C-Extruded%20Food-50x70.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAB7LHij4YZHpCK8sUX6GObha/C-Extruded%20Food-50x70.jpg?dl=1"
                                 }
                             }
                         },
                         "GLOBAL-CFP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AAAi3BoD3jmdpFzpxm3-eUJEa/C-Extruded%20Food-30x40.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AAAi3BoD3jmdpFzpxm3-eUJEa/C-Extruded%20Food-30x40.jpg?dl=1"
                                 }
                             }
                         }
@@ -188,14 +188,14 @@
                         "GLOBAL-FAP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAB7LHij4YZHpCK8sUX6GObha/C-Extruded%20Food-50x70.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAB7LHij4YZHpCK8sUX6GObha/C-Extruded%20Food-50x70.jpg?dl=1"
                                 }
                             }
                         },
                         "GLOBAL-FAP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AAAi3BoD3jmdpFzpxm3-eUJEa/C-Extruded%20Food-30x40.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AAAi3BoD3jmdpFzpxm3-eUJEa/C-Extruded%20Food-30x40.jpg?dl=1"
                                 }
                             }
                         }
@@ -205,21 +205,21 @@
         },
         {
             "title": "Extruded Food D",
-            "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AACLGNzMm56B67Bop1H2H3Zla/D-Extruded%20Food-50x70.jpg",
+            "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AACLGNzMm56B67Bop1H2H3Zla/D-Extruded%20Food-50x70.jpg?dl=1",
             "products": {
                 "global-cfp": {
                     "variants": {
                         "GLOBAL-CFP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AACLGNzMm56B67Bop1H2H3Zla/D-Extruded%20Food-50x70.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AACLGNzMm56B67Bop1H2H3Zla/D-Extruded%20Food-50x70.jpg?dl=1"
                                 }
                             }
                         },
                         "GLOBAL-CFP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AABPBay7YVR0UheVDc5zJ1fva/D-Extruded%20Food-30x40.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AABPBay7YVR0UheVDc5zJ1fva/D-Extruded%20Food-30x40.jpg?dl=1"
                                 }
                             }
                         }
@@ -230,14 +230,14 @@
                         "GLOBAL-FAP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AACLGNzMm56B67Bop1H2H3Zla/D-Extruded%20Food-50x70.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AACLGNzMm56B67Bop1H2H3Zla/D-Extruded%20Food-50x70.jpg?dl=1"
                                 }
                             }
                         },
                         "GLOBAL-FAP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AABPBay7YVR0UheVDc5zJ1fva/D-Extruded%20Food-30x40.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AABPBay7YVR0UheVDc5zJ1fva/D-Extruded%20Food-30x40.jpg?dl=1"
                                 }
                             }
                         }
@@ -247,21 +247,21 @@
         },
         {
             "title": "Extruded Food E",
-            "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AADf6sjNg6AgDw8R1DlLanqha/E-Extruded%20Food-50x70.jpg",
+            "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AADf6sjNg6AgDw8R1DlLanqha/E-Extruded%20Food-50x70.jpg?dl=1",
             "products": {
                 "global-cfp": {
                     "variants": {
                         "GLOBAL-CFP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AADf6sjNg6AgDw8R1DlLanqha/E-Extruded%20Food-50x70.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AADf6sjNg6AgDw8R1DlLanqha/E-Extruded%20Food-50x70.jpg?dl=1"
                                 }
                             }
                         },
                         "GLOBAL-CFP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AACXhkWg8ifWB64j9oa06bwoa/E-Extruded%20Food-30x40.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AACXhkWg8ifWB64j9oa06bwoa/E-Extruded%20Food-30x40.jpg?dl=1"
                                 }
                             }
                         }
@@ -272,14 +272,14 @@
                         "GLOBAL-FAP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AADf6sjNg6AgDw8R1DlLanqha/E-Extruded%20Food-50x70.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AADf6sjNg6AgDw8R1DlLanqha/E-Extruded%20Food-50x70.jpg?dl=1"
                                 }
                             }
                         },
                         "GLOBAL-FAP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AACXhkWg8ifWB64j9oa06bwoa/E-Extruded%20Food-30x40.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AACXhkWg8ifWB64j9oa06bwoa/E-Extruded%20Food-30x40.jpg?dl=1"
                                 }
                             }
                         }
@@ -289,21 +289,21 @@
         },
         {
             "title": "Extruded Food F",
-            "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AADBWyKPcwuaZGcoDrtayj-da/F-Extruded%20Food-50x70.jpg",
+            "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AADBWyKPcwuaZGcoDrtayj-da/F-Extruded%20Food-50x70.jpg?dl=1",
             "products": {
                 "global-cfp": {
                     "variants": {
                         "GLOBAL-CFP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AADBWyKPcwuaZGcoDrtayj-da/F-Extruded%20Food-50x70.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AADBWyKPcwuaZGcoDrtayj-da/F-Extruded%20Food-50x70.jpg?dl=1"
                                 }
                             }
                         },
                         "GLOBAL-CFP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AAC0d1PfYOCacJhW_5UZeCcca/F-Extruded%20Food-30x40.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AAC0d1PfYOCacJhW_5UZeCcca/F-Extruded%20Food-30x40.jpg?dl=1"
                                 }
                             }
                         }
@@ -314,14 +314,14 @@
                         "GLOBAL-FAP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AADBWyKPcwuaZGcoDrtayj-da/F-Extruded%20Food-50x70.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AADBWyKPcwuaZGcoDrtayj-da/F-Extruded%20Food-50x70.jpg?dl=1"
                                 }
                             }
                         },
                         "GLOBAL-FAP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AAC0d1PfYOCacJhW_5UZeCcca/F-Extruded%20Food-30x40.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AAC0d1PfYOCacJhW_5UZeCcca/F-Extruded%20Food-30x40.jpg?dl=1"
                                 }
                             }
                         }
@@ -331,21 +331,21 @@
         },
         {
             "title": "Extruded Food G",
-            "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AADwiFAVu7dzvS484wmYBgyga/G-Extruded%20Food-50x70.jpg",
+            "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AADwiFAVu7dzvS484wmYBgyga/G-Extruded%20Food-50x70.jpg?dl=1",
             "products": {
                 "global-cfp": {
                     "variants": {
                         "GLOBAL-CFP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AADwiFAVu7dzvS484wmYBgyga/G-Extruded%20Food-50x70.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AADwiFAVu7dzvS484wmYBgyga/G-Extruded%20Food-50x70.jpg?dl=1"
                                 }
                             }
                         },
                         "GLOBAL-CFP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AACF84Y5bVPfn90tDsZzIumga/G-Extruded%20Food-30x40.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AACF84Y5bVPfn90tDsZzIumga/G-Extruded%20Food-30x40.jpg?dl=1"
                                 }
                             }
                         }
@@ -356,14 +356,14 @@
                         "GLOBAL-FAP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AADwiFAVu7dzvS484wmYBgyga/G-Extruded%20Food-50x70.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AADwiFAVu7dzvS484wmYBgyga/G-Extruded%20Food-50x70.jpg?dl=1"
                                 }
                             }
                         },
                         "GLOBAL-FAP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AACF84Y5bVPfn90tDsZzIumga/G-Extruded%20Food-30x40.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AACF84Y5bVPfn90tDsZzIumga/G-Extruded%20Food-30x40.jpg?dl=1"
                                 }
                             }
                         }
@@ -373,21 +373,21 @@
         },
         {
             "title": "Extruded Food H",
-            "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAAemrY_3b58N7P-S9nzAHWGa/H-Extruded%20Food-50x70.jpg",
+            "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAAemrY_3b58N7P-S9nzAHWGa/H-Extruded%20Food-50x70.jpg?dl=1",
             "products": {
                 "global-cfp": {
                     "variants": {
                         "GLOBAL-CFP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAAemrY_3b58N7P-S9nzAHWGa/H-Extruded%20Food-50x70.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAAemrY_3b58N7P-S9nzAHWGa/H-Extruded%20Food-50x70.jpg?dl=1"
                                 }
                             }
                         },
                         "GLOBAL-CFP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AAD7LuGPqHx2z0PzCXTrV4Yta/H-Extruded%20Food-30x40.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AAD7LuGPqHx2z0PzCXTrV4Yta/H-Extruded%20Food-30x40.jpg?dl=1"
                                 }
                             }
                         }
@@ -398,14 +398,14 @@
                         "GLOBAL-FAP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAAemrY_3b58N7P-S9nzAHWGa/H-Extruded%20Food-50x70.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAAemrY_3b58N7P-S9nzAHWGa/H-Extruded%20Food-50x70.jpg?dl=1"
                                 }
                             }
                         },
                         "GLOBAL-FAP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AAD7LuGPqHx2z0PzCXTrV4Yta/H-Extruded%20Food-30x40.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AAD7LuGPqHx2z0PzCXTrV4Yta/H-Extruded%20Food-30x40.jpg?dl=1"
                                 }
                             }
                         }
@@ -415,21 +415,21 @@
         },
         {
             "title": "Extruded Food I",
-            "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAB68f968bDE3J5SsxM-TLmIa/I-Extruded%20Food-50x70.jpg",
+            "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAB68f968bDE3J5SsxM-TLmIa/I-Extruded%20Food-50x70.jpg?dl=1",
             "products": {
                 "global-cfp": {
                     "variants": {
                         "GLOBAL-CFP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAB68f968bDE3J5SsxM-TLmIa/I-Extruded%20Food-50x70.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAB68f968bDE3J5SsxM-TLmIa/I-Extruded%20Food-50x70.jpg?dl=1"
                                 }
                             }
                         },
                         "GLOBAL-CFP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AABZNE0JsjCKdQQTuxHUrJA2a/I-Extruded%20Food-30x40.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AABZNE0JsjCKdQQTuxHUrJA2a/I-Extruded%20Food-30x40.jpg?dl=1"
                                 }
                             }
                         }
@@ -440,14 +440,14 @@
                         "GLOBAL-FAP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAB68f968bDE3J5SsxM-TLmIa/I-Extruded%20Food-50x70.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAB68f968bDE3J5SsxM-TLmIa/I-Extruded%20Food-50x70.jpg?dl=1"
                                 }
                             }
                         },
                         "GLOBAL-FAP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AABZNE0JsjCKdQQTuxHUrJA2a/I-Extruded%20Food-30x40.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AABZNE0JsjCKdQQTuxHUrJA2a/I-Extruded%20Food-30x40.jpg?dl=1"
                                 }
                             }
                         }
@@ -457,21 +457,21 @@
         },
         {
             "title": "Extruded Food J",
-            "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AADOF2tuxUWttGn946RlWbG8a/J-Extruded%20Food-50x70.jpg",
+            "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AADOF2tuxUWttGn946RlWbG8a/J-Extruded%20Food-50x70.jpg?dl=1",
             "products": {
                 "global-cfp": {
                     "variants": {
                         "GLOBAL-CFP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AADOF2tuxUWttGn946RlWbG8a/J-Extruded%20Food-50x70.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AADOF2tuxUWttGn946RlWbG8a/J-Extruded%20Food-50x70.jpg?dl=1"
                                 }
                             }
                         },
                         "GLOBAL-CFP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AACgSSVJPz3EUvSo9djX35DQa/J-Extruded%20Food-30x40.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AACgSSVJPz3EUvSo9djX35DQa/J-Extruded%20Food-30x40.jpg?dl=1"
                                 }
                             }
                         }
@@ -482,14 +482,14 @@
                         "GLOBAL-FAP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AADOF2tuxUWttGn946RlWbG8a/J-Extruded%20Food-50x70.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AADOF2tuxUWttGn946RlWbG8a/J-Extruded%20Food-50x70.jpg?dl=1"
                                 }
                             }
                         },
                         "GLOBAL-FAP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AACgSSVJPz3EUvSo9djX35DQa/J-Extruded%20Food-30x40.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AACgSSVJPz3EUvSo9djX35DQa/J-Extruded%20Food-30x40.jpg?dl=1"
                                 }
                             }
                         }
@@ -499,21 +499,21 @@
         },
         {
             "title": "Extruded Food K",
-            "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AACeb8-UtosG9DgpiCaWxWRVa/K-Extruded%20Food-50x70.jpg",
+            "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AACeb8-UtosG9DgpiCaWxWRVa/K-Extruded%20Food-50x70.jpg?dl=1",
             "products": {
                 "global-cfp": {
                     "variants": {
                         "GLOBAL-CFP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AACeb8-UtosG9DgpiCaWxWRVa/K-Extruded%20Food-50x70.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AACeb8-UtosG9DgpiCaWxWRVa/K-Extruded%20Food-50x70.jpg?dl=1"
                                 }
                             }
                         },
                         "GLOBAL-CFP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AAB3jVI9mXYq1ZXkYRUPR0Tpa/K-Extruded%20Food-30x40.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AAB3jVI9mXYq1ZXkYRUPR0Tpa/K-Extruded%20Food-30x40.jpg?dl=1"
                                 }
                             }
                         }
@@ -524,14 +524,14 @@
                         "GLOBAL-FAP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AACeb8-UtosG9DgpiCaWxWRVa/K-Extruded%20Food-50x70.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AACeb8-UtosG9DgpiCaWxWRVa/K-Extruded%20Food-50x70.jpg?dl=1"
                                 }
                             }
                         },
                         "GLOBAL-FAP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AAB3jVI9mXYq1ZXkYRUPR0Tpa/K-Extruded%20Food-30x40.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AAB3jVI9mXYq1ZXkYRUPR0Tpa/K-Extruded%20Food-30x40.jpg?dl=1"
                                 }
                             }
                         }
@@ -541,21 +541,21 @@
         },
         {
             "title": "Extruded Food L",
-            "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAARAIztZsbycEhogJnnqKVPa/L-Extruded%20Food-50x70.jpg",
+            "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAARAIztZsbycEhogJnnqKVPa/L-Extruded%20Food-50x70.jpg?dl=1",
             "products": {
                 "global-cfp": {
                     "variants": {
                         "GLOBAL-CFP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAARAIztZsbycEhogJnnqKVPa/L-Extruded%20Food-50x70.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAARAIztZsbycEhogJnnqKVPa/L-Extruded%20Food-50x70.jpg?dl=1"
                                 }
                             }
                         },
                         "GLOBAL-CFP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AACbzojvSkSzmfnfZvDFTAb0a/L-Extruded%20Food-30x40.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AACbzojvSkSzmfnfZvDFTAb0a/L-Extruded%20Food-30x40.jpg?dl=1"
                                 }
                             }
                         }
@@ -566,14 +566,14 @@
                         "GLOBAL-FAP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAARAIztZsbycEhogJnnqKVPa/L-Extruded%20Food-50x70.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAARAIztZsbycEhogJnnqKVPa/L-Extruded%20Food-50x70.jpg?dl=1"
                                 }
                             }
                         },
                         "GLOBAL-FAP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AACbzojvSkSzmfnfZvDFTAb0a/L-Extruded%20Food-30x40.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AACbzojvSkSzmfnfZvDFTAb0a/L-Extruded%20Food-30x40.jpg?dl=1"
                                 }
                             }
                         }
@@ -583,21 +583,21 @@
         },
         {
             "title": "Extruded Food M",
-            "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AACn7adkpKa3EF0CI89eFLtua/M-Extruded%20Food-50x70.jpg",
+            "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AACn7adkpKa3EF0CI89eFLtua/M-Extruded%20Food-50x70.jpg?dl=1",
             "products": {
                 "global-cfp": {
                     "variants": {
                         "GLOBAL-CFP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AACn7adkpKa3EF0CI89eFLtua/M-Extruded%20Food-50x70.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AACn7adkpKa3EF0CI89eFLtua/M-Extruded%20Food-50x70.jpg?dl=1"
                                 }
                             }
                         },
                         "GLOBAL-CFP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AACoPCFylm4sPkek9N4Un5Hja/M-Extruded%20Food-30x40.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AACoPCFylm4sPkek9N4Un5Hja/M-Extruded%20Food-30x40.jpg?dl=1"
                                 }
                             }
                         }
@@ -608,14 +608,14 @@
                         "GLOBAL-FAP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AACn7adkpKa3EF0CI89eFLtua/M-Extruded%20Food-50x70.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AACn7adkpKa3EF0CI89eFLtua/M-Extruded%20Food-50x70.jpg?dl=1"
                                 }
                             }
                         },
                         "GLOBAL-FAP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AACoPCFylm4sPkek9N4Un5Hja/M-Extruded%20Food-30x40.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AACoPCFylm4sPkek9N4Un5Hja/M-Extruded%20Food-30x40.jpg?dl=1"
                                 }
                             }
                         }
@@ -625,21 +625,21 @@
         },
         {
             "title": "Extruded Food N",
-            "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAC92xJbJA7crw4I-wk25pOfa/N-Extruded%20Food-50x70.jpg",
+            "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAC92xJbJA7crw4I-wk25pOfa/N-Extruded%20Food-50x70.jpg?dl=1",
             "products": {
                 "global-cfp": {
                     "variants": {
                         "GLOBAL-CFP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAC92xJbJA7crw4I-wk25pOfa/N-Extruded%20Food-50x70.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAC92xJbJA7crw4I-wk25pOfa/N-Extruded%20Food-50x70.jpg?dl=1"
                                 }
                             }
                         },
                         "GLOBAL-CFP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AAAz-kiN7ei9izvCbvr3BlSAa/N-Extruded%20Food-30x40.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AAAz-kiN7ei9izvCbvr3BlSAa/N-Extruded%20Food-30x40.jpg?dl=1"
                                 }
                             }
                         }
@@ -650,14 +650,14 @@
                         "GLOBAL-FAP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAC92xJbJA7crw4I-wk25pOfa/N-Extruded%20Food-50x70.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAC92xJbJA7crw4I-wk25pOfa/N-Extruded%20Food-50x70.jpg?dl=1"
                                 }
                             }
                         },
                         "GLOBAL-FAP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AAAz-kiN7ei9izvCbvr3BlSAa/N-Extruded%20Food-30x40.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AAAz-kiN7ei9izvCbvr3BlSAa/N-Extruded%20Food-30x40.jpg?dl=1"
                                 }
                             }
                         }
@@ -667,21 +667,21 @@
         },
         {
             "title": "Extruded Food O",
-            "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAC5II9C8sFbhVb0gKwj6kdXa/O-Extruded%20Food-50x70.jpg",
+            "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAC5II9C8sFbhVb0gKwj6kdXa/O-Extruded%20Food-50x70.jpg?dl=1",
             "products": {
                 "global-cfp": {
                     "variants": {
                         "GLOBAL-CFP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAC5II9C8sFbhVb0gKwj6kdXa/O-Extruded%20Food-50x70.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAC5II9C8sFbhVb0gKwj6kdXa/O-Extruded%20Food-50x70.jpg?dl=1"
                                 }
                             }
                         },
                         "GLOBAL-CFP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AABRWXuHZ48CjC67G1dRIpUVa/O-Extruded%20Food-30x40.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AABRWXuHZ48CjC67G1dRIpUVa/O-Extruded%20Food-30x40.jpg?dl=1"
                                 }
                             }
                         }
@@ -692,14 +692,14 @@
                         "GLOBAL-FAP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAC5II9C8sFbhVb0gKwj6kdXa/O-Extruded%20Food-50x70.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAC5II9C8sFbhVb0gKwj6kdXa/O-Extruded%20Food-50x70.jpg?dl=1"
                                 }
                             }
                         },
                         "GLOBAL-FAP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AABRWXuHZ48CjC67G1dRIpUVa/O-Extruded%20Food-30x40.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AABRWXuHZ48CjC67G1dRIpUVa/O-Extruded%20Food-30x40.jpg?dl=1"
                                 }
                             }
                         }
@@ -709,21 +709,21 @@
         },
         {
             "title": "Extruded Food P",
-            "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AABxqgrEk288drlSOGDan9sta/P-Extruded%20Food-50x70.jpg",
+            "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AABxqgrEk288drlSOGDan9sta/P-Extruded%20Food-50x70.jpg?dl=1",
             "products": {
                 "global-cfp": {
                     "variants": {
                         "GLOBAL-CFP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AABxqgrEk288drlSOGDan9sta/P-Extruded%20Food-50x70.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AABxqgrEk288drlSOGDan9sta/P-Extruded%20Food-50x70.jpg?dl=1"
                                 }
                             }
                         },
                         "GLOBAL-CFP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AAD7Rdv2RLLzTCeKejwiIa9Ja/P-Extruded%20Food-30x40.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AAD7Rdv2RLLzTCeKejwiIa9Ja/P-Extruded%20Food-30x40.jpg?dl=1"
                                 }
                             }
                         }
@@ -734,14 +734,14 @@
                         "GLOBAL-FAP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AABxqgrEk288drlSOGDan9sta/P-Extruded%20Food-50x70.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AABxqgrEk288drlSOGDan9sta/P-Extruded%20Food-50x70.jpg?dl=1"
                                 }
                             }
                         },
                         "GLOBAL-FAP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AAD7Rdv2RLLzTCeKejwiIa9Ja/P-Extruded%20Food-30x40.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AAD7Rdv2RLLzTCeKejwiIa9Ja/P-Extruded%20Food-30x40.jpg?dl=1"
                                 }
                             }
                         }
@@ -751,21 +751,21 @@
         },
         {
             "title": "Extruded Food Q",
-            "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AADbt4Du15O_qGrN9OwZxiAxa/Q-Extruded%20Food-50x70.jpg",
+            "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AADbt4Du15O_qGrN9OwZxiAxa/Q-Extruded%20Food-50x70.jpg?dl=1",
             "products": {
                 "global-cfp": {
                     "variants": {
                         "GLOBAL-CFP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AADbt4Du15O_qGrN9OwZxiAxa/Q-Extruded%20Food-50x70.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AADbt4Du15O_qGrN9OwZxiAxa/Q-Extruded%20Food-50x70.jpg?dl=1"
                                 }
                             }
                         },
                         "GLOBAL-CFP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AAAqpt0gWGS_N6wgzN0wnTUia/Q-Extruded%20Food-30x40.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AAAqpt0gWGS_N6wgzN0wnTUia/Q-Extruded%20Food-30x40.jpg?dl=1"
                                 }
                             }
                         }
@@ -776,14 +776,14 @@
                         "GLOBAL-FAP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AADbt4Du15O_qGrN9OwZxiAxa/Q-Extruded%20Food-50x70.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AADbt4Du15O_qGrN9OwZxiAxa/Q-Extruded%20Food-50x70.jpg?dl=1"
                                 }
                             }
                         },
                         "GLOBAL-FAP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AAAqpt0gWGS_N6wgzN0wnTUia/Q-Extruded%20Food-30x40.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AAAqpt0gWGS_N6wgzN0wnTUia/Q-Extruded%20Food-30x40.jpg?dl=1"
                                 }
                             }
                         }
@@ -793,21 +793,21 @@
         },
         {
             "title": "Extruded Food R",
-            "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAALAtzroEq-EiGlr9-IhKnOa/R-Extruded%20Food-50x70.jpg",
+            "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAALAtzroEq-EiGlr9-IhKnOa/R-Extruded%20Food-50x70.jpg?dl=1",
             "products": {
                 "global-cfp": {
                     "variants": {
                         "GLOBAL-CFP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAALAtzroEq-EiGlr9-IhKnOa/R-Extruded%20Food-50x70.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAALAtzroEq-EiGlr9-IhKnOa/R-Extruded%20Food-50x70.jpg?dl=1"
                                 }
                             }
                         },
                         "GLOBAL-CFP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AABVXcpRsfXnF3xBJsuWh31pa/R-Extruded%20Food-30x40.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AABVXcpRsfXnF3xBJsuWh31pa/R-Extruded%20Food-30x40.jpg?dl=1"
                                 }
                             }
                         }
@@ -818,14 +818,14 @@
                         "GLOBAL-FAP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAALAtzroEq-EiGlr9-IhKnOa/R-Extruded%20Food-50x70.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAALAtzroEq-EiGlr9-IhKnOa/R-Extruded%20Food-50x70.jpg?dl=1"
                                 }
                             }
                         },
                         "GLOBAL-FAP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AABVXcpRsfXnF3xBJsuWh31pa/R-Extruded%20Food-30x40.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AABVXcpRsfXnF3xBJsuWh31pa/R-Extruded%20Food-30x40.jpg?dl=1"
                                 }
                             }
                         }
@@ -835,21 +835,21 @@
         },
         {
             "title": "Extruded Food S",
-            "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAAcnO3F89x1L57OFjl3zIP8a/S-Extruded%20Food-50x70.jpg",
+            "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAAcnO3F89x1L57OFjl3zIP8a/S-Extruded%20Food-50x70.jpg?dl=1",
             "products": {
                 "global-cfp": {
                     "variants": {
                         "GLOBAL-CFP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAAcnO3F89x1L57OFjl3zIP8a/S-Extruded%20Food-50x70.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAAcnO3F89x1L57OFjl3zIP8a/S-Extruded%20Food-50x70.jpg?dl=1"
                                 }
                             }
                         },
                         "GLOBAL-CFP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AAAMtqBpCYeDTosRbQDrnS-_a/S-Extruded%20Food-30x40.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AAAMtqBpCYeDTosRbQDrnS-_a/S-Extruded%20Food-30x40.jpg?dl=1"
                                 }
                             }
                         }
@@ -860,14 +860,14 @@
                         "GLOBAL-FAP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAAcnO3F89x1L57OFjl3zIP8a/S-Extruded%20Food-50x70.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAAcnO3F89x1L57OFjl3zIP8a/S-Extruded%20Food-50x70.jpg?dl=1"
                                 }
                             }
                         },
                         "GLOBAL-FAP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AAAMtqBpCYeDTosRbQDrnS-_a/S-Extruded%20Food-30x40.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AAAMtqBpCYeDTosRbQDrnS-_a/S-Extruded%20Food-30x40.jpg?dl=1"
                                 }
                             }
                         }
@@ -877,21 +877,21 @@
         },
         {
             "title": "Extruded Food T",
-            "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAB7MyHIL7OQzuXzO2xmJ9lDa/T-Extruded%20Food-50x70.jpg",
+            "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAB7MyHIL7OQzuXzO2xmJ9lDa/T-Extruded%20Food-50x70.jpg?dl=1",
             "products": {
                 "global-cfp": {
                     "variants": {
                         "GLOBAL-CFP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAB7MyHIL7OQzuXzO2xmJ9lDa/T-Extruded%20Food-50x70.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAB7MyHIL7OQzuXzO2xmJ9lDa/T-Extruded%20Food-50x70.jpg?dl=1"
                                 }
                             }
                         },
                         "GLOBAL-CFP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AACOs3-GJX1yBfOIYDdBhc80a/T-Extruded%20Food-30x40.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AACOs3-GJX1yBfOIYDdBhc80a/T-Extruded%20Food-30x40.jpg?dl=1"
                                 }
                             }
                         }
@@ -902,14 +902,14 @@
                         "GLOBAL-FAP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAB7MyHIL7OQzuXzO2xmJ9lDa/T-Extruded%20Food-50x70.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAB7MyHIL7OQzuXzO2xmJ9lDa/T-Extruded%20Food-50x70.jpg?dl=1"
                                 }
                             }
                         },
                         "GLOBAL-FAP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AACOs3-GJX1yBfOIYDdBhc80a/T-Extruded%20Food-30x40.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AACOs3-GJX1yBfOIYDdBhc80a/T-Extruded%20Food-30x40.jpg?dl=1"
                                 }
                             }
                         }
@@ -919,21 +919,21 @@
         },
         {
             "title": "Extruded Food U",
-            "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAC1ElfMBP4eHe164N811HWpa/U-Extruded%20Food-50x70.jpg",
+            "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAC1ElfMBP4eHe164N811HWpa/U-Extruded%20Food-50x70.jpg?dl=1",
             "products": {
                 "global-cfp": {
                     "variants": {
                         "GLOBAL-CFP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAC1ElfMBP4eHe164N811HWpa/U-Extruded%20Food-50x70.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAC1ElfMBP4eHe164N811HWpa/U-Extruded%20Food-50x70.jpg?dl=1"
                                 }
                             }
                         },
                         "GLOBAL-CFP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AAB1soBT8fSoVG3RuBG6IT_8a/U-Extruded%20Food-30x40.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AAB1soBT8fSoVG3RuBG6IT_8a/U-Extruded%20Food-30x40.jpg?dl=1"
                                 }
                             }
                         }
@@ -944,14 +944,14 @@
                         "GLOBAL-FAP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAC1ElfMBP4eHe164N811HWpa/U-Extruded%20Food-50x70.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAC1ElfMBP4eHe164N811HWpa/U-Extruded%20Food-50x70.jpg?dl=1"
                                 }
                             }
                         },
                         "GLOBAL-FAP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AAB1soBT8fSoVG3RuBG6IT_8a/U-Extruded%20Food-30x40.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AAB1soBT8fSoVG3RuBG6IT_8a/U-Extruded%20Food-30x40.jpg?dl=1"
                                 }
                             }
                         }
@@ -961,21 +961,21 @@
         },
         {
             "title": "Extruded Food V",
-            "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AACcmJJZIacSAIn9roF5tHR3a/V-Extruded%20Food-50x70.jpg",
+            "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AACcmJJZIacSAIn9roF5tHR3a/V-Extruded%20Food-50x70.jpg?dl=1",
             "products": {
                 "global-cfp": {
                     "variants": {
                         "GLOBAL-CFP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AACcmJJZIacSAIn9roF5tHR3a/V-Extruded%20Food-50x70.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AACcmJJZIacSAIn9roF5tHR3a/V-Extruded%20Food-50x70.jpg?dl=1"
                                 }
                             }
                         },
                         "GLOBAL-CFP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AADsd1lBkfgyaZWWy0rEhL-ia/V-Extruded%20Food-30x40.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AADsd1lBkfgyaZWWy0rEhL-ia/V-Extruded%20Food-30x40.jpg?dl=1"
                                 }
                             }
                         }
@@ -986,14 +986,14 @@
                         "GLOBAL-FAP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AACcmJJZIacSAIn9roF5tHR3a/V-Extruded%20Food-50x70.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AACcmJJZIacSAIn9roF5tHR3a/V-Extruded%20Food-50x70.jpg?dl=1"
                                 }
                             }
                         },
                         "GLOBAL-FAP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AADsd1lBkfgyaZWWy0rEhL-ia/V-Extruded%20Food-30x40.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AADsd1lBkfgyaZWWy0rEhL-ia/V-Extruded%20Food-30x40.jpg?dl=1"
                                 }
                             }
                         }
@@ -1003,21 +1003,21 @@
         },
         {
             "title": "Extruded Food W",
-            "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAAt3XS2frDQ9_TgNTSZu7OCa/W-Extruded%20Food-50x70.jpg",
+            "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAAt3XS2frDQ9_TgNTSZu7OCa/W-Extruded%20Food-50x70.jpg?dl=1",
             "products": {
                 "global-cfp": {
                     "variants": {
                         "GLOBAL-CFP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAAt3XS2frDQ9_TgNTSZu7OCa/W-Extruded%20Food-50x70.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAAt3XS2frDQ9_TgNTSZu7OCa/W-Extruded%20Food-50x70.jpg?dl=1"
                                 }
                             }
                         },
                         "GLOBAL-CFP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AAB-8cmbXLDGB8E9kncHuTbUa/W-Extruded%20Food-30x40.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AAB-8cmbXLDGB8E9kncHuTbUa/W-Extruded%20Food-30x40.jpg?dl=1"
                                 }
                             }
                         }
@@ -1028,14 +1028,14 @@
                         "GLOBAL-FAP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAAt3XS2frDQ9_TgNTSZu7OCa/W-Extruded%20Food-50x70.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAAt3XS2frDQ9_TgNTSZu7OCa/W-Extruded%20Food-50x70.jpg?dl=1"
                                 }
                             }
                         },
                         "GLOBAL-FAP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AAB-8cmbXLDGB8E9kncHuTbUa/W-Extruded%20Food-30x40.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AAB-8cmbXLDGB8E9kncHuTbUa/W-Extruded%20Food-30x40.jpg?dl=1"
                                 }
                             }
                         }
@@ -1045,21 +1045,21 @@
         },
         {
             "title": "Extruded Food X",
-            "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAAhjUNEgmHqJVJXG24tMl3Ha/X-Extruded%20Food-50x70.jpg",
+            "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAAhjUNEgmHqJVJXG24tMl3Ha/X-Extruded%20Food-50x70.jpg?dl=1",
             "products": {
                 "global-cfp": {
                     "variants": {
                         "GLOBAL-CFP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAAhjUNEgmHqJVJXG24tMl3Ha/X-Extruded%20Food-50x70.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAAhjUNEgmHqJVJXG24tMl3Ha/X-Extruded%20Food-50x70.jpg?dl=1"
                                 }
                             }
                         },
                         "GLOBAL-CFP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AAB-8cmbXLDGB8E9kncHuTbUa/W-Extruded%20Food-30x40.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AAB-8cmbXLDGB8E9kncHuTbUa/W-Extruded%20Food-30x40.jpg?dl=1"
                                 }
                             }
                         }
@@ -1070,14 +1070,14 @@
                         "GLOBAL-FAP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAAhjUNEgmHqJVJXG24tMl3Ha/X-Extruded%20Food-50x70.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAAhjUNEgmHqJVJXG24tMl3Ha/X-Extruded%20Food-50x70.jpg?dl=1"
                                 }
                             }
                         },
                         "GLOBAL-FAP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AAB-8cmbXLDGB8E9kncHuTbUa/W-Extruded%20Food-30x40.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AAB-8cmbXLDGB8E9kncHuTbUa/W-Extruded%20Food-30x40.jpg?dl=1"
                                 }
                             }
                         }
@@ -1087,21 +1087,21 @@
         },
         {
             "title": "Extruded Food Y",
-            "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AADYCgpha4O_V6oyarxa5Uwaa/Y-Extruded%20Food-50x70.jpg",
+            "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AADYCgpha4O_V6oyarxa5Uwaa/Y-Extruded%20Food-50x70.jpg?dl=1",
             "products": {
                 "global-cfp": {
                     "variants": {
                         "GLOBAL-CFP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AADYCgpha4O_V6oyarxa5Uwaa/Y-Extruded%20Food-50x70.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AADYCgpha4O_V6oyarxa5Uwaa/Y-Extruded%20Food-50x70.jpg?dl=1"
                                 }
                             }
                         },
                         "GLOBAL-CFP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AACPg9Qit4tD7DWs9b561NBCa/Y-Extruded%20Food-30x40.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AACPg9Qit4tD7DWs9b561NBCa/Y-Extruded%20Food-30x40.jpg?dl=1"
                                 }
                             }
                         }
@@ -1112,14 +1112,14 @@
                         "GLOBAL-FAP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AADYCgpha4O_V6oyarxa5Uwaa/Y-Extruded%20Food-50x70.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AADYCgpha4O_V6oyarxa5Uwaa/Y-Extruded%20Food-50x70.jpg?dl=1"
                                 }
                             }
                         },
                         "GLOBAL-FAP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AACPg9Qit4tD7DWs9b561NBCa/Y-Extruded%20Food-30x40.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AACPg9Qit4tD7DWs9b561NBCa/Y-Extruded%20Food-30x40.jpg?dl=1"
                                 }
                             }
                         }
@@ -1129,21 +1129,21 @@
         },
         {
             "title": "Extruded Food Z",
-            "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAAHlIchR8MNKEQSajt5r-Rma/Z-Extruded%20Food-50x70.jpg",
+            "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAAHlIchR8MNKEQSajt5r-Rma/Z-Extruded%20Food-50x70.jpg?dl=1",
             "products": {
                 "global-cfp": {
                     "variants": {
                         "GLOBAL-CFP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAAHlIchR8MNKEQSajt5r-Rma/Z-Extruded%20Food-50x70.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAAHlIchR8MNKEQSajt5r-Rma/Z-Extruded%20Food-50x70.jpg?dl=1"
                                 }
                             }
                         },
                         "GLOBAL-CFP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AADlfWlakkZPkTWw05tYkKGja/Z-Extruded%20Food-30x40.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AADlfWlakkZPkTWw05tYkKGja/Z-Extruded%20Food-30x40.jpg?dl=1"
                                 }
                             }
                         }
@@ -1154,14 +1154,14 @@
                         "GLOBAL-FAP-20x28-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAAHlIchR8MNKEQSajt5r-Rma/Z-Extruded%20Food-50x70.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/xpf8s9qg6tz5vmf/AAAHlIchR8MNKEQSajt5r-Rma/Z-Extruded%20Food-50x70.jpg?dl=1"
                                 }
                             }
                         },
                         "GLOBAL-FAP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AADlfWlakkZPkTWw05tYkKGja/Z-Extruded%20Food-30x40.jpg"
+                                    "user_image_url": "https://www.dropbox.com/sh/uinwq7426d7xbk1/AADlfWlakkZPkTWw05tYkKGja/Z-Extruded%20Food-30x40.jpg?dl=1"
                                 }
                             }
                         }

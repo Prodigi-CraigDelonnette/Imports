@@ -1,0 +1,1126 @@
+{
+    "product_range_defaults": {
+        "published": true
+    },
+    "product_defaults": {
+        "enabled": false
+    },
+    "products_defaults": {
+        "global-can": {
+            "enabled": true
+        },
+        "global-cfp": {
+            "enabled": true
+        },
+        "global-fap": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false
+    },
+    "variants_defaults": {
+        "GLOBAL-CAN-16x16-SQUARE": {
+            "enabled": true,
+            "retail_price": 45.00
+        },
+        "GLOBAL-CAN-24x24-SQUARE": {
+            "enabled": true,
+            "retail_price": 65.00
+        },
+        "GLOBAL-CAN-32x32-SQUARE": {
+            "enabled": true,
+            "retail_price": 80.00
+        },
+        "GLOBAL-CFP-12x12-SQUARE": {
+            "enabled": true,
+            "retail_price": 45.00
+        },
+        "GLOBAL-CFP-20x20-SQUARE": {
+            "enabled": true,
+            "retail_price": 65.00
+        },
+        "GLOBAL-CFP-A1-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 75.00
+        },
+        "GLOBAL-CFP-A2-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 55.00
+        },
+        "GLOBAL-CFP-A3-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 45.00
+        },
+        "GLOBAL-CFP-A4-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 35.00
+        },
+        "GLOBAL-FAP-12x12-SQUARE": {
+            "enabled": true,
+            "retail_price": 26.00
+        },
+        "GLOBAL-FAP-12x16-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 26.00
+        },
+        "GLOBAL-FAP-16x20-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 30.00
+        },
+        "GLOBAL-FAP-20x20-SQUARE": {
+            "enabled": true,
+            "retail_price": 30.00
+        },
+        "GLOBAL-FAP-20x28-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 39.00
+        },
+        "GLOBAL-FAP-8x8-SQUARE": {
+            "enabled": true,
+            "retail_price": 15.00
+        },
+        "GLOBAL-FAP-A1-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 39.00
+        },
+        "GLOBAL-FAP-A2-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 30.00
+        },
+        "GLOBAL-FAP-A3-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 26.00
+        },
+        "GLOBAL-FAP-A4-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 18.00
+        },
+        "GLOBAL-FAP-A5-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 15.00
+        }
+    },
+    "product_ranges": [
+        {
+            "title": "BURSTING WITH LOVE - Rosa Mundi",
+            "user_image_url": "https://www.dropbox.com/s/ky2301potxyw3h8/BWL%20Rosa%20Mundi%20sq-01.jpg?dl=0",
+            "products": {
+                "description": "A modern print bursting with vintage charm.",
+                "global-cfp": {
+                    "variants": {
+                        "GLOBAL-CFP-12x12-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ky2301potxyw3h8/BWL%20Rosa%20Mundi%20sq-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-20x20-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ky2301potxyw3h8/BWL%20Rosa%20Mundi%20sq-01.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-fap": {
+                    "variants": {
+                        "GLOBAL-FAP-8x8-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ky2301potxyw3h8/BWL%20Rosa%20Mundi%20sq-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x12-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ky2301potxyw3h8/BWL%20Rosa%20Mundi%20sq-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x20-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ky2301potxyw3h8/BWL%20Rosa%20Mundi%20sq-01.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "global-can": {
+                "variants": {
+                    "GLOBAL-CAN-16x16-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/s/ky2301potxyw3h8/BWL%20Rosa%20Mundi%20sq-01.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-CAN-24x24-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/s/ky2301potxyw3h8/BWL%20Rosa%20Mundi%20sq-01.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-CAN-32x32-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/s/ky2301potxyw3h8/BWL%20Rosa%20Mundi%20sq-01.jpg?dl=0"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "BURSTING WITH LOVE - Nigella",
+            "user_image_url": "https://www.dropbox.com/s/u5sd0wz1l3i24yr/BWL%20Nigella%20sq-01.jpg?dl=0",
+            "products": {
+                "description": "A modern print bursting with vintage charm.",
+                "global-cfp": {
+                    "variants": {
+                        "GLOBAL-CFP-12x12-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/u5sd0wz1l3i24yr/BWL%20Nigella%20sq-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-20x20-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/u5sd0wz1l3i24yr/BWL%20Nigella%20sq-01.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-fap": {
+                    "variants": {
+                        "GLOBAL-FAP-8x8-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/u5sd0wz1l3i24yr/BWL%20Nigella%20sq-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x12-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/u5sd0wz1l3i24yr/BWL%20Nigella%20sq-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x20-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/u5sd0wz1l3i24yr/BWL%20Nigella%20sq-01.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "global-can": {
+                "variants": {
+                    "GLOBAL-CAN-16x16-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/s/u5sd0wz1l3i24yr/BWL%20Nigella%20sq-01.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-CAN-24x24-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/s/u5sd0wz1l3i24yr/BWL%20Nigella%20sq-01.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-CAN-32x32-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/s/u5sd0wz1l3i24yr/BWL%20Nigella%20sq-01.jpg?dl=0"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "BURSTING WITH LOVE - Old Rose",
+            "user_image_url": "https://www.dropbox.com/s/tqtyudx377rrm6y/BWL%20Old%20Rose%20sq-01.jpg?dl=0",
+            "products": {
+                "description": "A modern print bursting with vintage charm.",
+                "global-cfp": {
+                    "variants": {
+                        "GLOBAL-CFP-12x12-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/tqtyudx377rrm6y/BWL%20Old%20Rose%20sq-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-20x20-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/tqtyudx377rrm6y/BWL%20Old%20Rose%20sq-01.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-fap": {
+                    "variants": {
+                        "GLOBAL-FAP-8x8-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/tqtyudx377rrm6y/BWL%20Old%20Rose%20sq-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x12-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/tqtyudx377rrm6y/BWL%20Old%20Rose%20sq-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x20-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/tqtyudx377rrm6y/BWL%20Old%20Rose%20sq-01.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "global-can": {
+                "variants": {
+                    "GLOBAL-CAN-16x16-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/s/tqtyudx377rrm6y/BWL%20Old%20Rose%20sq-01.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-CAN-24x24-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/s/tqtyudx377rrm6y/BWL%20Old%20Rose%20sq-01.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-CAN-32x32-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/s/tqtyudx377rrm6y/BWL%20Old%20Rose%20sq-01.jpg?dl=0"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "LOVE - Nigella",
+            "user_image_url": "https://www.dropbox.com/s/y1rjvv7e1257max/LOVE%20Nigella-01.jpg?dl=0",
+            "products": {
+                "description": "Add a touch of love to your gallery wall.",
+                "global-can": {
+                    "variants": {
+                        "GLOBAL-CAN-16x16-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/kaftsizia2wypej/LOVE%20Nigella-02.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CAN-24x24-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/kaftsizia2wypej/LOVE%20Nigella-02.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CAN-32x32-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/kaftsizia2wypej/LOVE%20Nigella-02.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "variants": {
+                        "GLOBAL-CFP-12x12-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/kaftsizia2wypej/LOVE%20Nigella-02.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-20x20-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/kaftsizia2wypej/LOVE%20Nigella-02.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/y1rjvv7e1257max/LOVE%20Nigella-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/y1rjvv7e1257max/LOVE%20Nigella-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A2-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/y1rjvv7e1257max/LOVE%20Nigella-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A1-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/y1rjvv7e1257max/LOVE%20Nigella-01.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-fap": {
+                    "variants": {
+                        "GLOBAL-FAP-8x8-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/kaftsizia2wypej/LOVE%20Nigella-02.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x12-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/kaftsizia2wypej/LOVE%20Nigella-02.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x20-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/kaftsizia2wypej/LOVE%20Nigella-02.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A5-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/y1rjvv7e1257max/LOVE%20Nigella-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/y1rjvv7e1257max/LOVE%20Nigella-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/y1rjvv7e1257max/LOVE%20Nigella-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A2-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/y1rjvv7e1257max/LOVE%20Nigella-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A1-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/y1rjvv7e1257max/LOVE%20Nigella-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/y1rjvv7e1257max/LOVE%20Nigella-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-16x20-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/y1rjvv7e1257max/LOVE%20Nigella-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/y1rjvv7e1257max/LOVE%20Nigella-01.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "LOVE - Old Rose",
+            "user_image_url": "https://www.dropbox.com/s/hpjlcpw6oh47aia/LOVE%20Old%20Rose-01.jpg?dl=0",
+            "products": {
+                "description": "Add a touch of love to your gallery wall.",
+                "global-can": {
+                    "variants": {
+                        "GLOBAL-CAN-16x16-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/3a18i7bopxot5hp/LOVE%20Old%20Rose-02.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CAN-24x24-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/3a18i7bopxot5hp/LOVE%20Old%20Rose-02.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CAN-32x32-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/3a18i7bopxot5hp/LOVE%20Old%20Rose-02.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "variants": {
+                        "GLOBAL-CFP-12x12-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/3a18i7bopxot5hp/LOVE%20Old%20Rose-02.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-20x20-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/3a18i7bopxot5hp/LOVE%20Old%20Rose-02.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/hpjlcpw6oh47aia/LOVE%20Old%20Rose-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/hpjlcpw6oh47aia/LOVE%20Old%20Rose-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A2-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/hpjlcpw6oh47aia/LOVE%20Old%20Rose-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A1-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/hpjlcpw6oh47aia/LOVE%20Old%20Rose-01.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-fap": {
+                    "variants": {
+                        "GLOBAL-FAP-8x8-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/3a18i7bopxot5hp/LOVE%20Old%20Rose-02.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x12-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/3a18i7bopxot5hp/LOVE%20Old%20Rose-02.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x20-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/3a18i7bopxot5hp/LOVE%20Old%20Rose-02.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A5-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/hpjlcpw6oh47aia/LOVE%20Old%20Rose-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/hpjlcpw6oh47aia/LOVE%20Old%20Rose-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/hpjlcpw6oh47aia/LOVE%20Old%20Rose-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A2-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/hpjlcpw6oh47aia/LOVE%20Old%20Rose-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A1-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/hpjlcpw6oh47aia/LOVE%20Old%20Rose-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/hpjlcpw6oh47aia/LOVE%20Old%20Rose-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-16x20-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/hpjlcpw6oh47aia/LOVE%20Old%20Rose-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/hpjlcpw6oh47aia/LOVE%20Old%20Rose-01.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "& - Old Rose",
+            "user_image_url": "https://www.dropbox.com/s/dwkbqdjxzoywshc/Old%20Rose%20%26%20sq.jpg?dl=0",
+            "products": {
+                "description": "A modern typographic print bursting with vintage charm.",
+                "global-can": {
+                    "variants": {
+                        "GLOBAL-CAN-16x16-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/dwkbqdjxzoywshc/Old%20Rose%20%26%20sq.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CAN-24x24-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/dwkbqdjxzoywshc/Old%20Rose%20%26%20sq.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CAN-32x32-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/dwkbqdjxzoywshc/Old%20Rose%20%26%20sq.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "variants": {
+                        "GLOBAL-CFP-12x12-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/dwkbqdjxzoywshc/Old%20Rose%20%26%20sq.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-20x20-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/dwkbqdjxzoywshc/Old%20Rose%20%26%20sq.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/s7zx99yz0haz69i/%26%20Old%20Rose%20Asize.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/s7zx99yz0haz69i/%26%20Old%20Rose%20Asize.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A2-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/s7zx99yz0haz69i/%26%20Old%20Rose%20Asize.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A1-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/s7zx99yz0haz69i/%26%20Old%20Rose%20Asize.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-fap": {
+                    "variants": {
+                        "GLOBAL-FAP-8x8-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/dwkbqdjxzoywshc/Old%20Rose%20%26%20sq.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x12-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/dwkbqdjxzoywshc/Old%20Rose%20%26%20sq.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x20-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/dwkbqdjxzoywshc/Old%20Rose%20%26%20sq.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A5-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/s7zx99yz0haz69i/%26%20Old%20Rose%20Asize.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/s7zx99yz0haz69i/%26%20Old%20Rose%20Asize.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/s7zx99yz0haz69i/%26%20Old%20Rose%20Asize.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A2-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/s7zx99yz0haz69i/%26%20Old%20Rose%20Asize.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A1-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/s7zx99yz0haz69i/%26%20Old%20Rose%20Asize.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/s7zx99yz0haz69i/%26%20Old%20Rose%20Asize.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-16x20-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/s7zx99yz0haz69i/%26%20Old%20Rose%20Asize.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/s7zx99yz0haz69i/%26%20Old%20Rose%20Asize.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "& - Poppy",
+            "user_image_url": "https://www.dropbox.com/s/m2q5mfgebmrn0fp/%26%20Poppy%20Asize.jpg?dl=0",
+            "products": {
+                "description": "A modern typographic print bursting with vintage charm.",
+                "global-can": {
+                    "variants": {
+                        "GLOBAL-CAN-16x16-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/t3xk3qvihe1lhd7/Poppy%20%26%20sq.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CAN-24x24-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/t3xk3qvihe1lhd7/Poppy%20%26%20sq.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CAN-32x32-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/t3xk3qvihe1lhd7/Poppy%20%26%20sq.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "variants": {
+                        "GLOBAL-CFP-12x12-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/t3xk3qvihe1lhd7/Poppy%20%26%20sq.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-20x20-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/t3xk3qvihe1lhd7/Poppy%20%26%20sq.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/m2q5mfgebmrn0fp/%26%20Poppy%20Asize.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/m2q5mfgebmrn0fp/%26%20Poppy%20Asize.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A2-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/m2q5mfgebmrn0fp/%26%20Poppy%20Asize.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A1-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/m2q5mfgebmrn0fp/%26%20Poppy%20Asize.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-fap": {
+                    "variants": {
+                        "GLOBAL-FAP-8x8-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/t3xk3qvihe1lhd7/Poppy%20%26%20sq.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x12-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/t3xk3qvihe1lhd7/Poppy%20%26%20sq.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x20-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/t3xk3qvihe1lhd7/Poppy%20%26%20sq.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A5-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/m2q5mfgebmrn0fp/%26%20Poppy%20Asize.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/m2q5mfgebmrn0fp/%26%20Poppy%20Asize.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/m2q5mfgebmrn0fp/%26%20Poppy%20Asize.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A2-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/m2q5mfgebmrn0fp/%26%20Poppy%20Asize.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A1-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/m2q5mfgebmrn0fp/%26%20Poppy%20Asize.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/m2q5mfgebmrn0fp/%26%20Poppy%20Asize.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-16x20-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/m2q5mfgebmrn0fp/%26%20Poppy%20Asize.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/m2q5mfgebmrn0fp/%26%20Poppy%20Asize.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "& - Nigella",
+            "user_image_url": "https://www.dropbox.com/s/95zome2fxyhlklc/Nigella%20Asize.jpg?dl=0",
+            "products": {
+                "description": "A modern typographic print bursting with vintage charm.",
+                "global-can": {
+                    "variants": {
+                        "GLOBAL-CAN-16x16-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/6ykn0qrk6e7bphe/Nigella%20%26%20sq.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CAN-24x24-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/6ykn0qrk6e7bphe/Nigella%20%26%20sq.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CAN-32x32-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/6ykn0qrk6e7bphe/Nigella%20%26%20sq.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "variants": {
+                        "GLOBAL-CFP-12x12-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/6ykn0qrk6e7bphe/Nigella%20%26%20sq.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-20x20-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/6ykn0qrk6e7bphe/Nigella%20%26%20sq.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/95zome2fxyhlklc/Nigella%20Asize.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/95zome2fxyhlklc/Nigella%20Asize.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A2-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/95zome2fxyhlklc/Nigella%20Asize.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A1-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/95zome2fxyhlklc/Nigella%20Asize.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-fap": {
+                    "variants": {
+                        "GLOBAL-FAP-8x8-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/6ykn0qrk6e7bphe/Nigella%20%26%20sq.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x12-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/6ykn0qrk6e7bphe/Nigella%20%26%20sq.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x20-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/6ykn0qrk6e7bphe/Nigella%20%26%20sq.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A5-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/95zome2fxyhlklc/Nigella%20Asize.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/95zome2fxyhlklc/Nigella%20Asize.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/95zome2fxyhlklc/Nigella%20Asize.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A2-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/95zome2fxyhlklc/Nigella%20Asize.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A1-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/95zome2fxyhlklc/Nigella%20Asize.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/95zome2fxyhlklc/Nigella%20Asize.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-16x20-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/95zome2fxyhlklc/Nigella%20Asize.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/95zome2fxyhlklc/Nigella%20Asize.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}

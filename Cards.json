@@ -1,0 +1,276 @@
+{
+    "product_range_defaults": {
+        "published": true
+    },
+    "product_defaults": {
+        "enabled": false
+    },
+    "products_defaults": {
+        "greeting_cards": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false
+    },
+    "variants_defaults": {
+        "greeting_cards_7x5": {
+            "enabled": true,
+            "retail_price": 2.50
+        }
+    },
+    "product_ranges": [
+        {
+            "title": "WEIRD - BLUE / RED - Greetings Card",
+            "description": "Greetings cards perfect for any occasion, or for framing as mini pieces of wall art.",
+            "user_image_url": "https://www.dropbox.com/s/qi3w810t0q88fgb/WEIRDGreetingCard_7x5.jpg?dl=0",
+            "products": {
+                "greeting_cards": {
+                    "variants": {
+                        "greeting_cards_7x5": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/qi3w810t0q88fgb/WEIRDGreetingCard_7x5.jpg?dl=0"
+                                },
+                                "back": {
+                                    "user_image_url": "https://www.dropbox.com/s/6i80dy45xsu0j70/REVERSEGreetingCard_7x5.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "BE BRILLIANT AND DO LOADS - BLACK - Greetings Card",
+            "description": "Greetings cards perfect for any occasion, or for framing as mini pieces of wall art.",
+            "user_image_url": "https://www.dropbox.com/s/80g877jbue07mjy/BBADLGreetingCard_7x5.jpg?dl=0",
+            "products": {
+                "greeting_cards": {
+                    "variants": {
+                        "greeting_cards_7x5": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/80g877jbue07mjy/BBADLGreetingCard_7x5.jpg?dl=0"
+                                },
+                                "back": {
+                                    "user_image_url": "https://www.dropbox.com/s/6i80dy45xsu0j70/REVERSEGreetingCard_7x5.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "EVERYTHING WILL BE OK - White / Rainbow - Greetings Card",
+            "description": "Greetings cards perfect for any occasion, or for framing as mini pieces of wall art.",
+            "user_image_url": "https://www.dropbox.com/s/i41xzmu3zb5cjnm/EWBOKGreetingCard_7x5.jpg?dl=0",
+            "products": {
+                "greeting_cards": {
+                    "variants": {
+                        "greeting_cards_7x5": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/i41xzmu3zb5cjnm/EWBOKGreetingCard_7x5.jpg?dl=0"
+                                },
+                                "back": {
+                                    "user_image_url": "https://www.dropbox.com/s/6i80dy45xsu0j70/REVERSEGreetingCard_7x5.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "EVERYTHING WILL BE OK - Pink/Red - Greetings Card",
+            "description": "Greetings cards perfect for any occasion, or for framing as mini pieces of wall art.",
+            "user_image_url": "https://www.dropbox.com/s/116io5bq4qabbs3/EWBOKPinkGreetingCard_7x5.jpg?dl=0",
+            "products": {
+                "greeting_cards": {
+                    "variants": {
+                        "greeting_cards_7x5": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/116io5bq4qabbs3/EWBOKPinkGreetingCard_7x5.jpg?dl=0"
+                                },
+                                "back": {
+                                    "user_image_url": "https://www.dropbox.com/s/6i80dy45xsu0j70/REVERSEGreetingCard_7x5.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "HANGRY - White/Black - Greetings Card",
+            "description": "Greetings cards perfect for any occasion, or for framing as mini pieces of wall art.",
+            "user_image_url": "https://www.dropbox.com/s/ruupmxerxtivccf/HANGRYGreetingCard_7x5.jpg?dl=0",
+            "products": {
+                "greeting_cards": {
+                    "variants": {
+                        "greeting_cards_7x5": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ruupmxerxtivccf/HANGRYGreetingCard_7x5.jpg?dl=0"
+                                },
+                                "back": {
+                                    "user_image_url": "https://www.dropbox.com/s/6i80dy45xsu0j70/REVERSEGreetingCard_7x5.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "HIP HIP HOORAY - Black / Rainbow - Greetings Card",
+            "description": "Greetings cards perfect for any occasion, or for framing as mini pieces of wall art.",
+            "user_image_url": "https://www.dropbox.com/s/58bsql9g5eyqodb/HIPHIPGreetingCard_7x5.jpg?dl=0",
+            "products": {
+                "greeting_cards": {
+                    "variants": {
+                        "greeting_cards_7x5": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/58bsql9g5eyqodb/HIPHIPGreetingCard_7x5.jpg?dl=0"
+                                },
+                                "back": {
+                                    "user_image_url": "https://www.dropbox.com/s/6i80dy45xsu0j70/REVERSEGreetingCard_7x5.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "HOPE - Sage - Greetings Card",
+            "description": "Charity christmas card in support of Solving Kids Cancer, who bring hope to children and families that are battling the very aggressive childhood cancer Neuroblastoma",
+            "user_image_url": "https://www.dropbox.com/s/fs9zx00k1do48vr/HOPE%20SAGEGreetingCard_7x5.jpg?dl=0",
+            "products": {
+                "greeting_cards": {
+                    "variants": {
+                        "greeting_cards_7x5": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/fs9zx00k1do48vr/HOPE%20SAGEGreetingCard_7x5.jpg?dl=0"
+                                },
+                                "back": {
+                                    "user_image_url": "https://www.dropbox.com/s/222f6ji8ydv7zme/REVERSE%20SKC%20GreetingCard_7x5.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "HOPE - Red - Greetings Card",
+            "description": "Charity christmas card in support of Solving Kids Cancer, who bring hope to children and families that are battling the very aggressive childhood cancer Neuroblastoma",
+            "user_image_url": "https://www.dropbox.com/s/21418eggww3rs91/HOPEGreetingCard_7x5.jpg?dl=0",
+            "products": {
+                "greeting_cards": {
+                    "variants": {
+                        "greeting_cards_7x5": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/21418eggww3rs91/HOPEGreetingCard_7x5.jpg?dl=0"
+                                },
+                                "back": {
+                                    "user_image_url": "https://www.dropbox.com/s/222f6ji8ydv7zme/REVERSE%20SKC%20GreetingCard_7x5.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "NICE ART - White/ black - Greetings Card",
+            "description": "Greetings cards perfect for any occasion, or for framing as mini pieces of wall art.",
+            "user_image_url": "https://www.dropbox.com/s/lqcsf3ehmr14x5p/NICEARTGreetingCard_7x5.jpg?dl=0",
+            "products": {
+                "greeting_cards": {
+                    "variants": {
+                        "greeting_cards_7x5": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/lqcsf3ehmr14x5p/NICEARTGreetingCard_7x5.jpg?dl=0"
+                                },
+                                "back": {
+                                    "user_image_url": "https://www.dropbox.com/s/6i80dy45xsu0j70/REVERSEGreetingCard_7x5.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "ONE DAY AT A TIME - Black / White - Greetings Card",
+            "description": "Greetings cards perfect for any occasion, or for framing as mini pieces of wall art.",
+            "user_image_url": "https://www.dropbox.com/s/e1eyl1ltqws7vpm/ODAATGreetingCard_7x5.jpg?dl=0",
+            "products": {
+                "greeting_cards": {
+                    "variants": {
+                        "greeting_cards_7x5": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/e1eyl1ltqws7vpm/ODAATGreetingCard_7x5.jpg?dl=0"
+                                },
+                                "back": {
+                                    "user_image_url": "https://www.dropbox.com/s/222f6ji8ydv7zme/REVERSE%20SKC%20GreetingCard_7x5.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "ABSTRACT - 1 - Greetings Card",
+            "description": "Greetings cards perfect for any occasion, or for framing as mini pieces of wall art.",
+            "user_image_url": "https://www.dropbox.com/s/enu9bicfdz2u4tn/SHAPE1GreetingCard_7x5.jpg?dl=0",
+            "products": {
+                "greeting_cards": {
+                    "variants": {
+                        "greeting_cards_7x5": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/enu9bicfdz2u4tn/SHAPE1GreetingCard_7x5.jpg?dl=0"
+                                },
+                                "back": {
+                                    "user_image_url": "https://www.dropbox.com/s/222f6ji8ydv7zme/REVERSE%20SKC%20GreetingCard_7x5.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "ABSTRACT - 2 - Greetings Card",
+            "description": "Greetings cards perfect for any occasion, or for framing as mini pieces of wall art.",
+            "user_image_url": "https://www.dropbox.com/s/r2vmt604tn9ftyg/SHAPE2GreetingCard_7x5.jpg?dl=0",
+            "products": {
+                "greeting_cards": {
+                    "variants": {
+                        "greeting_cards_7x5": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/r2vmt604tn9ftyg/SHAPE2GreetingCard_7x5.jpg?dl=0"
+                                },
+                                "back": {
+                                    "user_image_url": "https://www.dropbox.com/s/222f6ji8ydv7zme/REVERSE%20SKC%20GreetingCard_7x5.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}

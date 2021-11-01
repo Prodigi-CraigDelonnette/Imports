@@ -6,7 +6,7 @@
         "enabled": false
     },
     "products_defaults": {
-        "G_7X5": {
+        "greeting_card": {
             "enabled": true
         }
     },
@@ -25,7 +25,7 @@
             "description": "Greetings cards perfect for any occasion, or for framing as mini pieces of wall art.",
             "user_image_url": "https://www.dropbox.com/s/qi3w810t0q88fgb/WEIRDGreetingCard_7x5.jpg?dl=0",
             "products": {
-                "G_7X5": {
+                "greeting_card": {
                     "variants": {
                         "greeting_cards_7x5": {
                             "images": {
@@ -46,7 +46,7 @@
             "description": "Greetings cards perfect for any occasion, or for framing as mini pieces of wall art.",
             "user_image_url": "https://www.dropbox.com/s/80g877jbue07mjy/BBADLGreetingCard_7x5.jpg?dl=0",
             "products": {
-                "G_7X5": {
+                "greeting_card": {
                     "variants": {
                         "greeting_cards_7x5": {
                             "images": {
@@ -67,7 +67,7 @@
             "description": "Greetings cards perfect for any occasion, or for framing as mini pieces of wall art.",
             "user_image_url": "https://www.dropbox.com/s/i41xzmu3zb5cjnm/EWBOKGreetingCard_7x5.jpg?dl=0",
             "products": {
-                "G_7X5": {
+                "greeting_card": {
                     "variants": {
                         "greeting_cards_7x5": {
                             "images": {
@@ -88,7 +88,7 @@
             "description": "Greetings cards perfect for any occasion, or for framing as mini pieces of wall art.",
             "user_image_url": "https://www.dropbox.com/s/116io5bq4qabbs3/EWBOKPinkGreetingCard_7x5.jpg?dl=0",
             "products": {
-                "G_7X5": {
+                "greeting_card": {
                     "variants": {
                         "greeting_cards_7x5": {
                             "images": {
@@ -109,7 +109,7 @@
             "description": "Greetings cards perfect for any occasion, or for framing as mini pieces of wall art.",
             "user_image_url": "https://www.dropbox.com/s/ruupmxerxtivccf/HANGRYGreetingCard_7x5.jpg?dl=0",
             "products": {
-                "G_7X5": {
+                "greeting_card": {
                     "variants": {
                         "greeting_cards_7x5": {
                             "images": {
@@ -130,7 +130,7 @@
             "description": "Greetings cards perfect for any occasion, or for framing as mini pieces of wall art.",
             "user_image_url": "https://www.dropbox.com/s/58bsql9g5eyqodb/HIPHIPGreetingCard_7x5.jpg?dl=0",
             "products": {
-                "G_7X5": {
+                "greeting_card": {
                     "variants": {
                         "greeting_cards_7x5": {
                             "images": {
@@ -151,7 +151,7 @@
             "description": "Charity christmas card in support of Solving Kids Cancer, who bring hope to children and families that are battling the very aggressive childhood cancer Neuroblastoma",
             "user_image_url": "https://www.dropbox.com/s/fs9zx00k1do48vr/HOPE%20SAGEGreetingCard_7x5.jpg?dl=0",
             "products": {
-                "G_7X5": {
+                "greeting_card": {
                     "variants": {
                         "greeting_cards_7x5": {
                             "images": {
@@ -172,7 +172,7 @@
             "description": "Charity christmas card in support of Solving Kids Cancer, who bring hope to children and families that are battling the very aggressive childhood cancer Neuroblastoma",
             "user_image_url": "https://www.dropbox.com/s/21418eggww3rs91/HOPEGreetingCard_7x5.jpg?dl=0",
             "products": {
-                "G_7X5": {
+                "greeting_card": {
                     "variants": {
                         "greeting_cards_7x5": {
                             "images": {
@@ -193,7 +193,7 @@
             "description": "Greetings cards perfect for any occasion, or for framing as mini pieces of wall art.",
             "user_image_url": "https://www.dropbox.com/s/lqcsf3ehmr14x5p/NICEARTGreetingCard_7x5.jpg?dl=0",
             "products": {
-                "G_7X5": {
+                "greeting_card": {
                     "variants": {
                         "greeting_cards_7x5": {
                             "images": {
@@ -214,7 +214,7 @@
             "description": "Greetings cards perfect for any occasion, or for framing as mini pieces of wall art.",
             "user_image_url": "https://www.dropbox.com/s/e1eyl1ltqws7vpm/ODAATGreetingCard_7x5.jpg?dl=0",
             "products": {
-                "G_7X5": {
+                "greeting_card": {
                     "variants": {
                         "greeting_cards_7x5": {
                             "images": {
@@ -235,7 +235,7 @@
             "description": "Greetings cards perfect for any occasion, or for framing as mini pieces of wall art.",
             "user_image_url": "https://www.dropbox.com/s/enu9bicfdz2u4tn/SHAPE1GreetingCard_7x5.jpg?dl=0",
             "products": {
-                "G_7X5": {
+                "greeting_card": {
                     "variants": {
                         "greeting_cards_7x5": {
                             "images": {
@@ -256,7 +256,7 @@
             "description": "Greetings cards perfect for any occasion, or for framing as mini pieces of wall art.",
             "user_image_url": "https://www.dropbox.com/s/r2vmt604tn9ftyg/SHAPE2GreetingCard_7x5.jpg?dl=0",
             "products": {
-                "G_7X5": {
+                "greeting_card": {
                     "variants": {
                         "greeting_cards_7x5": {
                             "images": {

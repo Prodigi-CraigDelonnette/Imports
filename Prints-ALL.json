@@ -14,6 +14,9 @@
         },
         "global-fap": {
             "enabled": true
+        },
+        "greeting_card": {
+            "enabled": true
         }
     },
     "variant_defaults": {
@@ -99,6 +102,10 @@
         "GLOBAL-FAP-A5-PORTRAIT": {
             "enabled": true,
             "retail_price": 15.00
+        },
+        "greeting_cards_7x5": {
+            "enabled": true,
+            "retail_price": 2.50
         }
     },
     "product_ranges": [
@@ -149,28 +156,42 @@
                             }
                         }
                     }
-                }
-            },
-            "global-can": {
-                "variants": {
-                    "GLOBAL-CAN-16x16-SQUARE": {
-                        "images": {
-                            "front": {
-                                "user_image_url": "https://www.dropbox.com/s/ky2301potxyw3h8/BWL%20Rosa%20Mundi%20sq-01.jpg?dl=0"
+                },
+                "global-can": {
+                    "variants": {
+                        "GLOBAL-CAN-16x16-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ky2301potxyw3h8/BWL%20Rosa%20Mundi%20sq-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CAN-24x24-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ky2301potxyw3h8/BWL%20Rosa%20Mundi%20sq-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CAN-32x32-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ky2301potxyw3h8/BWL%20Rosa%20Mundi%20sq-01.jpg?dl=0"
+                                }
                             }
                         }
-                    },
-                    "GLOBAL-CAN-24x24-SQUARE": {
-                        "images": {
-                            "front": {
-                                "user_image_url": "https://www.dropbox.com/s/ky2301potxyw3h8/BWL%20Rosa%20Mundi%20sq-01.jpg?dl=0"
-                            }
-                        }
-                    },
-                    "GLOBAL-CAN-32x32-SQUARE": {
-                        "images": {
-                            "front": {
-                                "user_image_url": "https://www.dropbox.com/s/ky2301potxyw3h8/BWL%20Rosa%20Mundi%20sq-01.jpg?dl=0"
+                    }
+                },
+                "greeting_card": {
+                    "variants": {
+                        "greeting_cards_7x5": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ky2301potxyw3h8/BWL%20Rosa%20Mundi%20sq-01.jpg?dl=0"
+                                },
+                                "back": {
+                                    "user_image_url": "https://www.dropbox.com/s/6i80dy45xsu0j70/REVERSEGreetingCard_7x5.jpg?dl=0"
+                                }
                             }
                         }
                     }
@@ -224,28 +245,42 @@
                             }
                         }
                     }
-                }
-            },
-            "global-can": {
-                "variants": {
-                    "GLOBAL-CAN-16x16-SQUARE": {
-                        "images": {
-                            "front": {
-                                "user_image_url": "https://www.dropbox.com/s/u5sd0wz1l3i24yr/BWL%20Nigella%20sq-01.jpg?dl=0"
+                },
+                "global-can": {
+                    "variants": {
+                        "GLOBAL-CAN-16x16-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/u5sd0wz1l3i24yr/BWL%20Nigella%20sq-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CAN-24x24-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/u5sd0wz1l3i24yr/BWL%20Nigella%20sq-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CAN-32x32-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/u5sd0wz1l3i24yr/BWL%20Nigella%20sq-01.jpg?dl=0"
+                                }
                             }
                         }
-                    },
-                    "GLOBAL-CAN-24x24-SQUARE": {
-                        "images": {
-                            "front": {
-                                "user_image_url": "https://www.dropbox.com/s/u5sd0wz1l3i24yr/BWL%20Nigella%20sq-01.jpg?dl=0"
-                            }
-                        }
-                    },
-                    "GLOBAL-CAN-32x32-SQUARE": {
-                        "images": {
-                            "front": {
-                                "user_image_url": "https://www.dropbox.com/s/u5sd0wz1l3i24yr/BWL%20Nigella%20sq-01.jpg?dl=0"
+                    }
+                },
+                "greeting_card": {
+                    "variants": {
+                        "greeting_cards_7x5": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/u5sd0wz1l3i24yr/BWL%20Nigella%20sq-01.jpg?dl=0"
+                                },
+                                "back": {
+                                    "user_image_url": "https://www.dropbox.com/s/6i80dy45xsu0j70/REVERSEGreetingCard_7x5.jpg?dl=0"
+                                }
                             }
                         }
                     }
@@ -299,28 +334,42 @@
                             }
                         }
                     }
-                }
-            },
-            "global-can": {
-                "variants": {
-                    "GLOBAL-CAN-16x16-SQUARE": {
-                        "images": {
-                            "front": {
-                                "user_image_url": "https://www.dropbox.com/s/tqtyudx377rrm6y/BWL%20Old%20Rose%20sq-01.jpg?dl=0"
+                },
+                "global-can": {
+                    "variants": {
+                        "GLOBAL-CAN-16x16-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/tqtyudx377rrm6y/BWL%20Old%20Rose%20sq-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CAN-24x24-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/tqtyudx377rrm6y/BWL%20Old%20Rose%20sq-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CAN-32x32-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/tqtyudx377rrm6y/BWL%20Old%20Rose%20sq-01.jpg?dl=0"
+                                }
                             }
                         }
-                    },
-                    "GLOBAL-CAN-24x24-SQUARE": {
-                        "images": {
-                            "front": {
-                                "user_image_url": "https://www.dropbox.com/s/tqtyudx377rrm6y/BWL%20Old%20Rose%20sq-01.jpg?dl=0"
-                            }
-                        }
-                    },
-                    "GLOBAL-CAN-32x32-SQUARE": {
-                        "images": {
-                            "front": {
-                                "user_image_url": "https://www.dropbox.com/s/tqtyudx377rrm6y/BWL%20Old%20Rose%20sq-01.jpg?dl=0"
+                    }
+                },
+                "greeting_card": {
+                    "variants": {
+                        "greeting_cards_7x5": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/tqtyudx377rrm6y/BWL%20Old%20Rose%20sq-01.jpg?dl=0"
+                                },
+                                "back": {
+                                    "user_image_url": "https://www.dropbox.com/s/6i80dy45xsu0j70/REVERSEGreetingCard_7x5.jpg?dl=0"
+                                }
                             }
                         }
                     }
@@ -479,6 +528,20 @@
                             "images": {
                                 "front": {
                                     "user_image_url": "https://www.dropbox.com/s/y1rjvv7e1257max/LOVE%20Nigella-01.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "greeting_card": {
+                    "variants": {
+                        "greeting_cards_7x5": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/y1rjvv7e1257max/LOVE%20Nigella-01.jpg?dl=0"
+                                },
+                                "back": {
+                                    "user_image_url": "https://www.dropbox.com/s/6i80dy45xsu0j70/REVERSEGreetingCard_7x5.jpg?dl=0"
                                 }
                             }
                         }
@@ -642,6 +705,20 @@
                             }
                         }
                     }
+                },
+                "greeting_card": {
+                    "variants": {
+                        "greeting_cards_7x5": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/hpjlcpw6oh47aia/LOVE%20Old%20Rose-01.jpg?dl=0"
+                                },
+                                "back": {
+                                    "user_image_url": "https://www.dropbox.com/s/6i80dy45xsu0j70/REVERSEGreetingCard_7x5.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
                 }
             }
         },
@@ -797,6 +874,20 @@
                             "images": {
                                 "front": {
                                     "user_image_url": "https://www.dropbox.com/s/s7zx99yz0haz69i/%26%20Old%20Rose%20Asize.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "greeting_card": {
+                    "variants": {
+                        "greeting_cards_7x5": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/s7zx99yz0haz69i/%26%20Old%20Rose%20Asize.jpg?dl=0"
+                                },
+                                "back": {
+                                    "user_image_url": "https://www.dropbox.com/s/6i80dy45xsu0j70/REVERSEGreetingCard_7x5.jpg?dl=0"
                                 }
                             }
                         }
@@ -960,6 +1051,20 @@
                             }
                         }
                     }
+                },
+                "greeting_card": {
+                    "variants": {
+                        "greeting_cards_7x5": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/m2q5mfgebmrn0fp/%26%20Poppy%20Asize.jpg?dl=0"
+                                },
+                                "back": {
+                                    "user_image_url": "https://www.dropbox.com/s/6i80dy45xsu0j70/REVERSEGreetingCard_7x5.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
                 }
             }
         },
@@ -1115,6 +1220,20 @@
                             "images": {
                                 "front": {
                                     "user_image_url": "https://www.dropbox.com/s/95zome2fxyhlklc/Nigella%20Asize.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "greeting_card": {
+                    "variants": {
+                        "greeting_cards_7x5": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/95zome2fxyhlklc/Nigella%20Asize.jpg?dl=0"
+                                },
+                                "back": {
+                                    "user_image_url": "https://www.dropbox.com/s/6i80dy45xsu0j70/REVERSEGreetingCard_7x5.jpg?dl=0"
                                 }
                             }
                         }

@@ -1,0 +1,954 @@
+{
+    "product_range_defaults": {
+        "published": true
+    },
+    "product_defaults": {
+        "enabled": false
+    },
+    "products_defaults": {
+        "global-cfp": {
+            "enabled": true
+        },
+        "global-fap": {
+            "enabled": true
+        },
+        "poster-hanger": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false
+    },
+    "variants_defaults": {
+        "GLOBAL-CFP-8x12-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 36.95
+        },
+        "GLOBAL-CFP-12x16-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 55.95
+        },
+        "GLOBAL-CFP-16x20-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 60.95
+        },
+        "GLOBAL-CFP-18x24-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 75.95
+        },
+        "GLOBAL-CFP-20x28-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 85.95
+        },
+        "GLOBAL-FAP-8x12-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 15.95
+        },
+        "GLOBAL-FAP-12x16-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 19.95
+        },
+        "GLOBAL-FAP-16x20-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 24.95
+        },
+        "GLOBAL-FAP-18x24-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 29.95
+        },
+        "GLOBAL-FAP-20x28-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 37.95
+        },
+        "POSTER-HANGER-20-A4-PORT": {
+            "enabled": true,
+            "retail_price": 26.95
+        },
+        "POSTER-HANGER-30-12x16-PORT": {
+            "enabled": true,
+            "retail_price": 35.95
+        },
+        "POSTER-HANGER-40-16x20-PORT": {
+            "enabled": true,
+            "retail_price": 45.95
+        },
+        "POSTER-HANGER-50-18x24-PORT": {
+            "enabled": true,
+            "retail_price": 49.95
+        },
+        "POSTER-HANGER-50-20x28-PORT": {
+            "enabled": true,
+            "retail_price": 59.95
+        }
+    },
+    "product_ranges": [
+        {
+            "title": "PDG_Watercolour Swatches - Purple (With Frame)",
+            "user_image_url": "https://www.dropbox.com/s/gxgkt3ezubdj142/Colour%20Chart%20Poster_8x12_Purple.jpg?dl=0",
+            "products": {
+                "description": "This Purple hued art print was inspired by a book written in 1692 about mixing watercolours (centuries before Pantone!). Also available as part of our Watercolour Swatch Gallery Wall. Giclée printed on 200gsm museum quality paper sourced from sustainably managed forests.",
+                "global-cfp": {
+                    "variants": {
+                        "GLOBAL-CFP-8x12-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/gxgkt3ezubdj142/Colour%20Chart%20Poster_8x12_Purple.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/1bjyn3l8mlx0l6z/Colour%20Chart%20Poster_12x16_Purple.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-16x20-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/j3h1uvu3ftewqsp/Colour%20Chart%20Poster_16x20_Purple.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-18x24-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/cekk06oenlb0si5/Colour%20Chart%20Poster_18x24_Purple.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/4r5fcipg4fh9i3h/Colour%20Chart%20Poster_20x28_Purple.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-fap": {
+                    "variants": {
+                        "GLOBAL-FAP-8x12-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/gxgkt3ezubdj142/Colour%20Chart%20Poster_8x12_Purple.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/1bjyn3l8mlx0l6z/Colour%20Chart%20Poster_12x16_Purple.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-16x20-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/j3h1uvu3ftewqsp/Colour%20Chart%20Poster_16x20_Purple.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-18x24-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/cekk06oenlb0si5/Colour%20Chart%20Poster_18x24_Purple.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/4r5fcipg4fh9i3h/Colour%20Chart%20Poster_20x28_Purple.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "poster-hanger": {
+                    "variants": {
+                        "POSTER-HANGER-20-A4-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/gxgkt3ezubdj142/Colour%20Chart%20Poster_8x12_Purple.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-30-12x16-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/1bjyn3l8mlx0l6z/Colour%20Chart%20Poster_12x16_Purple.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-40-16x20-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/j3h1uvu3ftewqsp/Colour%20Chart%20Poster_16x20_Purple.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-50-18x24-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/cekk06oenlb0si5/Colour%20Chart%20Poster_18x24_Purple.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-50-20x28-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/4r5fcipg4fh9i3h/Colour%20Chart%20Poster_20x28_Purple.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "PDG_Watercolour Swatches - Pink (With Frame)",
+            "user_image_url": "https://www.dropbox.com/s/dqkfyygazeii261/Colour%20Chart%20Poster_8x12_Pink.jpg?dl=0",
+            "products": {
+                "description": "This Pink hued art print was inspired by a book written in 1692 about mixing watercolours (centuries before Pantone!). Also available as part of our Watercolour Swatch Gallery Wall. Giclée printed on 200gsm museum quality paper sourced from sustainably managed forests.",
+                "global-cfp": {
+                    "variants": {
+                        "GLOBAL-CFP-8x12-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/dqkfyygazeii261/Colour%20Chart%20Poster_8x12_Pink.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/5oo1cza6e66yrtm/Colour%20Chart%20Poster_12x16_Pink.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-16x20-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ymhkf55lehgn1ak/Colour%20Chart%20Poster_16x20_Pink.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-18x24-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/zhapagot8xo6owi/Colour%20Chart%20Poster_18x24_Pink.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/7yqlf5d6imp9p9r/Colour%20Chart%20Poster_20x28_Pink.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-fap": {
+                    "variants": {
+                        "GLOBAL-FAP-8x12-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/dqkfyygazeii261/Colour%20Chart%20Poster_8x12_Pink.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/5oo1cza6e66yrtm/Colour%20Chart%20Poster_12x16_Pink.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-16x20-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ymhkf55lehgn1ak/Colour%20Chart%20Poster_16x20_Pink.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-18x24-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/zhapagot8xo6owi/Colour%20Chart%20Poster_18x24_Pink.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/7yqlf5d6imp9p9r/Colour%20Chart%20Poster_20x28_Pink.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "poster-hanger": {
+                    "variants": {
+                        "POSTER-HANGER-20-A4-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/dqkfyygazeii261/Colour%20Chart%20Poster_8x12_Pink.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-30-12x16-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/5oo1cza6e66yrtm/Colour%20Chart%20Poster_12x16_Pink.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-40-16x20-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ymhkf55lehgn1ak/Colour%20Chart%20Poster_16x20_Pink.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-50-18x24-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/zhapagot8xo6owi/Colour%20Chart%20Poster_18x24_Pink.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-50-20x28-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/7yqlf5d6imp9p9r/Colour%20Chart%20Poster_20x28_Pink.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "PDG_Watercolour Swatches - Orange (With Frame)",
+            "user_image_url": "https://www.dropbox.com/s/mqm5mdwgyiil5qu/Colour%20Chart%20Poster_8x12_Orange.jpg?dl=0",
+            "products": {
+                "description": "This Orange hued art print was inspired by a book written in 1692 about mixing watercolours (centuries before Pantone!). Also available as part of our Watercolour Swatch Gallery Wall. Giclée printed on 200gsm museum quality paper sourced from sustainably managed forests.",
+                "global-cfp": {
+                    "variants": {
+                        "GLOBAL-CFP-8x12-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/mqm5mdwgyiil5qu/Colour%20Chart%20Poster_8x12_Orange.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/d41n1bw91r3i8gk/Colour%20Chart%20Poster_12x16_Orange.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-16x20-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/4exb9m3wj0t4t8e/Colour%20Chart%20Poster_16x20_Orange.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-18x24-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/psi6fobk1ug0jqy/Colour%20Chart%20Poster_18x24_Orange.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/fbvrqiilymtqh9l/Colour%20Chart%20Poster_20x28_Orange.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-fap": {
+                    "variants": {
+                        "GLOBAL-FAP-8x12-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/mqm5mdwgyiil5qu/Colour%20Chart%20Poster_8x12_Orange.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/d41n1bw91r3i8gk/Colour%20Chart%20Poster_12x16_Orange.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-16x20-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/4exb9m3wj0t4t8e/Colour%20Chart%20Poster_16x20_Orange.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-18x24-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/psi6fobk1ug0jqy/Colour%20Chart%20Poster_18x24_Orange.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/fbvrqiilymtqh9l/Colour%20Chart%20Poster_20x28_Orange.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "poster-hanger": {
+                    "variants": {
+                        "POSTER-HANGER-20-A4-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/mqm5mdwgyiil5qu/Colour%20Chart%20Poster_8x12_Orange.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-30-12x16-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/d41n1bw91r3i8gk/Colour%20Chart%20Poster_12x16_Orange.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-40-16x20-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/4exb9m3wj0t4t8e/Colour%20Chart%20Poster_16x20_Orange.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-50-18x24-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/psi6fobk1ug0jqy/Colour%20Chart%20Poster_18x24_Orange.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-50-20x28-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/fbvrqiilymtqh9l/Colour%20Chart%20Poster_20x28_Orange.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "PDG_Watercolour Swatches - Yellow (With Frame)",
+            "user_image_url": "https://www.dropbox.com/s/bhwmhgzfkf8vopk/Colour%20Chart%20Poster_8x12_Yellow.jpg?dl=0",
+            "products": {
+                "description": "This Yellow hued art print was inspired by a book written in 1692 about mixing watercolours (centuries before Pantone!). Also available as part of our Watercolour Swatch Gallery Wall. Giclée printed on 200gsm museum quality paper sourced from sustainably managed forests.",
+                "global-cfp": {
+                    "variants": {
+                        "GLOBAL-CFP-8x12-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/bhwmhgzfkf8vopk/Colour%20Chart%20Poster_8x12_Yellow.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/rjoqna4ptmpkmm9/Colour%20Chart%20Poster_12x16_Yellow.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-16x20-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/37qfrqw7vh45b2o/Colour%20Chart%20Poster_16x20_Yellow.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-18x24-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/sa6grfhocb0wgzq/Colour%20Chart%20Poster_18x24_Yellow.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/g2wcl28f020xl8t/Colour%20Chart%20Poster_20x28_Yellow.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-fap": {
+                    "variants": {
+                        "GLOBAL-FAP-8x12-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/bhwmhgzfkf8vopk/Colour%20Chart%20Poster_8x12_Yellow.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/rjoqna4ptmpkmm9/Colour%20Chart%20Poster_12x16_Yellow.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-16x20-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/37qfrqw7vh45b2o/Colour%20Chart%20Poster_16x20_Yellow.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-18x24-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/sa6grfhocb0wgzq/Colour%20Chart%20Poster_18x24_Yellow.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/g2wcl28f020xl8t/Colour%20Chart%20Poster_20x28_Yellow.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "poster-hanger": {
+                    "variants": {
+                        "POSTER-HANGER-20-A4-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/bhwmhgzfkf8vopk/Colour%20Chart%20Poster_8x12_Yellow.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-30-12x16-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/rjoqna4ptmpkmm9/Colour%20Chart%20Poster_12x16_Yellow.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-40-16x20-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/37qfrqw7vh45b2o/Colour%20Chart%20Poster_16x20_Yellow.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-50-18x24-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/sa6grfhocb0wgzq/Colour%20Chart%20Poster_18x24_Yellow.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-50-20x28-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/g2wcl28f020xl8t/Colour%20Chart%20Poster_20x28_Yellow.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "PDG_Watercolour Swatches - Green (With Frame)",
+            "user_image_url": "https://www.dropbox.com/s/ahtmhomf49je6rf/Colour%20Chart%20Poster_8x12_Green.jpg?dl=0",
+            "products": {
+                "description": "This Green hued art print was inspired by a book written in 1692 about mixing watercolours (centuries before Pantone!). Also available as part of our Watercolour Swatch Gallery Wall. Giclée printed on 200gsm museum quality paper sourced from sustainably managed forests.",
+                "global-cfp": {
+                    "variants": {
+                        "GLOBAL-CFP-8x12-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ahtmhomf49je6rf/Colour%20Chart%20Poster_8x12_Green.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/u2evp2tdk2xjt0f/Colour%20Chart%20Poster_12x16_Green.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-16x20-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/6ei6a2lno2d27mt/Colour%20Chart%20Poster_16x20_Green.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-18x24-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/90z6pvyjv2plta2/Colour%20Chart%20Poster_18x24_Green.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/dbhi9yx0a94nzfr/Colour%20Chart%20Poster_20x28_Green.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-fap": {
+                    "variants": {
+                        "GLOBAL-FAP-8x12-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ahtmhomf49je6rf/Colour%20Chart%20Poster_8x12_Green.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/u2evp2tdk2xjt0f/Colour%20Chart%20Poster_12x16_Green.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-16x20-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/6ei6a2lno2d27mt/Colour%20Chart%20Poster_16x20_Green.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-18x24-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/90z6pvyjv2plta2/Colour%20Chart%20Poster_18x24_Green.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/dbhi9yx0a94nzfr/Colour%20Chart%20Poster_20x28_Green.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "poster-hanger": {
+                    "variants": {
+                        "POSTER-HANGER-20-A4-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ahtmhomf49je6rf/Colour%20Chart%20Poster_8x12_Green.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-30-12x16-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/u2evp2tdk2xjt0f/Colour%20Chart%20Poster_12x16_Green.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-40-16x20-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/6ei6a2lno2d27mt/Colour%20Chart%20Poster_16x20_Green.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-50-18x24-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/90z6pvyjv2plta2/Colour%20Chart%20Poster_18x24_Green.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-50-20x28-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/dbhi9yx0a94nzfr/Colour%20Chart%20Poster_20x28_Green.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "PDG_Watercolour Swatches - Blue (With Frame)",
+            "user_image_url": "https://www.dropbox.com/s/34hjpkaz4gtroyp/Colour%20Chart%20Poster_8x12_Blue.jpg?dl=0",
+            "products": {
+                "description": "This Blue hued art print was inspired by a book written in 1692 about mixing watercolours (centuries before Pantone!). Also available as part of our Watercolour Swatch Gallery Wall. Giclée printed on 200gsm museum quality paper sourced from sustainably managed forests.",
+                "global-cfp": {
+                    "variants": {
+                        "GLOBAL-CFP-8x12-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/34hjpkaz4gtroyp/Colour%20Chart%20Poster_8x12_Blue.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/kueify3xyq3ls66/Colour%20Chart%20Poster_12x16_Blue.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-16x20-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/hcy9k7sak7hc9ke/Colour%20Chart%20Poster_16x20_Blue.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-18x24-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/tz2ao76ootdnjsk/Colour%20Chart%20Poster_18x24_Blue.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/5e5y1w6wju2jhvd/Colour%20Chart%20Poster_20x28_Blue.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-fap": {
+                    "variants": {
+                        "GLOBAL-FAP-8x12-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/34hjpkaz4gtroyp/Colour%20Chart%20Poster_8x12_Blue.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/kueify3xyq3ls66/Colour%20Chart%20Poster_12x16_Blue.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-16x20-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/hcy9k7sak7hc9ke/Colour%20Chart%20Poster_16x20_Blue.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-18x24-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/tz2ao76ootdnjsk/Colour%20Chart%20Poster_18x24_Blue.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/5e5y1w6wju2jhvd/Colour%20Chart%20Poster_20x28_Blue.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "poster-hanger": {
+                    "variants": {
+                        "POSTER-HANGER-20-A4-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/34hjpkaz4gtroyp/Colour%20Chart%20Poster_8x12_Blue.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-30-12x16-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/kueify3xyq3ls66/Colour%20Chart%20Poster_12x16_Blue.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-40-16x20-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/hcy9k7sak7hc9ke/Colour%20Chart%20Poster_16x20_Blue.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-50-18x24-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/tz2ao76ootdnjsk/Colour%20Chart%20Poster_18x24_Blue.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-50-20x28-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/5e5y1w6wju2jhvd/Colour%20Chart%20Poster_20x28_Blue.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "PDG_ABC Blocks (With Frame)",
+            "user_image_url": "https://www.dropbox.com/s/7qeps53kjjaw8sf/ABC%20Blocks%20Poster_8x12.jpg?dl=0",
+            "products": {
+                "description": "Inspired by a set of vintage children’s wooden ABC building blocks, this fun Alphabet art print will add instant impact on the walls of little learners! Giclée printed on 200gsm museum quality paper sourced from sustainably managed forests. ",
+                "global-cfp": {
+                    "variants": {
+                        "GLOBAL-CFP-8x12-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/7qeps53kjjaw8sf/ABC%20Blocks%20Poster_8x12.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/dfb1r1md9wmfc6b/ABC%20Blocks%20Poster_12x16.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-16x20-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/a3i5o3ansxgmt47/ABC%20Blocks%20Poster_16x20.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-18x24-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/mq1oy0ajyx99s65/ABC%20Blocks%20Poster_18x24.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/tx63mdq4wawzukk/ABC%20Blocks%20Poster_20x28.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-fap": {
+                    "variants": {
+                        "GLOBAL-FAP-8x12-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/7qeps53kjjaw8sf/ABC%20Blocks%20Poster_8x12.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/dfb1r1md9wmfc6b/ABC%20Blocks%20Poster_12x16.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-16x20-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/a3i5o3ansxgmt47/ABC%20Blocks%20Poster_16x20.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-18x24-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/mq1oy0ajyx99s65/ABC%20Blocks%20Poster_18x24.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/tx63mdq4wawzukk/ABC%20Blocks%20Poster_20x28.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "poster-hanger": {
+                    "variants": {
+                        "POSTER-HANGER-20-A4-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/7qeps53kjjaw8sf/ABC%20Blocks%20Poster_8x12.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-30-12x16-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/dfb1r1md9wmfc6b/ABC%20Blocks%20Poster_12x16.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-40-16x20-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/a3i5o3ansxgmt47/ABC%20Blocks%20Poster_16x20.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-50-18x24-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/mq1oy0ajyx99s65/ABC%20Blocks%20Poster_18x24.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-50-20x28-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/tx63mdq4wawzukk/ABC%20Blocks%20Poster_20x28.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}

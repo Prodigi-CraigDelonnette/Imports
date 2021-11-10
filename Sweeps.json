@@ -1,0 +1,706 @@
+{
+    "product_range_defaults": {
+        "published": true
+    },
+    "product_defaults": {
+        "enabled": false
+    },
+    "products_defaults": {
+        "global-cfp": {
+            "enabled": true
+        },
+        "global-fap": {
+            "enabled": true
+        },
+        "poster-hanger": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false
+    },
+    "variants_defaults": {
+        "GLOBAL-CFP-8x12-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 36.95
+        },
+        "GLOBAL-CFP-12x16-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 55.95
+        },
+        "GLOBAL-CFP-16x20-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 60.95
+        },
+        "GLOBAL-CFP-18x24-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 75.95
+        },
+        "GLOBAL-CFP-20x28-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 85.95
+        },
+        "GLOBAL-FAP-8x12-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 15.95
+        },
+        "GLOBAL-FAP-12x16-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 19.95
+        },
+        "GLOBAL-FAP-16x20-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 24.95
+        },
+        "GLOBAL-FAP-18x24-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 29.95
+        },
+        "GLOBAL-FAP-20x28-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 37.95
+        },
+        "POSTER-HANGER-20-A4-PORT": {
+            "enabled": true,
+            "retail_price": 26.95
+        },
+        "POSTER-HANGER-30-12x16-PORT": {
+            "enabled": true,
+            "retail_price": 35.95
+        },
+        "POSTER-HANGER-40-16x20-PORT": {
+            "enabled": true,
+            "retail_price": 45.95
+        },
+        "POSTER-HANGER-50-18x24-PORT": {
+            "enabled": true,
+            "retail_price": 49.95
+        },
+        "POSTER-HANGER-50-20x28-PORT": {
+            "enabled": true,
+            "retail_price": 59.95
+        }
+    },
+    "product_ranges": [
+        {
+            "title": "PDG_French First Words Animals (With Frame)",
+            "user_image_url": "https://www.dropbox.com/s/x3velfcflly4akc/animals_8%20x%2012.jpg?dl=0",
+            "products": {
+                "description": "PLACEHOLDER COPY - FRENCH FIRST WORDS ANIMALS ART PRINT - Giclée printed on 200gsm museum quality paper sourced from sustainably managed forests. ",
+                "global-cfp": {
+                    "variants": {
+                        "GLOBAL-CFP-8x12-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/x3velfcflly4akc/animals_8%20x%2012.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/a8ivgkz6b02rxdy/animals_12%20x%2016.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-16x20-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/m0gemnok1pciocz/animals_16%20x%2020.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-18x24-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/3tbpdph6s76naeg/animals_18%20x%2024.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ms7y93x8bgaxxob/animals_20%20x%2028.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-fap": {
+                    "variants": {
+                        "GLOBAL-FAP-8x12-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/x3velfcflly4akc/animals_8%20x%2012.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/a8ivgkz6b02rxdy/animals_12%20x%2016.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-16x20-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/m0gemnok1pciocz/animals_16%20x%2020.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-18x24-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/3tbpdph6s76naeg/animals_18%20x%2024.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ms7y93x8bgaxxob/animals_20%20x%2028.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "poster-hanger": {
+                    "variants": {
+                        "POSTER-HANGER-20-A4-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/x3velfcflly4akc/animals_8%20x%2012.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-30-12x16-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/a8ivgkz6b02rxdy/animals_12%20x%2016.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-40-16x20-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/m0gemnok1pciocz/animals_16%20x%2020.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-50-18x24-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/3tbpdph6s76naeg/animals_18%20x%2024.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-50-20x28-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ms7y93x8bgaxxob/animals_20%20x%2028.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "PDG_French First Words Around the House (With Frame)",
+            "user_image_url": "https://www.dropbox.com/s/4s08fx34m0nshf0/dollshouse_8%20x%2012.jpg?dl=0",
+            "products": {
+                "description": "PLACEHOLDER COPY - FRENCH FIRST WORDS AROUND THE HOUSE ART PRINT - Giclée printed on 200gsm museum quality paper sourced from sustainably managed forests. ",
+                "global-cfp": {
+                    "variants": {
+                        "GLOBAL-CFP-8x12-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/4s08fx34m0nshf0/dollshouse_8%20x%2012.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/97njtyt97uauoro/dollshouse_12%20x%2016.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-16x20-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/82duyartj1qqnys/dollshouse_16%20x%2020.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-18x24-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/locs8biaqciu8q9/dollshouse_18%20x%2024.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/9gwdocdquq8ohlw/dollshouse_20%20x%2028.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-fap": {
+                    "variants": {
+                        "GLOBAL-FAP-8x12-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/4s08fx34m0nshf0/dollshouse_8%20x%2012.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/97njtyt97uauoro/dollshouse_12%20x%2016.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-16x20-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/82duyartj1qqnys/dollshouse_16%20x%2020.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-18x24-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/locs8biaqciu8q9/dollshouse_18%20x%2024.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/9gwdocdquq8ohlw/dollshouse_20%20x%2028.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "poster-hanger": {
+                    "variants": {
+                        "POSTER-HANGER-20-A4-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/4s08fx34m0nshf0/dollshouse_8%20x%2012.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-30-12x16-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/97njtyt97uauoro/dollshouse_12%20x%2016.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-40-16x20-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/82duyartj1qqnys/dollshouse_16%20x%2020.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-50-18x24-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/locs8biaqciu8q9/dollshouse_18%20x%2024.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-50-20x28-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/9gwdocdquq8ohlw/dollshouse_20%20x%2028.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "PDG_French First Words Toys & Games (With Frame)",
+            "user_image_url": "https://www.dropbox.com/s/hcbm1h3zjemk90i/games_8%20x%2012.jpg?dl=0",
+            "products": {
+                "description": "PLACEHOLDER COPY - FRENCH FIRST WORDS TOYS & GAMES ART PRINT - Giclée printed on 200gsm museum quality paper sourced from sustainably managed forests. ",
+                "global-cfp": {
+                    "variants": {
+                        "GLOBAL-CFP-8x12-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/hcbm1h3zjemk90i/games_8%20x%2012.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/20stk0bmoly1gkf/games_12%20x%2016.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-16x20-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/9gvt9xwvsv6m828/games_16%20x%2020.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-18x24-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/rg53rzdt406ur7s/games_18%20x%2024.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/othfj6j1sgrdej9/objects_20%20x%2028.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-fap": {
+                    "variants": {
+                        "GLOBAL-FAP-8x12-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/hcbm1h3zjemk90i/games_8%20x%2012.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/20stk0bmoly1gkf/games_12%20x%2016.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-16x20-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/9gvt9xwvsv6m828/games_16%20x%2020.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-18x24-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/rg53rzdt406ur7s/games_18%20x%2024.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/othfj6j1sgrdej9/objects_20%20x%2028.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "poster-hanger": {
+                    "variants": {
+                        "POSTER-HANGER-20-A4-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/hcbm1h3zjemk90i/games_8%20x%2012.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-30-12x16-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/20stk0bmoly1gkf/games_12%20x%2016.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-40-16x20-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/9gvt9xwvsv6m828/games_16%20x%2020.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-50-18x24-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/rg53rzdt406ur7s/games_18%20x%2024.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-50-20x28-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/othfj6j1sgrdej9/objects_20%20x%2028.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "PDG_French First Words Transport (With Frame)",
+            "user_image_url": "https://www.dropbox.com/s/dnb3mmtaj3k0n7h/transport_8%20x%2012.jpg?dl=0",
+            "products": {
+                "description": "PLACEHOLDER COPY - FRENCH FIRST WORDS TRANSPORT ART PRINT - Giclée printed on 200gsm museum quality paper sourced from sustainably managed forests. ",
+                "global-cfp": {
+                    "variants": {
+                        "GLOBAL-CFP-8x12-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/dnb3mmtaj3k0n7h/transport_8%20x%2012.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/o37ssza5ceerxt5/transport_12%20x%2016.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-16x20-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/7k7oko7u5t05xn2/transport_16%20x%2020.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-18x24-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/awrugjzl2e7q9yl/transport_18%20x%2024.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/o3ol8jfp2i02d6t/transport_20%20x%2028.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-fap": {
+                    "variants": {
+                        "GLOBAL-FAP-8x12-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/dnb3mmtaj3k0n7h/transport_8%20x%2012.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/o37ssza5ceerxt5/transport_12%20x%2016.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-16x20-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/7k7oko7u5t05xn2/transport_16%20x%2020.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-18x24-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/awrugjzl2e7q9yl/transport_18%20x%2024.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/o3ol8jfp2i02d6t/transport_20%20x%2028.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "poster-hanger": {
+                    "variants": {
+                        "POSTER-HANGER-20-A4-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/dnb3mmtaj3k0n7h/transport_8%20x%2012.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-30-12x16-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/o37ssza5ceerxt5/transport_12%20x%2016.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-40-16x20-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/7k7oko7u5t05xn2/transport_16%20x%2020.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-50-18x24-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/awrugjzl2e7q9yl/transport_18%20x%2024.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-50-20x28-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/o3ol8jfp2i02d6t/transport_20%20x%2028.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "PDG_Grammar of Ornament Leaves & Flowers (With Frame)",
+            "user_image_url": "https://www.dropbox.com/s/ntjhca4w7se2k6a/Grammar_8%20x%2012.jpg?dl=0",
+            "products": {
+                "description": "PLACEHOLDER COPY - GRAMMER FLOWERS ART PRINT - Giclée printed on 200gsm museum quality paper sourced from sustainably managed forests. ",
+                "global-cfp": {
+                    "variants": {
+                        "GLOBAL-CFP-8x12-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ntjhca4w7se2k6a/Grammar_8%20x%2012.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/fk6qjy069qhpr9c/Grammar_12%20x%2016.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-16x20-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/aypvm31tdl6f993/Grammar_16%20x%2020.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-18x24-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/yf5hg38bu8fjop9/Grammar_18%20x%2024.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/4utb49eol9uzyb9/Grammar_20%20x%2028.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-fap": {
+                    "variants": {
+                        "GLOBAL-FAP-8x12-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ntjhca4w7se2k6a/Grammar_8%20x%2012.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/fk6qjy069qhpr9c/Grammar_12%20x%2016.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-16x20-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/aypvm31tdl6f993/Grammar_16%20x%2020.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-18x24-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/yf5hg38bu8fjop9/Grammar_18%20x%2024.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/4utb49eol9uzyb9/Grammar_20%20x%2028.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "poster-hanger": {
+                    "variants": {
+                        "POSTER-HANGER-20-A4-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ntjhca4w7se2k6a/Grammar_8%20x%2012.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-30-12x16-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/fk6qjy069qhpr9c/Grammar_12%20x%2016.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-40-16x20-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/aypvm31tdl6f993/Grammar_16%20x%2020.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-50-18x24-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/yf5hg38bu8fjop9/Grammar_18%20x%2024.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-50-20x28-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/4utb49eol9uzyb9/Grammar_20%20x%2028.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}

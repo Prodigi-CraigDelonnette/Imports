@@ -1,0 +1,158 @@
+{
+    "product_range_defaults": {
+        "published": true
+    },
+    "product_defaults": {
+        "enabled": false
+    },
+    "products_defaults": {
+        "global-cfp": {
+            "enabled": true
+        },
+        "global-fap": {
+            "enabled": true
+        },
+        "poster-hanger": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false
+    },
+    "variants_defaults": {
+        "GLOBAL-CFP-20x20-SQUARE": {
+            "enabled": true,
+            "retail_price": 69.95
+        },
+        "GLOBAL-FAP-20x20-SQUARE": {
+            "enabled": true,
+            "retail_price": 29.95
+        },
+        "POSTER-HANGER-50-20x20-SQUARE": {
+            "enabled": true,
+            "retail_price": 49.95
+        }
+    },
+    "product_ranges": [
+        {
+            "title": "PDG_Bird Family - Pink",
+            "user_image_url": "https://www.dropbox.com/s/7076qwl9x596vqa/Pink_Bird_Family_Square_20x20.jpg?dl=0",
+            "products": {
+                "description": "Lovingly designed in-house and exclusive to Roomytown, this pastel pink Bird Family Print makes the perfect gift to celebrate a new baby, Christening or special birthday. Also available in our Sun, Moon, Birds Gallery Wall set. Giclée printed on 200gsm museum quality paper sourced from sustainably managed forests.  ",
+                "global-cfp": {
+                    "variants": {
+                        "GLOBAL-CFP-20x20-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/7076qwl9x596vqa/Pink_Bird_Family_Square_20x20.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-fap": {
+                    "variants": {
+                        "GLOBAL-FAP-20x20-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/7076qwl9x596vqa/Pink_Bird_Family_Square_20x20.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "poster-hanger": {
+                    "variants": {
+                        "POSTER-HANGER-50-20x20-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/7076qwl9x596vqa/Pink_Bird_Family_Square_20x20.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "PDG_Bird Family - Mint",
+            "user_image_url": "https://www.dropbox.com/s/qfpd76lth0mc42e/Bird_Family_20_20_Square_Mint.jpg?dl=0",
+            "products": {
+                "description": "Lovingly designed in-house and exclusive to Roomytown, this mint green Bird Family Print makes the perfect gift to celebrate a new baby, Christening or special birthday. Also available in our Sun, Moon, Birds Gallery Wall set. Giclée printed on 200gsm museum quality paper sourced from sustainably managed forests.  ",
+                "global-cfp": {
+                    "variants": {
+                        "GLOBAL-CFP-20x20-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/qfpd76lth0mc42e/Bird_Family_20_20_Square_Mint.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-fap": {
+                    "variants": {
+                        "GLOBAL-FAP-20x20-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/qfpd76lth0mc42e/Bird_Family_20_20_Square_Mint.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "poster-hanger": {
+                    "variants": {
+                        "POSTER-HANGER-50-20x20-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/qfpd76lth0mc42e/Bird_Family_20_20_Square_Mint.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "PDG_Red Heart",
+            "user_image_url": "https://www.dropbox.com/s/v3nywvu68n4v7hy/Heart_20_20_squ.jpg?dl=0",
+            "products": {
+                "description": "This bold Modern Red Heart art print will brighten up any child's nursery, bedroom, or playroom wall! Also available in our Rainbow Gallery Wall set. Giclée printed on 200gsm museum quality paper sourced from sustainably managed forests.",
+                "global-cfp": {
+                    "variants": {
+                        "GLOBAL-CFP-20x20-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/v3nywvu68n4v7hy/Heart_20_20_squ.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-fap": {
+                    "variants": {
+                        "GLOBAL-FAP-20x20-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/v3nywvu68n4v7hy/Heart_20_20_squ.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "poster-hanger": {
+                    "variants": {
+                        "POSTER-HANGER-50-20x20-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/v3nywvu68n4v7hy/Heart_20_20_squ.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}

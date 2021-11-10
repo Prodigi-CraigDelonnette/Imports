@@ -1,0 +1,210 @@
+{
+    "product_range_defaults": {
+        "published": true
+    },
+    "product_defaults": {
+        "enabled": false
+    },
+    "products_defaults": {
+        "global-cfp": {
+            "enabled": true
+        },
+        "global-fap": {
+            "enabled": true
+        },
+        "poster-hanger": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false
+    },
+    "variants_defaults": {
+        "GLOBAL-CFP-8x12-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 36.95
+        },
+        "GLOBAL-CFP-12x16-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 55.95
+        },
+        "GLOBAL-CFP-16x20-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 60.95
+        },
+        "GLOBAL-CFP-18x24-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 75.95
+        },
+        "GLOBAL-CFP-20x28-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 85.95
+        },
+        "GLOBAL-FAP-8x12-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 15.95
+        },
+        "GLOBAL-FAP-12x16-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 19.95
+        },
+        "GLOBAL-FAP-16x20-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 24.95
+        },
+        "GLOBAL-FAP-18x24-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 29.95
+        },
+        "GLOBAL-FAP-20x28-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 37.95
+        },
+        "POSTER-HANGER-30-A4-LAND": {
+            "enabled": true,
+            "retail_price": 26.95
+        },
+        "POSTER-HANGER-40-12x16-LAND": {
+            "enabled": true,
+            "retail_price": 35.95
+        },
+        "POSTER-HANGER-50-16x20-LAND": {
+            "enabled": true,
+            "retail_price": 45.95
+        },
+        "POSTER-HANGER-60-18x24-LAND": {
+            "enabled": true,
+            "retail_price": 49.95
+        },
+        "POSTER-HANGER-80-20x28-LAND": {
+            "enabled": true,
+            "retail_price": 59.95
+        }
+    },
+    "product_ranges": [
+        {
+            "title": "PDG_Vintage Dinosaurs",
+            "user_image_url": "https://www.dropbox.com/s/nn12zroi9iqw4qs/Dino%20Poster_8x12.jpg?dl=0",
+            "products": {
+                "description": "Perfect for budding little palaeontologists, our vintage-inspired Dinosaurs art print features ten of the most popular dinosaurs that once roamed the land. Also available as part of our Vintage Dinosaurs Gallery Wall. Giclée printed on 200gsm museum quality paper sourced from sustainably managed forests.",
+                "global-cfp": {
+                    "variants": {
+                        "GLOBAL-CFP-8x12-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/nn12zroi9iqw4qs/Dino%20Poster_8x12.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/nkpfnbtspch4ric/Dino%20Poster_12x16.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-16x20-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/497phvgezf3yr2n/Dino%20Poster_16x20.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-18x24-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/n0dc517w7o9m4tp/Dino%20Poster_18x24.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/kz4dbpzxmnmguic/Dino%20Poster_20x28.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-fap": {
+                    "variants": {
+                        "GLOBAL-FAP-8x12-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/nn12zroi9iqw4qs/Dino%20Poster_8x12.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/nkpfnbtspch4ric/Dino%20Poster_12x16.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-16x20-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/497phvgezf3yr2n/Dino%20Poster_16x20.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-18x24-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/n0dc517w7o9m4tp/Dino%20Poster_18x24.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/kz4dbpzxmnmguic/Dino%20Poster_20x28.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "poster-hanger": {
+                    "variants": {
+                        "POSTER-HANGER-30-A4-LAND": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/nn12zroi9iqw4qs/Dino%20Poster_8x12.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-40-12x16-LAND": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/nkpfnbtspch4ric/Dino%20Poster_12x16.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-50-16x20-LAND": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/497phvgezf3yr2n/Dino%20Poster_16x20.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-60-18x24-LAND": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/n0dc517w7o9m4tp/Dino%20Poster_18x24.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-80-20x28-LAND": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/kz4dbpzxmnmguic/Dino%20Poster_20x28.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}

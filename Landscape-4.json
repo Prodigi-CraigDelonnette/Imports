@@ -1,0 +1,433 @@
+{
+    "product_range_defaults": {
+        "published": true
+    },
+    "product_defaults": {
+        "enabled": false
+    },
+    "products_defaults": {
+        "global-cfp": {
+            "enabled": true
+        },
+        "global-fap": {
+            "enabled": true
+        },
+        "poster-hanger": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false
+    },
+    "variants_defaults": {
+        "GLOBAL-CFP-12x16-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 55.95
+        },
+        "GLOBAL-CFP-16x20-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 60.95
+        },
+        "GLOBAL-CFP-18x24-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 75.95
+        },
+        "GLOBAL-CFP-20x28-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 85.95
+        },
+        "GLOBAL-CFP-28x40-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 124.95
+        },
+        "GLOBAL-FAP-12x16-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 19.95
+        },
+        "GLOBAL-FAP-16x20-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 24.95
+        },
+        "GLOBAL-FAP-18x24-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 29.95
+        },
+        "GLOBAL-FAP-20x28-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 37.95
+        },
+        "GLOBAL-FAP-28x40-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 59.95
+        },
+        "POSTER-HANGER-40-12x16-LAND": {
+            "enabled": true,
+            "retail_price": 35.95
+        },
+        "POSTER-HANGER-50-16x20-LAND": {
+            "enabled": true,
+            "retail_price": 45.95
+        },
+        "POSTER-HANGER-60-18x24-LAND": {
+            "enabled": true,
+            "retail_price": 49.95
+        },
+        "POSTER-HANGER-80-20x28-LAND": {
+            "enabled": true,
+            "retail_price": 59.95
+        }
+    },
+    "product_ranges": [
+        {
+            "title": "PDG_Map of the World | Sol Linero",
+            "user_image_url": "https://www.dropbox.com/s/ied8p7606ab08ed/WORLD_MAP_12_16_landscape_flat.jpg?dl=0",
+            "products": {
+                "description": "Discover all you need to know about some of the most amazing places around the world with this beautiful illustrated map by artist Sol Linero. Also available paired with our Map of the Europe in our Gallery Wall sets. Giclée printed on 200gsm museum quality paper sourced from sustainably managed forests.",
+                "global-cfp": {
+                    "variants": {
+                        "GLOBAL-CFP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ied8p7606ab08ed/WORLD_MAP_12_16_landscape_flat.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-16x20-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/f9wfwthb8jupx2p/WORLD_MAP_16_20_landscape_flat.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-18x24-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/g26cgfg5pqqr5vq/WORLD_MAP_18_24_landscape_flat.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/cn6oarrq9a2k49i/WORLD_MAP_20_28_landscape_flat.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-28x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/46iuis91ukdp8ud/WORLD_MAP_28_40_landscape_flat.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-fap": {
+                    "variants": {
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ied8p7606ab08ed/WORLD_MAP_12_16_landscape_flat.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-16x20-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/f9wfwthb8jupx2p/WORLD_MAP_16_20_landscape_flat.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-18x24-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/g26cgfg5pqqr5vq/WORLD_MAP_18_24_landscape_flat.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/cn6oarrq9a2k49i/WORLD_MAP_20_28_landscape_flat.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-28x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/46iuis91ukdp8ud/WORLD_MAP_28_40_landscape_flat.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "poster-hanger": {
+                    "variants": {
+                        "POSTER-HANGER-40-12x16-LAND": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ied8p7606ab08ed/WORLD_MAP_12_16_landscape_flat.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-50-16x20-LAND": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/f9wfwthb8jupx2p/WORLD_MAP_16_20_landscape_flat.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-60-18x24-LAND": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/g26cgfg5pqqr5vq/WORLD_MAP_18_24_landscape_flat.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-80-20x28-LAND": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/cn6oarrq9a2k49i/WORLD_MAP_20_28_landscape_flat.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "PDG_Map of Europe | Sol Linero",
+            "user_image_url": "XXXXXXXX",
+            "products": {
+                "description": "Discover all you need to know about some of the most amazing places in Europe with this beautiful illustrated map by artist Sol Linero. Also available paired with our Map of the World in our Gallery Wall sets. Giclée printed on 200gsm museum quality paper sourced from sustainably managed forests.",
+                "global-cfp": {
+                    "variants": {
+                        "GLOBAL-CFP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/55736rqie4wx2oy/EUROPE_MAP_12_16_Landscape_flat.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-16x20-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/a77y5hvtfef62zj/EUROPE_MAP_16_20_Landscape_flat.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-18x24-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/m9oayzjckfq67bj/EUROPE_MAP_18_24_Landscape_flat.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/p267brc31yr58cc/EUROPE_MAP_20_28_landscape_flat.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-28x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/unoye52503zczku/EUROPE_MAP_28_40_Landscape_flat.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-fap": {
+                    "variants": {
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/55736rqie4wx2oy/EUROPE_MAP_12_16_Landscape_flat.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-16x20-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/a77y5hvtfef62zj/EUROPE_MAP_16_20_Landscape_flat.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-18x24-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/m9oayzjckfq67bj/EUROPE_MAP_18_24_Landscape_flat.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/p267brc31yr58cc/EUROPE_MAP_20_28_landscape_flat.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-28x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/unoye52503zczku/EUROPE_MAP_28_40_Landscape_flat.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "poster-hanger": {
+                    "variants": {
+                        "POSTER-HANGER-40-12x16-LAND": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/55736rqie4wx2oy/EUROPE_MAP_12_16_Landscape_flat.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-50-16x20-LAND": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/a77y5hvtfef62zj/EUROPE_MAP_16_20_Landscape_flat.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-60-18x24-LAND": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/m9oayzjckfq67bj/EUROPE_MAP_18_24_Landscape_flat.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-80-20x28-LAND": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/p267brc31yr58cc/EUROPE_MAP_20_28_landscape_flat.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "PDG_Map of the USA | Sol Linero",
+            "user_image_url": "https://www.dropbox.com/s/s02h13o4jpu60zn/NEW%20USA%20MAP%20RT%2016x12%20%281%29.jpg?dl=0",
+            "products": {
+                "description": "Discover all you need to know about some of the most amazing places in the USA with this beautiful illustrated map by artist Sol Linero. Also available paired with our Map of the World in our Gallery Wall sets. Giclée printed on 200gsm museum quality paper sourced from sustainably managed forests.",
+                "global-cfp": {
+                    "variants": {
+                        "GLOBAL-CFP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/s02h13o4jpu60zn/NEW%20USA%20MAP%20RT%2016x12%20%281%29.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-16x20-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/3vlrnvadxx0vw6x/NEW%20USA%20MAP%20RT%2016x20%20%281%29.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-18x24-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/zww4pv2xlcvi4yo/USA_MAP_18_24%20Landscape_flat.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/mnezvbi7s17uhyv/USA_MAP_20_28_Landscape_flat-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-28x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/h1ufo04i7c1pzx3/USA_MAP_28_40%20Landscape_flat.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-fap": {
+                    "variants": {
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/s02h13o4jpu60zn/NEW%20USA%20MAP%20RT%2016x12%20%281%29.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-16x20-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/3vlrnvadxx0vw6x/NEW%20USA%20MAP%20RT%2016x20%20%281%29.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-18x24-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/zww4pv2xlcvi4yo/USA_MAP_18_24%20Landscape_flat.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/mnezvbi7s17uhyv/USA_MAP_20_28_Landscape_flat-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-28x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/h1ufo04i7c1pzx3/USA_MAP_28_40%20Landscape_flat.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "poster-hanger": {
+                    "variants": {
+                        "POSTER-HANGER-40-12x16-LAND": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/s02h13o4jpu60zn/NEW%20USA%20MAP%20RT%2016x12%20%281%29.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-50-16x20-LAND": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/3vlrnvadxx0vw6x/NEW%20USA%20MAP%20RT%2016x20%20%281%29.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-60-18x24-LAND": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/zww4pv2xlcvi4yo/USA_MAP_18_24%20Landscape_flat.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-80-20x28-LAND": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/mnezvbi7s17uhyv/USA_MAP_20_28_Landscape_flat-01.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}

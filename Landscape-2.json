@@ -1,0 +1,114 @@
+{
+    "product_range_defaults": {
+        "published": true
+    },
+    "product_defaults": {
+        "enabled": false
+    },
+    "products_defaults": {
+        "global-cfp": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false
+    },
+    "variants_defaults": {
+        "GLOBAL-CFP-12x16-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 55.95
+        }
+    },
+    "product_ranges": [
+        {
+            "title": "PDG_Whale Postage Stamp",
+            "user_image_url": "https://www.dropbox.com/s/a5fybk6x3mxpkff/Stamp_Whale_16_12_Horizontal-01.jpg?dl=0",
+            "products": {
+                "description": "This illustrated Whale Postage Stamp art print will make a unique, beautiful edition to any nursery, bedroom or playroom wall. Giclée printed on 200gsm museum quality paper sourced from sustainably managed forests.",
+                "global-cfp": {
+                    "variants": {
+                        "GLOBAL-CFP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/a5fybk6x3mxpkff/Stamp_Whale_16_12_Horizontal-01.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "PDG_Lion Postage Stamp",
+            "user_image_url": "https://www.dropbox.com/s/p07qt63gx76n4uo/Stamp_Lion_16_12_Horizontal-01.jpg?dl=0",
+            "products": {
+                "description": "This illustrated Lion Postage Stamp art print will make a unique, beautiful edition to any nursery, bedroom or playroom wall. Giclée printed on 200gsm museum quality paper sourced from sustainably managed forests.",
+                "global-cfp": {
+                    "variants": {
+                        "GLOBAL-CFP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/p07qt63gx76n4uo/Stamp_Lion_16_12_Horizontal-01.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "PDG_Elephant Postage Stamp",
+            "user_image_url": "https://www.dropbox.com/s/62y7ymtxg9qkzgm/Stamp_Elephant_16_12_Horizontal-01.jpg?dl=0",
+            "products": {
+                "description": "This illustrated Elephant Postage Stamp art print will make a unique, beautiful edition to any nursery, bedroom or playroom wall. Giclée printed on 200gsm museum quality paper sourced from sustainably managed forests.",
+                "global-cfp": {
+                    "variants": {
+                        "GLOBAL-CFP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/62y7ymtxg9qkzgm/Stamp_Elephant_16_12_Horizontal-01.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "PDG_Wonderful World",
+            "user_image_url": "https://www.dropbox.com/s/nqap80dzhi9smy4/Landscape_12_16_Horizontal-01.jpg?dl=0",
+            "products": {
+                "description": "Lovingly designed in-house and exclusive to Roomytown, this  pastel Wonderful World Print makes the perfect gift to celebrate a new baby, Christening or special birthday. Giclée printed on 200gsm museum quality paper sourced from sustainably managed forests.",
+                "global-cfp": {
+                    "variants": {
+                        "GLOBAL-CFP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/nqap80dzhi9smy4/Landscape_12_16_Horizontal-01.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "PDG_Rainbow",
+            "user_image_url": "https://www.dropbox.com/s/3dqhcqg1bjjrb35/Rainbow_No_Name_16_12_Horizontal-01.jpg?dl=0",
+            "products": {
+                "description": "Bring an artistic, colourful streak to any child's nursery, bedroom, or playroom wall with this vibrant Rainbow art print. Giclée printed on 200gsm museum quality paper sourced from sustainably managed forests.",
+                "global-cfp": {
+                    "variants": {
+                        "GLOBAL-CFP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/3dqhcqg1bjjrb35/Rainbow_No_Name_16_12_Horizontal-01.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,307 @@
+{
+    "product_range_defaults": {
+        "published": true
+    },
+    "product_defaults": {
+        "enabled": false
+    },
+    "products_defaults": {
+        "global-fap": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false
+    },
+    "variants_defaults": {
+        "GLOBAL-FAP-20x28-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 35
+        },
+        "GLOBAL-FAP-24x32-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 50
+        }
+    },
+    "product_ranges": [
+        {
+            "title": "Amstrad CPC464 computer",
+            "user_image_url": "https://www.dropbox.com/s/4q77mqqyuaahhmn/AmstradCPC464-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Atari ST computer",
+            "user_image_url": "https://www.dropbox.com/s/lfl074mo558srlx/AtariST-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "BBC B computer",
+            "user_image_url": "https://www.dropbox.com/s/5ae0n9738t18s68/BBCB-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Bhutan glory butterfly",
+            "user_image_url": "https://www.dropbox.com/s/y0h43nfsoihzq88/BhutanGlory-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Blue morpho butterfly",
+            "user_image_url": "https://www.dropbox.com/s/d38ijrad3doz08m/BlueMorpho-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Citrus swallowtail butterfly",
+            "user_image_url": "https://www.dropbox.com/s/pr9as7nmo6c8mly/CitrusSwallowtail-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Dido longwing butterfly",
+            "user_image_url": "https://www.dropbox.com/s/1ini14vdt8itxx2/DidoLongwing-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Elephant hawk moth",
+            "user_image_url": "https://www.dropbox.com/s/rs7hveac7fgpk3y/ElephantHawkMoth-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Garden tiger moth",
+            "user_image_url": "https://www.dropbox.com/s/7c54gtkc4467n25/GardenTigerMoth-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Geological Timescale",
+            "user_image_url": "https://www.dropbox.com/s/joizpvxggsinepa/GeologicalTimescale-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Giant atlas moth",
+            "user_image_url": "https://www.dropbox.com/s/qq3ptpjh15tsdfb/GiantAtlasMoth-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Io moth",
+            "user_image_url": "https://www.dropbox.com/s/19s38b8tnwwx20o/IoMoth-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "JVC RC550 boombox",
+            "user_image_url": "https://www.dropbox.com/s/5l5gvl9gpuwiize/JVCRC550-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Lasonic TRC-931 boombox",
+            "user_image_url": "https://www.dropbox.com/s/3k80uzywg6dqz7j/Lasonic931-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Moog Minimoog synthesizer",
+            "user_image_url": "https://www.dropbox.com/s/u0b9l8l48bqh4c7/MiniMoog-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Oriental sweetlips",
+            "user_image_url": "https://www.dropbox.com/s/n4ec19h6kn7bu2b/OrientalSweetlips-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Painted lady butterfly",
+            "user_image_url": "https://www.dropbox.com/s/ocfte0bk6tfuql2/PaintedLady-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Peacock butterfly",
+            "user_image_url": "https://www.dropbox.com/s/sqdc1r9vhu3wyxq/PeacockButterfly-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Queen Alexandra birdwing butterfly",
+            "user_image_url": "https://www.dropbox.com/s/fxeg7k3bvxq2w0u/QueenAlexandraBirdwing-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Rajah Brooke birdwing butterfly",
+            "user_image_url": "https://www.dropbox.com/s/08dmtz7dsqnv4pf/RajahBrookeBirdwing-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Roland TR-808 Rhythm Composer",
+            "user_image_url": "https://www.dropbox.com/s/lrk0pbg1y71a7gs/Roland808-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Roland SH-101 synthesizer",
+            "user_image_url": "https://www.dropbox.com/s/byv7dc9pdiizk7u/RolandSH101-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Sapho longwing butterfly",
+            "user_image_url": "https://www.dropbox.com/s/6xsg5q2i8vg920z/SaphoLongwing-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Solar System",
+            "user_image_url": "https://www.dropbox.com/s/s8on3wc7s3pljuq/SolarSystem-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Sony Walkman WM-22",
+            "user_image_url": "https://www.dropbox.com/s/9gaa9jmdyyqggc9/SonyWalkmanWM22-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Sylphina angel butterfly",
+            "user_image_url": "https://www.dropbox.com/s/aaxggv8orml7knu/SylphinaAngel-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Tailed jay butterfly",
+            "user_image_url": "https://www.dropbox.com/s/a9p3tu6s4h8c485/TailedJay-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Viceroy butterfly",
+            "user_image_url": "https://www.dropbox.com/s/aryaw9v5xci1fij/Viceroy-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Wang LOCI-2 calculator",
+            "user_image_url": "https://www.dropbox.com/s/3f2hxmljpdneu41/WangLoci-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Western pygmy blue butterfly",
+            "user_image_url": "https://www.dropbox.com/s/z83rfove1ma582t/WesternPygmyBlue-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "White dragontail butterfly",
+            "user_image_url": "https://www.dropbox.com/s/rbu98f2un71l4pl/WhiteDragontail-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        }
+    ]
+}

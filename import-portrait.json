@@ -1,0 +1,469 @@
+{
+    "product_range_defaults": {
+        "published": true
+    },
+    "product_defaults": {
+        "enabled": false
+    },
+    "products_defaults": {
+        "global-fap": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false
+    },
+    "variants_defaults": {
+        "GLOBAL-FAP-20x28-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 35
+        },
+        "GLOBAL-FAP-24x32-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 50
+        }
+    },
+    "product_ranges": [
+        {
+            "title": "Assassin bug",
+            "user_image_url": "https://www.dropbox.com/s/1shj87ugau0u8tw/AssassinBug-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Blue-footed booby",
+            "user_image_url": "https://www.dropbox.com/s/aawufxdvatbwrmo/BlueFootedBooby-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Blue fungus beetle",
+            "user_image_url": "https://www.dropbox.com/s/ryftquicbsqrhea/BlueFungusBeetle-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Blue spotted tiger beetle",
+            "user_image_url": "https://www.dropbox.com/s/4j36ugt6juqz30p/BlueSpottedTigerBeetle-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Braun ET66 calculator",
+            "user_image_url": "https://www.dropbox.com/s/nmnk2wyux6zb4wz/BraunET66-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Casio G-Shock",
+            "user_image_url": "https://www.dropbox.com/s/foxil678unlzzy3/CasioGShock-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Cardinal beetle",
+            "user_image_url": "https://www.dropbox.com/s/zkgu5gxw5ex954s/CardinalBeetle-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Cotton harlequin bug",
+            "user_image_url": "https://www.dropbox.com/s/ks92ycf31apwv86/CottonHarlequinBug-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Deepest Trenches",
+            "user_image_url": "https://www.dropbox.com/s/crn1tz4g11f0jv5/DeepestTrenches-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "DNA",
+            "user_image_url": "https://www.dropbox.com/s/ad3fti474zjct9c/DNA-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Domino cockroach",
+            "user_image_url": "https://www.dropbox.com/s/v92wypj6st20rff/DominoCockroach-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "European stag beetle",
+            "user_image_url": "https://www.dropbox.com/s/7so1iqwm2gt3o4e/EuropeanStagBeetle-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Flamingo",
+            "user_image_url": "https://www.dropbox.com/s/qa04p6joa67cfad/Flamingo-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Giant mesquite bug",
+            "user_image_url": "https://www.dropbox.com/s/gddwnw25oc900kd/GiantMesquiteBug-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Giraffe weevil",
+            "user_image_url": "https://www.dropbox.com/s/fw3jttr6s33qrq4/GiraffeWeevil-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Goliath beetle",
+            "user_image_url": "https://www.dropbox.com/s/y1eofma3r8j1fm4/GoliathBeetle-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Green carab beetle",
+            "user_image_url": "https://www.dropbox.com/s/2n5ct0qs39trcbs/GreenCarabBeetle-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Green shield bug",
+            "user_image_url": "https://www.dropbox.com/s/n1uoa1enulq5l03/GreenShieldBug-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Green tiger beetle",
+            "user_image_url": "https://www.dropbox.com/s/qgwg68a1cx70psp/GreenTigerBeetle-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Highest Mountains",
+            "user_image_url": "https://www.dropbox.com/s/1xkjqwop1z1yye3/HighestMountains-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "HP 9100A calculator",
+            "user_image_url": "https://www.dropbox.com/s/7oz2tyqjxcoxm53/HP9100A-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Human botfly poster",
+            "user_image_url": "https://www.dropbox.com/s/s1opc4t4kkwfce8/HumanBotfly-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Illinois river cruiser",
+            "user_image_url": "https://www.dropbox.com/s/r3my1rkp1ajc3hv/IllinoisRiverCruiser-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Seven spot ladybird",
+            "user_image_url": "https://www.dropbox.com/s/soht3af0r1380u4/Ladybird-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Little Professor calculator",
+            "user_image_url": "https://www.dropbox.com/s/vxytyoufyvf0wov/LittleProfessor-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Longhorn beetle",
+            "user_image_url": "https://www.dropbox.com/s/bym15gly0trtl2v/LonghornBeetle-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Mars",
+            "user_image_url": "https://www.dropbox.com/s/3d63w97rlxmcyx1/Mars-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Melon fly",
+            "user_image_url": "https://www.dropbox.com/s/x3puy7s0dt4q4vi/MelonFly-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Morse Code",
+            "user_image_url": "https://www.dropbox.com/s/odj1y0aohh1axgb/MorseCode-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Motorola MicroTAC",
+            "user_image_url": "https://www.dropbox.com/s/e6xhcnrqi3s7hpy/MotorolaMicrotac-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Neptune",
+            "user_image_url": "https://www.dropbox.com/s/95nfpyfogpcfemo/Neptune-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Orange ladybird",
+            "user_image_url": "https://www.dropbox.com/s/zlccl0etq1ysk0b/OrangeLadybird-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Phosphorus beetle",
+            "user_image_url": "https://www.dropbox.com/s/m8xm8vgd88mg375/PhosphorusBeetle-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Picasso beetle",
+            "user_image_url": "https://www.dropbox.com/s/sqdc1r9vhu3wyxq/PeacockButterfly-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Pied hover fly",
+            "user_image_url": "https://www.dropbox.com/s/vc5fliye0yt877u/PiedHoverfly-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Shinsei Blaster Game",
+            "user_image_url": "https://www.dropbox.com/s/xcz3zddqj50dckl/ShinseiBlasterGame-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Sinclair Cambridge calculator",
+            "user_image_url": "https://www.dropbox.com/s/54y3b2q2mwdu7rt/SinclairCambridge-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Space Shuttle",
+            "user_image_url": "https://www.dropbox.com/s/xwpoasbetq0rcs0/SpaceShuttle-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "St Marks fly",
+            "user_image_url": "https://www.dropbox.com/s/97qcqbcoixq9lng/StMarksFly-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Tarantula hawk",
+            "user_image_url": "https://www.dropbox.com/s/w2k8b0ytl66bmup/TarantulaHawk-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Texas ironclad beetle",
+            "user_image_url": "https://www.dropbox.com/s/bt0k6xwhvqqxjk6/TexasIroncladBeetle-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "The Air",
+            "user_image_url": "https://www.dropbox.com/s/7mj6b2l99mxm9vs/TheAir-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "The Sun",
+            "user_image_url": "https://www.dropbox.com/s/bn3v2foau1scw56/TheSun-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Tomy TerraHit",
+            "user_image_url": "https://www.dropbox.com/s/pzsj1flfsrtikbw/TomyTerraHit-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Tomy Tomytronic 3D",
+            "user_image_url": "https://www.dropbox.com/s/d9t8ans62njzpqw/TomyTronic3D-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Uranus",
+            "user_image_url": "https://www.dropbox.com/s/6vh5ys6rwvqnq6k/Uranus-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Venus",
+            "user_image_url": "https://www.dropbox.com/s/g5lhhzwp6t9hssh/Venus-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Violin beetle",
+            "user_image_url": "https://www.dropbox.com/s/p6f2pitkv7c7jng/ViolinBeetle-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Voyager spacecraft",
+            "user_image_url": "https://www.dropbox.com/s/h1hpnqxn1vxe4xd/Voyager-01.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        }
+    ]
+}

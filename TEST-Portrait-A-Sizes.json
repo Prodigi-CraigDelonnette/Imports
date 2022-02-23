@@ -33,10 +33,6 @@
             "enabled": true,
             "retail_price": 40.95
         },
-        "GLOBAL-CFP-A5-PORTRAIT": {
-            "enabled": true,
-            "retail_price": 30.95
-        },
         "GLOBAL-FAP-A1-PORTRAIT": {
             "enabled": true,
             "retail_price": 54.95
@@ -64,13 +60,6 @@
             "description": "",
             "global-cfp": {
                 "variants": {
-                    "GLOBAL-CFP-A5-PORTRAIT": {
-                        "images": {
-                            "front": {
-                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AADBJhHAE2iFzuUq25bO0CXga/A5s/SatanCat.jpg?dl=0"
-                            }
-                        }
-                    },
                     "GLOBAL-CFP-A4-PORTRAIT": {
                         "images": {
                             "front": {
@@ -146,13 +135,6 @@
             "description": "",
             "global-cfp": {
                 "variants": {
-                    "GLOBAL-CFP-A5-PORTRAIT": {
-                        "images": {
-                            "front": {
-                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAANnbbyBZjk28MQehOXOcsYa/A5s/WheelOfFortune.jpg?dl=0"
-                            }
-                        }
-                    },
                     "GLOBAL-CFP-A4-PORTRAIT": {
                         "images": {
                             "front": {
@@ -228,13 +210,6 @@
             "description": "",
             "global-cfp": {
                 "variants": {
-                    "GLOBAL-CFP-A5-PORTRAIT": {
-                        "images": {
-                            "front": {
-                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AADHWzKaLGWrRb7XyZeV-j4ka/A5s/World.jpg?dl=0"
-                            }
-                        }
-                    },
                     "GLOBAL-CFP-A4-PORTRAIT": {
                         "images": {
                             "front": {

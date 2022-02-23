@@ -1,0 +1,285 @@
+{
+    "product_range_defaults": {
+        "published": true
+    },
+    "product_defaults": {
+        "enabled": false
+    },
+    "products_defaults": {
+        "global-cfp": {
+            "enabled": true
+        },
+        "global-fap": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false
+    },
+    "variants_defaults": {
+        "GLOBAL-CFP-8x16-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 50.95
+        },
+        "GLOBAL-CFP-12x24-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 78.95
+        },
+        "GLOBAL-FAP-8x16-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 24.95
+        },
+        "GLOBAL-FAP-12x24-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 39.95
+        }
+    },
+    "product_ranges": [
+        {
+            "title": "Goddess",
+            "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAASGIDK-_S3cXNlYlInvw2Fa/Goddess8x16.jpg?dl=0",
+            "description": "",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-8x16-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAASGIDK-_S3cXNlYlInvw2Fa/Goddess8x16.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-12x24-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAA5hDpcvqK7JKbY8VcBnlTsa/Goddess12x24.jpg?dl=0"
+                            }
+                        }
+                    }
+                }
+            },
+            "global-fap": {
+                "variants": {
+                    "GLOBAL-FAP-8x16-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAASGIDK-_S3cXNlYlInvw2Fa/Goddess8x16.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-12x24-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAA5hDpcvqK7JKbY8VcBnlTsa/Goddess12x24.jpg?dl=0"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "The Coven",
+            "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AACYpsmnn57b8fMUkZZKAM8ca/TheCoven8x16.jpg?dl=0",
+            "description": "",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-8x16-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AACYpsmnn57b8fMUkZZKAM8ca/TheCoven8x16.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-12x24-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AACF1sHwjh7dfwqEPIZcQB2Oa/TheCoven12x24.jpg?dl=0"
+                            }
+                        }
+                    }
+                }
+            },
+            "global-fap": {
+                "variants": {
+                    "GLOBAL-FAP-8x16-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AACYpsmnn57b8fMUkZZKAM8ca/TheCoven8x16.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-12x24-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AACF1sHwjh7dfwqEPIZcQB2Oa/TheCoven12x24.jpg?dl=0"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Feeling Good as Hell",
+            "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AADMItWTbMnkV0ENdbk8-Wupa/FeelingGoodAsHell%208x16.jpg?dl=0",
+            "description": "",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-8x16-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AADMItWTbMnkV0ENdbk8-Wupa/FeelingGoodAsHell%208x16.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-12x24-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAAKcenxYqWqM1SDCBLwMbvTa/FeelingGoodAsHell%2012x24.jpg?dl=0"
+                            }
+                        }
+                    }
+                }
+            },
+            "global-fap": {
+                "variants": {
+                    "GLOBAL-FAP-8x16-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AADMItWTbMnkV0ENdbk8-Wupa/FeelingGoodAsHell%208x16.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-12x24-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAAKcenxYqWqM1SDCBLwMbvTa/FeelingGoodAsHell%2012x24.jpg?dl=0"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Goddess Gold",
+            "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AADG129DZ3_gO-3Lc2ppGWq6a/GoddessGold8x16.jpg?dl=0",
+            "description": "",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-8x16-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AADG129DZ3_gO-3Lc2ppGWq6a/GoddessGold8x16.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-12x24-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AACitRePbOMU0QxKvM4uNk6Fa/GoddessGold12x24.jpg?dl=0"
+                            }
+                        }
+                    }
+                }
+            },
+            "global-fap": {
+                "variants": {
+                    "GLOBAL-FAP-8x16-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AADG129DZ3_gO-3Lc2ppGWq6a/GoddessGold8x16.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-12x24-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AACitRePbOMU0QxKvM4uNk6Fa/GoddessGold12x24.jpg?dl=0"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Moon Child Dark",
+            "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAB0f6s6u5GVZBBKN24XxFVYa/MoonChildDark8x16.jpg?dl=0",
+            "description": "",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-8x16-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAB0f6s6u5GVZBBKN24XxFVYa/MoonChildDark8x16.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-12x24-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAAPRna1XJyIMSyAWGnrdmQDa/MoonChildDark12x24.jpg?dl=0"
+                            }
+                        }
+                    }
+                }
+            },
+            "global-fap": {
+                "variants": {
+                    "GLOBAL-FAP-8x16-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAB0f6s6u5GVZBBKN24XxFVYa/MoonChildDark8x16.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-12x24-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAAPRna1XJyIMSyAWGnrdmQDa/MoonChildDark12x24.jpg?dl=0"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Moon Child",
+            "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AABcoX7uhlIKSBGTaQjP-qoqa/MoonChild8x16.jpg?dl=0",
+            "description": "",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-8x16-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AABcoX7uhlIKSBGTaQjP-qoqa/MoonChild8x16.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-12x24-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AADrs6FMUN3XszTUn55_tSWua/MoonChild12x24.jpg?dl=0"
+                            }
+                        }
+                    }
+                }
+            },
+            "global-fap": {
+                "variants": {
+                    "GLOBAL-FAP-8x16-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AABcoX7uhlIKSBGTaQjP-qoqa/MoonChild8x16.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-12x24-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AADrs6FMUN3XszTUn55_tSWua/MoonChild12x24.jpg?dl=0"
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}

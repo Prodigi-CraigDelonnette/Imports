@@ -65,14 +65,7 @@
             "description": "",
             "global-cfp": {
                 "variants": {
-                    "GLOBAL-CFP-A5-PORTRAIT": {
-                        "images": {
-                            "front": {
-                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AADBJhHAE2iFzuUq25bO0CXga/A5s/SatanCat.jpg?dl=0"
-                            }
-                        }
-                    },
-                    "GLOBAL-CFP-A4-PORTRAIT": {
+                    "GLOBAL-CFP-A4-LANDSCAPE": {
                         "images": {
                             "front": {
                                 "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AADOPlZMdk0xALDivaBsE2u8a/SatanCat.jpg?dl=0"
@@ -148,14 +141,7 @@
             "description": "",
             "global-cfp": {
                 "variants": {
-                    "GLOBAL-CFP-A5-PORTRAIT": {
-                        "images": {
-                            "front": {
-                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAANnbbyBZjk28MQehOXOcsYa/A5s/WheelOfFortune.jpg?dl=0"
-                            }
-                        }
-                    },
-                    "GLOBAL-CFP-A4-PORTRAIT": {
+                    "GLOBAL-CFP-A4-LANDSCAPE": {
                         "images": {
                             "front": {
                                 "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AACV2G7lPOJZE44evtdF8UFNa/WheelOfFortuneTarot.jpg?dl=0"
@@ -225,20 +211,13 @@
                 }
             }
         },
-        {
+       {
             "title": "The Caracal",
             "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAABbsGepFcf02j7yb38LOPJa/A5s/Caracal.jpg?dl=0",
             "description": "",
             "global-cfp": {
                 "variants": {
-                    "GLOBAL-CFP-A5-PORTRAIT": {
-                        "images": {
-                            "front": {
-                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAABbsGepFcf02j7yb38LOPJa/A5s/Caracal.jpg?dl=0"
-                            }
-                        }
-                    },
-                    "GLOBAL-CFP-A4-PORTRAIT": {
+                    "GLOBAL-CFP-A4-LANDSCAPE": {
                         "images": {
                             "front": {
                                 "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AADVBZjpUiLFgbAPJRHrhS0da/Caracal.jpg?dl=0"

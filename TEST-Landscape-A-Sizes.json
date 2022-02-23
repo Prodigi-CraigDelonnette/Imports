@@ -33,10 +33,6 @@
             "enabled": true,
             "retail_price": 40.95
         },
-        "GLOBAL-CFP-A5-LANDSCAPE": {
-            "enabled": true,
-            "retail_price": 30.95
-        },
         "GLOBAL-FAP-A1-LANDSCAPE": {
             "enabled": true,
             "retail_price": 54.95
@@ -65,13 +61,6 @@
             "description": "",
             "global-cfp": {
                 "variants": {
-                    "GLOBAL-CFP-A5-LANDSCAPE": {
-                        "images": {
-                            "front": {
-                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AADtOkDSBsNE6WxQq71fxdroa/A5s/Spiritboard.jpg?dl=0"
-                            }
-                        }
-                    },
                     "GLOBAL-CFP-A4-LANDSCAPE": {
                         "images": {
                             "front": {
@@ -136,89 +125,6 @@
                         "images": {
                             "front": {
                                 "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AADoqDuPAjL37dPds8Hg82ita/Spiritboard.jpg?dl=0"
-                            }
-                        }
-                    }
-                }
-            }
-        },
-        {
-            "title": "Greetings From Salem",
-            "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAAc8UwalJ7MrydW4WC0PGwna/A5s/GreetingsFromSalem3.jpg?dl=0",
-            "description": "",
-            "global-cfp": {
-                "variants": {
-                    "GLOBAL-CFP-A5-LANDSCAPE": {
-                        "images": {
-                            "front": {
-                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAAc8UwalJ7MrydW4WC0PGwna/A5s/GreetingsFromSalem3.jpg?dl=0"
-                            }
-                        }
-                    },
-                    "GLOBAL-CFP-A4-LANDSCAPE": {
-                        "images": {
-                            "front": {
-                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAASQTYYQNtkcenN2OOpQMOza/GreetingsFromSalem3.jpg?dl=0"
-                            }
-                        }
-                    },
-                    "GLOBAL-CFP-A3-LANDSCAPE": {
-                        "images": {
-                            "front": {
-                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAASQTYYQNtkcenN2OOpQMOza/GreetingsFromSalem3.jpg?dl=0"
-                            }
-                        }
-                    },
-                    "GLOBAL-CFP-A2-LANDSCAPE": {
-                        "images": {
-                            "front": {
-                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAASQTYYQNtkcenN2OOpQMOza/GreetingsFromSalem3.jpg?dl=0"
-                            }
-                        }
-                    },
-                    "GLOBAL-CFP-A1-LANDSCAPE": {
-                        "images": {
-                            "front": {
-                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAASQTYYQNtkcenN2OOpQMOza/GreetingsFromSalem3.jpg?dl=0"
-                            }
-                        }
-                    }
-                }
-            },
-            "global-fap": {
-                "variants": {
-                    "GLOBAL-FAP-A5-LANDSCAPE": {
-                        "images": {
-                            "front": {
-                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAAc8UwalJ7MrydW4WC0PGwna/A5s/GreetingsFromSalem3.jpg?dl=0"
-                            }
-                        }
-                    },
-                    "GLOBAL-FAP-A4-LANDSCAPE": {
-                        "images": {
-                            "front": {
-                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAASQTYYQNtkcenN2OOpQMOza/GreetingsFromSalem3.jpg?dl=0"
-                            }
-                        }
-                    },
-                    "GLOBAL-FAP-A3-LANDSCAPE": {
-                        "images": {
-                            "front": {
-                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAASQTYYQNtkcenN2OOpQMOza/GreetingsFromSalem3.jpg?dl=0"
-                            }
-                        }
-                    },
-                    "GLOBAL-FAP-A2-LANDSCAPE": {
-                        "images": {
-                            "front": {
-                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAASQTYYQNtkcenN2OOpQMOza/GreetingsFromSalem3.jpg?dl=0"
-                            }
-                        }
-                    },
-                    "GLOBAL-FAP-A1-LANDSCAPE": {
-                        "images": {
-                            "front": {
-                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAASQTYYQNtkcenN2OOpQMOza/GreetingsFromSalem3.jpg?dl=0"
                             }
                         }
                     }
@@ -231,13 +137,6 @@
             "description": "",
             "global-cfp": {
                 "variants": {
-                    "GLOBAL-CFP-A5-LANDSCAPE": {
-                        "images": {
-                            "front": {
-                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAAP76jhVUDt3cWBgg4B22Bsa/A5s/Heartbreaker.jpg?dl=0"
-                            }
-                        }
-                    },
                     "GLOBAL-CFP-A4-LANDSCAPE": {
                         "images": {
                             "front": {

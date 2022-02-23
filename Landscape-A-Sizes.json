@@ -33,10 +33,6 @@
             "enabled": true,
             "retail_price": 40.95
         },
-        "GLOBAL-CFP-A5-LANDSCAPE": {
-            "enabled": true,
-            "retail_price": 30.95
-        },
         "GLOBAL-FAP-A1-LANDSCAPE": {
             "enabled": true,
             "retail_price": 54.95
@@ -65,13 +61,6 @@
             "description": "",
             "global-cfp": {
                 "variants": {
-                    "GLOBAL-CFP-A5-LANDSCAPE": {
-                        "images": {
-                            "front": {
-                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AADtOkDSBsNE6WxQq71fxdroa/A5s/Spiritboard.jpg?dl=0"
-                            }
-                        }
-                    },
                     "GLOBAL-CFP-A4-LANDSCAPE": {
                         "images": {
                             "front": {
@@ -148,13 +137,6 @@
             "description": "",
             "global-cfp": {
                 "variants": {
-                    "GLOBAL-CFP-A5-LANDSCAPE": {
-                        "images": {
-                            "front": {
-                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAAc8UwalJ7MrydW4WC0PGwna/A5s/GreetingsFromSalem3.jpg?dl=0"
-                            }
-                        }
-                    },
                     "GLOBAL-CFP-A4-LANDSCAPE": {
                         "images": {
                             "front": {
@@ -231,13 +213,6 @@
             "description": "",
             "global-cfp": {
                 "variants": {
-                    "GLOBAL-CFP-A5-LANDSCAPE": {
-                        "images": {
-                            "front": {
-                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AABJc-lQMCh6Fl_vUlOMFJbfa/A5s/GoodMourning.jpg?dl=0"
-                            }
-                        }
-                    },
                     "GLOBAL-CFP-A4-LANDSCAPE": {
                         "images": {
                             "front": {
@@ -314,13 +289,6 @@
             "description": "",
             "global-cfp": {
                 "variants": {
-                    "GLOBAL-CFP-A5-LANDSCAPE": {
-                        "images": {
-                            "front": {
-                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AABAPVkP9R_r6o8pvWYg66Bqa/A5s/normalisanillussion%20copy.jpg?dl=0"
-                            }
-                        }
-                    },
                     "GLOBAL-CFP-A4-LANDSCAPE": {
                         "images": {
                             "front": {
@@ -397,13 +365,6 @@
             "description": "",
             "global-cfp": {
                 "variants": {
-                    "GLOBAL-CFP-A5-LANDSCAPE": {
-                        "images": {
-                            "front": {
-                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AACjqB4xeZbV92W9spcIv-88a/A5s/NoRestForTheWicked.jpg?dl=0"
-                            }
-                        }
-                    },
                     "GLOBAL-CFP-A4-LANDSCAPE": {
                         "images": {
                             "front": {
@@ -480,13 +441,6 @@
             "description": "",
             "global-cfp": {
                 "variants": {
-                    "GLOBAL-CFP-A5-LANDSCAPE": {
-                        "images": {
-                            "front": {
-                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AADFWJB4E4x2KUcWbKQzm-msa/A5s/GoLoveYourselfAUTUMN.jpg?dl=0"
-                            }
-                        }
-                    },
                     "GLOBAL-CFP-A4-LANDSCAPE": {
                         "images": {
                             "front": {
@@ -563,13 +517,6 @@
             "description": "",
             "global-cfp": {
                 "variants": {
-                    "GLOBAL-CFP-A5-LANDSCAPE": {
-                        "images": {
-                            "front": {
-                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAAh2HS9SRUusmr0v2D4gJfQa/A5s/LifeIsWeirdAUTUMN.jpg?dl=0"
-                            }
-                        }
-                    },
                     "GLOBAL-CFP-A4-LANDSCAPE": {
                         "images": {
                             "front": {
@@ -646,13 +593,6 @@
             "description": "",
             "global-cfp": {
                 "variants": {
-                    "GLOBAL-CFP-A5-LANDSCAPE": {
-                        "images": {
-                            "front": {
-                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AADwFRDU7nMT2U304OKZ4q8Ga/A5s/MiseryLovesCompany.jpg?dl=0"
-                            }
-                        }
-                    },
                     "GLOBAL-CFP-A4-LANDSCAPE": {
                         "images": {
                             "front": {
@@ -729,13 +669,6 @@
             "description": "",
             "global-cfp": {
                 "variants": {
-                    "GLOBAL-CFP-A5-LANDSCAPE": {
-                        "images": {
-                            "front": {
-                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AACs_ESNmiCzjeyExgLlDhXqa/A5s/GoLoveYourself.jpg?dl=0"
-                            }
-                        }
-                    },
                     "GLOBAL-CFP-A4-LANDSCAPE": {
                         "images": {
                             "front": {
@@ -812,13 +745,6 @@
             "description": "",
             "global-cfp": {
                 "variants": {
-                    "GLOBAL-CFP-A5-LANDSCAPE": {
-                        "images": {
-                            "front": {
-                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAC8g9-usi0PWcL1E8aXMTeLa/A5s/RomanticNostalgia.jpg?dl=0"
-                            }
-                        }
-                    },
                     "GLOBAL-CFP-A4-LANDSCAPE": {
                         "images": {
                             "front": {
@@ -895,13 +821,6 @@
             "description": "",
             "global-cfp": {
                 "variants": {
-                    "GLOBAL-CFP-A5-LANDSCAPE": {
-                        "images": {
-                            "front": {
-                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AABQWPRkyzpviZmQLDVVMxOXa/A5s/neversleep.jpg?dl=0"
-                            }
-                        }
-                    },
                     "GLOBAL-CFP-A4-LANDSCAPE": {
                         "images": {
                             "front": {
@@ -978,13 +897,6 @@
             "description": "",
             "global-cfp": {
                 "variants": {
-                    "GLOBAL-CFP-A5-LANDSCAPE": {
-                        "images": {
-                            "front": {
-                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AADrGIQEtL_AqeOaOIzOF_Lpa/A5s/LifeIsWeird.jpg?dl=0"
-                            }
-                        }
-                    },
                     "GLOBAL-CFP-A4-LANDSCAPE": {
                         "images": {
                             "front": {
@@ -1061,13 +973,6 @@
             "description": "",
             "global-cfp": {
                 "variants": {
-                    "GLOBAL-CFP-A5-LANDSCAPE": {
-                        "images": {
-                            "front": {
-                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAAfyIKRLyXdbChSgYdgYnWea/A5s/SuperstitiousCreatures.jpg?dl=0"
-                            }
-                        }
-                    },
                     "GLOBAL-CFP-A4-LANDSCAPE": {
                         "images": {
                             "front": {
@@ -1144,13 +1049,6 @@
             "description": "",
             "global-cfp": {
                 "variants": {
-                    "GLOBAL-CFP-A5-LANDSCAPE": {
-                        "images": {
-                            "front": {
-                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AACMT-L__sIQeyzmleM91Plsa/A5s/Create%26Destroy.jpg?dl=0"
-                            }
-                        }
-                    },
                     "GLOBAL-CFP-A4-LANDSCAPE": {
                         "images": {
                             "front": {
@@ -1227,13 +1125,6 @@
             "description": "",
             "global-cfp": {
                 "variants": {
-                    "GLOBAL-CFP-A5-LANDSCAPE": {
-                        "images": {
-                            "front": {
-                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAAN8CQIpfikpPpw1w_MwYUGa/A5s/SorrySignGOLD.jpg?dl=0"
-                            }
-                        }
-                    },
                     "GLOBAL-CFP-A4-LANDSCAPE": {
                         "images": {
                             "front": {
@@ -1310,13 +1201,6 @@
             "description": "",
             "global-cfp": {
                 "variants": {
-                    "GLOBAL-CFP-A5-LANDSCAPE": {
-                        "images": {
-                            "front": {
-                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AACpN0paTwIQ-kLGcdaunTAda/A5s/LovesickWarm.jpg?dl=0"
-                            }
-                        }
-                    },
                     "GLOBAL-CFP-A4-LANDSCAPE": {
                         "images": {
                             "front": {
@@ -1393,13 +1277,6 @@
             "description": "",
             "global-cfp": {
                 "variants": {
-                    "GLOBAL-CFP-A5-LANDSCAPE": {
-                        "images": {
-                            "front": {
-                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAAaBNGdBasGbPREPm7kippYa/A5s/SickOfBeingHeartbroken.jpg?dl=0"
-                            }
-                        }
-                    },
                     "GLOBAL-CFP-A4-LANDSCAPE": {
                         "images": {
                             "front": {
@@ -1476,13 +1353,6 @@
             "description": "",
             "global-cfp": {
                 "variants": {
-                    "GLOBAL-CFP-A5-LANDSCAPE": {
-                        "images": {
-                            "front": {
-                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AADO_Hy5xMyEUiZzyvUoP0kga/A5s/NothingMatters.jpg?dl=0"
-                            }
-                        }
-                    },
                     "GLOBAL-CFP-A4-LANDSCAPE": {
                         "images": {
                             "front": {
@@ -1559,13 +1429,6 @@
             "description": "",
             "global-cfp": {
                 "variants": {
-                    "GLOBAL-CFP-A5-LANDSCAPE": {
-                        "images": {
-                            "front": {
-                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AACk0MeIO6kJStTsAMIPiJfCa/A5s/SorrySign.jpg?dl=0"
-                            }
-                        }
-                    },
                     "GLOBAL-CFP-A4-LANDSCAPE": {
                         "images": {
                             "front": {
@@ -1642,13 +1505,6 @@
             "description": "",
             "global-cfp": {
                 "variants": {
-                    "GLOBAL-CFP-A5-LANDSCAPE": {
-                        "images": {
-                            "front": {
-                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AACKC_1nHc4paW0bmb5I24GZa/A5s/FortuneTeller.jpg?dl=0"
-                            }
-                        }
-                    },
                     "GLOBAL-CFP-A4-LANDSCAPE": {
                         "images": {
                             "front": {
@@ -1725,13 +1581,6 @@
             "description": "",
             "global-cfp": {
                 "variants": {
-                    "GLOBAL-CFP-A5-LANDSCAPE": {
-                        "images": {
-                            "front": {
-                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAAEkld7NOfFfpuKiFr9titga/A5s/Lovesick.jpg?dl=0"
-                            }
-                        }
-                    },
                     "GLOBAL-CFP-A4-LANDSCAPE": {
                         "images": {
                             "front": {
@@ -1808,13 +1657,6 @@
             "description": "",
             "global-cfp": {
                 "variants": {
-                    "GLOBAL-CFP-A5-LANDSCAPE": {
-                        "images": {
-                            "front": {
-                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAAP76jhVUDt3cWBgg4B22Bsa/A5s/Heartbreaker.jpg?dl=0"
-                            }
-                        }
-                    },
                     "GLOBAL-CFP-A4-LANDSCAPE": {
                         "images": {
                             "front": {

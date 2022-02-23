@@ -33,10 +33,6 @@
             "enabled": true,
             "retail_price": 40.95
         },
-        "GLOBAL-CFP-A5-LANDSCAPE": {
-            "enabled": true,
-            "retail_price": 30.95
-        },
         "GLOBAL-FAP-A1-LANDSCAPE": {
             "enabled": true,
             "retail_price": 54.95
@@ -64,13 +60,6 @@
             "description": "",
             "global-cfp": {
                 "variants": {
-                    "GLOBAL-CFP-A5-LANDSCAPE": {
-                        "images": {
-                            "front": {
-                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AADtOkDSBsNE6WxQq71fxdroa/A5s/Spiritboard.jpg?dl=0"
-                            }
-                        }
-                    },
                     "GLOBAL-CFP-A4-LANDSCAPE": {
                         "images": {
                             "front": {
@@ -146,13 +135,6 @@
             "description": "",
             "global-cfp": {
                 "variants": {
-                    "GLOBAL-CFP-A5-LANDSCAPE": {
-                        "images": {
-                            "front": {
-                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAAc8UwalJ7MrydW4WC0PGwna/A5s/GreetingsFromSalem3.jpg?dl=0"
-                            }
-                        }
-                    },
                     "GLOBAL-CFP-A4-LANDSCAPE": {
                         "images": {
                             "front": {
@@ -228,13 +210,6 @@
             "description": "",
             "global-cfp": {
                 "variants": {
-                    "GLOBAL-CFP-A5-LANDSCAPE": {
-                        "images": {
-                            "front": {
-                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AABJc-lQMCh6Fl_vUlOMFJbfa/A5s/GoodMourning.jpg?dl=0"
-                            }
-                        }
-                    },
                     "GLOBAL-CFP-A4-LANDSCAPE": {
                         "images": {
                             "front": {

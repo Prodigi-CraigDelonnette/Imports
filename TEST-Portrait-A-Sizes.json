@@ -33,10 +33,6 @@
             "enabled": true,
             "retail_price": 40.95
         },
-        "GLOBAL-CFP-A5-PORTRAIT": {
-            "enabled": true,
-            "retail_price": 30.95
-        },
         "GLOBAL-FAP-A1-PORTRAIT": {
             "enabled": true,
             "retail_price": 54.95

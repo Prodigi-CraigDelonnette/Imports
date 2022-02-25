@@ -46,6 +46,7 @@
     "product_ranges": [
         {
             "title": "Floral Pentacle",
+            "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAAFfyaFVe1msCaAzvX4qscma/Pentacle.jpg?dl=0",
             "global-cfp": {
                 "variants": {
                     "GLOBAL-CFP-12x12-SQUARE": {
@@ -99,6 +100,7 @@
         },
         {
             "title": "Entombed",
+            "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AADW4Q2xNNLKjYT5vU3zwEKja/Entombed.jpg?dl=0",
             "global-cfp": {
                 "variants": {
                     "GLOBAL-CFP-12x12-SQUARE": {
@@ -152,6 +154,7 @@
         },
         {
             "title": "Nymane x TGW - Daydream",
+            "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAAEyTPOBTA3jpERVEFPWkawa/NYMDaydream20.jpg?dl=0",
             "global-cfp": {
                 "variants": {
                     "GLOBAL-CFP-12x12-SQUARE": {
@@ -205,6 +208,7 @@
         },
         {
             "title": "Nymane x TGW - Whirlwind",
+            "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AABz34cn4nvihoXyv55h3bAva/NYMWhirlwind20.jpg?dl=0",
             "global-cfp": {
                 "variants": {
                     "GLOBAL-CFP-12x12-SQUARE": {
@@ -258,6 +262,7 @@
         },
         {
             "title": "Nymane x TGW - Cherish",
+            "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAC4km_IshdtOQYHMhcHXbnXa/NYMCherish20.jpg?dl=0",
             "global-cfp": {
                 "variants": {
                     "GLOBAL-CFP-12x12-SQUARE": {
@@ -311,6 +316,7 @@
         },
         {
             "title": "Nymane x TGW - Bottled Up",
+            "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AABmoqyEAr1fczzvYJJH6sVva/NYMBottledup20.jpg?dl=0",
             "global-cfp": {
                 "variants": {
                     "GLOBAL-CFP-12x12-SQUARE": {
@@ -364,6 +370,7 @@
         },
         {
             "title": "Nymane x TGW - Delicious",
+            "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AABODeOjKFGkWH7xf09YtP5ma/NYMDelicious20.jpg?dl=0",
             "global-cfp": {
                 "variants": {
                     "GLOBAL-CFP-12x12-SQUARE": {
@@ -417,6 +424,7 @@
         },
         {
             "title": "Nymane x TGW - Feelings",
+            "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AABuRf9GS-5TVIm8gDsGqEhaa/NYMFeelings20.jpg?dl=0",
             "global-cfp": {
                 "variants": {
                     "GLOBAL-CFP-12x12-SQUARE": {
@@ -470,6 +478,7 @@
         },
         {
             "title": "Nymane x TGW - Friend",
+            "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAAolOPsVJLjW5IYNLLvdVCXa/NYMFriend20.jpg?dl=0",
             "global-cfp": {
                 "variants": {
                     "GLOBAL-CFP-12x12-SQUARE": {
@@ -523,6 +532,7 @@
         },
         {
             "title": "Nymane x TGW - Night",
+            "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AACCiwlFbjdtcE08Q7aX8nima/NYMNight20.jpg?dl=0",
             "global-cfp": {
                 "variants": {
                     "GLOBAL-CFP-12x12-SQUARE": {
@@ -576,6 +586,7 @@
         },
         {
             "title": "Nymane x TGW - Sweet",
+            "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AADKSKiCdpQ-h6_l-UFsJydha/NYMSweet20.jpg?dl=0",
             "global-cfp": {
                 "variants": {
                     "GLOBAL-CFP-12x12-SQUARE": {
@@ -629,6 +640,7 @@
         },
         {
             "title": "Pure Love",
+            "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAAQHDtD0g1zWcUmIqUTyIXza/PureLove8WF.jpg?dl=0",
             "global-cfp": {
                 "variants": {
                     "GLOBAL-CFP-12x12-SQUARE": {
@@ -682,6 +694,7 @@
         },
         {
             "title": "The Rose & The Snake",
+            "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AACo03TyOmRwFvQKIGlaifbZa/TheRoseandTheSnake8WF.jpg?dl=0",
             "global-cfp": {
                 "variants": {
                     "GLOBAL-CFP-12x12-SQUARE": {
@@ -735,6 +748,7 @@
         },
         {
             "title": "Honey Trap",
+            "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AADIi5dLuVQZ-OICJ4YJcYKha/HoneyTrap8WF.jpg?dl=0",
             "global-cfp": {
                 "variants": {
                     "GLOBAL-CFP-12x12-SQUARE": {

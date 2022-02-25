@@ -1,0 +1,790 @@
+{
+    "product_range_defaults": {
+        "published": true
+    },
+    "product_defaults": {
+        "enabled": false,
+        "description": ""
+    },
+    "products_defaults": {
+        "global-cfp": {
+            "enabled": true
+        },
+        "global-fap": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false
+    },
+    "variants_defaults": {
+        "GLOBAL-CFP-12x12-SQUARE": {
+            "enabled": true,
+            "retail_price": 50.95
+        },
+        "GLOBAL-CFP-20x20-SQUARE": {
+            "enabled": true,
+            "retail_price": 78.95
+        },
+        "GLOBAL-CFP-28x28-SQUARE": {
+            "enabled": true,
+            "retail_price": 98.95
+        },
+        "GLOBAL-FAP-12x12-SQUARE": {
+            "enabled": true,
+            "retail_price": 26.95
+        },
+        "GLOBAL-FAP-20x20-SQUARE": {
+            "enabled": true,
+            "retail_price": 49.95
+        },
+        "GLOBAL-FAP-28x28-SQUARE": {
+            "enabled": true,
+            "retail_price": 69.95
+        }
+    },
+    "product_ranges": [
+        {
+            "title": "Floral Pentacle",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-12x12-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAAFfyaFVe1msCaAzvX4qscma/Pentacle.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-20x20-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAAFfyaFVe1msCaAzvX4qscma/Pentacle.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-28x28-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAAFfyaFVe1msCaAzvX4qscma/Pentacle.jpg?dl=0"
+                            }
+                        }
+                    }
+                }
+            },
+            "global-fap": {
+                "variants": {
+                    "GLOBAL-FAP-12x12-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAAFfyaFVe1msCaAzvX4qscma/Pentacle.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-20x20-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAAFfyaFVe1msCaAzvX4qscma/Pentacle.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-28x28-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAAFfyaFVe1msCaAzvX4qscma/Pentacle.jpg?dl=0"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Entombed",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-12x12-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AADW4Q2xNNLKjYT5vU3zwEKja/Entombed.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-20x20-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AADW4Q2xNNLKjYT5vU3zwEKja/Entombed.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-28x28-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AADW4Q2xNNLKjYT5vU3zwEKja/Entombed.jpg?dl=0"
+                            }
+                        }
+                    }
+                }
+            },
+            "global-fap": {
+                "variants": {
+                    "GLOBAL-FAP-12x12-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AADW4Q2xNNLKjYT5vU3zwEKja/Entombed.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-20x20-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AADW4Q2xNNLKjYT5vU3zwEKja/Entombed.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-28x28-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AADW4Q2xNNLKjYT5vU3zwEKja/Entombed.jpg?dl=0"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Nymane x TGW - Daydream",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-12x12-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAAEyTPOBTA3jpERVEFPWkawa/NYMDaydream20.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-20x20-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAAEyTPOBTA3jpERVEFPWkawa/NYMDaydream20.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-28x28-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAAEyTPOBTA3jpERVEFPWkawa/NYMDaydream20.jpg?dl=0"
+                            }
+                        }
+                    }
+                }
+            },
+            "global-fap": {
+                "variants": {
+                    "GLOBAL-FAP-12x12-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAAEyTPOBTA3jpERVEFPWkawa/NYMDaydream20.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-20x20-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAAEyTPOBTA3jpERVEFPWkawa/NYMDaydream20.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-28x28-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAAEyTPOBTA3jpERVEFPWkawa/NYMDaydream20.jpg?dl=0"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Nymane x TGW - Whirlwind",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-12x12-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AABz34cn4nvihoXyv55h3bAva/NYMWhirlwind20.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-20x20-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AABz34cn4nvihoXyv55h3bAva/NYMWhirlwind20.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-28x28-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AABz34cn4nvihoXyv55h3bAva/NYMWhirlwind20.jpg?dl=0"
+                            }
+                        }
+                    }
+                }
+            },
+            "global-fap": {
+                "variants": {
+                    "GLOBAL-FAP-12x12-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AABz34cn4nvihoXyv55h3bAva/NYMWhirlwind20.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-20x20-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AABz34cn4nvihoXyv55h3bAva/NYMWhirlwind20.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-28x28-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AABz34cn4nvihoXyv55h3bAva/NYMWhirlwind20.jpg?dl=0"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Nymane x TGW - Cherish",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-12x12-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAC4km_IshdtOQYHMhcHXbnXa/NYMCherish20.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-20x20-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAC4km_IshdtOQYHMhcHXbnXa/NYMCherish20.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-28x28-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAC4km_IshdtOQYHMhcHXbnXa/NYMCherish20.jpg?dl=0"
+                            }
+                        }
+                    }
+                }
+            },
+            "global-fap": {
+                "variants": {
+                    "GLOBAL-FAP-12x12-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAC4km_IshdtOQYHMhcHXbnXa/NYMCherish20.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-20x20-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAC4km_IshdtOQYHMhcHXbnXa/NYMCherish20.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-28x28-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAC4km_IshdtOQYHMhcHXbnXa/NYMCherish20.jpg?dl=0"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Nymane x TGW - Bottled Up",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-12x12-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AABmoqyEAr1fczzvYJJH6sVva/NYMBottledup20.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-20x20-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AABmoqyEAr1fczzvYJJH6sVva/NYMBottledup20.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-28x28-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AABmoqyEAr1fczzvYJJH6sVva/NYMBottledup20.jpg?dl=0"
+                            }
+                        }
+                    }
+                }
+            },
+            "global-fap": {
+                "variants": {
+                    "GLOBAL-FAP-12x12-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AABmoqyEAr1fczzvYJJH6sVva/NYMBottledup20.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-20x20-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AABmoqyEAr1fczzvYJJH6sVva/NYMBottledup20.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-28x28-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AABmoqyEAr1fczzvYJJH6sVva/NYMBottledup20.jpg?dl=0"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Nymane x TGW - Delicious",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-12x12-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AABODeOjKFGkWH7xf09YtP5ma/NYMDelicious20.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-20x20-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AABODeOjKFGkWH7xf09YtP5ma/NYMDelicious20.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-28x28-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AABODeOjKFGkWH7xf09YtP5ma/NYMDelicious20.jpg?dl=0"
+                            }
+                        }
+                    }
+                }
+            },
+            "global-fap": {
+                "variants": {
+                    "GLOBAL-FAP-12x12-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AABODeOjKFGkWH7xf09YtP5ma/NYMDelicious20.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-20x20-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AABODeOjKFGkWH7xf09YtP5ma/NYMDelicious20.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-28x28-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AABODeOjKFGkWH7xf09YtP5ma/NYMDelicious20.jpg?dl=0"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Nymane x TGW - Feelings",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-12x12-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AABuRf9GS-5TVIm8gDsGqEhaa/NYMFeelings20.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-20x20-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AABuRf9GS-5TVIm8gDsGqEhaa/NYMFeelings20.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-28x28-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AABuRf9GS-5TVIm8gDsGqEhaa/NYMFeelings20.jpg?dl=0"
+                            }
+                        }
+                    }
+                }
+            },
+            "global-fap": {
+                "variants": {
+                    "GLOBAL-FAP-12x12-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AABuRf9GS-5TVIm8gDsGqEhaa/NYMFeelings20.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-20x20-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AABuRf9GS-5TVIm8gDsGqEhaa/NYMFeelings20.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-28x28-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AABuRf9GS-5TVIm8gDsGqEhaa/NYMFeelings20.jpg?dl=0"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Nymane x TGW - Friend",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-12x12-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAAolOPsVJLjW5IYNLLvdVCXa/NYMFriend20.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-20x20-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAAolOPsVJLjW5IYNLLvdVCXa/NYMFriend20.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-28x28-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAAolOPsVJLjW5IYNLLvdVCXa/NYMFriend20.jpg?dl=0"
+                            }
+                        }
+                    }
+                }
+            },
+            "global-fap": {
+                "variants": {
+                    "GLOBAL-FAP-12x12-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAAolOPsVJLjW5IYNLLvdVCXa/NYMFriend20.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-20x20-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAAolOPsVJLjW5IYNLLvdVCXa/NYMFriend20.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-28x28-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAAolOPsVJLjW5IYNLLvdVCXa/NYMFriend20.jpg?dl=0"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Nymane x TGW - Night",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-12x12-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AACCiwlFbjdtcE08Q7aX8nima/NYMNight20.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-20x20-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AACCiwlFbjdtcE08Q7aX8nima/NYMNight20.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-28x28-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AACCiwlFbjdtcE08Q7aX8nima/NYMNight20.jpg?dl=0"
+                            }
+                        }
+                    }
+                }
+            },
+            "global-fap": {
+                "variants": {
+                    "GLOBAL-FAP-12x12-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AACCiwlFbjdtcE08Q7aX8nima/NYMNight20.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-20x20-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AACCiwlFbjdtcE08Q7aX8nima/NYMNight20.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-28x28-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AACCiwlFbjdtcE08Q7aX8nima/NYMNight20.jpg?dl=0"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Nymane x TGW - Sweet",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-12x12-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AADKSKiCdpQ-h6_l-UFsJydha/NYMSweet20.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-20x20-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AADKSKiCdpQ-h6_l-UFsJydha/NYMSweet20.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-28x28-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AADKSKiCdpQ-h6_l-UFsJydha/NYMSweet20.jpg?dl=0"
+                            }
+                        }
+                    }
+                }
+            },
+            "global-fap": {
+                "variants": {
+                    "GLOBAL-FAP-12x12-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AADKSKiCdpQ-h6_l-UFsJydha/NYMSweet20.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-20x20-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AADKSKiCdpQ-h6_l-UFsJydha/NYMSweet20.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-28x28-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AADKSKiCdpQ-h6_l-UFsJydha/NYMSweet20.jpg?dl=0"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Pure Love",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-12x12-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAAQHDtD0g1zWcUmIqUTyIXza/PureLove8WF.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-20x20-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAAQHDtD0g1zWcUmIqUTyIXza/PureLove8WF.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-28x28-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAAQHDtD0g1zWcUmIqUTyIXza/PureLove8WF.jpg?dl=0"
+                            }
+                        }
+                    }
+                }
+            },
+            "global-fap": {
+                "variants": {
+                    "GLOBAL-FAP-12x12-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAAQHDtD0g1zWcUmIqUTyIXza/PureLove8WF.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-20x20-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAAQHDtD0g1zWcUmIqUTyIXza/PureLove8WF.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-28x28-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AAAQHDtD0g1zWcUmIqUTyIXza/PureLove8WF.jpg?dl=0"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "The Rose & The Snake",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-12x12-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AACo03TyOmRwFvQKIGlaifbZa/TheRoseandTheSnake8WF.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-20x20-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AACo03TyOmRwFvQKIGlaifbZa/TheRoseandTheSnake8WF.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-28x28-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AACo03TyOmRwFvQKIGlaifbZa/TheRoseandTheSnake8WF.jpg?dl=0"
+                            }
+                        }
+                    }
+                }
+            },
+            "global-fap": {
+                "variants": {
+                    "GLOBAL-FAP-12x12-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AACo03TyOmRwFvQKIGlaifbZa/TheRoseandTheSnake8WF.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-20x20-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AACo03TyOmRwFvQKIGlaifbZa/TheRoseandTheSnake8WF.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-28x28-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AACo03TyOmRwFvQKIGlaifbZa/TheRoseandTheSnake8WF.jpg?dl=0"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Honey Trap",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-12x12-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AADIi5dLuVQZ-OICJ4YJcYKha/HoneyTrap8WF.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-20x20-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AADIi5dLuVQZ-OICJ4YJcYKha/HoneyTrap8WF.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-28x28-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AADIi5dLuVQZ-OICJ4YJcYKha/HoneyTrap8WF.jpg?dl=0"
+                            }
+                        }
+                    }
+                }
+            },
+            "global-fap": {
+                "variants": {
+                    "GLOBAL-FAP-12x12-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AADIi5dLuVQZ-OICJ4YJcYKha/HoneyTrap8WF.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-20x20-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AADIi5dLuVQZ-OICJ4YJcYKha/HoneyTrap8WF.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-28x28-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/61pvp6fr9l8yx7b/AADIi5dLuVQZ-OICJ4YJcYKha/HoneyTrap8WF.jpg?dl=0"
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}

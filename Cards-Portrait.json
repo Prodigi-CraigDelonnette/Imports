@@ -26,10 +26,10 @@
     "product_ranges": [
         {
             "title": "HARD THINGS - Stone / Charcoal",
-            "description": "Glennon Doyle’s inspirational quote will keep you going when life gets hard.",
             "user_image_url": "https://www.dropbox.com/s/ynlonimwnrr3zcv/5x7%20HARD%20THINGS%20GREETING%20CARD-01.jpg?dl=0",
             "products": {
                 "greeting_card": {
+                    "description": "Glennon Doyle's inspirational quote will keep you going when life gets hard.",
                     "variants": {
                         "greeting_cards_7x5": {
                             "images": {
@@ -57,10 +57,10 @@
         },
         {
             "title": "HARD THINGS - Pink / Red",
-            "description": "Glennon Doyle’s inspirational quote will keep you going when life gets hard.",
             "user_image_url": "https://www.dropbox.com/s/drpy32k1fn349bp/5x7%20HARD%20THINGS%20GREETING%20CARD-03.jpg?dl=0",
             "products": {
                 "greeting_card": {
+                    "description": "Glennon Doyle's inspirational quote will keep you going when life gets hard.",
                     "variants": {
                         "greeting_cards_7x5": {
                             "images": {
@@ -88,10 +88,10 @@
         },
         {
             "title": "HARD THINGS - Olive / Charcoal",
-            "description": "Glennon Doyle’s inspirational quote will keep you going when life gets hard.",
             "user_image_url": "https://www.dropbox.com/s/t6p2yunkfn2rxn9/5x7%20HARD%20THINGS%20GREETING%20CARD-02.jpg?dl=0",
             "products": {
                 "greeting_card": {
+                    "description": "Glennon Doyle's inspirational quote will keep you going when life gets hard.",
                     "variants": {
                         "greeting_cards_7x5": {
                             "images": {
@@ -119,10 +119,10 @@
         },
         {
             "title": "HARD THINGS - Soft black / White",
-            "description": "Glennon Doyle’s inspirational quote will keep you going when life gets hard.",
             "user_image_url": "https://www.dropbox.com/s/4i5j3dn8zvjpglx/5x7%20HARD%20THINGS%20GREETING%20CARD-04.jpg?dl=0",
             "products": {
                 "greeting_card": {
+                    "description": "Glennon Doyle's inspirational quote will keep you going when life gets hard.",
                     "variants": {
                         "greeting_cards_7x5": {
                             "images": {
@@ -150,10 +150,10 @@
         },
         {
             "title": "I DON'T UNDERSTAND - Soft black / White",
-            "description": "Life can be baffling at times, but Pia's 5 year old sums it up succinctly here. So succinctly, it became a print. &#34;I don't understand this. I just like it&#34;",
             "user_image_url": "https://www.dropbox.com/s/2sj2wr7c9wl8via/5x7%20UNDERSTAND%20GREETING%20CARD-02.jpg?dl=0",
             "products": {
                 "greeting_card": {
+                    "description": "Life can be baffling at times, but Pia's 5 year old sums it up succinctly here. So succinctly, it became a print. &#34;I don't understand this. I just like it&#34;",
                     "variants": {
                         "greeting_cards_7x5": {
                             "images": {
@@ -181,10 +181,10 @@
         },
         {
             "title": "I DON'T UNDERSTAND - Olive / Carcoal",
-            "description": "Life can be baffling at times, but Pia's 5 year old sums it up succinctly here. So succinctly, it became a print. &#34;I don't understand this. I just like it&#34;",
             "user_image_url": "https://www.dropbox.com/s/gd4q9lw3so9580m/5x7%20UNDERSTAND%20GREETING%20CARD-01.jpg?dl=0",
             "products": {
                 "greeting_card": {
+                    "description": "Life can be baffling at times, but Pia's 5 year old sums it up succinctly here. So succinctly, it became a print. &#34;I don't understand this. I just like it&#34;",
                     "variants": {
                         "greeting_cards_7x5": {
                             "images": {
@@ -212,10 +212,10 @@
         },
         {
             "title": "I DON'T UNDERSTAND - Pale peach / Orange",
-            "description": "Life can be baffling at times, but Pia's 5 year old sums it up succinctly here. So succinctly, it became a print. &#34;I don't understand this. I just like it&#34;",
             "user_image_url": "https://www.dropbox.com/s/ysdbohiofknrcpg/5x7%20UNDERSTAND%20GREETING%20CARD-03.jpg?dl=0",
             "products": {
                 "greeting_card": {
+                    "description": "Life can be baffling at times, but Pia's 5 year old sums it up succinctly here. So succinctly, it became a print. &#34;I don't understand this. I just like it&#34;",
                     "variants": {
                         "greeting_cards_7x5": {
                             "images": {
@@ -243,10 +243,10 @@
         },
         {
             "title": "I DON'T UNDERSTAND - Stone / Charcoal",
-            "description": "Life can be baffling at times, but Pia's 5 year old sums it up succinctly here. So succinctly, it became a print. &#34;I don't understand this. I just like it&#34;",
             "user_image_url": "https://www.dropbox.com/s/f9dqz4jovuwruvi/5x7%20UNDERSTAND%20GREETING%20CARD-04.jpg?dl=0",
             "products": {
                 "greeting_card": {
+                    "description": "Life can be baffling at times, but Pia's 5 year old sums it up succinctly here. So succinctly, it became a print. &#34;I don't understand this. I just like it&#34;",
                     "variants": {
                         "greeting_cards_7x5": {
                             "images": {
@@ -274,10 +274,10 @@
         },
         {
             "title": "NEVER GIVE UP - Stone / Charcoal",
-            "description": "Make a bold statement in any room with this inspirational quote from Winston Churchill.",
             "user_image_url": "https://www.dropbox.com/s/p94gvsmgcduc4k5/5x7%20Greeting%20Card%20NGU-03.jpg?dl=0",
             "products": {
                 "greeting_card": {
+                    "description": "Make a bold statement in any room with this inspirational quote from Winston Churchill.",
                     "variants": {
                         "greeting_cards_7x5": {
                             "images": {
@@ -305,10 +305,10 @@
         },
         {
             "title": "NEVER GIVE UP - Pale pink / Orange",
-            "description": "Make a bold statement in any room with this inspirational quote from Winston Churchill.",
             "user_image_url": "https://www.dropbox.com/s/qfh6bt2nhgv0oaf/5x7%20Greeting%20Card%20NGU-01.jpg?dl=0",
             "products": {
                 "greeting_card": {
+                    "description": "Make a bold statement in any room with this inspirational quote from Winston Churchill.",
                     "variants": {
                         "greeting_cards_7x5": {
                             "images": {
@@ -336,10 +336,10 @@
         },
         {
             "title": "NEVER GIVE UP - Black / White",
-            "description": "Make a bold statement in any room with this inspirational quote from Winston Churchill.",
             "user_image_url": "https://www.dropbox.com/s/tt8dg4cti20p4w1/5x7%20Greeting%20Card%20NGU-04.jpg?dl=0",
             "products": {
                 "greeting_card": {
+                    "description": "Make a bold statement in any room with this inspirational quote from Winston Churchill.",
                     "variants": {
                         "greeting_cards_7x5": {
                             "images": {
@@ -367,10 +367,10 @@
         },
         {
             "title": "NEVER GIVE UP - Steel / White",
-            "description": "Make a bold statement in any room with this inspirational quote from Winston Churchill.",
             "user_image_url": "https://www.dropbox.com/s/o3k67jgimftq3hi/5x7%20Greeting%20Card%20NGU-02.jpg?dl=0",
             "products": {
                 "greeting_card": {
+                    "description": "Make a bold statement in any room with this inspirational quote from Winston Churchill.",
                     "variants": {
                         "greeting_cards_7x5": {
                             "images": {
@@ -398,10 +398,10 @@
         },
         {
             "title": "LOVE U - Vintage",
-            "description": "ALL profits from this design are donated to The Red Cross Ukraine Crisis Appeal. Thank you for your support.",
             "user_image_url": "https://www.dropbox.com/s/yjfq9hxiy5arzcs/LOVE%20U-06.jpg?dl=0",
             "products": {
                 "greeting_card": {
+                    "description": "ALL profits from this design are donated to The Red Cross Ukraine Crisis Appeal. Thank you for your support.",
                     "variants": {
                         "greeting_cards_7x5": {
                             "images": {
@@ -429,10 +429,10 @@
         },
         {
             "title": "NICE ART - Green / Black",
-            "description": "Art got cheeky! ",
             "user_image_url": "https://www.dropbox.com/s/twthb08fabd8zmu/Asize%20Nice%20Art-01.jpg?dl=0",
             "products": {
                 "greeting_card": {
+                    "description": "Art got cheeky! ",
                     "variants": {
                         "greeting_cards_7x5": {
                             "images": {
@@ -460,10 +460,10 @@
         },
         {
             "title": "NICE ART - Peachy",
-            "description": "Art got cheeky! ",
             "user_image_url": "https://www.dropbox.com/s/qzi1m6vebtkix9b/Nice%20Art-03.jpg?dl=0",
             "products": {
                 "greeting_card": {
+                    "description": "Art got cheeky! ",
                     "variants": {
                         "greeting_cards_7x5": {
                             "images": {

@@ -1,0 +1,371 @@
+{
+    "product_range_defaults": {
+        "published": true
+    },
+    "product_defaults": {
+        "enabled": false
+    },
+    "products_defaults": {
+        "global-cfp": {
+            "enabled": true
+        },
+        "global-fap": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false
+    },
+    "variants_defaults": {
+        "GLOBAL-CFP-A1-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 75.00
+        },
+        "GLOBAL-CFP-A2-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 55.00
+        },
+        "GLOBAL-CFP-A3-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 45.00
+        },
+        "GLOBAL-CFP-A4-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 35.00
+        },
+        "GLOBAL-FAP-A1-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 39.00
+        },
+        "GLOBAL-FAP-A2-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 30.00
+        },
+        "GLOBAL-FAP-A3-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 26.00
+        },
+        "GLOBAL-FAP-A4-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 18.00
+        },
+        "GLOBAL-FAP-A5-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 15.00
+        }
+    },
+    "product_ranges": [
+        {
+            "title": "IMPOSSIBLE - Soft Black / White",
+            "user_image_url": "https://www.dropbox.com/s/jyhp5ugples1tcc/IMPOSSIBLE-01.jpg?dl=0",
+            "products": {
+                "description": "Impossible is just a big word. ",
+                "global-cfp": {
+                    "variants": {
+                        "GLOBAL-CFP-A4-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/jyhp5ugples1tcc/IMPOSSIBLE-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A3-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/jyhp5ugples1tcc/IMPOSSIBLE-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A2-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/jyhp5ugples1tcc/IMPOSSIBLE-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A1-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/jyhp5ugples1tcc/IMPOSSIBLE-01.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-fap": {
+                    "variants": {
+                        "GLOBAL-FAP-A5-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/jyhp5ugples1tcc/IMPOSSIBLE-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A4-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/jyhp5ugples1tcc/IMPOSSIBLE-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A3-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/jyhp5ugples1tcc/IMPOSSIBLE-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A2-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/jyhp5ugples1tcc/IMPOSSIBLE-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A1-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/jyhp5ugples1tcc/IMPOSSIBLE-01.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "IMPOSSIBLE - Pink / Red",
+            "user_image_url": "https://www.dropbox.com/s/drguzwdukuukyp6/IMPOSSIBLE-02.jpg?dl=0",
+            "products": {
+                "description": "Impossible is just a big word. ",
+                "global-cfp": {
+                    "variants": {
+                        "GLOBAL-CFP-A4-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/drguzwdukuukyp6/IMPOSSIBLE-02.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A3-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/drguzwdukuukyp6/IMPOSSIBLE-02.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A2-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/drguzwdukuukyp6/IMPOSSIBLE-02.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A1-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/drguzwdukuukyp6/IMPOSSIBLE-02.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-fap": {
+                    "variants": {
+                        "GLOBAL-FAP-A5-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/drguzwdukuukyp6/IMPOSSIBLE-02.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A4-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/drguzwdukuukyp6/IMPOSSIBLE-02.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A3-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/drguzwdukuukyp6/IMPOSSIBLE-02.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A2-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/drguzwdukuukyp6/IMPOSSIBLE-02.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A1-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/drguzwdukuukyp6/IMPOSSIBLE-02.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "IMPOSSIBLE - Stone / Charcoal",
+            "user_image_url": "https://www.dropbox.com/s/3hpdy7b5ljzdd63/IMPOSSIBLE-04.jpg?dl=0",
+            "products": {
+                "description": "Impossible is just a big word. ",
+                "global-cfp": {
+                    "variants": {
+                        "GLOBAL-CFP-A4-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/3hpdy7b5ljzdd63/IMPOSSIBLE-04.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A3-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/3hpdy7b5ljzdd63/IMPOSSIBLE-04.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A2-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/3hpdy7b5ljzdd63/IMPOSSIBLE-04.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A1-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/3hpdy7b5ljzdd63/IMPOSSIBLE-04.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-fap": {
+                    "variants": {
+                        "GLOBAL-FAP-A5-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/3hpdy7b5ljzdd63/IMPOSSIBLE-04.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A4-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/3hpdy7b5ljzdd63/IMPOSSIBLE-04.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A3-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/3hpdy7b5ljzdd63/IMPOSSIBLE-04.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A2-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/3hpdy7b5ljzdd63/IMPOSSIBLE-04.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A1-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/3hpdy7b5ljzdd63/IMPOSSIBLE-04.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "IMPOSSIBLE - Steel / White",
+            "user_image_url": "https://www.dropbox.com/s/qo7jzzfag96itai/IMPOSSIBLE-03.jpg?dl=0",
+            "products": {
+                "description": "Impossible is just a big word. ",
+                "global-cfp": {
+                    "variants": {
+                        "GLOBAL-CFP-A4-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/qo7jzzfag96itai/IMPOSSIBLE-03.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A3-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/qo7jzzfag96itai/IMPOSSIBLE-03.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A2-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/qo7jzzfag96itai/IMPOSSIBLE-03.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A1-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/qo7jzzfag96itai/IMPOSSIBLE-03.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-fap": {
+                    "variants": {
+                        "GLOBAL-FAP-A5-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/qo7jzzfag96itai/IMPOSSIBLE-03.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A4-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/qo7jzzfag96itai/IMPOSSIBLE-03.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A3-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/qo7jzzfag96itai/IMPOSSIBLE-03.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A2-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/qo7jzzfag96itai/IMPOSSIBLE-03.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A1-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/qo7jzzfag96itai/IMPOSSIBLE-03.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,403 @@
+{
+    "product_range_defaults": {
+        "published": true
+    },
+    "product_defaults": {
+        "enabled": false
+    },
+    "products_defaults": {
+        "global-cfp": {
+            "enabled": true
+        },
+        "global-fap": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false
+    },
+    "variants_defaults": {
+        "GLOBAL-CFP-A1-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 75.00
+        },
+        "GLOBAL-CFP-A2-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 55.00
+        },
+        "GLOBAL-CFP-A3-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 45.00
+        },
+        "GLOBAL-CFP-A4-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 35.00
+        },
+        "GLOBAL-FAP-A1-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 39.00
+        },
+        "GLOBAL-FAP-A2-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 30.00
+        },
+        "GLOBAL-FAP-A3-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 26.00
+        },
+        "GLOBAL-FAP-A4-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 18.00
+        },
+        "GLOBAL-FAP-A5-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 15.00
+        },
+        "GLOBAL-FAP-28x40-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 45.00
+        }
+    },
+    "product_ranges": [
+        {
+            "title": "I DON'T UNDERSTAND - Soft black / White",
+            "user_image_url": "https://www.dropbox.com/s/bgmc59fnqva1yx2/I%20don%27t%20understand%2070x100-02.jpg?dl=0",
+            "products": {
+                "description": "Life can be baffling at times, but Pia's 5 year old sums it up succinctly here. So succinctly, it became a print. &#34;I don't understand this. I just like it&#34;",
+                "global-cfp": {
+                    "variants": {
+                        "GLOBAL-CFP-A4-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/bgmc59fnqva1yx2/I%20don%27t%20understand%2070x100-02.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A3-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/bgmc59fnqva1yx2/I%20don%27t%20understand%2070x100-02.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A2-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/bgmc59fnqva1yx2/I%20don%27t%20understand%2070x100-02.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A1-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/bgmc59fnqva1yx2/I%20don%27t%20understand%2070x100-02.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-fap": {
+                    "variants": {
+                        "GLOBAL-FAP-A5-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/bgmc59fnqva1yx2/I%20don%27t%20understand%2070x100-02.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A4-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/bgmc59fnqva1yx2/I%20don%27t%20understand%2070x100-02.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A3-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/bgmc59fnqva1yx2/I%20don%27t%20understand%2070x100-02.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A2-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/bgmc59fnqva1yx2/I%20don%27t%20understand%2070x100-02.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A1-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/bgmc59fnqva1yx2/I%20don%27t%20understand%2070x100-02.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/bgmc59fnqva1yx2/I%20don%27t%20understand%2070x100-02.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "I DON'T UNDERSTAND - Olive / Carcoal",
+            "user_image_url": "https://www.dropbox.com/s/gukfetcbmxqdnbv/I%20don%27t%20understand%207A0-01.jpg?dl=0",
+            "products": {
+                "description": "Life can be baffling at times, but Pia's 5 year old sums it up succinctly here. So succinctly, it became a print. &#34;I don't understand this. I just like it&#34;",
+                "global-cfp": {
+                    "variants": {
+                        "GLOBAL-CFP-A4-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/gukfetcbmxqdnbv/I%20don%27t%20understand%207A0-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A3-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/gukfetcbmxqdnbv/I%20don%27t%20understand%207A0-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A2-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/gukfetcbmxqdnbv/I%20don%27t%20understand%207A0-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A1-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/gukfetcbmxqdnbv/I%20don%27t%20understand%207A0-01.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-fap": {
+                    "variants": {
+                        "GLOBAL-FAP-A5-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/gukfetcbmxqdnbv/I%20don%27t%20understand%207A0-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A4-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/gukfetcbmxqdnbv/I%20don%27t%20understand%207A0-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A3-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/gukfetcbmxqdnbv/I%20don%27t%20understand%207A0-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A2-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/gukfetcbmxqdnbv/I%20don%27t%20understand%207A0-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A1-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/gukfetcbmxqdnbv/I%20don%27t%20understand%207A0-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/gbr7jrwdse38gkz/I%20don%27t%20understand%2070x100-01.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "I DON'T UNDERSTAND - Pale peach / Orange",
+            "user_image_url": "https://www.dropbox.com/s/zt9gks079s4t2th/I%20don%27t%20understand%207A0-03.jpg?dl=0",
+            "products": {
+                "description": "Life can be baffling at times, but Pia's 5 year old sums it up succinctly here. So succinctly, it became a print. &#34;I don't understand this. I just like it&#34;",
+                "global-cfp": {
+                    "variants": {
+                        "GLOBAL-CFP-A4-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/zt9gks079s4t2th/I%20don%27t%20understand%207A0-03.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A3-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/zt9gks079s4t2th/I%20don%27t%20understand%207A0-03.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A2-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/zt9gks079s4t2th/I%20don%27t%20understand%207A0-03.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A1-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/zt9gks079s4t2th/I%20don%27t%20understand%207A0-03.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-fap": {
+                    "variants": {
+                        "GLOBAL-FAP-A5-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/zt9gks079s4t2th/I%20don%27t%20understand%207A0-03.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A4-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/zt9gks079s4t2th/I%20don%27t%20understand%207A0-03.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A3-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/zt9gks079s4t2th/I%20don%27t%20understand%207A0-03.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A2-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/zt9gks079s4t2th/I%20don%27t%20understand%207A0-03.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A1-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/zt9gks079s4t2th/I%20don%27t%20understand%207A0-03.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/l5uxmtxafoe4etx/I%20don%27t%20understand%2070x100-03.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "I DON'T UNDERSTAND - Stone / Charcoal",
+            "user_image_url": "https://www.dropbox.com/s/y8gk2xd1swp4qxb/I%20don%27t%20understand%207A0-04.jpg?dl=0",
+            "products": {
+                "description": "Life can be baffling at times, but Pia's 5 year old sums it up succinctly here. So succinctly, it became a print. &#34;I don't understand this. I just like it&#34;",
+                "global-cfp": {
+                    "variants": {
+                        "GLOBAL-CFP-A4-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/y8gk2xd1swp4qxb/I%20don%27t%20understand%207A0-04.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A3-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/y8gk2xd1swp4qxb/I%20don%27t%20understand%207A0-04.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A2-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/y8gk2xd1swp4qxb/I%20don%27t%20understand%207A0-04.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A1-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/y8gk2xd1swp4qxb/I%20don%27t%20understand%207A0-04.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-fap": {
+                    "variants": {
+                        "GLOBAL-FAP-A5-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/y8gk2xd1swp4qxb/I%20don%27t%20understand%207A0-04.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A4-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/y8gk2xd1swp4qxb/I%20don%27t%20understand%207A0-04.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A3-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/y8gk2xd1swp4qxb/I%20don%27t%20understand%207A0-04.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A2-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/y8gk2xd1swp4qxb/I%20don%27t%20understand%207A0-04.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A1-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/y8gk2xd1swp4qxb/I%20don%27t%20understand%207A0-04.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/qnnqgs7oqa4gdae/I%20don%27t%20understand%2070x100-04.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}

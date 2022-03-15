@@ -1,0 +1,152 @@
+{
+    "product_range_defaults": {
+        "published": true
+    },
+    "product_defaults": {
+        "enabled": false
+    },
+    "products_defaults": {
+        "greeting_card": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false
+    },
+    "variants_defaults": {
+        "greeting_cards_7x5_landscape": {
+            "enabled": true,
+            "retail_price": 2.50
+        },
+        "greeting_cards_a5_landscape": {
+            "enabled": true,
+            "retail_price": 2.50
+        }
+    },
+    "product_ranges": [
+        {
+            "title": "IMPOSSIBLE - Soft Black / White",
+            "description": "Impossible is just a big word. ",
+            "user_image_url": "https://www.dropbox.com/s/s90ir4e6f7a2lgl/7x5%20IMPOSSIBLE%20GREETING%20CARD-01.jpg?dl=0",
+            "products": {
+                "greeting_card": {
+                    "variants": {
+                        "greeting_cards_7x5_landscape": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/s90ir4e6f7a2lgl/7x5%20IMPOSSIBLE%20GREETING%20CARD-01.jpg?dl=0"
+                                },
+                                "back": {
+                                    "user_image_url": "https://www.dropbox.com/s/emgohej6evdi40w/Greeting%20Card%20Reverse-02.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "greeting_cards_a5_landscape": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/s90ir4e6f7a2lgl/7x5%20IMPOSSIBLE%20GREETING%20CARD-01.jpg?dl=0"
+                                },
+                                "back": {
+                                    "user_image_url": "https://www.dropbox.com/s/emgohej6evdi40w/Greeting%20Card%20Reverse-02.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "IMPOSSIBLE - Pink / Red",
+            "description": "Impossible is just a big word. ",
+            "user_image_url": "https://www.dropbox.com/s/6vgryehd4039pfh/7x5%20IMPOSSIBLE%20GREETING%20CARD-02.jpg?dl=0",
+            "products": {
+                "greeting_card": {
+                    "variants": {
+                        "greeting_cards_7x5_landscape": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/6vgryehd4039pfh/7x5%20IMPOSSIBLE%20GREETING%20CARD-02.jpg?dl=0"
+                                },
+                                "back": {
+                                    "user_image_url": "https://www.dropbox.com/s/emgohej6evdi40w/Greeting%20Card%20Reverse-02.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "greeting_cards_a5_landscape": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/drguzwdukuukyp6/IMPOSSIBLE-02.jpg?dl=0"
+                                },
+                                "back": {
+                                    "user_image_url": "https://www.dropbox.com/s/emgohej6evdi40w/Greeting%20Card%20Reverse-02.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "IMPOSSIBLE - Stone / Charcoal",
+            "description": "Impossible is just a big word. ",
+            "user_image_url": "https://www.dropbox.com/s/ut505t23sbnke22/7x5%20IMPOSSIBLE%20GREETING%20CARD-04.jpg?dl=0",
+            "products": {
+                "greeting_card": {
+                    "variants": {
+                        "greeting_cards_7x5_landscape": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ut505t23sbnke22/7x5%20IMPOSSIBLE%20GREETING%20CARD-04.jpg?dl=0"
+                                },
+                                "back": {
+                                    "user_image_url": "https://www.dropbox.com/s/emgohej6evdi40w/Greeting%20Card%20Reverse-02.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "greeting_cards_a5_landscape": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/3hpdy7b5ljzdd63/IMPOSSIBLE-04.jpg?dl=0"
+                                },
+                                "back": {
+                                    "user_image_url": "https://www.dropbox.com/s/emgohej6evdi40w/Greeting%20Card%20Reverse-02.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "IMPOSSIBLE - Steel / White",
+            "description": "Impossible is just a big word. ",
+            "user_image_url": "https://www.dropbox.com/s/ghltsgkohu639sz/7x5%20IMPOSSIBLE%20GREETING%20CARD-03.jpg?dl=0",
+            "products": {
+                "greeting_card": {
+                    "variants": {
+                        "greeting_cards_7x5_landscape": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ghltsgkohu639sz/7x5%20IMPOSSIBLE%20GREETING%20CARD-03.jpg?dl=0"
+                                },
+                                "back": {
+                                    "user_image_url": "https://www.dropbox.com/s/emgohej6evdi40w/Greeting%20Card%20Reverse-02.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "greeting_cards_a5_landscape": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/qo7jzzfag96itai/IMPOSSIBLE-03.jpg?dl=0"
+                                },
+                                "back": {
+                                    "user_image_url": "https://www.dropbox.com/s/emgohej6evdi40w/Greeting%20Card%20Reverse-02.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}

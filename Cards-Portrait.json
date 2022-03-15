@@ -1,0 +1,493 @@
+{
+    "product_range_defaults": {
+        "published": true
+    },
+    "product_defaults": {
+        "enabled": false
+    },
+    "products_defaults": {
+        "greeting_card": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false
+    },
+    "variants_defaults": {
+        "greeting_cards_7x5": {
+            "enabled": true,
+            "retail_price": 2.50
+        },
+        "greeting_cards_a5": {
+            "enabled": true,
+            "retail_price": 2.50
+        }
+    },
+    "product_ranges": [
+        {
+            "title": "HARD THINGS - Stone / Charcoal",
+            "description": "Glennon Doyle’s inspirational quote will keep you going when life gets hard.",
+            "user_image_url": "https://www.dropbox.com/s/ynlonimwnrr3zcv/5x7%20HARD%20THINGS%20GREETING%20CARD-01.jpg?dl=0",
+            "products": {
+                "greeting_card": {
+                    "variants": {
+                        "greeting_cards_7x5": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ynlonimwnrr3zcv/5x7%20HARD%20THINGS%20GREETING%20CARD-01.jpg?dl=0"
+                                },
+                                "back": {
+                                    "user_image_url": "https://www.dropbox.com/s/ud3p1rjm9c9njgg/Greeting%20Card%20Reverse-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "greeting_cards_a5": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/l62mlpde50a0kur/HARD%20THINGS-01.jpg?dl=0"
+                                },
+                                "back": {
+                                    "user_image_url": "https://www.dropbox.com/s/ud3p1rjm9c9njgg/Greeting%20Card%20Reverse-01.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "HARD THINGS - Pink / Red",
+            "description": "Glennon Doyle’s inspirational quote will keep you going when life gets hard.",
+            "user_image_url": "https://www.dropbox.com/s/drpy32k1fn349bp/5x7%20HARD%20THINGS%20GREETING%20CARD-03.jpg?dl=0",
+            "products": {
+                "greeting_card": {
+                    "variants": {
+                        "greeting_cards_7x5": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/drpy32k1fn349bp/5x7%20HARD%20THINGS%20GREETING%20CARD-03.jpg?dl=0"
+                                },
+                                "back": {
+                                    "user_image_url": "https://www.dropbox.com/s/ud3p1rjm9c9njgg/Greeting%20Card%20Reverse-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "greeting_cards_a5": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/7tth7ejx6tfgmt1/HARD%20THINGS-03.jpg?dl=0"
+                                },
+                                "back": {
+                                    "user_image_url": "https://www.dropbox.com/s/ud3p1rjm9c9njgg/Greeting%20Card%20Reverse-01.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "HARD THINGS - Olive / Charcoal",
+            "description": "Glennon Doyle’s inspirational quote will keep you going when life gets hard.",
+            "user_image_url": "https://www.dropbox.com/s/t6p2yunkfn2rxn9/5x7%20HARD%20THINGS%20GREETING%20CARD-02.jpg?dl=0",
+            "products": {
+                "greeting_card": {
+                    "variants": {
+                        "greeting_cards_7x5": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/t6p2yunkfn2rxn9/5x7%20HARD%20THINGS%20GREETING%20CARD-02.jpg?dl=0"
+                                },
+                                "back": {
+                                    "user_image_url": "https://www.dropbox.com/s/ud3p1rjm9c9njgg/Greeting%20Card%20Reverse-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "greeting_cards_a5": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/u06v06h1bbxgbg9/HARD%20THINGS-02.jpg?dl=0"
+                                },
+                                "back": {
+                                    "user_image_url": "https://www.dropbox.com/s/ud3p1rjm9c9njgg/Greeting%20Card%20Reverse-01.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "HARD THINGS - Soft black / White",
+            "description": "Glennon Doyle’s inspirational quote will keep you going when life gets hard.",
+            "user_image_url": "https://www.dropbox.com/s/4i5j3dn8zvjpglx/5x7%20HARD%20THINGS%20GREETING%20CARD-04.jpg?dl=0",
+            "products": {
+                "greeting_card": {
+                    "variants": {
+                        "greeting_cards_7x5": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/4i5j3dn8zvjpglx/5x7%20HARD%20THINGS%20GREETING%20CARD-04.jpg?dl=0"
+                                },
+                                "back": {
+                                    "user_image_url": "https://www.dropbox.com/s/ud3p1rjm9c9njgg/Greeting%20Card%20Reverse-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "greeting_cards_a5": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/g54n7rqnf884por/HARD%20THINGS-04.jpg?dl=0"
+                                },
+                                "back": {
+                                    "user_image_url": "https://www.dropbox.com/s/ud3p1rjm9c9njgg/Greeting%20Card%20Reverse-01.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "I DON'T UNDERSTAND - Soft black / White",
+            "description": "Life can be baffling at times, but Pia's 5 year old sums it up succinctly here. So succinctly, it became a print. &#34;I don't understand this. I just like it&#34;",
+            "user_image_url": "https://www.dropbox.com/s/2sj2wr7c9wl8via/5x7%20UNDERSTAND%20GREETING%20CARD-02.jpg?dl=0",
+            "products": {
+                "greeting_card": {
+                    "variants": {
+                        "greeting_cards_7x5": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/2sj2wr7c9wl8via/5x7%20UNDERSTAND%20GREETING%20CARD-02.jpg?dl=0"
+                                },
+                                "back": {
+                                    "user_image_url": "https://www.dropbox.com/s/ud3p1rjm9c9njgg/Greeting%20Card%20Reverse-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "greeting_cards_a5": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/bgmc59fnqva1yx2/I%20don%27t%20understand%2070x100-02.jpg?dl=0"
+                                },
+                                "back": {
+                                    "user_image_url": "https://www.dropbox.com/s/ud3p1rjm9c9njgg/Greeting%20Card%20Reverse-01.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "I DON'T UNDERSTAND - Olive / Carcoal",
+            "description": "Life can be baffling at times, but Pia's 5 year old sums it up succinctly here. So succinctly, it became a print. &#34;I don't understand this. I just like it&#34;",
+            "user_image_url": "https://www.dropbox.com/s/gd4q9lw3so9580m/5x7%20UNDERSTAND%20GREETING%20CARD-01.jpg?dl=0",
+            "products": {
+                "greeting_card": {
+                    "variants": {
+                        "greeting_cards_7x5": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/gd4q9lw3so9580m/5x7%20UNDERSTAND%20GREETING%20CARD-01.jpg?dl=0"
+                                },
+                                "back": {
+                                    "user_image_url": "https://www.dropbox.com/s/ud3p1rjm9c9njgg/Greeting%20Card%20Reverse-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "greeting_cards_a5": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/gukfetcbmxqdnbv/I%20don%27t%20understand%207A0-01.jpg?dl=0"
+                                },
+                                "back": {
+                                    "user_image_url": "https://www.dropbox.com/s/ud3p1rjm9c9njgg/Greeting%20Card%20Reverse-01.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "I DON'T UNDERSTAND - Pale peach / Orange",
+            "description": "Life can be baffling at times, but Pia's 5 year old sums it up succinctly here. So succinctly, it became a print. &#34;I don't understand this. I just like it&#34;",
+            "user_image_url": "https://www.dropbox.com/s/ysdbohiofknrcpg/5x7%20UNDERSTAND%20GREETING%20CARD-03.jpg?dl=0",
+            "products": {
+                "greeting_card": {
+                    "variants": {
+                        "greeting_cards_7x5": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ysdbohiofknrcpg/5x7%20UNDERSTAND%20GREETING%20CARD-03.jpg?dl=0"
+                                },
+                                "back": {
+                                    "user_image_url": "https://www.dropbox.com/s/ud3p1rjm9c9njgg/Greeting%20Card%20Reverse-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "greeting_cards_a5": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/zt9gks079s4t2th/I%20don%27t%20understand%207A0-03.jpg?dl=0"
+                                },
+                                "back": {
+                                    "user_image_url": "https://www.dropbox.com/s/ud3p1rjm9c9njgg/Greeting%20Card%20Reverse-01.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "I DON'T UNDERSTAND - Stone / Charcoal",
+            "description": "Life can be baffling at times, but Pia's 5 year old sums it up succinctly here. So succinctly, it became a print. &#34;I don't understand this. I just like it&#34;",
+            "user_image_url": "https://www.dropbox.com/s/f9dqz4jovuwruvi/5x7%20UNDERSTAND%20GREETING%20CARD-04.jpg?dl=0",
+            "products": {
+                "greeting_card": {
+                    "variants": {
+                        "greeting_cards_7x5": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/f9dqz4jovuwruvi/5x7%20UNDERSTAND%20GREETING%20CARD-04.jpg?dl=0"
+                                },
+                                "back": {
+                                    "user_image_url": "https://www.dropbox.com/s/ud3p1rjm9c9njgg/Greeting%20Card%20Reverse-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "greeting_cards_a5": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/y8gk2xd1swp4qxb/I%20don%27t%20understand%207A0-04.jpg?dl=0"
+                                },
+                                "back": {
+                                    "user_image_url": "https://www.dropbox.com/s/ud3p1rjm9c9njgg/Greeting%20Card%20Reverse-01.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "NEVER GIVE UP - Stone / Charcoal",
+            "description": "Make a bold statement in any room with this inspirational quote from Winston Churchill.",
+            "user_image_url": "https://www.dropbox.com/s/p94gvsmgcduc4k5/5x7%20Greeting%20Card%20NGU-03.jpg?dl=0",
+            "products": {
+                "greeting_card": {
+                    "variants": {
+                        "greeting_cards_7x5": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/p94gvsmgcduc4k5/5x7%20Greeting%20Card%20NGU-03.jpg?dl=0"
+                                },
+                                "back": {
+                                    "user_image_url": "https://www.dropbox.com/s/ud3p1rjm9c9njgg/Greeting%20Card%20Reverse-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "greeting_cards_a5": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/y4e5sjjb2ma9ibr/Never%20Give%20Up-03.jpg?dl=0"
+                                },
+                                "back": {
+                                    "user_image_url": "https://www.dropbox.com/s/ud3p1rjm9c9njgg/Greeting%20Card%20Reverse-01.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "NEVER GIVE UP - Pale pink / Orange",
+            "description": "Make a bold statement in any room with this inspirational quote from Winston Churchill.",
+            "user_image_url": "https://www.dropbox.com/s/qfh6bt2nhgv0oaf/5x7%20Greeting%20Card%20NGU-01.jpg?dl=0",
+            "products": {
+                "greeting_card": {
+                    "variants": {
+                        "greeting_cards_7x5": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/qfh6bt2nhgv0oaf/5x7%20Greeting%20Card%20NGU-01.jpg?dl=0"
+                                },
+                                "back": {
+                                    "user_image_url": "https://www.dropbox.com/s/ud3p1rjm9c9njgg/Greeting%20Card%20Reverse-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "greeting_cards_a5": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/w4fltrj8nqvukli/Never%20Give%20Up-01.jpg?dl=0"
+                                },
+                                "back": {
+                                    "user_image_url": "https://www.dropbox.com/s/ud3p1rjm9c9njgg/Greeting%20Card%20Reverse-01.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "NEVER GIVE UP - Black / White",
+            "description": "Make a bold statement in any room with this inspirational quote from Winston Churchill.",
+            "user_image_url": "https://www.dropbox.com/s/tt8dg4cti20p4w1/5x7%20Greeting%20Card%20NGU-04.jpg?dl=0",
+            "products": {
+                "greeting_card": {
+                    "variants": {
+                        "greeting_cards_7x5": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/tt8dg4cti20p4w1/5x7%20Greeting%20Card%20NGU-04.jpg?dl=0"
+                                },
+                                "back": {
+                                    "user_image_url": "https://www.dropbox.com/s/ud3p1rjm9c9njgg/Greeting%20Card%20Reverse-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "greeting_cards_a5": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/q4mc6ulytk8tst3/Never%20Give%20Up-08.jpg?dl=0"
+                                },
+                                "back": {
+                                    "user_image_url": "https://www.dropbox.com/s/ud3p1rjm9c9njgg/Greeting%20Card%20Reverse-01.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "NEVER GIVE UP - Steel / White",
+            "description": "Make a bold statement in any room with this inspirational quote from Winston Churchill.",
+            "user_image_url": "https://www.dropbox.com/s/o3k67jgimftq3hi/5x7%20Greeting%20Card%20NGU-02.jpg?dl=0",
+            "products": {
+                "greeting_card": {
+                    "variants": {
+                        "greeting_cards_7x5": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/o3k67jgimftq3hi/5x7%20Greeting%20Card%20NGU-02.jpg?dl=0"
+                                },
+                                "back": {
+                                    "user_image_url": "https://www.dropbox.com/s/ud3p1rjm9c9njgg/Greeting%20Card%20Reverse-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "greeting_cards_a5": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/2rvhwp4afvo7npm/Never%20Give%20Up-02.jpg?dl=0"
+                                },
+                                "back": {
+                                    "user_image_url": "https://www.dropbox.com/s/ud3p1rjm9c9njgg/Greeting%20Card%20Reverse-01.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "LOVE U - Vintage",
+            "description": "ALL profits from this design are donated to The Red Cross Ukraine Crisis Appeal. Thank you for your support.",
+            "user_image_url": "https://www.dropbox.com/s/yjfq9hxiy5arzcs/LOVE%20U-06.jpg?dl=0",
+            "products": {
+                "greeting_card": {
+                    "variants": {
+                        "greeting_cards_7x5": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/yjfq9hxiy5arzcs/LOVE%20U-06.jpg?dl=0"
+                                },
+                                "back": {
+                                    "user_image_url": "https://www.dropbox.com/s/kunitlu4j9xinej/Greeting%20Card%20ReverseUKRAINE-03.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "greeting_cards_a5": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/yjfq9hxiy5arzcs/LOVE%20U-06.jpg?dl=0"
+                                },
+                                "back": {
+                                    "user_image_url": "https://www.dropbox.com/s/kunitlu4j9xinej/Greeting%20Card%20ReverseUKRAINE-03.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "NICE ART - Green / Black",
+            "description": "Art got cheeky! ",
+            "user_image_url": "https://www.dropbox.com/s/twthb08fabd8zmu/Asize%20Nice%20Art-01.jpg?dl=0",
+            "products": {
+                "greeting_card": {
+                    "variants": {
+                        "greeting_cards_7x5": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/twthb08fabd8zmu/Asize%20Nice%20Art-01.jpg?dl=0"
+                                },
+                                "back": {
+                                    "user_image_url": "https://www.dropbox.com/s/ud3p1rjm9c9njgg/Greeting%20Card%20Reverse-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "greeting_cards_a5": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/twthb08fabd8zmu/Asize%20Nice%20Art-01.jpg?dl=0"
+                                },
+                                "back": {
+                                    "user_image_url": "https://www.dropbox.com/s/ud3p1rjm9c9njgg/Greeting%20Card%20Reverse-01.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "NICE ART - Peachy",
+            "description": "Art got cheeky! ",
+            "user_image_url": "https://www.dropbox.com/s/qzi1m6vebtkix9b/Nice%20Art-03.jpg?dl=0",
+            "products": {
+                "greeting_card": {
+                    "variants": {
+                        "greeting_cards_7x5": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/qzi1m6vebtkix9b/Nice%20Art-03.jpg?dl=0"
+                                },
+                                "back": {
+                                    "user_image_url": "https://www.dropbox.com/s/ud3p1rjm9c9njgg/Greeting%20Card%20Reverse-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "greeting_cards_a5": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/qzi1m6vebtkix9b/Nice%20Art-03.jpg?dl=0"
+                                },
+                                "back": {
+                                    "user_image_url": "https://www.dropbox.com/s/ud3p1rjm9c9njgg/Greeting%20Card%20Reverse-01.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}

@@ -62,8 +62,8 @@
             "title": "HARD THINGS - Stone / Charcoal",
             "user_image_url": "https://www.dropbox.com/s/l62mlpde50a0kur/HARD%20THINGS-01.jpg?dl=0",
             "products": {
-                "description": "Glennon Doyle's inspirational quote will keep you going when life gets hard.",
                 "global-cfp": {
+                    "description": "Glennon Doyle's inspirational quote will keep you going when life gets hard.",
                     "variants": {
                         "GLOBAL-CFP-A4-PORTRAIT": {
                             "images": {
@@ -96,6 +96,7 @@
                     }
                 },
                 "global-fap": {
+                    "description": "Glennon Doyle's inspirational quote will keep you going when life gets hard.",
                     "variants": {
                         "GLOBAL-FAP-A5-PORTRAIT": {
                             "images": {
@@ -140,8 +141,8 @@
             "title": "HARD THINGS - Pink / Red",
             "user_image_url": "https://www.dropbox.com/s/7tth7ejx6tfgmt1/HARD%20THINGS-03.jpg?dl=0",
             "products": {
-                "description": "Glennon Doyle's inspirational quote will keep you going when life gets hard.",
                 "global-cfp": {
+                    "description": "Glennon Doyle's inspirational quote will keep you going when life gets hard.",
                     "variants": {
                         "GLOBAL-CFP-A4-PORTRAIT": {
                             "images": {
@@ -174,6 +175,7 @@
                     }
                 },
                 "global-fap": {
+                    "description": "Glennon Doyle's inspirational quote will keep you going when life gets hard.",
                     "variants": {
                         "GLOBAL-FAP-A5-PORTRAIT": {
                             "images": {
@@ -218,8 +220,8 @@
             "title": "HARD THINGS - Olive / Charcoal",
             "user_image_url": "https://www.dropbox.com/s/u06v06h1bbxgbg9/HARD%20THINGS-02.jpg?dl=0",
             "products": {
-                "description": "Glennon Doyle's inspirational quote will keep you going when life gets hard.",
                 "global-cfp": {
+                    "description": "Glennon Doyle's inspirational quote will keep you going when life gets hard.",
                     "variants": {
                         "GLOBAL-CFP-A4-PORTRAIT": {
                             "images": {
@@ -252,6 +254,7 @@
                     }
                 },
                 "global-fap": {
+                    "description": "Glennon Doyle's inspirational quote will keep you going when life gets hard.",
                     "variants": {
                         "GLOBAL-FAP-A5-PORTRAIT": {
                             "images": {
@@ -296,8 +299,8 @@
             "title": "HARD THINGS - Soft black / White",
             "user_image_url": "https://www.dropbox.com/s/g54n7rqnf884por/HARD%20THINGS-04.jpg?dl=0",
             "products": {
-                "description": "Glennon Doyle's inspirational quote will keep you going when life gets hard.",
                 "global-cfp": {
+                    "description": "Glennon Doyle's inspirational quote will keep you going when life gets hard.",
                     "variants": {
                         "GLOBAL-CFP-A4-PORTRAIT": {
                             "images": {
@@ -330,6 +333,7 @@
                     }
                 },
                 "global-fap": {
+                    "description": "Glennon Doyle's inspirational quote will keep you going when life gets hard.",
                     "variants": {
                         "GLOBAL-FAP-A5-PORTRAIT": {
                             "images": {
@@ -374,8 +378,8 @@
             "title": "NEVER GIVE UP - Stone / Charcoal",
             "user_image_url": "https://www.dropbox.com/s/y4e5sjjb2ma9ibr/Never%20Give%20Up-03.jpg?dl=0",
             "products": {
-                "description": "Make a bold statement in any room with this inspirational quote from Winston Churchill.",
                 "global-cfp": {
+                    "description": "Make a bold statement in any room with this inspirational quote from Winston Churchill.",
                     "variants": {
                         "GLOBAL-CFP-A4-PORTRAIT": {
                             "images": {
@@ -408,6 +412,7 @@
                     }
                 },
                 "global-fap": {
+                    "description": "Make a bold statement in any room with this inspirational quote from Winston Churchill.",
                     "variants": {
                         "GLOBAL-FAP-A5-PORTRAIT": {
                             "images": {
@@ -452,8 +457,8 @@
             "title": "NEVER GIVE UP - Pale pink / Orange",
             "user_image_url": "https://www.dropbox.com/s/w4fltrj8nqvukli/Never%20Give%20Up-01.jpg?dl=0",
             "products": {
-                "description": "Make a bold statement in any room with this inspirational quote from Winston Churchill.",
                 "global-cfp": {
+                    "description": "Make a bold statement in any room with this inspirational quote from Winston Churchill.",
                     "variants": {
                         "GLOBAL-CFP-A4-PORTRAIT": {
                             "images": {
@@ -486,6 +491,7 @@
                     }
                 },
                 "global-fap": {
+                    "description": "Make a bold statement in any room with this inspirational quote from Winston Churchill.",
                     "variants": {
                         "GLOBAL-FAP-A5-PORTRAIT": {
                             "images": {
@@ -530,8 +536,8 @@
             "title": "NEVER GIVE UP - Black / White",
             "user_image_url": "https://www.dropbox.com/s/q4mc6ulytk8tst3/Never%20Give%20Up-08.jpg?dl=0",
             "products": {
-                "description": "Make a bold statement in any room with this inspirational quote from Winston Churchill.",
                 "global-cfp": {
+                    "description": "Make a bold statement in any room with this inspirational quote from Winston Churchill.",
                     "variants": {
                         "GLOBAL-CFP-A4-PORTRAIT": {
                             "images": {
@@ -564,6 +570,7 @@
                     }
                 },
                 "global-fap": {
+                    "description": "Make a bold statement in any room with this inspirational quote from Winston Churchill.",
                     "variants": {
                         "GLOBAL-FAP-A5-PORTRAIT": {
                             "images": {
@@ -608,8 +615,8 @@
             "title": "NEVER GIVE UP - Steel / White",
             "user_image_url": "https://www.dropbox.com/s/2rvhwp4afvo7npm/Never%20Give%20Up-02.jpg?dl=0",
             "products": {
-                "description": "Make a bold statement in any room with this inspirational quote from Winston Churchill.",
                 "global-cfp": {
+                    "description": "Make a bold statement in any room with this inspirational quote from Winston Churchill.",
                     "variants": {
                         "GLOBAL-CFP-A4-PORTRAIT": {
                             "images": {
@@ -642,6 +649,7 @@
                     }
                 },
                 "global-fap": {
+                    "description": "Make a bold statement in any room with this inspirational quote from Winston Churchill.",
                     "variants": {
                         "GLOBAL-FAP-A5-PORTRAIT": {
                             "images": {
@@ -686,8 +694,8 @@
             "title": "LOVE U - Vintage",
             "user_image_url": "https://www.dropbox.com/s/yjfq9hxiy5arzcs/LOVE%20U-06.jpg?dl=0",
             "products": {
-                "description": "ALL profits from this design are donated to The Red Cross Ukraine Crisis Appeal. Thank you for your support.",
                 "global-cfp": {
+                    "description": "ALL profits from this design are donated to The Red Cross Ukraine Crisis Appeal. Thank you for your support.",
                     "variants": {
                         "GLOBAL-CFP-A4-PORTRAIT": {
                             "images": {
@@ -720,6 +728,7 @@
                     }
                 },
                 "global-fap": {
+                    "description": "ALL profits from this design are donated to The Red Cross Ukraine Crisis Appeal. Thank you for your support.",
                     "variants": {
                         "GLOBAL-FAP-A5-PORTRAIT": {
                             "images": {
@@ -764,8 +773,8 @@
             "title": "NICE ART - Green / Black",
             "user_image_url": "https://www.dropbox.com/s/twthb08fabd8zmu/Asize%20Nice%20Art-01.jpg?dl=0",
             "products": {
-                "description": "Art got cheeky! A naughty print for the bath or bedroom.",
                 "global-cfp": {
+                    "description": "Art got cheeky! A naughty print for the bath or bedroom.",
                     "variants": {
                         "GLOBAL-CFP-A4-PORTRAIT": {
                             "images": {
@@ -798,6 +807,7 @@
                     }
                 },
                 "global-fap": {
+                    "description": "Art got cheeky! A naughty print for the bath or bedroom.",
                     "variants": {
                         "GLOBAL-FAP-A5-PORTRAIT": {
                             "images": {
@@ -842,8 +852,8 @@
             "title": "NICE ART - Peachy",
             "user_image_url": "https://www.dropbox.com/s/qzi1m6vebtkix9b/Nice%20Art-03.jpg?dl=0",
             "products": {
-                "description": "Art got cheeky! A naughty print for the bath or bedroom.",
                 "global-cfp": {
+                    "description": "Art got cheeky! A naughty print for the bath or bedroom.",
                     "variants": {
                         "GLOBAL-CFP-A4-PORTRAIT": {
                             "images": {
@@ -876,6 +886,7 @@
                     }
                 },
                 "global-fap": {
+                    "description": "Art got cheeky! A naughty print for the bath or bedroom.",
                     "variants": {
                         "GLOBAL-FAP-A5-PORTRAIT": {
                             "images": {

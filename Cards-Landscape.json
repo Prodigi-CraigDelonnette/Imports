@@ -26,10 +26,10 @@
     "product_ranges": [
         {
             "title": "IMPOSSIBLE - Soft Black / White",
-            "description": "Impossible is just a big word. ",
             "user_image_url": "https://www.dropbox.com/s/s90ir4e6f7a2lgl/7x5%20IMPOSSIBLE%20GREETING%20CARD-01.jpg?dl=0",
             "products": {
                 "greeting_card": {
+                    "description": "Impossible is just a big word. ",
                     "variants": {
                         "greeting_cards_7x5_landscape": {
                             "images": {
@@ -57,10 +57,10 @@
         },
         {
             "title": "IMPOSSIBLE - Pink / Red",
-            "description": "Impossible is just a big word. ",
             "user_image_url": "https://www.dropbox.com/s/6vgryehd4039pfh/7x5%20IMPOSSIBLE%20GREETING%20CARD-02.jpg?dl=0",
             "products": {
                 "greeting_card": {
+                    "description": "Impossible is just a big word. ",
                     "variants": {
                         "greeting_cards_7x5_landscape": {
                             "images": {
@@ -88,10 +88,10 @@
         },
         {
             "title": "IMPOSSIBLE - Stone / Charcoal",
-            "description": "Impossible is just a big word. ",
             "user_image_url": "https://www.dropbox.com/s/ut505t23sbnke22/7x5%20IMPOSSIBLE%20GREETING%20CARD-04.jpg?dl=0",
             "products": {
                 "greeting_card": {
+                    "description": "Impossible is just a big word. ",
                     "variants": {
                         "greeting_cards_7x5_landscape": {
                             "images": {
@@ -119,10 +119,10 @@
         },
         {
             "title": "IMPOSSIBLE - Steel / White",
-            "description": "Impossible is just a big word. ",
             "user_image_url": "https://www.dropbox.com/s/ghltsgkohu639sz/7x5%20IMPOSSIBLE%20GREETING%20CARD-03.jpg?dl=0",
             "products": {
                 "greeting_card": {
+                    "description": "Impossible is just a big word. ",
                     "variants": {
                         "greeting_cards_7x5_landscape": {
                             "images": {

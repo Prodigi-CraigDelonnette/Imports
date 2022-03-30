@@ -6,7 +6,7 @@
 "enabled": false
 },
 "products_defaults": {
-"notebook_a5": {
+"notebook": {
 "enabled": true
 },
 "journal_hardback": {

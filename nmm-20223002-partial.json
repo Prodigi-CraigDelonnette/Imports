@@ -17,7 +17,7 @@
 }
 },
 "variant_defaults": {
-"enabled": true
+"enabled": false
 },
 "variants_defaults": {
 "notebook_a5_lined": {
@@ -112,13 +112,11 @@
 "product_ranges": [
 {
 "title": "The Battle of Trafalgar, 21 October 1805",
-"user_image_url": "http://utils.magnoliabox.com/image/nmm/BHC0565?token=5022dc125192f0bd7fbd10b59ecd52e58aaeb5be326f12b25e4a228d5deb3b46ecab611883efcba3",
-"products": []
+"user_image_url": "http://utils.magnoliabox.com/image/nmm/BHC0565?token=5022dc125192f0bd7fbd10b59ecd52e58aaeb5be326f12b25e4a228d5deb3b46ecab611883efcba3"
 },
 {
 "title": "Greenwich Hospital from the north bank of the Thames",
-"user_image_url": "http://utils.magnoliabox.com/image/nmm/BHC1827?token=d3d34807d373c432e13c81b9ab5768d68aaeb5be326f12b25e4a228d5deb3b46ecab611883efcba3",
-"products": []
+"user_image_url": "http://utils.magnoliabox.com/image/nmm/BHC1827?token=d3d34807d373c432e13c81b9ab5768d68aaeb5be326f12b25e4a228d5deb3b46ecab611883efcba3"
 }
 ]
 }

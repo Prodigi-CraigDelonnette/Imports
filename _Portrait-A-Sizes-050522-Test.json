@@ -1,0 +1,211 @@
+{
+    "product_range_defaults": {
+        "published": true
+    },
+    "product_defaults": {
+        "enabled": false
+    },
+    "products_defaults": {
+        "global-cfp": {
+            "enabled": true
+        },
+        "global-fap": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false
+    },
+    "variants_defaults": {
+        "GLOBAL-CFP-A1-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 99.95
+        },
+        "GLOBAL-CFP-A2-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 78.95
+        },
+        "GLOBAL-CFP-A3-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 50.95
+        },
+        "GLOBAL-CFP-A4-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 40.95
+        },
+        "GLOBAL-FAP-A1-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 54.95
+        },
+        "GLOBAL-FAP-A2-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 39.95
+        },
+        "GLOBAL-FAP-A3-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 24.95
+        },
+        "GLOBAL-FAP-A4-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 19.95
+        },
+        "GLOBAL-FAP-A5-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 14.95
+        }
+    },
+    "product_ranges": [
+        {
+            "title": "_Aquarius - Black",
+            "user_image_url": "https://www.dropbox.com/sh/fy57ppwdz5i3inh/AABaENAYpo_mLSYwuQ7P1eYoa/Aquarius/black.jpg?dl=0",
+            "description": "",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-A4-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/fy57ppwdz5i3inh/AABaENAYpo_mLSYwuQ7P1eYoa/Aquarius/black.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-A3-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/fy57ppwdz5i3inh/AABaENAYpo_mLSYwuQ7P1eYoa/Aquarius/black.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-A2-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/fy57ppwdz5i3inh/AABaENAYpo_mLSYwuQ7P1eYoa/Aquarius/black.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-A1-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/fy57ppwdz5i3inh/AABaENAYpo_mLSYwuQ7P1eYoa/Aquarius/black.jpg?dl=0"
+                            }
+                        }
+                    }
+                }
+            },
+            "global-fap": {
+                "variants": {
+                    "GLOBAL-FAP-A5-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/fy57ppwdz5i3inh/AABaENAYpo_mLSYwuQ7P1eYoa/Aquarius/black.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-A4-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/fy57ppwdz5i3inh/AABaENAYpo_mLSYwuQ7P1eYoa/Aquarius/black.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-A3-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/fy57ppwdz5i3inh/AABaENAYpo_mLSYwuQ7P1eYoa/Aquarius/black.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-A2-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/fy57ppwdz5i3inh/AABaENAYpo_mLSYwuQ7P1eYoa/Aquarius/black.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-A1-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/fy57ppwdz5i3inh/AABaENAYpo_mLSYwuQ7P1eYoa/Aquarius/black.jpg?dl=0"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "_Virgo - Light",
+            "user_image_url": "https://www.dropbox.com/sh/fy57ppwdz5i3inh/AACsalWNqN0NE0MfDUBbJwxua/Virgo/light.jpg?dl=0",
+            "description": "",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-A4-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/fy57ppwdz5i3inh/AACsalWNqN0NE0MfDUBbJwxua/Virgo/light.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-A3-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/fy57ppwdz5i3inh/AACsalWNqN0NE0MfDUBbJwxua/Virgo/light.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-A2-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/fy57ppwdz5i3inh/AACsalWNqN0NE0MfDUBbJwxua/Virgo/light.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-A1-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/fy57ppwdz5i3inh/AACsalWNqN0NE0MfDUBbJwxua/Virgo/light.jpg?dl=0"
+                            }
+                        }
+                    }
+                }
+            },
+            "global-fap": {
+                "variants": {
+                    "GLOBAL-FAP-A5-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/fy57ppwdz5i3inh/AACsalWNqN0NE0MfDUBbJwxua/Virgo/light.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-A4-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/fy57ppwdz5i3inh/AACsalWNqN0NE0MfDUBbJwxua/Virgo/light.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-A3-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/fy57ppwdz5i3inh/AACsalWNqN0NE0MfDUBbJwxua/Virgo/light.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-A2-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/fy57ppwdz5i3inh/AACsalWNqN0NE0MfDUBbJwxua/Virgo/light.jpg?dl=0"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-A1-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/sh/fy57ppwdz5i3inh/AACsalWNqN0NE0MfDUBbJwxua/Virgo/light.jpg?dl=0"
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}

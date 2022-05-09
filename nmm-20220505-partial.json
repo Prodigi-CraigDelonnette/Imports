@@ -1,0 +1,153 @@
+{
+    "product_range_defaults":
+    {
+        "published": false
+    },
+    "product_defaults":
+    {
+        "enabled": false
+    },
+    "products_defaults":
+    {
+        "notebook":
+        {
+            "enabled": true
+        },
+        "journal_hardback":
+        {
+            "enabled": true
+        },
+        "cushion":
+        {
+            "enabled": true
+        }
+    },
+    "variant_defaults":
+    {
+        "enabled": false
+    },
+    "variants_defaults":
+    {
+        "notebook_a5_lined":
+        {
+            "enabled": true,
+            "retail_price": "18.00"
+        },
+        "notebook_a5_graph":
+        {
+            "enabled": true,
+            "retail_price": "18.00"
+        },
+        "journal_hardback_5x7_plain":
+        {
+            "enabled": true,
+            "retail_price": "20.00"
+        },
+        "journal_hardback_5x7_lined":
+        {
+            "enabled": true,
+            "retail_price": "20.00"
+        },
+        "suede_12x12_cushion":
+        {
+            "enabled": true,
+            "retail_price": "30.00"
+        },
+        "suede_16x16_cushion":
+        {
+            "enabled": true,
+            "retail_price": "35.00"
+        },
+        "suede_18x18_cushion":
+        {
+            "enabled": true,
+            "retail_price": "35.00"
+        },
+        "suede_19x13_cushion":
+        {
+            "enabled": true,
+            "retail_price": "35.00"
+        },
+        "suede_22x22_cushion":
+        {
+            "enabled": true,
+            "retail_price": "45.00"
+        },
+        "suede_24x24_cushion":
+        {
+            "enabled": true,
+            "retail_price": "45.00"
+        },
+        "linen_12x12_cushion":
+        {
+            "enabled": true,
+            "retail_price": "30.00"
+        },
+        "linen_16x16_cushion":
+        {
+            "enabled": true,
+            "retail_price": "35.00"
+        },
+        "linen_18x18_cushion":
+        {
+            "enabled": true,
+            "retail_price": "35.00"
+        },
+        "linen_19x13_cushion":
+        {
+            "enabled": true,
+            "retail_price": "35.00"
+        },
+        "linen_22x22_cushion":
+        {
+            "enabled": true,
+            "retail_price": "45.00"
+        },
+        "linen_24x24_cushion":
+        {
+            "enabled": true,
+            "retail_price": "45.00"
+        },
+        "canvas_12x12_cushion":
+        {
+            "enabled": true,
+            "retail_price": "30.00"
+        },
+        "canvas_16x16_cushion":
+        {
+            "enabled": true,
+            "retail_price": "35.00"
+        },
+        "canvas_18x18_cushion":
+        {
+            "enabled": true,
+            "retail_price": "35.00"
+        },
+        "canvas_19x13_cushion":
+        {
+            "enabled": true,
+            "retail_price": "35.00"
+        },
+        "canvas_22x22_cushion":
+        {
+            "enabled": true,
+            "retail_price": "45.00"
+        },
+        "canvas_24x24_cushion":
+        {
+            "enabled": true,
+            "retail_price": "45.00"
+        }
+    },
+    "product_ranges":
+    [
+        {
+            "title": "The Battle of Trafalgar, 21 October 1805",
+            "user_image_url": "https://utils.magnoliabox.com/image/nmm/BHC0565?token=5022dc125192f0bd7fbd10b59ecd52e5f22a007e5812de6bca9122483950f95decab611883efcba3"
+        },
+        {
+            "title": "Greenwich Hospital from the north bank of the Thames",
+            "user_image_url": "https://utils.magnoliabox.com/image/nmm/BHC1827?token=d3d34807d373c432e13c81b9ab5768d6f22a007e5812de6bca9122483950f95decab611883efcba3"
+        }
+    ]
+}

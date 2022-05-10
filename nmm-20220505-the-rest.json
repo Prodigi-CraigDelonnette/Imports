@@ -1,0 +1,297 @@
+{
+    "product_range_defaults":
+    {
+        "published": false
+    },
+    "product_defaults":
+    {
+        "enabled": false
+    },
+    "products_defaults":
+    {
+        "notebook":
+        {
+            "enabled": true
+        },
+        "journal_hardback":
+        {
+            "enabled": true
+        },
+        "cushion":
+        {
+            "enabled": true
+        }
+    },
+    "variant_defaults":
+    {
+        "enabled": false
+    },
+    "variants_defaults":
+    {
+        "notebook_a5_lined":
+        {
+            "enabled": true,
+            "retail_price": "18.00"
+        },
+        "notebook_a5_graph":
+        {
+            "enabled": true,
+            "retail_price": "18.00"
+        },
+        "journal_hardback_5x7_plain":
+        {
+            "enabled": true,
+            "retail_price": "20.00"
+        },
+        "journal_hardback_5x7_lined":
+        {
+            "enabled": true,
+            "retail_price": "20.00"
+        },
+        "suede_12x12_cushion":
+        {
+            "enabled": true,
+            "retail_price": "30.00"
+        },
+        "suede_16x16_cushion":
+        {
+            "enabled": true,
+            "retail_price": "35.00"
+        },
+        "suede_18x18_cushion":
+        {
+            "enabled": true,
+            "retail_price": "35.00"
+        },
+        "suede_19x13_cushion":
+        {
+            "enabled": true,
+            "retail_price": "35.00"
+        },
+        "suede_22x22_cushion":
+        {
+            "enabled": true,
+            "retail_price": "45.00"
+        },
+        "suede_24x24_cushion":
+        {
+            "enabled": true,
+            "retail_price": "45.00"
+        },
+        "linen_12x12_cushion":
+        {
+            "enabled": true,
+            "retail_price": "30.00"
+        },
+        "linen_16x16_cushion":
+        {
+            "enabled": true,
+            "retail_price": "35.00"
+        },
+        "linen_18x18_cushion":
+        {
+            "enabled": true,
+            "retail_price": "35.00"
+        },
+        "linen_19x13_cushion":
+        {
+            "enabled": true,
+            "retail_price": "35.00"
+        },
+        "linen_22x22_cushion":
+        {
+            "enabled": true,
+            "retail_price": "45.00"
+        },
+        "linen_24x24_cushion":
+        {
+            "enabled": true,
+            "retail_price": "45.00"
+        },
+        "canvas_12x12_cushion":
+        {
+            "enabled": true,
+            "retail_price": "30.00"
+        },
+        "canvas_16x16_cushion":
+        {
+            "enabled": true,
+            "retail_price": "35.00"
+        },
+        "canvas_18x18_cushion":
+        {
+            "enabled": true,
+            "retail_price": "35.00"
+        },
+        "canvas_19x13_cushion":
+        {
+            "enabled": true,
+            "retail_price": "35.00"
+        },
+        "canvas_22x22_cushion":
+        {
+            "enabled": true,
+            "retail_price": "45.00"
+        },
+        "canvas_24x24_cushion":
+        {
+            "enabled": true,
+            "retail_price": "45.00"
+        }
+    },
+    "product_ranges":
+    [
+        {
+            "title": "The destruction of LOrient at the Battle of the Nile",
+            "user_image_url": "https://utils.magnoliabox.com/image/nmm/BHC0509?token=5022dc125192f0bdd81022a953d078fb6e0295d8c8ecbdce1f71992c9b9122d7ecab611883efcba3"
+        },
+        {
+            "title": "Captain James Cook",
+            "user_image_url": "https://utils.magnoliabox.com/image/nmm/BHC2628?token=b9c4ebc0b99abc3b6ae92560038f0c486e0295d8c8ecbdce1f71992c9b9122d7ecab611883efcba3"
+        },
+        {
+            "title": "Elizabeth I (the Armada Portrait)",
+            "user_image_url": "https://utils.magnoliabox.com/image/nmm/S1720-001?token=b4e63078e8919531eb9ed31efb20a2198b10d4f67e06a29843c3e20b851693b2f55c15c0ccb24524"
+        },
+        {
+            "title": "Nelsons flagships at anchor",
+            "user_image_url": "https://utils.magnoliabox.com/image/nmm/BHC1096?token=d3d34807d373c43258bd0af92ed5b2826e0295d8c8ecbdce1f71992c9b9122d7ecab611883efcba3"
+        },
+        {
+            "title": "Rear-Admiral Horatio Nelson",
+            "user_image_url": "https://utils.magnoliabox.com/image/nmm/bhc2889?token=b9c4ebc0b99abc3b5ce188eecf9669676e0295d8c8ecbdce1f71992c9b9122d7ecab611883efcba3"
+        },
+        {
+            "title": "HMS Erebus in the Ice",
+            "user_image_url": "https://utils.magnoliabox.com/image/nmm/S1364?token=59879978085d2230a74ab3ff40007bd3402170f5df400695349a1ebc3c3ce46d233660a21e9ff9d3"
+        },
+        {
+            "title": "Perilous position of HMS Terror",
+            "user_image_url": "https://utils.magnoliabox.com/image/nmm/BHC3655?token=357f3a9eb6e4e91e226cd02bb7676dd46e0295d8c8ecbdce1f71992c9b9122d7ecab611883efcba3"
+        },
+        {
+            "title": "HMS Erebus and Terror in the Antarctic",
+            "user_image_url": "https://utils.magnoliabox.com/image/nmm/BHC1215?token=d3d34807d373c432afa5c8cfde1008226e0295d8c8ecbdce1f71992c9b9122d7ecab611883efcba3"
+        },
+        {
+            "title": "The bombardment of Algiers",
+            "user_image_url": "https://utils.magnoliabox.com/image/nmm/BHC0615?token=5022dc125192f0bd1a70b47d4cd83a386e0295d8c8ecbdce1f71992c9b9122d7ecab611883efcba3"
+        },
+        {
+            "title": "Cutty Sark at sunset",
+            "user_image_url": "https://utils.magnoliabox.com/image/nmm/BHC3278?token=357f3a9eb6e4e91e7f083327b930533b6e0295d8c8ecbdce1f71992c9b9122d7ecab611883efcba3"
+        },
+        {
+            "title": "Blown on the Wind",
+            "user_image_url": "https://utils.magnoliabox.com/image/nmm/BHC2311?token=b9c4ebc0b99abc3b512e9b14a8cc531d6e0295d8c8ecbdce1f71992c9b9122d7ecab611883efcba3"
+        },
+        {
+            "title": "HMS Erebus passing through the chain of bergs",
+            "user_image_url": "https://utils.magnoliabox.com/image/nmm/BHC3654?token=357f3a9eb6e4e91ea6bc303b786762196e0295d8c8ecbdce1f71992c9b9122d7ecab611883efcba3"
+        },
+        {
+            "title": "The Thames and Greenwich Hospital by moonlight",
+            "user_image_url": "https://utils.magnoliabox.com/image/nmm/BHC3870?token=357f3a9eb6e4e91efdb5c7d4ba48220e6e0295d8c8ecbdce1f71992c9b9122d7ecab611883efcba3"
+        },
+        {
+            "title": "Britannia entering Portsmouth",
+            "user_image_url": "https://utils.magnoliabox.com/image/nmm/BHC3245?token=357f3a9eb6e4e91e7024710be76195e26e0295d8c8ecbdce1f71992c9b9122d7ecab611883efcba3"
+        },
+        {
+            "title": "Cutty Sark",
+            "user_image_url": "https://utils.magnoliabox.com/image/nmm/PY0693?token=8ce649343cb45832fd5c1678a39827474555774fc748540782d28adec9660094551c14fb1d6927c9"
+        },
+        {
+            "title": "Nelson explains the Trafalgar battle plan",
+            "user_image_url": "https://utils.magnoliabox.com/image/nmm/PX9025?token=3a5c1666857662b579066f000f32211f4555774fc748540782d28adec9660094551c14fb1d6927c9"
+        },
+        {
+            "title": "Horatio Nelsons flag signal at the Battle of Trafalgar",
+            "user_image_url": "https://utils.magnoliabox.com/image/nmm/D8080?token=fdfeb38c08a5b0fd16d8b7879d4c8b70402170f5df400695349a1ebc3c3ce46d233660a21e9ff9d3"
+        },
+        {
+            "title": "Trafalgar, 2.30 PM",
+            "user_image_url": "https://utils.magnoliabox.com/image/nmm/D3766?token=a9cb6326f555dc64dd0222a0957a6767402170f5df400695349a1ebc3c3ce46d233660a21e9ff9d3"
+        },
+        {
+            "title": "3-masted barque Penang in dry dock at Millwall",
+            "user_image_url": "https://utils.magnoliabox.com/image/nmm/P39610?token=9c639e79e142807baf69dee1b249e2724555774fc748540782d28adec9660094551c14fb1d6927c9"
+        },
+        {
+            "title": "Sinking of the Scharnhorst",
+            "user_image_url": "https://utils.magnoliabox.com/image/nmm/BHC0685?token=5022dc125192f0bddf24d54557151d776e0295d8c8ecbdce1f71992c9b9122d7ecab611883efcba3"
+        },
+        {
+            "title": "Map of River Thames: London Bridge to Woolwich",
+            "user_image_url": "https://utils.magnoliabox.com/image/nmm/D3873-1?token=d9a66c38e9782daf939ef26eed8503316e0295d8c8ecbdce1f71992c9b9122d7ecab611883efcba3"
+        },
+        {
+            "title": "The Hero of Trafalgar",
+            "user_image_url": "https://utils.magnoliabox.com/image/nmm/PZ6141?token=dfa9a05da2310003037ffb334d789ca24555774fc748540782d28adec9660094551c14fb1d6927c9"
+        },
+        {
+            "title": "A new and accurate map of the world",
+            "user_image_url": "https://utils.magnoliabox.com/image/nmm/F0331?token=393bb8c8e2ebb72a8af342ff4bf99306402170f5df400695349a1ebc3c3ce46d233660a21e9ff9d3"
+        },
+        {
+            "title": "Bow view of Cutty Sark",
+            "user_image_url": "https://utils.magnoliabox.com/image/nmm/bhc3279?token=357f3a9eb6e4e91e5e0e7b8c8e69695a6e0295d8c8ecbdce1f71992c9b9122d7ecab611883efcba3"
+        },
+        {
+            "title": "The ship The Tweed",
+            "user_image_url": "https://utils.magnoliabox.com/image/nmm/BHC3663?token=357f3a9eb6e4e91e48274f90773a1b3a6e0295d8c8ecbdce1f71992c9b9122d7ecab611883efcba3"
+        },
+        {
+            "title": "Portsmouth point",
+            "user_image_url": "https://utils.magnoliabox.com/image/nmm/PW3841?token=da2d03beec6e1177037ffb334d789ca24555774fc748540782d28adec9660094551c14fb1d6927c9"
+        },
+        {
+            "title": "Gibraltar",
+            "user_image_url": "https://utils.magnoliabox.com/image/nmm/D9696?token=e560285b9199db8add0222a0957a6767402170f5df400695349a1ebc3c3ce46d233660a21e9ff9d3"
+        },
+        {
+            "title": "The Battle of the Nile",
+            "user_image_url": "https://utils.magnoliabox.com/image/nmm/BHC0513?token=5022dc125192f0bd796bba9204de80b86e0295d8c8ecbdce55ca2db95128c7caecab611883efcba3"
+        },
+        {
+            "title": "Melencolia I",
+            "user_image_url": "https://utils.magnoliabox.com/image/nmm/PY6127?token=96e7c4d9b39eaa9e9c8a1d35b441fd974555774fc7485407db0c94dfc54b76c2551c14fb1d6927c9"
+        },
+        {
+            "title": "Monuments on Easter Island",
+            "user_image_url": "https://utils.magnoliabox.com/image/nmm/BHC1795?token=d3d34807d373c4328266e79eb01193ab6e0295d8c8ecbdce55ca2db95128c7caecab611883efcba3"
+        },
+        {
+            "title": "Planisphere world map",
+            "user_image_url": "https://utils.magnoliabox.com/image/nmm/C4568-A?token=07c58d32bd59f305cf46ed737e0c283a6e0295d8c8ecbdce55ca2db95128c7caecab611883efcba3"
+        },
+        {
+            "title": "Plan of HMS Surprise",
+            "user_image_url": "https://utils.magnoliabox.com/image/nmmplans/J5948?token=f19c4f1efcf1081d280d67a8da19c835311cd16477c675e6095923e4381eb44e477024562d3f957c"
+        },
+        {
+            "title": "Profile plan of HMS Warspite",
+            "user_image_url": "https://utils.magnoliabox.com/image/nmmplans/J9342?token=f19c4f1efcf1081da7ba9d78b5a79e30311cd16477c675e6095923e4381eb44e477024562d3f957c"
+        },
+        {
+            "title": "Body plan for HMS Victory",
+            "user_image_url": "https://utils.magnoliabox.com/image/nmmplans/J1842?token=f19c4f1efcf1081d67d88f393a96eb0d311cd16477c675e6095923e4381eb44e477024562d3f957c"
+        },
+        {
+            "title": "Royal William",
+            "user_image_url": "https://utils.magnoliabox.com/image/nmmplans/J1789?token=f19c4f1efcf1081d00fdd780c0c28d58311cd16477c675e6095923e4381eb44e477024562d3f957c"
+        },
+        {
+            "title": "Royal George",
+            "user_image_url": "https://utils.magnoliabox.com/image/nmmplans/J1934?token=f19c4f1efcf1081d5b7556f2fddcb390311cd16477c675e6095923e4381eb44e477024562d3f957c"
+        },
+        {
+            "title": "Profile plan of Terror",
+            "user_image_url": "https://utils.magnoliabox.com/image/nmmplans/J1407?token=f19c4f1efcf1081df41ee05dc887543d311cd16477c675e6095923e4381eb44e477024562d3f957c"
+        },
+        {
+            "title": "Longitudinal section plan of Endurance",
+            "user_image_url": "https://utils.magnoliabox.com/image/nmmplans/J9266?token=f19c4f1efcf1081df4552cbfe9d8e4de311cd16477c675e6095923e4381eb44e477024562d3f957c"
+        }
+    ]
+}

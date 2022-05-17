@@ -1,0 +1,96 @@
+{
+    "product_range_defaults": {
+        "published": true
+    },
+    "product_defaults": {
+        "enabled": false
+    },
+    "products_defaults": {
+        "global-fap": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false
+    },
+    "variants_defaults": {
+        "GLOBAL-FAP-8x12-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 24.00
+        }
+    },
+    "product_ranges": [
+        {
+            "title": "Read a book. Print. - Black",
+            "user_image_url": "https://drive.google.com/file/d/1BmmZOCr4Oqr1BB8KmciiESYiYeA9L21l",
+            "products": {
+                "global-fap": {
+                    "description": "",
+                    "variants": {
+                        "GLOBAL-FAP-8x12-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/file/d/1BmmZOCr4Oqr1BB8KmciiESYiYeA9L21l"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Read a book. Print. - Red",
+            "user_image_url": "https://drive.google.com/file/d/1R5zHdGg6LJunMrAKIgdW-tx6Rfi3S_0B",
+            "products": {
+                "global-fap": {
+                    "description": "",
+                    "variants": {
+                        "GLOBAL-FAP-8x12-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/file/d/1R5zHdGg6LJunMrAKIgdW-tx6Rfi3S_0B"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Read a book. Print. - White",
+            "user_image_url": "https://drive.google.com/file/d/1-dfY8c7mu-YWNrufCHuuU38i0av9RWv_",
+            "products": {
+                "global-fap": {
+                    "description": "",
+                    "variants": {
+                        "GLOBAL-FAP-8x12-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/file/d/1-dfY8c7mu-YWNrufCHuuU38i0av9RWv_"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Own your future. Print. - White",
+            "user_image_url": "https://drive.google.com/file/d/1cwf_Yn16kmXArsF2Hirak6rqgpXzzcaj",
+            "products": {
+                "global-fap": {
+                    "description": "",
+                    "variants": {
+                        "GLOBAL-FAP-8x12-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/file/d/1cwf_Yn16kmXArsF2Hirak6rqgpXzzcaj"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}

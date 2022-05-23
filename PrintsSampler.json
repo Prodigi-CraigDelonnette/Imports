@@ -41,7 +41,7 @@
             "products": {
                 "global-fap": {
                     "variants": {
-                        "GLOBAL-FAP-12x16": {
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
                                     "user_image_url": "https://www.dropbox.com/s/rh572iprnu7f4vv/adventure-is-dangerous%402x.jpg?dl=0"
@@ -52,7 +52,7 @@
                 },
                 "global-cfpm": {
                     "variants": {
-                        "GLOBAL-CFPM-16x20": {
+                        "GLOBAL-CFPM-16x20-PORTRAIT": {
                             "images": {
                                 "front": {
                                     "user_image_url": "https://www.dropbox.com/s/rh572iprnu7f4vv/adventure-is-dangerous%402x.jpg?dl=0"
@@ -63,7 +63,7 @@
                 },
                 "global-cfp": {
                     "variants": {
-                        "GLOBAL-CFP-12x16": {
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
                                     "user_image_url": "https://www.dropbox.com/s/rh572iprnu7f4vv/adventure-is-dangerous%402x.jpg?dl=0"
@@ -75,16 +75,16 @@
             }
         },
         {
-            "title": "Bike Mad Art Print",
+            "title": "Glentress Art Print",
             "description": "DESC",
-            "user_image_url": "https://www.dropbox.com/s/01dluhql2tee3j2/bikes-bikes-bikes_30x40-01.jpg?dl=0",
+            "user_image_url": "https://www.dropbox.com/s/axhuziwvpoj8wk9/Glentress-30x40-01.jpg?dl=0",
             "products": {
                 "global-fap": {
                     "variants": {
-                        "GLOBAL-FAP-12x16": {
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/s/01dluhql2tee3j2/bikes-bikes-bikes_30x40-01.jpg?dl=0"
+                                    "user_image_url": "https://www.dropbox.com/s/axhuziwvpoj8wk9/Glentress-30x40-01.jpg?dl=0"
                                 }
                             }
                         }
@@ -92,10 +92,10 @@
                 },
                 "global-cfpm": {
                     "variants": {
-                        "GLOBAL-CFPM-16x20": {
+                        "GLOBAL-CFPM-16x20-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/s/01dluhql2tee3j2/bikes-bikes-bikes_30x40-01.jpg?dl=0"
+                                    "user_image_url": "https://www.dropbox.com/s/axhuziwvpoj8wk9/Glentress-30x40-01.jpg?dl=0"
                                 }
                             }
                         }
@@ -103,10 +103,10 @@
                 },
                 "global-cfp": {
                     "variants": {
-                        "GLOBAL-CFP-12x16": {
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/s/01dluhql2tee3j2/bikes-bikes-bikes_30x40-01.jpg?dl=0"
+                                    "user_image_url": "https://www.dropbox.com/s/axhuziwvpoj8wk9/Glentress-30x40-01.jpg?dl=0"
                                 }
                             }
                         }
@@ -121,7 +121,7 @@
             "products": {
                 "global-fap": {
                     "variants": {
-                        "GLOBAL-FAP-12x16": {
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
                                     "user_image_url": "https://www.dropbox.com/s/zdzzkuc5c4bswb9/yair_30x40-01.jpg?dl=0"
@@ -132,7 +132,7 @@
                 },
                 "global-cfpm": {
                     "variants": {
-                        "GLOBAL-CFPM-16x20": {
+                        "GLOBAL-CFPM-16x20-PORTRAIT": {
                             "images": {
                                 "front": {
                                     "user_image_url": "https://www.dropbox.com/s/zdzzkuc5c4bswb9/yair_30x40-01.jpg?dl=0"
@@ -143,7 +143,7 @@
                 },
                 "global-cfp": {
                     "variants": {
-                        "GLOBAL-CFP-12x16": {
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
                             "images": {
                                 "front": {
                                     "user_image_url": "https://www.dropbox.com/s/zdzzkuc5c4bswb9/yair_30x40-01.jpg?dl=0"

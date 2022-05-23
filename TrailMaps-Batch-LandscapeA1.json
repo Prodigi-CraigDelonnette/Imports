@@ -1,0 +1,89 @@
+{
+    "product_range_defaults": {
+        "published": true
+    },
+    "product_defaults": {
+        "enabled": false
+    },
+    "products_defaults": {
+        "global-fap": {
+            "enabled": true
+        },
+        "global-cfpm": {
+            "enabled": true
+        },
+        "global-cfp": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false
+    },
+    "variants_defaults": {
+        "GLOBAL-FAP-12x16": {
+            "enabled": true,
+            "retail_price": 17.95
+        },
+        "GLOBAL-FAP-A1": {
+            "enabled": true,
+            "retail_price": 29.95
+        },
+        "GLOBAL-CFPM-16x20": {
+            "enabled": true,
+            "retail_price": 54.95
+        },
+        "GLOBAL-CFP-12x16": {
+            "enabled": true,
+            "retail_price": 52.95
+        }
+    },
+    "product_ranges": [
+        {
+            "title": "Mountain Bike Map of the Alps",
+            "description": "DESC",
+            "user_image_url": "https://www.dropbox.com/s/ccqwts0q83xnp37/map-of-the-alps_30x40.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "variants": {
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ccqwts0q83xnp37/map-of-the-alps_30x40.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A1-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/qfq5b2d818zd687/map-of-the-alps-A1.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-cfpm": {
+                    "variants": {
+                        "GLOBAL-CFPM-16x20-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ccqwts0q83xnp37/map-of-the-alps_30x40.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "variants": {
+                        "GLOBAL-CFP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ccqwts0q83xnp37/map-of-the-alps_30x40.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}

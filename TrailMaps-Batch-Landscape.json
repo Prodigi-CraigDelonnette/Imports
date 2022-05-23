@@ -20,15 +20,15 @@
         "enabled": false
     },
     "variants_defaults": {
-        "GLOBAL-FAP-12x16": {
+        "GLOBAL-FAP-12x16-LANDSCAPE": {
             "enabled": true,
             "retail_price": 17.95
         },
-        "GLOBAL-CFPM-16x20": {
+        "GLOBAL-CFPM-16x20-LANDSCAPE": {
             "enabled": true,
             "retail_price": 54.95
         },
-        "GLOBAL-CFP-12x16": {
+        "GLOBAL-CFP-12x16-LANDSCAPE": {
             "enabled": true,
             "retail_price": 52.95
         }

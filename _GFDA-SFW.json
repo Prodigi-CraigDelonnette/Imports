@@ -29,6 +29,678 @@
     },
     "product_ranges": [
         {
+            "title": "Don’t hold back. Print. - Red",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1wuTg49SoXw6WIj6_eS3gz8vRcqC9FUTx",
+            "products": {
+                "global-fap": {
+                    "description": "No. 376 / Don’t hold back. <p>Creativity, resolve, and dreams—these are all limitless if you allow them to be. Energy, time, and opportunity are finite, and you have to make the most of them while you can. There’s no guarantee that you’ll get another shot. Give yourself completely to the one you have. If you make it, you’ll create more opportunities. If you fail, you’ll have the experience necessary to improve. If you don’t at least try, all you’ll have is regret. Regret is a lot harder to live with than failure.",
+                    "variants": {
+                        "GLOBAL-FAP-8x12-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1wuTg49SoXw6WIj6_eS3gz8vRcqC9FUTx"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x18-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1wuTg49SoXw6WIj6_eS3gz8vRcqC9FUTx"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-24x36-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1wuTg49SoXw6WIj6_eS3gz8vRcqC9FUTx"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Don’t hold back. Print. - White",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1uTL6niznN4d8xUrzD_6i7zP8wrrLlLrS",
+            "products": {
+                "global-fap": {
+                    "description": "No. 376 / Don’t hold back. <p>Creativity, resolve, and dreams—these are all limitless if you allow them to be. Energy, time, and opportunity are finite, and you have to make the most of them while you can. There’s no guarantee that you’ll get another shot. Give yourself completely to the one you have. If you make it, you’ll create more opportunities. If you fail, you’ll have the experience necessary to improve. If you don’t at least try, all you’ll have is regret. Regret is a lot harder to live with than failure.",
+                    "variants": {
+                        "GLOBAL-FAP-8x12-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1uTL6niznN4d8xUrzD_6i7zP8wrrLlLrS"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x18-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1uTL6niznN4d8xUrzD_6i7zP8wrrLlLrS"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-24x36-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1uTL6niznN4d8xUrzD_6i7zP8wrrLlLrS"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "You are worth it. Print. - Black",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1lUmwueGGIHscQZ4emYmqSvyl-rcMi_1q",
+            "products": {
+                "global-fap": {
+                    "description": "No. 378 / You are worth it. <p>Every doubt you wrestle with, every pain you endure, every fear you fight, every loss you feel, every heartache you survive, every time you pick yourself back up, every year you spend hoping for something more, every day you spend worrying alone, every moment you spend struggling to succeed… you’re paying for something that can’t be bought. You’re building something no one else can own. You’re earning a stronger, more mature, more whole you. That’s worth everything.",
+                    "variants": {
+                        "GLOBAL-FAP-8x12-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1lUmwueGGIHscQZ4emYmqSvyl-rcMi_1q"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x18-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1lUmwueGGIHscQZ4emYmqSvyl-rcMi_1q"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-24x36-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1lUmwueGGIHscQZ4emYmqSvyl-rcMi_1q"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "You are worth it. Print. - Red",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1hfQGa9y6YYJ6Bx55ULyCt1tOfNDFDxMX",
+            "products": {
+                "global-fap": {
+                    "description": "No. 378 / You are worth it. <p>Every doubt you wrestle with, every pain you endure, every fear you fight, every loss you feel, every heartache you survive, every time you pick yourself back up, every year you spend hoping for something more, every day you spend worrying alone, every moment you spend struggling to succeed… you’re paying for something that can’t be bought. You’re building something no one else can own. You’re earning a stronger, more mature, more whole you. That’s worth everything.",
+                    "variants": {
+                        "GLOBAL-FAP-8x12-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1hfQGa9y6YYJ6Bx55ULyCt1tOfNDFDxMX"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x18-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1hfQGa9y6YYJ6Bx55ULyCt1tOfNDFDxMX"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-24x36-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1hfQGa9y6YYJ6Bx55ULyCt1tOfNDFDxMX"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "You are worth it. Print. - White",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1GpnU_Ub4L-7bRS6fRb0g_TQEoud7ev4Q",
+            "products": {
+                "global-fap": {
+                    "description": "No. 378 / You are worth it. <p>Every doubt you wrestle with, every pain you endure, every fear you fight, every loss you feel, every heartache you survive, every time you pick yourself back up, every year you spend hoping for something more, every day you spend worrying alone, every moment you spend struggling to succeed… you’re paying for something that can’t be bought. You’re building something no one else can own. You’re earning a stronger, more mature, more whole you. That’s worth everything.",
+                    "variants": {
+                        "GLOBAL-FAP-8x12-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1GpnU_Ub4L-7bRS6fRb0g_TQEoud7ev4Q"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x18-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1GpnU_Ub4L-7bRS6fRb0g_TQEoud7ev4Q"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-24x36-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1GpnU_Ub4L-7bRS6fRb0g_TQEoud7ev4Q"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Think for yourself. Print. - Black",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1V32e6OnYRjlXtZ4s6KS6Cu5RpqzzzL7w",
+            "products": {
+                "global-fap": {
+                    "description": "No. 380 / Think for yourself. <p>You know the difference between right and wrong. You know when you’re being used. You know when you’re being lied to. You know when others only see you as an asset. You know when someone else has their own interests in mind. Validation, community, love, and fulfillment are rewards of being conscientious, not payments for being loyal. A sense of belonging can’t be purchased with self-respect. Acceptance will never be worth the cost of independence. Your dignity isn’t a currency, it isn’t exchanged, only lost.",
+                    "variants": {
+                        "GLOBAL-FAP-8x12-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1V32e6OnYRjlXtZ4s6KS6Cu5RpqzzzL7w"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x18-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1V32e6OnYRjlXtZ4s6KS6Cu5RpqzzzL7w"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-24x36-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1V32e6OnYRjlXtZ4s6KS6Cu5RpqzzzL7w"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Think for yourself. Print. - Red",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1W9K6IH2K1iivHYV7rIRMnf24hCsM6cyf",
+            "products": {
+                "global-fap": {
+                    "description": "No. 380 / Think for yourself. <p>You know the difference between right and wrong. You know when you’re being used. You know when you’re being lied to. You know when others only see you as an asset. You know when someone else has their own interests in mind. Validation, community, love, and fulfillment are rewards of being conscientious, not payments for being loyal. A sense of belonging can’t be purchased with self-respect. Acceptance will never be worth the cost of independence. Your dignity isn’t a currency, it isn’t exchanged, only lost.",
+                    "variants": {
+                        "GLOBAL-FAP-8x12-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1W9K6IH2K1iivHYV7rIRMnf24hCsM6cyf"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x18-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1W9K6IH2K1iivHYV7rIRMnf24hCsM6cyf"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-24x36-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1W9K6IH2K1iivHYV7rIRMnf24hCsM6cyf"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Think for yourself. Print. - White",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1hrml4aDAbUSzRdeHE9FUqglcEGGHB233",
+            "products": {
+                "global-fap": {
+                    "description": "No. 380 / Think for yourself. <p>You know the difference between right and wrong. You know when you’re being used. You know when you’re being lied to. You know when others only see you as an asset. You know when someone else has their own interests in mind. Validation, community, love, and fulfillment are rewards of being conscientious, not payments for being loyal. A sense of belonging can’t be purchased with self-respect. Acceptance will never be worth the cost of independence. Your dignity isn’t a currency, it isn’t exchanged, only lost.",
+                    "variants": {
+                        "GLOBAL-FAP-8x12-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1hrml4aDAbUSzRdeHE9FUqglcEGGHB233"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x18-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1hrml4aDAbUSzRdeHE9FUqglcEGGHB233"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-24x36-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1hrml4aDAbUSzRdeHE9FUqglcEGGHB233"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Remember where you came from. Print. - Black",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1LtsJvBFFbL7Ii18eMiWgg_1He-mva8vq",
+            "products": {
+                "global-fap": {
+                    "description": "No. 381 / Remember where you came from. <p>Before you look down on anyone else, look back at yourself. Remember when you used to suck? What elementary concepts did you struggle with? What gross misconceptions did you hold? What chances did you squander? Who stooped down to help you? Who was willing to look past your inadequacy, your ignorance, or your insecurity? Who stuck with you when there was no reason to? How wise was their investment? How much do you owe? How are you going to pay it off?",
+                    "variants": {
+                        "GLOBAL-FAP-8x12-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1LtsJvBFFbL7Ii18eMiWgg_1He-mva8vq"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x18-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1LtsJvBFFbL7Ii18eMiWgg_1He-mva8vq"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-24x36-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1LtsJvBFFbL7Ii18eMiWgg_1He-mva8vq"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Remember where you came from. Print. - Red",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1BnJN7Q-zMbR0mSGrz3QcNzGJQSG-K_I1",
+            "products": {
+                "global-fap": {
+                    "description": "No. 381 / Remember where you came from. <p>Before you look down on anyone else, look back at yourself. Remember when you used to suck? What elementary concepts did you struggle with? What gross misconceptions did you hold? What chances did you squander? Who stooped down to help you? Who was willing to look past your inadequacy, your ignorance, or your insecurity? Who stuck with you when there was no reason to? How wise was their investment? How much do you owe? How are you going to pay it off?",
+                    "variants": {
+                        "GLOBAL-FAP-8x12-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1BnJN7Q-zMbR0mSGrz3QcNzGJQSG-K_I1"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x18-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1BnJN7Q-zMbR0mSGrz3QcNzGJQSG-K_I1"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-24x36-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1BnJN7Q-zMbR0mSGrz3QcNzGJQSG-K_I1"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Remember where you came from. Print. - White",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1KnlAn-YGlkWszZ_usiaI5yJaay7hDHDb",
+            "products": {
+                "global-fap": {
+                    "description": "No. 381 / Remember where you came from. <p>Before you look down on anyone else, look back at yourself. Remember when you used to suck? What elementary concepts did you struggle with? What gross misconceptions did you hold? What chances did you squander? Who stooped down to help you? Who was willing to look past your inadequacy, your ignorance, or your insecurity? Who stuck with you when there was no reason to? How wise was their investment? How much do you owe? How are you going to pay it off?",
+                    "variants": {
+                        "GLOBAL-FAP-8x12-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1KnlAn-YGlkWszZ_usiaI5yJaay7hDHDb"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x18-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1KnlAn-YGlkWszZ_usiaI5yJaay7hDHDb"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-24x36-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1KnlAn-YGlkWszZ_usiaI5yJaay7hDHDb"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Hold your head up. Print. - Black",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1ebsAeYzeroMP9NQkkCw3FB5DQu8tzdaa",
+            "products": {
+                "global-fap": {
+                    "description": "No. 382 / Hold your head up. <p>When you’ve just had your ass thoroughly and mercilessly kicked, hold your head up. When you’ve barely got yourself together and you’re ready to fall apart, hold your head up. Whether you’re in front of the crowd, or you’re all by yourself, hold your head up. When you’ve miraculously survived after doing everything wrong, hold your head up. You may still be afraid, hurt, unpopular, or oblivious to how you’ve made it this far, but you’ll have your dignity.",
+                    "variants": {
+                        "GLOBAL-FAP-8x12-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1ebsAeYzeroMP9NQkkCw3FB5DQu8tzdaa"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x18-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1ebsAeYzeroMP9NQkkCw3FB5DQu8tzdaa"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-24x36-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1ebsAeYzeroMP9NQkkCw3FB5DQu8tzdaa"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Hold your head up. Print. - Red",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=15LK1eA67FwrgCXb0oraLRFxrM_lZHmJW",
+            "products": {
+                "global-fap": {
+                    "description": "No. 382 / Hold your head up. <p>When you’ve just had your ass thoroughly and mercilessly kicked, hold your head up. When you’ve barely got yourself together and you’re ready to fall apart, hold your head up. Whether you’re in front of the crowd, or you’re all by yourself, hold your head up. When you’ve miraculously survived after doing everything wrong, hold your head up. You may still be afraid, hurt, unpopular, or oblivious to how you’ve made it this far, but you’ll have your dignity.",
+                    "variants": {
+                        "GLOBAL-FAP-8x12-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=15LK1eA67FwrgCXb0oraLRFxrM_lZHmJW"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x18-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=15LK1eA67FwrgCXb0oraLRFxrM_lZHmJW"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-24x36-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=15LK1eA67FwrgCXb0oraLRFxrM_lZHmJW"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Hold your head up. Print. - White",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=15AIpA-YVrYCBQDXy2lGh9sWvarkXCLWs",
+            "products": {
+                "global-fap": {
+                    "description": "No. 382 / Hold your head up. <p>When you’ve just had your ass thoroughly and mercilessly kicked, hold your head up. When you’ve barely got yourself together and you’re ready to fall apart, hold your head up. Whether you’re in front of the crowd, or you’re all by yourself, hold your head up. When you’ve miraculously survived after doing everything wrong, hold your head up. You may still be afraid, hurt, unpopular, or oblivious to how you’ve made it this far, but you’ll have your dignity.",
+                    "variants": {
+                        "GLOBAL-FAP-8x12-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=15AIpA-YVrYCBQDXy2lGh9sWvarkXCLWs"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x18-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=15AIpA-YVrYCBQDXy2lGh9sWvarkXCLWs"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-24x36-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=15AIpA-YVrYCBQDXy2lGh9sWvarkXCLWs"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Complaining doesn’t help. Print. - Black",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=19X8DlohT_LF3AyXZovllDyaLfDQlMpHf",
+            "products": {
+                "global-fap": {
+                    "description": "No. 384 / Complaining doesn’t help. <p>In the epic saga of human struggle, a single episode of inconvenience isn’t very compelling. If you don’t like things as they stand, do them differently. If you aren’t satisfied with what you have, work for something better. If you’re not happy where you are, make a move. Yes, it’s complicated. Yes, it’s incredibly challenging. Yes, you’re going to mess it up. Survival is a struggle, and it’s been difficult since the beginning of time. Success is not assured. You might not make it. Don’t waste what little time you have.",
+                    "variants": {
+                        "GLOBAL-FAP-8x12-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=19X8DlohT_LF3AyXZovllDyaLfDQlMpHf"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x18-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=19X8DlohT_LF3AyXZovllDyaLfDQlMpHf"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-24x36-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=19X8DlohT_LF3AyXZovllDyaLfDQlMpHf"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Complaining doesn’t help. Print. - Red",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=15rT6Ibz4PO43CsODTQkSHw0IO0cB3qW7",
+            "products": {
+                "global-fap": {
+                    "description": "No. 384 / Complaining doesn’t help. <p>In the epic saga of human struggle, a single episode of inconvenience isn’t very compelling. If you don’t like things as they stand, do them differently. If you aren’t satisfied with what you have, work for something better. If you’re not happy where you are, make a move. Yes, it’s complicated. Yes, it’s incredibly challenging. Yes, you’re going to mess it up. Survival is a struggle, and it’s been difficult since the beginning of time. Success is not assured. You might not make it. Don’t waste what little time you have.",
+                    "variants": {
+                        "GLOBAL-FAP-8x12-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=15rT6Ibz4PO43CsODTQkSHw0IO0cB3qW7"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x18-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=15rT6Ibz4PO43CsODTQkSHw0IO0cB3qW7"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-24x36-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=15rT6Ibz4PO43CsODTQkSHw0IO0cB3qW7"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Complaining doesn’t help. Print. - White",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1q5J6yVZNQe2n_EIMjO7L9Ouc6KGeTxFv",
+            "products": {
+                "global-fap": {
+                    "description": "No. 384 / Complaining doesn’t help. <p>In the epic saga of human struggle, a single episode of inconvenience isn’t very compelling. If you don’t like things as they stand, do them differently. If you aren’t satisfied with what you have, work for something better. If you’re not happy where you are, make a move. Yes, it’s complicated. Yes, it’s incredibly challenging. Yes, you’re going to mess it up. Survival is a struggle, and it’s been difficult since the beginning of time. Success is not assured. You might not make it. Don’t waste what little time you have.",
+                    "variants": {
+                        "GLOBAL-FAP-8x12-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1q5J6yVZNQe2n_EIMjO7L9Ouc6KGeTxFv"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x18-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1q5J6yVZNQe2n_EIMjO7L9Ouc6KGeTxFv"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-24x36-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1q5J6yVZNQe2n_EIMjO7L9Ouc6KGeTxFv"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Use your head. Print. - Black",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1FP9RW_hiNf-T_uKUo2N_H1T7nGc-lLWP",
+            "products": {
+                "global-fap": {
+                    "description": "No. 385 / Use your head. <p>You’ve been granted the gifts of reason and intellect. They’re miraculous. They’re unique in all the known universe. They’ll allow you to do almost anything. Yet, in the worst of times, in drastic circumstances, in precisely the moment when you desperately need them most, you are most likely to forget you have them. Use your gifts to their fullest potential: Take precautions. Make preparations. Assess threats. Consider options. Observe. Adapt. Respond. Improve your odds. Keep yourself together.",
+                    "variants": {
+                        "GLOBAL-FAP-8x12-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1FP9RW_hiNf-T_uKUo2N_H1T7nGc-lLWP"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x18-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1FP9RW_hiNf-T_uKUo2N_H1T7nGc-lLWP"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-24x36-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1FP9RW_hiNf-T_uKUo2N_H1T7nGc-lLWP"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Use your head. Print. - Red",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1dDpiM4ImULSinXYn0wDl0jyeLthJrr6_",
+            "products": {
+                "global-fap": {
+                    "description": "No. 385 / Use your head. <p>You’ve been granted the gifts of reason and intellect. They’re miraculous. They’re unique in all the known universe. They’ll allow you to do almost anything. Yet, in the worst of times, in drastic circumstances, in precisely the moment when you desperately need them most, you are most likely to forget you have them. Use your gifts to their fullest potential: Take precautions. Make preparations. Assess threats. Consider options. Observe. Adapt. Respond. Improve your odds. Keep yourself together.",
+                    "variants": {
+                        "GLOBAL-FAP-8x12-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1dDpiM4ImULSinXYn0wDl0jyeLthJrr6_"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x18-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1dDpiM4ImULSinXYn0wDl0jyeLthJrr6_"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-24x36-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1dDpiM4ImULSinXYn0wDl0jyeLthJrr6_"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Use your head. Print. - White",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1sZDQmzP8mEJ_0NSg6w2m3txqdgCOxzsW",
+            "products": {
+                "global-fap": {
+                    "description": "No. 385 / Use your head. <p>You’ve been granted the gifts of reason and intellect. They’re miraculous. They’re unique in all the known universe. They’ll allow you to do almost anything. Yet, in the worst of times, in drastic circumstances, in precisely the moment when you desperately need them most, you are most likely to forget you have them. Use your gifts to their fullest potential: Take precautions. Make preparations. Assess threats. Consider options. Observe. Adapt. Respond. Improve your odds. Keep yourself together.",
+                    "variants": {
+                        "GLOBAL-FAP-8x12-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1sZDQmzP8mEJ_0NSg6w2m3txqdgCOxzsW"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x18-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1sZDQmzP8mEJ_0NSg6w2m3txqdgCOxzsW"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-24x36-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1sZDQmzP8mEJ_0NSg6w2m3txqdgCOxzsW"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Be committed. Print. - Black",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1EOL84TTrVw_rMiZ3DXxQP4tP-zXQb-fB",
+            "products": {
+                "global-fap": {
+                    "description": "No. 387 / Be committed. <p>If you believe, but you can’t say why, it’s worth it. If you don’t know what’s going to happen, but you know you can’t resist the urge to find out, it’s worth it. If the whole world tells you it can’t be done, it’s worth it. If it’s too long, too difficult, too far, too much, too soon, too big, too new, it’s worth it. If it’s crazy and it makes you afraid, it’s worth it. If it’s demanding, if it requires you to do your best, it’s going to teach you something about yourself, and that’s worth it.",
+                    "variants": {
+                        "GLOBAL-FAP-8x12-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1EOL84TTrVw_rMiZ3DXxQP4tP-zXQb-fB"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x18-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1EOL84TTrVw_rMiZ3DXxQP4tP-zXQb-fB"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-24x36-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1EOL84TTrVw_rMiZ3DXxQP4tP-zXQb-fB"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
             "title": "Be committed. Print. - Red",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1I8wXn-H7zibAkK4eC38tQhFNJBzYn_7r",
             "products": {

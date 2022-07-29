@@ -43,8 +43,8 @@
             "title": "Highland View",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1GkUdTE5i7jC80nn8tZn9eg6thfTPuRuZ",
             "products": {
-                "description": "",
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-LANDSCAPE-IW": {
                             "images": {

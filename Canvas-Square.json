@@ -61,82 +61,83 @@
     "product_ranges": [
         {
             "title": "Toro Naranja",
-            "user_image_url": "https://drive.google.com/uc?export=download&id=190q-aJKZOMZCTXzBKUWeo3VR3Bx3q-07",
+            "user_image_url": "https://drive.google.com/file/d/190q-aJKZOMZCTXzBKUWeo3VR3Bx3q-07",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-20x20-SQUARE-MW": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=190q-aJKZOMZCTXzBKUWeo3VR3Bx3q-07"
+                                    "user_image_url": "https://drive.google.com/file/d/190q-aJKZOMZCTXzBKUWeo3VR3Bx3q-07"
                                 }
                             }
                         },
                         "GLOBAL-CAN-24x24-SQUARE-MW": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=190q-aJKZOMZCTXzBKUWeo3VR3Bx3q-07"
+                                    "user_image_url": "https://drive.google.com/file/d/190q-aJKZOMZCTXzBKUWeo3VR3Bx3q-07"
                                 }
                             }
                         },
                         "GLOBAL-CAN-32x32-SQUARE-MW": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=190q-aJKZOMZCTXzBKUWeo3VR3Bx3q-07"
+                                    "user_image_url": "https://drive.google.com/file/d/190q-aJKZOMZCTXzBKUWeo3VR3Bx3q-07"
                                 }
                             }
                         },
                         "GLOBAL-CAN-36X36-SQUARE-MW": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=190q-aJKZOMZCTXzBKUWeo3VR3Bx3q-07"
+                                    "user_image_url": "https://drive.google.com/file/d/190q-aJKZOMZCTXzBKUWeo3VR3Bx3q-07"
                                 }
                             }
                         },
                         "GLOBAL-CAN-40X40-SQUARE-MW": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=190q-aJKZOMZCTXzBKUWeo3VR3Bx3q-07"
+                                    "user_image_url": "https://drive.google.com/file/d/190q-aJKZOMZCTXzBKUWeo3VR3Bx3q-07"
                                 }
                             }
                         }
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-20x20-SQUARE-MW": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=190q-aJKZOMZCTXzBKUWeo3VR3Bx3q-07"
+                                    "user_image_url": "https://drive.google.com/file/d/190q-aJKZOMZCTXzBKUWeo3VR3Bx3q-07"
                                 }
                             }
                         },
                         "GLOBAL-FRA-CAN-24x24-SQUARE-MW": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=190q-aJKZOMZCTXzBKUWeo3VR3Bx3q-07"
+                                    "user_image_url": "https://drive.google.com/file/d/190q-aJKZOMZCTXzBKUWeo3VR3Bx3q-07"
                                 }
                             }
                         },
                         "GLOBAL-FRA-CAN-32x32-SQUARE-MW": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=190q-aJKZOMZCTXzBKUWeo3VR3Bx3q-07"
+                                    "user_image_url": "https://drive.google.com/file/d/190q-aJKZOMZCTXzBKUWeo3VR3Bx3q-07"
                                 }
                             }
                         },
                         "GLOBAL-FRA-CAN-36X36-SQUARE-MW": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=190q-aJKZOMZCTXzBKUWeo3VR3Bx3q-07"
+                                    "user_image_url": "https://drive.google.com/file/d/190q-aJKZOMZCTXzBKUWeo3VR3Bx3q-07"
                                 }
                             }
                         },
                         "GLOBAL-FRA-CAN-40X40-SQUARE-MW": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=190q-aJKZOMZCTXzBKUWeo3VR3Bx3q-07"
+                                    "user_image_url": "https://drive.google.com/file/d/190q-aJKZOMZCTXzBKUWeo3VR3Bx3q-07"
                                 }
                             }
                         }
@@ -148,8 +149,8 @@
             "title": "Making Changes",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1X4vz0yTGagJgvKtAzOnBN3bBRK4ypeUx",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-20x20-SQUARE-MW": {
                             "images": {
@@ -189,6 +190,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-20x20-SQUARE-MW": {
                             "images": {
@@ -233,8 +235,8 @@
             "title": "Earth Tones 2",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1n5yCA6alJkNJD_ArrfyjIhn4eIGW-h1K",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-20x20-SQUARE-MW": {
                             "images": {
@@ -274,6 +276,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-20x20-SQUARE-MW": {
                             "images": {
@@ -318,8 +321,8 @@
             "title": "Earth Tones 1",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1smPc2i3UoUQNNB9QqJA56wl1B45dgzV7",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-20x20-SQUARE-MW": {
                             "images": {
@@ -359,6 +362,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-20x20-SQUARE-MW": {
                             "images": {
@@ -403,8 +407,8 @@
             "title": "Harmony",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1qQhEXAz5gbS_oVv7f5tNl6__hqiaSwAr",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-20x20-SQUARE-MW": {
                             "images": {
@@ -444,6 +448,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-20x20-SQUARE-MW": {
                             "images": {
@@ -488,8 +493,8 @@
             "title": "Kindly So",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1agS-d3d-EQFlys1drrFNTwYSJlTWV4r2",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-20x20-SQUARE-MW": {
                             "images": {
@@ -529,6 +534,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-20x20-SQUARE-MW": {
                             "images": {
@@ -573,8 +579,8 @@
             "title": "Essential",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1UhR4B6KlXxPf0_AiOdyeh4srXzvECGhy",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-20x20-SQUARE-MW": {
                             "images": {
@@ -614,6 +620,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-20x20-SQUARE-MW": {
                             "images": {
@@ -658,8 +665,8 @@
             "title": "Ebbs and Flows",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1Sw3vVHFDhZJCnIxQSS3Uk8QWeaCH-w2b",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-20x20-SQUARE-MW": {
                             "images": {
@@ -699,6 +706,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-20x20-SQUARE-MW": {
                             "images": {
@@ -743,8 +751,8 @@
             "title": "Sails in the Wind",
             "user_image_url": "https://drive.google.com/uc?export=download&id=18zCH78CCigN0tQNFg9FqvQkTzBrO2YN5",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-20x20-SQUARE-MW": {
                             "images": {
@@ -784,6 +792,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-20x20-SQUARE-MW": {
                             "images": {
@@ -828,8 +837,8 @@
             "title": "Elephant Rose",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1Up68GMKcSej9tqLzW9fRqpxizd1fBY02",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-20x20-SQUARE-MW": {
                             "images": {
@@ -869,6 +878,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-20x20-SQUARE-MW": {
                             "images": {
@@ -913,8 +923,8 @@
             "title": "Toro Naranja",
             "user_image_url": "https://drive.google.com/uc?export=download&id=190q-aJKZOMZCTXzBKUWeo3VR3Bx3q-07",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-20x20-SQUARE-MW": {
                             "images": {
@@ -954,6 +964,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-20x20-SQUARE-MW": {
                             "images": {
@@ -998,8 +1009,8 @@
             "title": "Where The Lines Meet",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1Xi1F9WOj7DRJO0UlAVDBEPGJi4wCwaxc",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-20x20-SQUARE-MW": {
                             "images": {
@@ -1039,6 +1050,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-20x20-SQUARE-MW": {
                             "images": {
@@ -1083,8 +1095,8 @@
             "title": "The Bright Side",
             "user_image_url": "https://drive.google.com/uc?export=download&id=16JENdyRapX56-dsTA33mNTQgB5hzrfq5",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-20x20-SQUARE-MW": {
                             "images": {
@@ -1124,6 +1136,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-20x20-SQUARE-MW": {
                             "images": {
@@ -1168,8 +1181,8 @@
             "title": "Sun Goddess",
             "user_image_url": "https://drive.google.com/uc?export=download&id=163Uow0wUbXVIr-XyjpQXWfyQktp85oVZ",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-20x20-SQUARE-MW": {
                             "images": {
@@ -1209,6 +1222,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-20x20-SQUARE-MW": {
                             "images": {
@@ -1253,8 +1267,8 @@
             "title": "Soft Shapes",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1jZfYcdMz5EhSxoEVDytCM8cYvD9U9jRD",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-20x20-SQUARE-MW": {
                             "images": {
@@ -1294,6 +1308,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-20x20-SQUARE-MW": {
                             "images": {
@@ -1338,8 +1353,8 @@
             "title": "Peaceful Morning",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1BBymaJyQ4XHxL79jRnGUotRPvAxcRRb8",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-20x20-SQUARE-MW": {
                             "images": {
@@ -1379,6 +1394,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-20x20-SQUARE-MW": {
                             "images": {
@@ -1423,8 +1439,8 @@
             "title": "Peaceful Evening",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1wISrzQVs1tbYLZCAncrpE2IbpzFGmjmC",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-20x20-SQUARE-MW": {
                             "images": {
@@ -1464,6 +1480,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-20x20-SQUARE-MW": {
                             "images": {
@@ -1508,8 +1525,8 @@
             "title": "Pale Moon",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1dvLUKnJGmJiOxMDD3XGKEP3buU4s94NI",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-20x20-SQUARE-MW": {
                             "images": {
@@ -1549,6 +1566,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-20x20-SQUARE-MW": {
                             "images": {
@@ -1593,8 +1611,8 @@
             "title": "Offset",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1hALJpVrmv4exa23B4ykQk60-AGNFiw6w",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-20x20-SQUARE-MW": {
                             "images": {
@@ -1634,6 +1652,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-20x20-SQUARE-MW": {
                             "images": {
@@ -1678,8 +1697,8 @@
             "title": "May Flowers",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1X0BUeEgBSbXz-EpXnXm_NKidxmcvpA83",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-20x20-SQUARE-MW": {
                             "images": {
@@ -1719,6 +1738,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-20x20-SQUARE-MW": {
                             "images": {
@@ -1763,8 +1783,8 @@
             "title": "Low Tide",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1UCj7Tta34mx6zTpS6_sYcWnhyuSyTV25",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-20x20-SQUARE-MW": {
                             "images": {
@@ -1804,6 +1824,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-20x20-SQUARE-MW": {
                             "images": {
@@ -1848,8 +1869,8 @@
             "title": "Fresh Paint 3",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1Bx8VymlQBYN9IN8BdqcRsilyKA7Ms4-W",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-20x20-SQUARE-MW": {
                             "images": {
@@ -1889,6 +1910,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-20x20-SQUARE-MW": {
                             "images": {
@@ -1933,8 +1955,8 @@
             "title": "Fresh Paint 2",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1mJCU3zi9rM_SsoFO6Xa6CM6D-fsK63VX",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-20x20-SQUARE-MW": {
                             "images": {
@@ -1974,6 +1996,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-20x20-SQUARE-MW": {
                             "images": {
@@ -2018,8 +2041,8 @@
             "title": "Fresh Paint 1",
             "user_image_url": "https://drive.google.com/uc?export=download&id=106HulmQSSmEZZo7m21jQgJ_pYidG0vjW",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-20x20-SQUARE-MW": {
                             "images": {
@@ -2059,6 +2082,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-20x20-SQUARE-MW": {
                             "images": {

@@ -47,8 +47,8 @@
             "title": "Toro Naranja",
             "user_image_url": "https://drive.google.com/uc?export=download&id=190q-aJKZOMZCTXzBKUWeo3VR3Bx3q-07",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-20x20-SQUARE-IW": {
                             "images": {
@@ -74,6 +74,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-20x20-SQUARE-IW": {
                             "images": {
@@ -104,8 +105,8 @@
             "title": "Making Changes",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1X4vz0yTGagJgvKtAzOnBN3bBRK4ypeUx",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-20x20-SQUARE-IW": {
                             "images": {
@@ -131,6 +132,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-20x20-SQUARE-IW": {
                             "images": {
@@ -161,8 +163,8 @@
             "title": "Fresh Paint 1",
             "user_image_url": "https://drive.google.com/uc?export=download&id=106HulmQSSmEZZo7m21jQgJ_pYidG0vjW",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-20x20-SQUARE-IW": {
                             "images": {
@@ -188,6 +190,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-20x20-SQUARE-IW": {
                             "images": {

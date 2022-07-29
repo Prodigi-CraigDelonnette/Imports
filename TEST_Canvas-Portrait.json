@@ -48,7 +48,7 @@
             "user_image_url": "https://drive.google.com/uc?export=download&id=1vM6mDdQ4eUpDUc6MySp2HSGsrYYPe3-i",
             "products": {
                 "description": "",
-                "global-can": {
+                "global-fra-can": {
                     "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-IW": {
@@ -74,7 +74,7 @@
                         }
                     }
                 },
-                "global-fra-can": {
+                "global-can": {
                     "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-IW": {
@@ -106,7 +106,7 @@
             "title": "Furious Bull",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1YI7eru7E3--zrQdUtdrPsEm3sgaXm2KS",
             "products": {
-                "global-can": {
+                "global-fra-can": {
                     "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-IW": {
@@ -132,7 +132,7 @@
                         }
                     }
                 },
-                "global-fra-can": {
+                "global-can": {
                     "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-IW": {
@@ -164,7 +164,7 @@
             "title": "Minimalist Reflection Canvas",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1AoIa_NhtdpZYGmF8xZ565u0GNSfLaNCO",
             "products": {
-                "global-can": {
+                "global-fra-can": {
                     "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-IW": {
@@ -190,7 +190,7 @@
                         }
                     }
                 },
-                "global-fra-can": {
+                "global-can": {
                     "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-IW": {

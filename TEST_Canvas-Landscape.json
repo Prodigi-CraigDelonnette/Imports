@@ -44,7 +44,7 @@
             "user_image_url": "https://drive.google.com/uc?export=download&id=1GkUdTE5i7jC80nn8tZn9eg6thfTPuRuZ",
             "products": {
                 "description": "",
-                "global-can": {
+                "global-fra-can": {
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-LANDSCAPE-IW": {
                             "images": {
@@ -62,7 +62,7 @@
                         }
                     }
                 },
-                "global-fra-can": {
+                "global-can": {
                     "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-LANDSCAPE-IW": {
@@ -94,7 +94,7 @@
             "title": "Sea and Sun",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1eLC-AjXyim7yXTf3dobJSfvgJ9skIJks",
             "products": {
-                "global-can": {
+                "global-fra-can": {
                     "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-LANDSCAPE-IW": {
@@ -113,7 +113,7 @@
                         }
                     }
                 },
-                "global-fra-can": {
+                "global-can": {
                     "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-LANDSCAPE-IW": {
@@ -145,7 +145,7 @@
             "title": "Car Wash 1",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1TMshJ07OWa8R1P2BNoE15f6wr7qiQ7aO",
             "products": {
-                "global-can": {
+                "global-fra-can": {
                     "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-LANDSCAPE-IW": {
@@ -164,7 +164,7 @@
                         }
                     }
                 },
-                "global-fra-can": {
+                "global-can": {
                     "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-LANDSCAPE-IW": {

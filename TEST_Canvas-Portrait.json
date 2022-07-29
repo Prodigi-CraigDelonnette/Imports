@@ -49,6 +49,7 @@
             "products": {
                 "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-IW": {
                             "images": {
@@ -74,6 +75,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-IW": {
                             "images": {
@@ -104,8 +106,8 @@
             "title": "Furious Bull",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1YI7eru7E3--zrQdUtdrPsEm3sgaXm2KS",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-IW": {
                             "images": {
@@ -131,6 +133,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-IW": {
                             "images": {
@@ -161,8 +164,8 @@
             "title": "Minimalist Reflection Canvas",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1AoIa_NhtdpZYGmF8xZ565u0GNSfLaNCO",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-IW": {
                             "images": {
@@ -188,6 +191,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-IW": {
                             "images": {

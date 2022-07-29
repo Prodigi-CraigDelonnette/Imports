@@ -55,8 +55,8 @@
             "title": "Full Tide",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1vM6mDdQ4eUpDUc6MySp2HSGsrYYPe3-i",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -89,6 +89,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -126,8 +127,8 @@
             "title": "Furious Bull",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1YI7eru7E3--zrQdUtdrPsEm3sgaXm2KS",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -160,6 +161,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -197,8 +199,8 @@
             "title": "Earth Day",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1hcKywOa3USHZnapBd13fs53EAnhhtYUT",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -231,6 +233,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -268,8 +271,8 @@
             "title": "Minimal Plant",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1gR47xx5NB5Df7pnNioeiFIm5hYV4JzXa",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -302,6 +305,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -339,8 +343,8 @@
             "title": "Chance",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1P5DMyPcHwRWjcKMMXwwWwHrOnnKtVdzf",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -373,6 +377,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -410,8 +415,8 @@
             "title": "Boom",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1FiOSesQfrMUyqgUjtlC2tsB0A3-8HBIy",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -444,6 +449,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -481,8 +487,8 @@
             "title": "Airways",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1jwAjxMAxHooArUBDDPc3fgOPR1feK43b",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -515,6 +521,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -552,8 +559,8 @@
             "title": "Light Colors - NEW!",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1e5oH4GEg1zgOaOcDuOl5EclTK01MPZ80",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -586,6 +593,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -623,8 +631,8 @@
             "title": "Colorful Abstract - NEW!",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1i8xQdLxz0iLBoyEP4koAKODd9F0uqKdk",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -657,6 +665,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -694,8 +703,8 @@
             "title": "Black Strokes - NEW!",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1B1sEgPH_22Ln6SbGwLgjGUaq08zt4SXG",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -728,6 +737,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -765,8 +775,8 @@
             "title": "African Touch",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1LwCYAKJj28yeKW411ZwpQRgpEydoYH1W",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -799,6 +809,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -836,8 +847,8 @@
             "title": "Make it Up",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1cUpziOuIAoI47Vby81nTeeuCQtKKckXV",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -870,6 +881,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -907,8 +919,8 @@
             "title": "Inceptive",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1UUKYcl3csQ9MJjmAKUEpGU6XSjaOIu-n",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -941,6 +953,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -978,8 +991,8 @@
             "title": "Heavenly",
             "user_image_url": "https://drive.google.com/uc?export=download&id=16M8KUdlDCDVIikp0oLeaHlgEjxpzzhny",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -1012,6 +1025,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -1049,8 +1063,8 @@
             "title": "From Above",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1nF2NL744utzayPpa0r10X2-8jA_lFQQE",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -1083,6 +1097,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -1120,8 +1135,8 @@
             "title": "Dreamy",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1pBPaX4lyXbZ7p_bJGt5MJin3ifreqv-x",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -1154,6 +1169,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -1191,8 +1207,8 @@
             "title": "Vista Point",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1CGzwIkHEYTlGcmANvWUHcnqaiXZEnQXS",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -1225,6 +1241,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -1262,8 +1279,8 @@
             "title": "Good Morning",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1km124XWJQT5wLgkpk3tEFKJivqsDL7hV",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -1296,6 +1313,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -1333,8 +1351,8 @@
             "title": "Field of Vision",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1Ux3Wym7bcYz6W8IMdGBp5cbHiWdSTOvM",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -1367,6 +1385,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -1404,8 +1423,8 @@
             "title": "The Corner",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1B-hLEQEGyduHM6iV6O2bXY0V-e5_hhzo",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -1438,6 +1457,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -1475,8 +1495,8 @@
             "title": "New Circumstances",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1r95DdtweY-1DBYtyTpuW0Bz3f-9gNiFl",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -1509,6 +1529,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -1546,8 +1567,8 @@
             "title": "In the Area",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1inSADtEvHmA9-qarL6N8yybJVFjo19rz",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -1580,6 +1601,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -1617,8 +1639,8 @@
             "title": "Fragments",
             "user_image_url": "https://drive.google.com/uc?export=download&id=16bt0CrTP0cFfqsbSODXqX9dESGcJsOLC",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -1651,6 +1673,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -1688,8 +1711,8 @@
             "title": "Blocking Colors",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1bEbrws33xgB2d23Eckr0W0PvN3fxjfSM",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -1722,6 +1745,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -1759,8 +1783,8 @@
             "title": "Quiet Moment",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1oZ-eaBkA1wfTOLWRhw_NOxbpYaQdkGtu",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -1793,6 +1817,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -1830,8 +1855,8 @@
             "title": "Asian Touch",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1ZGRl0F6DDYsWFLsUXESUTSBmEhX61udZ",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -1864,6 +1889,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -1901,8 +1927,8 @@
             "title": "Articulation",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1ogxVq5wo7vB7RXRRG9EPRlYUm407IuRG",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -1935,6 +1961,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -1972,8 +1999,8 @@
             "title": "Gloop",
             "user_image_url": "https://drive.google.com/uc?export=download&id=10Ci9xGjS9tYltO3_x1D-v4kyFG0blB2y",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -2006,6 +2033,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -2043,8 +2071,8 @@
             "title": "Earth Day",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1hcKywOa3USHZnapBd13fs53EAnhhtYUT",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -2077,6 +2105,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -2114,8 +2143,8 @@
             "title": "Blushing",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1TXY4GUaVhUIFiWcyKGpYalF3mkib0nIf",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -2148,6 +2177,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -2185,8 +2215,8 @@
             "title": "Serpientes",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1ZXpxdW0m8igLON8U9QKus2KUKXWCWcs6",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -2219,6 +2249,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -2256,8 +2287,8 @@
             "title": "La Mujer",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1Pwq2GfiFJk8C396xNMmJoB8M-f8RQmiZ",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -2290,6 +2321,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -2327,8 +2359,8 @@
             "title": "Frederick Hammersley",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1vAXF6nZw_UtkRLptKhlaA_T9eqPzCgEL",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -2361,6 +2393,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -2398,8 +2431,8 @@
             "title": "Point of Sail",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1bVvEQuGvGuhQMWwVPWM7UiZIokFX1dDo",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -2432,6 +2465,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -2469,8 +2503,8 @@
             "title": "Iron Foundry",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1Q236qb0w02xYJ_IZInAu-5Mg6eHT85_i",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -2503,6 +2537,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -2540,8 +2575,8 @@
             "title": "All Happy",
             "user_image_url": "https://drive.google.com/uc?export=download&id=16Pi3t1bSXw3jeXc3KuUBtwrxT3xubs_e",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -2574,6 +2609,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -2611,8 +2647,8 @@
             "title": "Ghost Ship",
             "user_image_url": "https://drive.google.com/uc?export=download&id=17gV9V57QXiuT4AgVIzGwon0jVtZhCIDx",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -2645,6 +2681,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -2682,8 +2719,8 @@
             "title": "Dawned",
             "user_image_url": "https://drive.google.com/uc?export=download&id=19CfeUlzvQKHgqunQCgNZtnhFY5FjP19Y",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -2716,6 +2753,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -2753,8 +2791,8 @@
             "title": "Fire Dance",
             "user_image_url": "https://drive.google.com/uc?export=download&id=19UrPRwd6WisNXpKaJLt82w2lMxxR-s0K",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -2787,6 +2825,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -2824,8 +2863,8 @@
             "title": "Furious Bull",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1YI7eru7E3--zrQdUtdrPsEm3sgaXm2KS",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -2858,6 +2897,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -2895,8 +2935,8 @@
             "title": "Blue Film",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1TFhd-8qPC8iQKEwcGDgOI_L5qpfN-dfg",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -2929,6 +2969,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -2966,8 +3007,8 @@
             "title": "Partition",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1dQpZOZBcdov5nOKmqZSgRPcUBBraTWgm",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -3000,6 +3041,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -3037,8 +3079,8 @@
             "title": "Salmon Run",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1g49ji0eprvughWPwgwdBVV97HXKGWx3O",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -3071,6 +3113,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -3108,8 +3151,8 @@
             "title": "Changing Tracks 2",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1g3ZSNpqsKPMn2W-rZmOnw3irP88zNpEG",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -3142,6 +3185,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -3179,8 +3223,8 @@
             "title": "Changing Tracks 1",
             "user_image_url": "https://drive.google.com/uc?export=download&id=169ARfbYRW4u7o5tAARGPWdqanBr3OBK4",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -3213,6 +3257,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -3250,8 +3295,8 @@
             "title": "Fickleness 2",
             "user_image_url": "https://drive.google.com/uc?export=download&id=18aTMh1C4qSFzHUlRI7wHeNqZDx3fAEGj",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -3284,6 +3329,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -3321,8 +3367,8 @@
             "title": "Fickleness 1",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1SDwtZG3yeBLrfoeXzKXUFQKSED7hRyFs",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -3355,6 +3401,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -3392,8 +3439,8 @@
             "title": "Change of Seasons",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1owO-wXZPZbDiUH_IXeQdfEgBe23fn6CB",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -3426,6 +3473,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -3463,8 +3511,8 @@
             "title": "Geometric Solution",
             "user_image_url": "https://drive.google.com/uc?export=download&id=14ysCHh6Zr6Xp3RzLf5CE4cMfDO4Fud1s",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -3497,6 +3545,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -3534,8 +3583,8 @@
             "title": "Color Bump 3",
             "user_image_url": "https://drive.google.com/uc?export=download&id=16tWR7YuXzwb3aVxSRK6zp7saN0vipTnE",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -3568,6 +3617,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -3605,8 +3655,8 @@
             "title": "Color Bump 2",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1lnd8BqIRRdr51Lj4GSrsmnU0j3ktgsRv",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -3639,6 +3689,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -3676,8 +3727,8 @@
             "title": "Color Bump 1",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1T9pTkfWsQA55ZT0NLAs24Ftc9oy85-FR",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -3710,6 +3761,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -3747,8 +3799,8 @@
             "title": "Red Tide",
             "user_image_url": "https://drive.google.com/uc?export=download&id=118nikM03z1bA0KVDA3UwF6Zv8VVNRoJG",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -3781,6 +3833,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -3818,8 +3871,8 @@
             "title": "Full Tide",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1vM6mDdQ4eUpDUc6MySp2HSGsrYYPe3-i",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -3852,6 +3905,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -3889,8 +3943,8 @@
             "title": "Weak Sun",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1AP2fNm5IZ8gBcXVhVQe9QzBCIdvpizmE",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -3923,6 +3977,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -3960,8 +4015,8 @@
             "title": "Uniform Thought",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1znSKApq6SfQlWF_exH3Sn3qm7yDX6vdU",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -3994,6 +4049,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -4031,8 +4087,8 @@
             "title": "Undercover",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1JW49i97IYTsZq0yZEQ-IERNQAeAmgLaS",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -4065,6 +4121,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -4102,8 +4159,8 @@
             "title": "Trigonale 4",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1hxjzVdUbKV2-Im3hDEecToSfA5I0eMx7",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -4136,6 +4193,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -4173,8 +4231,8 @@
             "title": "Trigonale 1",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1-5lcS1L_jL94dSELy91qrybxqSTW-16W",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -4207,6 +4265,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -4244,8 +4303,8 @@
             "title": "Tiki Time",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1uzFzDwkOQ4WFnVjrzt6FImqi4_Onm17T",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -4278,6 +4337,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -4315,8 +4375,8 @@
             "title": "Thermal Reaction",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1UU8m__53rFcc4IA5DTmr9D6nCYPs0kx9",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -4349,6 +4409,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -4386,8 +4447,8 @@
             "title": "Wild Thoughts",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1fYWoRm2XH4xJ38s8IERWsQleA-jpvxqT",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -4420,6 +4481,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -4457,8 +4519,8 @@
             "title": "St Joan of Arc",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1VkM-xCKrhrKy56bhCQ0L5psQGVZse1fu",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -4491,6 +4553,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -4528,8 +4591,8 @@
             "title": "Pink Universe",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1mrfzbV36pLpjyJ44FvaL1shb1sffldsz",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -4562,6 +4625,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -4599,8 +4663,8 @@
             "title": "Sailing on Fire",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1-2Sos96CgCFqUZ3fcZnjVTOGdc1FGLkI",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -4633,6 +4697,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -4670,8 +4735,8 @@
             "title": "Sailing in Imagination",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1iZQnVgvjjc0X4JIONSUhxDNMrXfYgR_X",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -4704,6 +4769,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -4741,8 +4807,8 @@
             "title": "Pink Brightness",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1LuNH41LUmxdEaIlgf196pCu_Hh2rp2MN",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -4775,6 +4841,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -4812,8 +4879,8 @@
             "title": "Sundown",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1FJdP4h0ttdYpSQBx_7uW1XpJtcVBOb3j",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -4846,6 +4913,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -4883,8 +4951,8 @@
             "title": "Simply Tan",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1shNfygnoa52sqKoI8ni2RzPCwVVtsBYz",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -4917,6 +4985,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -4954,8 +5023,8 @@
             "title": "Immune System",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1Fdy2f1X65Ml5gL9eDI69CEkUZCaI2n__",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -4988,6 +5057,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -5025,8 +5095,8 @@
             "title": "Vacation Time",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1ElkexgIP0JhiXUl1900HQyQy3Eqbm2LS",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -5059,6 +5129,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -5096,8 +5167,8 @@
             "title": "Half Circles 3",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1W6JiRsnLLq4PuCsBJ_6nEizSPxrDxOGg",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -5130,6 +5201,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -5167,8 +5239,8 @@
             "title": "Half Circles 2",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1PeY3K0wIQ6mwyAXEslAXuRhh9QFHen-Z",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -5201,6 +5273,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -5238,8 +5311,8 @@
             "title": "Spotted Paths",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1SJTyT1SqVlcw1iQWUssItWHaPsK7zOiv",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -5272,6 +5345,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -5309,8 +5383,8 @@
             "title": "Difficult Paths",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1CI4Fmz-bMKL076VqnSsXLht4sAHIrY3K",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -5343,6 +5417,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -5380,8 +5455,8 @@
             "title": "Cut Connections 3",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1weZIm_WoAG9BRROYrIgC73j-qeXl9LW9",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -5414,6 +5489,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -5451,8 +5527,8 @@
             "title": "Cut Connections 2",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1tma_mythuusoJGPLqk_P1e2G5OcefCt3",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -5485,6 +5561,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -5522,8 +5599,8 @@
             "title": "Changing 2",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1g3ZSNpqsKPMn2W-rZmOnw3irP88zNpEG",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -5556,6 +5633,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -5593,8 +5671,8 @@
             "title": "Container Stacking 4",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1LjiB885oddqbzFB6DTrpA6A4tisUgnWp",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -5627,6 +5705,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -5664,8 +5743,8 @@
             "title": "Container Stacking 3",
             "user_image_url": "https://drive.google.com/uc?export=download&id=11Ntf1eEcWpGHwS7LeLpE8YkQXJtLeK3q",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -5698,6 +5777,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -5735,8 +5815,8 @@
             "title": "Container Stacking 2",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1t6L0uuS3ywr5JRSfX0BQ1iedfpuflgJs",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -5769,6 +5849,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -5806,8 +5887,8 @@
             "title": "Half Circles 1",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1OuKGzKkmymBT9omA_64YlUDXfLQjzv9t",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -5840,6 +5921,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -5877,8 +5959,8 @@
             "title": "Cut Connections 1",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1weZIm_WoAG9BRROYrIgC73j-qeXl9LW9",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -5911,6 +5993,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -5948,8 +6031,8 @@
             "title": "Story Time",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1AO_iil6XHy1KyvyYSY0eJnr-tTV9wyLp",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -5982,6 +6065,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -6019,8 +6103,8 @@
             "title": "Slashed",
             "user_image_url": "https://drive.google.com/uc?export=download&id=14SOjXJOc9RNpzM-sdyg6fvtlfwg_fNzu",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -6053,6 +6137,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -6090,8 +6175,8 @@
             "title": "Changing 1",
             "user_image_url": "https://drive.google.com/uc?export=download&id=169ARfbYRW4u7o5tAARGPWdqanBr3OBK4",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -6124,6 +6209,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -6161,8 +6247,8 @@
             "title": "Booby Trap",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1_hp9T39CIIdFr1uj6KipXlGDNb5tGkA9",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -6195,6 +6281,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -6232,8 +6319,8 @@
             "title": "Balancing Rocks",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1Ea_-AfN58YPAC3YtFRrYg2-zdNAmPe0J",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -6266,6 +6353,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -6303,8 +6391,8 @@
             "title": "Blocked Entry",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1kr3tzyApR5A-zmX6iDTWCyt7lHMKlkN-",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -6337,6 +6425,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -6374,8 +6463,8 @@
             "title": "Container Stacking 1",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1cf4yGvxg-kx-Mxz6dInJgucTmeGkfS79",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -6408,6 +6497,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -6445,8 +6535,8 @@
             "title": "Antelope in Water Well",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1YKeTwA996LP0nag2E-_EYRuGRG6Y5n1V",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -6479,6 +6569,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -6516,8 +6607,8 @@
             "title": "Life is Blurry",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1BHkr2tGMKIT7t2oqtxgl59lmxAbSCyI4",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -6550,6 +6641,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -6587,8 +6679,8 @@
             "title": "Classic Bicycle",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1PV9ibnzQmmWsXeLYUkLegmsiA6bJHV3g",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -6621,6 +6713,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -6658,8 +6751,8 @@
             "title": "Evenings in Paris",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1mmYJ9ut-ehjse_-4Ay5mhMviJbhUG4Lt",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -6692,6 +6785,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -6729,8 +6823,8 @@
             "title": "Escape",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1nJ41eDApqJRNuLPMCYrwuk8QzvXjVl_K",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -6763,6 +6857,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -6800,8 +6895,8 @@
             "title": "Car Wash 2",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1HBWYFYNqZWq6Wvscf8nM2_bcJtas6xce",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -6834,6 +6929,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -6871,8 +6967,8 @@
             "title": "Razor Edge",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1EcdNamswcZjbRU4ns_5fqQdaiMj8GhGm",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -6905,6 +7001,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -6942,8 +7039,8 @@
             "title": "Many Threads",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1Ena8mOa6e5RmjoY0vkJiV6g91pr5Rrut",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -6976,6 +7073,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -7013,8 +7111,8 @@
             "title": "Full Circle",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1tdkE92WTHk8fwhU9K13zEKZrsCr3_Iup",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -7047,6 +7145,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -7084,8 +7183,8 @@
             "title": "Red Ox",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1JvRvWOmdn_7jen_R2vjHboE_ga9t8401",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -7118,6 +7217,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -7155,8 +7255,8 @@
             "title": "Orbiting 2",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1Y2v1PY2vGTijAsg_5PyYOQ-607n1ltrE",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -7189,6 +7289,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -7226,8 +7327,8 @@
             "title": "Orbiting 1",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1AvUcO7LcQEdGmdiGrNwtSD1ywr8D1Zjl",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -7260,6 +7361,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -7297,8 +7399,8 @@
             "title": "Mud Wall",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1uVeluPrbfa9Psl-GChAccwaRUwCLevxC",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -7331,6 +7433,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -7368,8 +7471,8 @@
             "title": "Symmetry",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1yrTUwzhArGI5dt0VdtuVegq6WsatLBgW",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -7402,6 +7505,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -7439,8 +7543,8 @@
             "title": "Happy Cyclist",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1w6huKRmgTWmenDU3-BG4cpvdGqLKCu_j",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -7473,6 +7577,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -7510,8 +7615,8 @@
             "title": "Way Out",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1P1oJZB_VTE9l3DCfCMkEoUkbwbtjC-3L",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -7544,6 +7649,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -7581,8 +7687,8 @@
             "title": "Statement Stripe",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1mqs7Wv62qCDqSM-yIvtGcJOiWqz99aRc",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -7615,6 +7721,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -7652,8 +7759,8 @@
             "title": "The Wolf",
             "user_image_url": "https://drive.google.com/uc?export=download&id=17cJ3ddFyY0dcN3ZHO7O4uIsJmyr_lnBS",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -7686,6 +7793,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -7723,8 +7831,8 @@
             "title": "The Last Sunrise",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1OL563rxryIVCfzWwZncCzez5Gw6PJqX_",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -7757,6 +7865,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -7794,8 +7903,8 @@
             "title": "Fading into Red",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1a2MAb-FPRJU1Su12a1AJf0UDGdtY-kjS",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -7828,6 +7937,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -7865,8 +7975,8 @@
             "title": "Mystic River 2",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1bZ6IuMA-VxxaDtaVJe093YQaVoIZcmf1",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -7899,6 +8009,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -7936,8 +8047,8 @@
             "title": "Mystic River 1",
             "user_image_url": "https://drive.google.com/uc?export=download&id=17jXUWqfzmWa60ZqZWXS3z-dA3IZhHoqm",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -7970,6 +8081,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -8007,8 +8119,8 @@
             "title": "Gold Crush",
             "user_image_url": "https://drive.google.com/uc?export=download&id=12tmAkp8rnMM2_Azxtk2KAHJz5mvyyk1-",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -8041,6 +8153,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -8078,8 +8191,8 @@
             "title": "Home By the Sea",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1PR10pUWIhWOeul3fBhz3bE8eQWSGM4s3",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -8112,6 +8225,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -8149,8 +8263,8 @@
             "title": "Abstract Seasons",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1hPxhilkmCPf6USRBtECwnmONTOqcYG24",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -8183,6 +8297,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -8220,8 +8335,8 @@
             "title": "Red Crush",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1BvEiMlsRW_V0wWp8N01C5JFDvXHOLD8U",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -8254,6 +8369,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -8291,8 +8407,8 @@
             "title": "Volcanic Red",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1rOk5AQVVMCRC_ikzTtJLatsxvnpr4d6Y",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -8325,6 +8441,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -8362,8 +8479,8 @@
             "title": "Silent Man",
             "user_image_url": "https://drive.google.com/uc?export=download&id=13huTNRcjxlf4dxLbwNMp2rJ9DbouakGk",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -8396,6 +8513,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -8433,8 +8551,8 @@
             "title": "New Beginning 2",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1JPbszdpWV876BWrDflo_an507gr4oo7X",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -8467,6 +8585,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -8504,8 +8623,8 @@
             "title": "New Beginning 1",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1zspqTn12O9SrN19HpJ4eddiC9oSbFf2L",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -8538,6 +8657,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -8575,8 +8695,8 @@
             "title": "Sharp Edges",
             "user_image_url": "https://drive.google.com/uc?export=download&id=15fedBHxGpDCGVE1mEY2quW2h7BCXt8r9",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -8609,6 +8729,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -8646,8 +8767,8 @@
             "title": "Geometric Fox",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1qBKLjaHLHoRMVIiN1pBLT0PEV_6kctxr",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -8680,6 +8801,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -8717,8 +8839,8 @@
             "title": "All the Blues",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1LE3SvO0hEyvpWvwvEKkNIjkE8LvdkRSa",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -8751,6 +8873,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -8788,8 +8911,8 @@
             "title": "Exposed Pipes 3",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1ENb1COxpV6Luhlwd6_19vEVran8B4DXq",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -8822,6 +8945,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -8859,8 +8983,8 @@
             "title": "Exposed Pipes 2",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1ClMxeiStMwEpJ4oBTGHCiqbNILb8VtyB",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -8893,6 +9017,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -8930,8 +9055,8 @@
             "title": "Exposed Pipes 1",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1nIFcoLPWAV7BPyo_ggm36c7pjy18qdGQ",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -8964,6 +9089,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -9001,8 +9127,8 @@
             "title": "Sunshine 2",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1hLKHd7nsH1DAK2vKSN8y8A-3g9Fh8f8r",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -9035,6 +9161,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -9072,8 +9199,8 @@
             "title": "Sunshine 1",
             "user_image_url": "https://drive.google.com/uc?export=download&id=19bIrGYA2nPq-nekLQ9uy4TgIQieJZqEH",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -9106,6 +9233,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -9143,8 +9271,8 @@
             "title": "Transition",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1FgBy461f19YEIx5-1mwdmAZVzKHJ6JiE",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -9177,6 +9305,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -9214,8 +9343,8 @@
             "title": "Shades of Red",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1i7yYhuWDYExr2PIEXKKbcf6381dPzHTZ",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -9248,6 +9377,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -9285,8 +9415,8 @@
             "title": "Outspoken",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1zrn1fdTOfilHCSxEL7RAOkxH2jJatYJZ",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -9319,6 +9449,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -9356,8 +9487,8 @@
             "title": "Oil & Wine",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1jYQHy_dhITusg39KYQA__ZOZCm3tc1g6",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -9390,6 +9521,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -9427,8 +9559,8 @@
             "title": "Gold Rush 3",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1Jod0b0_VlyHkjUEEX_3hK1ULFydMH6jy",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -9461,6 +9593,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -9498,8 +9631,8 @@
             "title": "Gold Rush 2",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1Q_5-aREK0rILoyc8snAi7eo4qZUeCe47",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -9532,6 +9665,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -9569,8 +9703,8 @@
             "title": "Gold Rush 1",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1KJlkU2-2jNKuIxY5xQnysnb_H4WudYwZ",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -9603,6 +9737,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -9640,8 +9775,8 @@
             "title": "Concrete Jungle",
             "user_image_url": "https://drive.google.com/uc?export=download&id=13HNevQSIq-pv6igpOUBS3AjptyRc0o-X",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -9674,6 +9809,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -9711,8 +9847,8 @@
             "title": "Life Above the Clouds Canvas",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1lvyTKbL6HgzmyIzUpWwbUaw7m2bFYQ4Y",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -9745,6 +9881,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -9782,8 +9919,8 @@
             "title": "Inner Peace Canvas",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1RkV8_N-bwUpY4hVoaCkWDUW5ZX7a9O_l",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -9816,6 +9953,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -9853,8 +9991,8 @@
             "title": "Shooting Star Canvas",
             "user_image_url": "https://drive.google.com/uc?export=download&id=16d6Bl6LDX2mbtx_N4W9taeta2_ROWmmr",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -9887,6 +10025,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -9924,8 +10063,8 @@
             "title": "Explosion Canvas",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1vHWvSiXWDrsukhGyCnitrhp5nOI4wZw8",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -9958,6 +10097,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -9995,8 +10135,8 @@
             "title": "Time Travel Canvas",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1_gYv5qicvQ8doj_wWlLsfUa5VEnHw86n",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -10029,6 +10169,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -10066,8 +10207,8 @@
             "title": "Stay Floating Canvas",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1pDdFuky06sEUVSESWdvMDHSExv1Hm70U",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -10100,6 +10241,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -10137,8 +10279,8 @@
             "title": "Anti Gravity Canvas",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1k9GKIC8wYJ0WHtSJ_dAeKpD03GwkeVyd",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -10171,6 +10313,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -10208,8 +10351,8 @@
             "title": "Another Dimension Canvas",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1Du_qnWtCLEyK4WB7Zj6pu6TrTkZGsHoX",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -10242,6 +10385,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -10279,8 +10423,8 @@
             "title": "Crossing Over Canvas",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1EevdeJrKv43ktz4K0bstSKOsdQ0pa3PL",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -10313,6 +10457,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -10350,8 +10495,8 @@
             "title": "Out of This World Canvas",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1mA1QxY3VRkRORVozWCm-S_akLT0OcQGw",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -10384,6 +10529,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -10421,8 +10567,8 @@
             "title": "Abstract Colorful Clouds Canvas",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1AoqzGiNid2awUH1jBZwp-eoQeOnTimJ4",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -10455,6 +10601,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -10492,8 +10639,8 @@
             "title": "Minimalist Reflection Canvas",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1AoIa_NhtdpZYGmF8xZ565u0GNSfLaNCO",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-PORTRAIT-MW": {
                             "images": {
@@ -10526,6 +10673,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-PORTRAIT-MW": {
                             "images": {

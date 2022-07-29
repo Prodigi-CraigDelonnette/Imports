@@ -63,6 +63,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-LANDSCAPE-IW": {
                             "images": {
@@ -93,8 +94,8 @@
             "title": "Sea and Sun",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1eLC-AjXyim7yXTf3dobJSfvgJ9skIJks",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-LANDSCAPE-IW": {
                             "images": {
@@ -113,6 +114,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-LANDSCAPE-IW": {
                             "images": {
@@ -143,8 +145,8 @@
             "title": "Car Wash 1",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1TMshJ07OWa8R1P2BNoE15f6wr7qiQ7aO",
             "products": {
-                "description": "",
                 "global-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-FRA-CAN-18x24-LANDSCAPE-IW": {
                             "images": {
@@ -163,6 +165,7 @@
                     }
                 },
                 "global-fra-can": {
+                    "description": "",
                     "variants": {
                         "GLOBAL-CAN-18x24-LANDSCAPE-IW": {
                             "images": {

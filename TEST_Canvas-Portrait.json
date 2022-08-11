@@ -1,0 +1,271 @@
+{
+    "product_range_defaults": {
+        "published": true
+    },
+    "product_defaults": {
+        "enabled": false
+    },
+    "products_defaults": {
+        "vybe-global-can": {
+            "enabled": true
+        },
+        "vybe-global-fra-can": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false
+    },
+    "variants_defaults": {
+        "GLOBAL-FRA-CAN-18X24-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 196.00
+        },
+        "GLOBAL-FRA-CAN-24X32-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 218.00
+        },
+        "GLOBAL-FRA-CAN-30X40-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 304.00
+        },
+        "GLOBAL-FRA-CAN-36X48-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 384.00
+        },
+        "GLOBAL-CAN-18X24-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 119.00
+        },
+        "GLOBAL-CAN-24X32-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 149.00
+        },
+        "GLOBAL-CAN-30X40-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 221.00
+        },
+        "GLOBAL-CAN-36X48-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 307.00
+        }
+    },
+    "product_ranges": [
+        {
+            "title": "Full Tide",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1vM6mDdQ4eUpDUc6MySp2HSGsrYYPe3-i",
+            "products": {
+                "vybe-global-fra-can": {
+                    "description": "",
+                    "variants": {
+                        "GLOBAL-FRA-CAN-18X24-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1vM6mDdQ4eUpDUc6MySp2HSGsrYYPe3-i"
+                                }
+                            }
+                        },
+                        "GLOBAL-FRA-CAN-24X32-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1vM6mDdQ4eUpDUc6MySp2HSGsrYYPe3-i"
+                                }
+                            }
+                        },
+                        "GLOBAL-FRA-CAN-30X40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1vM6mDdQ4eUpDUc6MySp2HSGsrYYPe3-i"
+                                }
+                            }
+                        },
+                        "GLOBAL-FRA-CAN-36X48-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1vM6mDdQ4eUpDUc6MySp2HSGsrYYPe3-i"
+                                }
+                            }
+                        }
+                    }
+                },
+                "vybe-global-can": {
+                    "description": "",
+                    "variants": {
+                        "GLOBAL-CAN-18X24-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1vM6mDdQ4eUpDUc6MySp2HSGsrYYPe3-i"
+                                }
+                            }
+                        },
+                        "GLOBAL-CAN-24X32-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1vM6mDdQ4eUpDUc6MySp2HSGsrYYPe3-i"
+                                }
+                            }
+                        },
+                        "GLOBAL-CAN-30X40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1vM6mDdQ4eUpDUc6MySp2HSGsrYYPe3-i"
+                                }
+                            }
+                        },
+                        "GLOBAL-CAN-36X48-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1vM6mDdQ4eUpDUc6MySp2HSGsrYYPe3-i"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Furious Bull",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1YI7eru7E3--zrQdUtdrPsEm3sgaXm2KS",
+            "products": {
+                "vybe-global-fra-can": {
+                    "description": "",
+                    "variants": {
+                        "GLOBAL-FRA-CAN-18X24-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1YI7eru7E3--zrQdUtdrPsEm3sgaXm2KS"
+                                }
+                            }
+                        },
+                        "GLOBAL-FRA-CAN-24X32-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1YI7eru7E3--zrQdUtdrPsEm3sgaXm2KS"
+                                }
+                            }
+                        },
+                        "GLOBAL-FRA-CAN-30X40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1YI7eru7E3--zrQdUtdrPsEm3sgaXm2KS"
+                                }
+                            }
+                        },
+                        "GLOBAL-FRA-CAN-36X48-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1YI7eru7E3--zrQdUtdrPsEm3sgaXm2KS"
+                                }
+                            }
+                        }
+                    }
+                },
+                "vybe-global-can": {
+                    "description": "",
+                    "variants": {
+                        "GLOBAL-CAN-18X24-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1YI7eru7E3--zrQdUtdrPsEm3sgaXm2KS"
+                                }
+                            }
+                        },
+                        "GLOBAL-CAN-24X32-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1YI7eru7E3--zrQdUtdrPsEm3sgaXm2KS"
+                                }
+                            }
+                        },
+                        "GLOBAL-CAN-30X40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1YI7eru7E3--zrQdUtdrPsEm3sgaXm2KS"
+                                }
+                            }
+                        },
+                        "GLOBAL-CAN-36X48-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1YI7eru7E3--zrQdUtdrPsEm3sgaXm2KS"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+       {
+            "title": "Minimalist Reflection Canvas",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1AoIa_NhtdpZYGmF8XZ565u0GNSfLaNCO",
+            "products": {
+                "vybe-global-fra-can": {
+                    "description": "",
+                    "variants": {
+                        "GLOBAL-FRA-CAN-18X24-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1AoIa_NhtdpZYGmF8XZ565u0GNSfLaNCO"
+                                }
+                            }
+                        },
+                        "GLOBAL-FRA-CAN-24X32-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1AoIa_NhtdpZYGmF8XZ565u0GNSfLaNCO"
+                                }
+                            }
+                        },
+                        "GLOBAL-FRA-CAN-30X40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1AoIa_NhtdpZYGmF8XZ565u0GNSfLaNCO"
+                                }
+                            }
+                        },
+                        "GLOBAL-FRA-CAN-36X48-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1AoIa_NhtdpZYGmF8XZ565u0GNSfLaNCO"
+                                }
+                            }
+                        }
+                    }
+                },
+                "vybe-global-can": {
+                    "description": "",
+                    "variants": {
+                        "GLOBAL-CAN-18X24-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1AoIa_NhtdpZYGmF8XZ565u0GNSfLaNCO"
+                                }
+                            }
+                        },
+                        "GLOBAL-CAN-24X32-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1AoIa_NhtdpZYGmF8XZ565u0GNSfLaNCO"
+                                }
+                            }
+                        },
+                        "GLOBAL-CAN-30X40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1AoIa_NhtdpZYGmF8XZ565u0GNSfLaNCO"
+                                }
+                            }
+                        },
+                        "GLOBAL-CAN-36X48-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1AoIa_NhtdpZYGmF8XZ565u0GNSfLaNCO"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}

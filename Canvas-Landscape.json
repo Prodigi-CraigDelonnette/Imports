@@ -19,35 +19,35 @@
     "variants_defaults": {
         "GLOBAL-FRA-CAN-18x24-LANDSCAPE": {
             "enabled": true,
-            "retail_price": 196.00
+            "retail_price": 196
         },
         "GLOBAL-FRA-CAN-24x32-LANDSCAPE": {
             "enabled": true,
-            "retail_price": 218.00
+            "retail_price": 218
         },
         "GLOBAL-FRA-CAN-30x40-LANDSCAPE": {
             "enabled": true,
-            "retail_price": 304.00
+            "retail_price": 304
         },
         "GLOBAL-FRA-CAN-36x48-LANDSCAPE": {
             "enabled": true,
-            "retail_price": 384.00
+            "retail_price": 384
         },
         "GLOBAL-CAN-18x24-LANDSCAPE": {
             "enabled": true,
-            "retail_price": 119.00
+            "retail_price": 119
         },
         "GLOBAL-CAN-24x32-LANDSCAPE": {
             "enabled": true,
-            "retail_price": 149.00
+            "retail_price": 149
         },
         "GLOBAL-CAN-30x40-LANDSCAPE": {
             "enabled": true,
-            "retail_price": 221.00
+            "retail_price": 221
         },
         "GLOBAL-CAN-36x48-LANDSCAPE": {
             "enabled": true,
-            "retail_price": 307.00
+            "retail_price": 307
         }
     },
     "product_ranges": [
@@ -341,7 +341,7 @@
         },
         {
             "title": "Find Your Way",
-            "user_image_url": "https://drive.google.com/uc?export=download&id=1QfyYCp_1zv3GuSSWHQyXXuFaJSOQNDr_",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1QfyYCp_1zv3GuSSWHQyxxuFaJSOQNDr_",
             "products": {
                 "vybe-global-fra-can": {
                     "description": "",
@@ -349,28 +349,28 @@
                         "GLOBAL-FRA-CAN-18x24-LANDSCAPE": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1QfyYCp_1zv3GuSSWHQyXXuFaJSOQNDr_"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1QfyYCp_1zv3GuSSWHQyxxuFaJSOQNDr_"
                                 }
                             }
                         },
                         "GLOBAL-FRA-CAN-24x32-LANDSCAPE": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1QfyYCp_1zv3GuSSWHQyXXuFaJSOQNDr_"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1QfyYCp_1zv3GuSSWHQyxxuFaJSOQNDr_"
                                 }
                             }
                         },
                         "GLOBAL-FRA-CAN-30x40-LANDSCAPE": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1QfyYCp_1zv3GuSSWHQyXXuFaJSOQNDr_"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1QfyYCp_1zv3GuSSWHQyxxuFaJSOQNDr_"
                                 }
                             }
                         },
                         "GLOBAL-FRA-CAN-36x48-LANDSCAPE": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1QfyYCp_1zv3GuSSWHQyXXuFaJSOQNDr_"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1QfyYCp_1zv3GuSSWHQyxxuFaJSOQNDr_"
                                 }
                             }
                         }
@@ -382,28 +382,28 @@
                         "GLOBAL-CAN-18x24-LANDSCAPE": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1QfyYCp_1zv3GuSSWHQyXXuFaJSOQNDr_"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1QfyYCp_1zv3GuSSWHQyxxuFaJSOQNDr_"
                                 }
                             }
                         },
                         "GLOBAL-CAN-24x32-LANDSCAPE": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1QfyYCp_1zv3GuSSWHQyXXuFaJSOQNDr_"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1QfyYCp_1zv3GuSSWHQyxxuFaJSOQNDr_"
                                 }
                             }
                         },
                         "GLOBAL-CAN-30x40-LANDSCAPE": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1QfyYCp_1zv3GuSSWHQyXXuFaJSOQNDr_"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1QfyYCp_1zv3GuSSWHQyxxuFaJSOQNDr_"
                                 }
                             }
                         },
                         "GLOBAL-CAN-36x48-LANDSCAPE": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1QfyYCp_1zv3GuSSWHQyXXuFaJSOQNDr_"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1QfyYCp_1zv3GuSSWHQyxxuFaJSOQNDr_"
                                 }
                             }
                         }
@@ -413,7 +413,7 @@
         },
         {
             "title": "Open Space",
-            "user_image_url": "https://drive.google.com/uc?export=download&id=13Ov0Xja_CEdIFktAnaPVAeeRXohUDIKg",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=13Ov0xja_CEdIFktAnaPVAeeRxohUDIKg",
             "products": {
                 "vybe-global-fra-can": {
                     "description": "",
@@ -421,28 +421,28 @@
                         "GLOBAL-FRA-CAN-18x24-LANDSCAPE": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=13Ov0Xja_CEdIFktAnaPVAeeRXohUDIKg"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=13Ov0xja_CEdIFktAnaPVAeeRxohUDIKg"
                                 }
                             }
                         },
                         "GLOBAL-FRA-CAN-24x32-LANDSCAPE": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=13Ov0Xja_CEdIFktAnaPVAeeRXohUDIKg"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=13Ov0xja_CEdIFktAnaPVAeeRxohUDIKg"
                                 }
                             }
                         },
                         "GLOBAL-FRA-CAN-30x40-LANDSCAPE": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=13Ov0Xja_CEdIFktAnaPVAeeRXohUDIKg"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=13Ov0xja_CEdIFktAnaPVAeeRxohUDIKg"
                                 }
                             }
                         },
                         "GLOBAL-FRA-CAN-36x48-LANDSCAPE": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=13Ov0Xja_CEdIFktAnaPVAeeRXohUDIKg"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=13Ov0xja_CEdIFktAnaPVAeeRxohUDIKg"
                                 }
                             }
                         }
@@ -454,28 +454,28 @@
                         "GLOBAL-CAN-18x24-LANDSCAPE": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=13Ov0Xja_CEdIFktAnaPVAeeRXohUDIKg"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=13Ov0xja_CEdIFktAnaPVAeeRxohUDIKg"
                                 }
                             }
                         },
                         "GLOBAL-CAN-24x32-LANDSCAPE": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=13Ov0Xja_CEdIFktAnaPVAeeRXohUDIKg"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=13Ov0xja_CEdIFktAnaPVAeeRxohUDIKg"
                                 }
                             }
                         },
                         "GLOBAL-CAN-30x40-LANDSCAPE": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=13Ov0Xja_CEdIFktAnaPVAeeRXohUDIKg"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=13Ov0xja_CEdIFktAnaPVAeeRxohUDIKg"
                                 }
                             }
                         },
                         "GLOBAL-CAN-36x48-LANDSCAPE": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=13Ov0Xja_CEdIFktAnaPVAeeRXohUDIKg"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=13Ov0xja_CEdIFktAnaPVAeeRxohUDIKg"
                                 }
                             }
                         }
@@ -485,7 +485,7 @@
         },
         {
             "title": "Graphically Dynamic",
-            "user_image_url": "https://drive.google.com/uc?export=download&id=1VELR_-yvAus_tLj3BqXm5AC1lCqjdLPT",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1VELR_-yvAus_tLj3Bqxm5AC1lCqjdLPT",
             "products": {
                 "vybe-global-fra-can": {
                     "description": "",
@@ -493,28 +493,28 @@
                         "GLOBAL-FRA-CAN-18x24-LANDSCAPE": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1VELR_-yvAus_tLj3BqXm5AC1lCqjdLPT"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1VELR_-yvAus_tLj3Bqxm5AC1lCqjdLPT"
                                 }
                             }
                         },
                         "GLOBAL-FRA-CAN-24x32-LANDSCAPE": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1VELR_-yvAus_tLj3BqXm5AC1lCqjdLPT"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1VELR_-yvAus_tLj3Bqxm5AC1lCqjdLPT"
                                 }
                             }
                         },
                         "GLOBAL-FRA-CAN-30x40-LANDSCAPE": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1VELR_-yvAus_tLj3BqXm5AC1lCqjdLPT"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1VELR_-yvAus_tLj3Bqxm5AC1lCqjdLPT"
                                 }
                             }
                         },
                         "GLOBAL-FRA-CAN-36x48-LANDSCAPE": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1VELR_-yvAus_tLj3BqXm5AC1lCqjdLPT"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1VELR_-yvAus_tLj3Bqxm5AC1lCqjdLPT"
                                 }
                             }
                         }
@@ -526,28 +526,28 @@
                         "GLOBAL-CAN-18x24-LANDSCAPE": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1VELR_-yvAus_tLj3BqXm5AC1lCqjdLPT"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1VELR_-yvAus_tLj3Bqxm5AC1lCqjdLPT"
                                 }
                             }
                         },
                         "GLOBAL-CAN-24x32-LANDSCAPE": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1VELR_-yvAus_tLj3BqXm5AC1lCqjdLPT"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1VELR_-yvAus_tLj3Bqxm5AC1lCqjdLPT"
                                 }
                             }
                         },
                         "GLOBAL-CAN-30x40-LANDSCAPE": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1VELR_-yvAus_tLj3BqXm5AC1lCqjdLPT"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1VELR_-yvAus_tLj3Bqxm5AC1lCqjdLPT"
                                 }
                             }
                         },
                         "GLOBAL-CAN-36x48-LANDSCAPE": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1VELR_-yvAus_tLj3BqXm5AC1lCqjdLPT"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1VELR_-yvAus_tLj3Bqxm5AC1lCqjdLPT"
                                 }
                             }
                         }
@@ -1205,7 +1205,7 @@
         },
         {
             "title": "Jumble of Ideas 1",
-            "user_image_url": "https://drive.google.com/uc?export=download&id=1-YUojyd4quTS4XLtSRkcJYQg3SYRKLX0",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1-YUojyd4quTS4xLtSRkcJYQg3SYRKLx0",
             "products": {
                 "vybe-global-fra-can": {
                     "description": "",
@@ -1213,28 +1213,28 @@
                         "GLOBAL-FRA-CAN-18x24-LANDSCAPE": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1-YUojyd4quTS4XLtSRkcJYQg3SYRKLX0"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1-YUojyd4quTS4xLtSRkcJYQg3SYRKLx0"
                                 }
                             }
                         },
                         "GLOBAL-FRA-CAN-24x32-LANDSCAPE": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1-YUojyd4quTS4XLtSRkcJYQg3SYRKLX0"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1-YUojyd4quTS4xLtSRkcJYQg3SYRKLx0"
                                 }
                             }
                         },
                         "GLOBAL-FRA-CAN-30x40-LANDSCAPE": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1-YUojyd4quTS4XLtSRkcJYQg3SYRKLX0"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1-YUojyd4quTS4xLtSRkcJYQg3SYRKLx0"
                                 }
                             }
                         },
                         "GLOBAL-FRA-CAN-36x48-LANDSCAPE": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1-YUojyd4quTS4XLtSRkcJYQg3SYRKLX0"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1-YUojyd4quTS4xLtSRkcJYQg3SYRKLx0"
                                 }
                             }
                         }
@@ -1246,28 +1246,28 @@
                         "GLOBAL-CAN-18x24-LANDSCAPE": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1-YUojyd4quTS4XLtSRkcJYQg3SYRKLX0"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1-YUojyd4quTS4xLtSRkcJYQg3SYRKLx0"
                                 }
                             }
                         },
                         "GLOBAL-CAN-24x32-LANDSCAPE": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1-YUojyd4quTS4XLtSRkcJYQg3SYRKLX0"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1-YUojyd4quTS4xLtSRkcJYQg3SYRKLx0"
                                 }
                             }
                         },
                         "GLOBAL-CAN-30x40-LANDSCAPE": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1-YUojyd4quTS4XLtSRkcJYQg3SYRKLX0"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1-YUojyd4quTS4xLtSRkcJYQg3SYRKLx0"
                                 }
                             }
                         },
                         "GLOBAL-CAN-36x48-LANDSCAPE": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1-YUojyd4quTS4XLtSRkcJYQg3SYRKLX0"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1-YUojyd4quTS4xLtSRkcJYQg3SYRKLx0"
                                 }
                             }
                         }
@@ -1565,7 +1565,7 @@
         },
         {
             "title": "Sable Rouge 1",
-            "user_image_url": "https://drive.google.com/uc?export=download&id=1r1XwhboanE9Hmbi_VZn2YnGR2wwShohS",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1r1xwhboanE9Hmbi_VZn2YnGR2wwShohS",
             "products": {
                 "vybe-global-fra-can": {
                     "description": "",
@@ -1573,28 +1573,28 @@
                         "GLOBAL-FRA-CAN-18x24-LANDSCAPE": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1r1XwhboanE9Hmbi_VZn2YnGR2wwShohS"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1r1xwhboanE9Hmbi_VZn2YnGR2wwShohS"
                                 }
                             }
                         },
                         "GLOBAL-FRA-CAN-24x32-LANDSCAPE": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1r1XwhboanE9Hmbi_VZn2YnGR2wwShohS"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1r1xwhboanE9Hmbi_VZn2YnGR2wwShohS"
                                 }
                             }
                         },
                         "GLOBAL-FRA-CAN-30x40-LANDSCAPE": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1r1XwhboanE9Hmbi_VZn2YnGR2wwShohS"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1r1xwhboanE9Hmbi_VZn2YnGR2wwShohS"
                                 }
                             }
                         },
                         "GLOBAL-FRA-CAN-36x48-LANDSCAPE": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1r1XwhboanE9Hmbi_VZn2YnGR2wwShohS"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1r1xwhboanE9Hmbi_VZn2YnGR2wwShohS"
                                 }
                             }
                         }
@@ -1606,28 +1606,28 @@
                         "GLOBAL-CAN-18x24-LANDSCAPE": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1r1XwhboanE9Hmbi_VZn2YnGR2wwShohS"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1r1xwhboanE9Hmbi_VZn2YnGR2wwShohS"
                                 }
                             }
                         },
                         "GLOBAL-CAN-24x32-LANDSCAPE": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1r1XwhboanE9Hmbi_VZn2YnGR2wwShohS"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1r1xwhboanE9Hmbi_VZn2YnGR2wwShohS"
                                 }
                             }
                         },
                         "GLOBAL-CAN-30x40-LANDSCAPE": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1r1XwhboanE9Hmbi_VZn2YnGR2wwShohS"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1r1xwhboanE9Hmbi_VZn2YnGR2wwShohS"
                                 }
                             }
                         },
                         "GLOBAL-CAN-36x48-LANDSCAPE": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1r1XwhboanE9Hmbi_VZn2YnGR2wwShohS"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1r1xwhboanE9Hmbi_VZn2YnGR2wwShohS"
                                 }
                             }
                         }
@@ -1637,7 +1637,7 @@
         },
         {
             "title": "Sable Rouge 2",
-            "user_image_url": "https://drive.google.com/uc?export=download&id=1FXf9Et9B1nI5fhuyiE8mm4QSBH3-GwsK",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1Fxf9Et9B1nI5fhuyiE8mm4QSBH3-GwsK",
             "products": {
                 "vybe-global-fra-can": {
                     "description": "",
@@ -1645,28 +1645,28 @@
                         "GLOBAL-FRA-CAN-18x24-LANDSCAPE": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1FXf9Et9B1nI5fhuyiE8mm4QSBH3-GwsK"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1Fxf9Et9B1nI5fhuyiE8mm4QSBH3-GwsK"
                                 }
                             }
                         },
                         "GLOBAL-FRA-CAN-24x32-LANDSCAPE": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1FXf9Et9B1nI5fhuyiE8mm4QSBH3-GwsK"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1Fxf9Et9B1nI5fhuyiE8mm4QSBH3-GwsK"
                                 }
                             }
                         },
                         "GLOBAL-FRA-CAN-30x40-LANDSCAPE": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1FXf9Et9B1nI5fhuyiE8mm4QSBH3-GwsK"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1Fxf9Et9B1nI5fhuyiE8mm4QSBH3-GwsK"
                                 }
                             }
                         },
                         "GLOBAL-FRA-CAN-36x48-LANDSCAPE": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1FXf9Et9B1nI5fhuyiE8mm4QSBH3-GwsK"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1Fxf9Et9B1nI5fhuyiE8mm4QSBH3-GwsK"
                                 }
                             }
                         }
@@ -1678,28 +1678,28 @@
                         "GLOBAL-CAN-18x24-LANDSCAPE": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1FXf9Et9B1nI5fhuyiE8mm4QSBH3-GwsK"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1Fxf9Et9B1nI5fhuyiE8mm4QSBH3-GwsK"
                                 }
                             }
                         },
                         "GLOBAL-CAN-24x32-LANDSCAPE": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1FXf9Et9B1nI5fhuyiE8mm4QSBH3-GwsK"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1Fxf9Et9B1nI5fhuyiE8mm4QSBH3-GwsK"
                                 }
                             }
                         },
                         "GLOBAL-CAN-30x40-LANDSCAPE": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1FXf9Et9B1nI5fhuyiE8mm4QSBH3-GwsK"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1Fxf9Et9B1nI5fhuyiE8mm4QSBH3-GwsK"
                                 }
                             }
                         },
                         "GLOBAL-CAN-36x48-LANDSCAPE": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1FXf9Et9B1nI5fhuyiE8mm4QSBH3-GwsK"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1Fxf9Et9B1nI5fhuyiE8mm4QSBH3-GwsK"
                                 }
                             }
                         }
@@ -1709,7 +1709,7 @@
         },
         {
             "title": "Purple Desert",
-            "user_image_url": "https://drive.google.com/uc?export=download&id=1eihcOFAyNLKXjqqpB9YoDK4J8bZgv-b-",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1eihcOFAyNLKxjqqpB9YoDK4J8bZgv-b-",
             "products": {
                 "vybe-global-fra-can": {
                     "description": "",
@@ -1717,28 +1717,28 @@
                         "GLOBAL-FRA-CAN-18x24-LANDSCAPE": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1eihcOFAyNLKXjqqpB9YoDK4J8bZgv-b-"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1eihcOFAyNLKxjqqpB9YoDK4J8bZgv-b-"
                                 }
                             }
                         },
                         "GLOBAL-FRA-CAN-24x32-LANDSCAPE": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1eihcOFAyNLKXjqqpB9YoDK4J8bZgv-b-"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1eihcOFAyNLKxjqqpB9YoDK4J8bZgv-b-"
                                 }
                             }
                         },
                         "GLOBAL-FRA-CAN-30x40-LANDSCAPE": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1eihcOFAyNLKXjqqpB9YoDK4J8bZgv-b-"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1eihcOFAyNLKxjqqpB9YoDK4J8bZgv-b-"
                                 }
                             }
                         },
                         "GLOBAL-FRA-CAN-36x48-LANDSCAPE": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1eihcOFAyNLKXjqqpB9YoDK4J8bZgv-b-"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1eihcOFAyNLKxjqqpB9YoDK4J8bZgv-b-"
                                 }
                             }
                         }
@@ -1750,28 +1750,28 @@
                         "GLOBAL-CAN-18x24-LANDSCAPE": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1eihcOFAyNLKXjqqpB9YoDK4J8bZgv-b-"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1eihcOFAyNLKxjqqpB9YoDK4J8bZgv-b-"
                                 }
                             }
                         },
                         "GLOBAL-CAN-24x32-LANDSCAPE": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1eihcOFAyNLKXjqqpB9YoDK4J8bZgv-b-"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1eihcOFAyNLKxjqqpB9YoDK4J8bZgv-b-"
                                 }
                             }
                         },
                         "GLOBAL-CAN-30x40-LANDSCAPE": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1eihcOFAyNLKXjqqpB9YoDK4J8bZgv-b-"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1eihcOFAyNLKxjqqpB9YoDK4J8bZgv-b-"
                                 }
                             }
                         },
                         "GLOBAL-CAN-36x48-LANDSCAPE": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1eihcOFAyNLKXjqqpB9YoDK4J8bZgv-b-"
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1eihcOFAyNLKxjqqpB9YoDK4J8bZgv-b-"
                                 }
                             }
                         }

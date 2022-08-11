@@ -1,0 +1,271 @@
+{
+    "product_range_defaults": {
+        "published": true
+    },
+    "product_defaults": {
+        "enabled": false
+    },
+    "products_defaults": {
+        "vybe-global-can": {
+            "enabled": true
+        },
+        "vybe-global-fra-can": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false
+    },
+    "variants_defaults": {
+        "GLOBAL-FRA-CAN-18x24-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 196.00
+        },
+        "GLOBAL-FRA-CAN-24x32-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 218.00
+        },
+        "GLOBAL-FRA-CAN-30x40-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 304.00
+        },
+        "GLOBAL-FRA-CAN-36X48-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 384.00
+        },
+        "GLOBAL-CAN-18x24-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 119.00
+        },
+        "GLOBAL-CAN-24x32-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 149.00
+        },
+        "GLOBAL-CAN-30x40-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 221.00
+        },
+        "GLOBAL-CAN-36X48-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 307.00
+        }
+    },
+    "product_ranges": [
+        {
+            "title": "Highland View",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1GkUdTE5i7jC80nn8tZn9eg6thfTPuRuZ",
+            "products": {
+                "vybe-global-fra-can": {
+                    "description": "",
+                    "variants": {
+                        "GLOBAL-FRA-CAN-18x24-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1GkUdTE5i7jC80nn8tZn9eg6thfTPuRuZ"
+                                }
+                            }
+                        },
+                        "GLOBAL-FRA-CAN-24x32-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1GkUdTE5i7jC80nn8tZn9eg6thfTPuRuZ"
+                                }
+                            }
+                        },
+                        "GLOBAL-FRA-CAN-30x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1GkUdTE5i7jC80nn8tZn9eg6thfTPuRuZ"
+                                }
+                            }
+                        },
+                        "GLOBAL-FRA-CAN-36X48-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1GkUdTE5i7jC80nn8tZn9eg6thfTPuRuZ"
+                                }
+                            }
+                        }
+                    }
+                },
+                "vybe-global-can": {
+                    "description": "",
+                    "variants": {
+                        "GLOBAL-CAN-18x24-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1GkUdTE5i7jC80nn8tZn9eg6thfTPuRuZ"
+                                }
+                            }
+                        },
+                        "GLOBAL-CAN-24x32-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1GkUdTE5i7jC80nn8tZn9eg6thfTPuRuZ"
+                                }
+                            }
+                        },
+                        "GLOBAL-CAN-30x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1GkUdTE5i7jC80nn8tZn9eg6thfTPuRuZ"
+                                }
+                            }
+                        },
+                        "GLOBAL-CAN-36X48-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1GkUdTE5i7jC80nn8tZn9eg6thfTPuRuZ"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Sea and Sun",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1eLC-AjXyim7yXTf3dobJSfvgJ9skIJks",
+            "products": {
+                "vybe-global-fra-can": {
+                    "description": "",
+                    "variants": {
+                        "GLOBAL-FRA-CAN-18x24-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1eLC-AjXyim7yXTf3dobJSfvgJ9skIJks"
+                                }
+                            }
+                        },
+                        "GLOBAL-FRA-CAN-24x32-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1eLC-AjXyim7yXTf3dobJSfvgJ9skIJks"
+                                }
+                            }
+                        },
+                        "GLOBAL-FRA-CAN-30x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1eLC-AjXyim7yXTf3dobJSfvgJ9skIJks"
+                                }
+                            }
+                        },
+                        "GLOBAL-FRA-CAN-36X48-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1eLC-AjXyim7yXTf3dobJSfvgJ9skIJks"
+                                }
+                            }
+                        }
+                    }
+                },
+                "vybe-global-can": {
+                    "description": "",
+                    "variants": {
+                        "GLOBAL-CAN-18x24-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1eLC-AjXyim7yXTf3dobJSfvgJ9skIJks"
+                                }
+                            }
+                        },
+                        "GLOBAL-CAN-24x32-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1eLC-AjXyim7yXTf3dobJSfvgJ9skIJks"
+                                }
+                            }
+                        },
+                        "GLOBAL-CAN-30x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1eLC-AjXyim7yXTf3dobJSfvgJ9skIJks"
+                                }
+                            }
+                        },
+                        "GLOBAL-CAN-36X48-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1eLC-AjXyim7yXTf3dobJSfvgJ9skIJks"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Car Wash 1",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1TMshJ07OWa8R1P2BNoE15f6wr7qiQ7aO",
+            "products": {
+                "vybe-global-fra-can": {
+                    "description": "",
+                    "variants": {
+                        "GLOBAL-FRA-CAN-18x24-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1TMshJ07OWa8R1P2BNoE15f6wr7qiQ7aO"
+                                }
+                            }
+                        },
+                        "GLOBAL-FRA-CAN-24x32-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1TMshJ07OWa8R1P2BNoE15f6wr7qiQ7aO"
+                                }
+                            }
+                        },
+                        "GLOBAL-FRA-CAN-30x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1TMshJ07OWa8R1P2BNoE15f6wr7qiQ7aO"
+                                }
+                            }
+                        },
+                        "GLOBAL-FRA-CAN-36X48-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1TMshJ07OWa8R1P2BNoE15f6wr7qiQ7aO"
+                                }
+                            }
+                        }
+                    }
+                },
+                "vybe-global-can": {
+                    "description": "",
+                    "variants": {
+                        "GLOBAL-CAN-18x24-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1TMshJ07OWa8R1P2BNoE15f6wr7qiQ7aO"
+                                }
+                            }
+                        },
+                        "GLOBAL-CAN-24x32-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1TMshJ07OWa8R1P2BNoE15f6wr7qiQ7aO"
+                                }
+                            }
+                        },
+                        "GLOBAL-CAN-30x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1TMshJ07OWa8R1P2BNoE15f6wr7qiQ7aO"
+                                }
+                            }
+                        },
+                        "GLOBAL-CAN-36X48-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1TMshJ07OWa8R1P2BNoE15f6wr7qiQ7aO"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}

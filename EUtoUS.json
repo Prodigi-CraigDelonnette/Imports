@@ -1,0 +1,2963 @@
+{
+    "product_range_defaults": {
+        "published": true
+    },
+    "product_defaults": {
+        "enabled": false
+    },
+    "products_defaults": {
+        "global-fap": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false
+    },
+"product_ranges": [
+    {
+        "preview_image_url": "https://s3.amazonaws.com/kiteshopify/31aa0474-5043-4e46-a2b8-88d2b221df72_preview.png",
+        "published": true,
+        "title": "An Act of Kindness Print",
+        "user_image_url": "https://s3.amazonaws.com/kiteshopify/31aa0474-5043-4e46-a2b8-88d2b221df72.png",
+        "products": {
+            "global-fap": {
+                "enabled": true,
+                "variants": {
+                    "GLOBAL-FAP-A4-PORTRAIT": {
+                        "retail_price": "12.36",
+                        "enabled": false
+                    },
+                    "GLOBAL-FAP-A1-LANDSCAPE": {
+                        "enabled": false
+                    },
+                    "GLOBAL-FAP-8x12-LANDSCAPE": {
+                        "retail_price": "12.36"
+                    },
+                    "GLOBAL-FAP-A4-LANDSCAPE": {
+                        "retail_price": "12.36"
+                    },
+                    "GLOBAL-FAP-12x12-SQUARE": {
+                        "enabled": false
+                    },
+                    "GLOBAL-FAP-8x12-PORTRAIT": {
+                        "retail_price": "12.36"
+                    },
+                    "GLOBAL-FAP-A1-PORTRAIT": {
+                        "enabled": false
+                    },
+                    "GLOBAL-FAP-10x10-SQUARE": {
+                        "retail_price": "12.36"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "preview_image_url": "https://s3.amazonaws.com/kiteshopify/235d93a3-45a5-4f54-a0ae-b390d6d5f835_preview.jpeg",
+        "published": true,
+        "title": "Colours of Coffee Print",
+        "user_image_url": "https://s3.amazonaws.com/kiteshopify/235d93a3-45a5-4f54-a0ae-b390d6d5f835.jpeg",
+        "products": {
+            "global-fap": {
+                "enabled": true,
+                "variants": {
+                    "GLOBAL-FAP-A4-PORTRAIT": {
+                        "retail_price": "12.36",
+                        "enabled": false
+                    },
+                    "GLOBAL-FAP-A1-LANDSCAPE": {
+                        "enabled": false
+                    },
+                    "GLOBAL-FAP-8x12-LANDSCAPE": {
+                        "retail_price": "12.36"
+                    },
+                    "GLOBAL-FAP-A4-LANDSCAPE": {
+                        "retail_price": "12.36"
+                    },
+                    "GLOBAL-FAP-12x12-SQUARE": {
+                        "enabled": false
+                    },
+                    "GLOBAL-FAP-8x12-PORTRAIT": {
+                        "retail_price": "12.36"
+                    },
+                    "GLOBAL-FAP-10x10-SQUARE": {
+                        "retail_price": "12.36"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "preview_image_url": "https://s3.amazonaws.com/kiteshopify/885c5cde-dfbd-4889-ae1c-2e68229ff5e8_preview.jpeg",
+        "published": false,
+        "title": "Brain",
+        "user_image_url": "https://s3.amazonaws.com/kiteshopify/885c5cde-dfbd-4889-ae1c-2e68229ff5e8.jpeg",
+        "products": {
+            "global-fap": {
+                "description": "",
+                "enabled": true,
+                "variants": {
+                    "GLOBAL-FAP-A4-PORTRAIT": {
+                        "retail_price": "12.36",
+                        "enabled": false
+                    },
+                    "GLOBAL-FAP-A1-LANDSCAPE": {
+                        "enabled": false
+                    },
+                    "GLOBAL-FAP-8x12-LANDSCAPE": {
+                        "retail_price": "12.36"
+                    },
+                    "GLOBAL-FAP-A4-LANDSCAPE": {
+                        "retail_price": "12.36"
+                    },
+                    "GLOBAL-FAP-12x12-SQUARE": {
+                        "images": {
+                            "front": {
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                },
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/f898190d-a086-46ac-a14c-643b7f4380be.jpeg",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/f898190d-a086-46ac-a14c-643b7f4380be_preview.jpeg"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-8x12-PORTRAIT": {
+                        "retail_price": "12.36"
+                    },
+                    "GLOBAL-FAP-A1-PORTRAIT": {
+                        "enabled": false
+                    },
+                    "GLOBAL-FAP-10x10-SQUARE": {
+                        "retail_price": "12.36"
+                    },
+                    "GLOBAL-FAP-A3-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                },
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/08810ed1-4451-4940-b4a7-a31b523939e0.jpeg",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/08810ed1-4451-4940-b4a7-a31b523939e0_preview.jpeg"
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "preview_image_url": "https://s3.amazonaws.com/kiteshopify/47018b90-7fb7-4e1d-989b-311d37e16f35_preview.png",
+        "published": true,
+        "title": "Weird Coffee Person Ritual Print",
+        "user_image_url": "https://s3.amazonaws.com/kiteshopify/47018b90-7fb7-4e1d-989b-311d37e16f35.png",
+        "products": {
+            "global-fap": {
+                "enabled": true,
+                "variants": {
+                    "GLOBAL-FAP-A4-PORTRAIT": {
+                        "retail_price": "12.36",
+                        "enabled": false
+                    },
+                    "GLOBAL-FAP-A1-LANDSCAPE": {
+                        "enabled": false
+                    },
+                    "GLOBAL-FAP-8x12-LANDSCAPE": {
+                        "retail_price": "12.36"
+                    },
+                    "GLOBAL-FAP-A4-LANDSCAPE": {
+                        "retail_price": "12.36"
+                    },
+                    "GLOBAL-FAP-12x12-SQUARE": {
+                        "enabled": false
+                    },
+                    "GLOBAL-FAP-8x12-PORTRAIT": {
+                        "retail_price": "12.36"
+                    },
+                    "GLOBAL-FAP-A1-PORTRAIT": {
+                        "enabled": false
+                    },
+                    "GLOBAL-FAP-10x10-SQUARE": {
+                        "retail_price": "12.36"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "preview_image_url": "https://s3.amazonaws.com/kiteshopify/0324bd08-a0f1-47b6-b494-756d50ea3b6a_preview.png",
+        "published": true,
+        "title": "Coffee Bunker Print",
+        "user_image_url": "https://s3.amazonaws.com/kiteshopify/0324bd08-a0f1-47b6-b494-756d50ea3b6a.png",
+        "products": {
+            "global-fap": {
+                "enabled": true,
+                "variants": {
+                    "GLOBAL-FAP-A4-PORTRAIT": {
+                        "retail_price": "12.36",
+                        "enabled": false
+                    },
+                    "GLOBAL-FAP-A1-LANDSCAPE": {
+                        "enabled": false
+                    },
+                    "GLOBAL-FAP-8x12-LANDSCAPE": {
+                        "retail_price": "12.36"
+                    },
+                    "GLOBAL-FAP-A4-LANDSCAPE": {
+                        "retail_price": "12.36"
+                    },
+                    "GLOBAL-FAP-12x12-SQUARE": {
+                        "images": {
+                            "front": {
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                },
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/8b3a3ace-b9d3-4ca6-bd8b-14ea9fc60dac.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/8b3a3ace-b9d3-4ca6-bd8b-14ea9fc60dac_preview.png"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-8x12-PORTRAIT": {
+                        "retail_price": "12.36"
+                    },
+                    "GLOBAL-FAP-A1-PORTRAIT": {
+                        "enabled": false
+                    },
+                    "GLOBAL-FAP-10x10-SQUARE": {
+                        "retail_price": "12.36"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "preview_image_url": "https://s3.amazonaws.com/kiteshopify/9b208343-84ac-4534-be5d-d5493edf4782_preview.jpeg",
+        "published": true,
+        "title": "The Ultimate French Press Guide Print",
+        "user_image_url": "https://s3.amazonaws.com/kiteshopify/9b208343-84ac-4534-be5d-d5493edf4782.png",
+        "products": {
+            "global-fap": {
+                "enabled": true,
+                "variants": {
+                    "GLOBAL-FAP-A4-PORTRAIT": {
+                        "retail_price": "12.36",
+                        "enabled": false
+                    },
+                    "GLOBAL-FAP-A1-LANDSCAPE": {
+                        "enabled": false
+                    },
+                    "GLOBAL-FAP-8x12-LANDSCAPE": {
+                        "retail_price": "12.36"
+                    },
+                    "GLOBAL-FAP-A4-LANDSCAPE": {
+                        "retail_price": "12.36"
+                    },
+                    "GLOBAL-FAP-12x12-SQUARE": {
+                        "enabled": false
+                    },
+                    "GLOBAL-FAP-8x12-PORTRAIT": {
+                        "retail_price": "12.36"
+                    },
+                    "GLOBAL-FAP-A1-PORTRAIT": {
+                        "enabled": false
+                    },
+                    "GLOBAL-FAP-10x10-SQUARE": {
+                        "retail_price": "12.36"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "preview_image_url": "https://s3.amazonaws.com/kiteshopify/31fb5f58-2e3e-419b-aee5-27aa7a89ef28_preview.png",
+        "published": true,
+        "title": "V60 Brewing Guide print",
+        "user_image_url": "https://s3.amazonaws.com/kiteshopify/31fb5f58-2e3e-419b-aee5-27aa7a89ef28.png",
+        "products": {
+            "global-fap": {
+                "enabled": true,
+                "variants": {
+                    "GLOBAL-FAP-A4-PORTRAIT": {
+                        "retail_price": "12.36",
+                        "enabled": false
+                    },
+                    "GLOBAL-FAP-A1-LANDSCAPE": {
+                        "enabled": false
+                    },
+                    "GLOBAL-FAP-8x12-LANDSCAPE": {
+                        "retail_price": "12.36"
+                    },
+                    "GLOBAL-FAP-A4-LANDSCAPE": {
+                        "retail_price": "12.36"
+                    },
+                    "GLOBAL-FAP-12x12-SQUARE": {
+                        "enabled": false
+                    },
+                    "GLOBAL-FAP-8x12-PORTRAIT": {
+                        "retail_price": "12.36"
+                    },
+                    "GLOBAL-FAP-A1-PORTRAIT": {
+                        "enabled": false
+                    },
+                    "GLOBAL-FAP-10x10-SQUARE": {
+                        "retail_price": "12.36"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "preview_image_url": "https://s3.amazonaws.com/kiteshopify/8e9c28cf-ef38-4aef-9749-6dd48927d3f3_preview.jpeg",
+        "published": true,
+        "title": "Journey",
+        "user_image_url": "https://s3.amazonaws.com/kiteshopify/8e9c28cf-ef38-4aef-9749-6dd48927d3f3.jpeg",
+        "products": {
+            "global-fap": {
+                "enabled": true,
+                "variants": {
+                    "GLOBAL-FAP-A4-PORTRAIT": {
+                        "retail_price": "12.36",
+                        "enabled": false
+                    },
+                    "GLOBAL-FAP-A1-LANDSCAPE": {
+                        "enabled": false
+                    },
+                    "GLOBAL-FAP-8x12-LANDSCAPE": {
+                        "retail_price": "12.36"
+                    },
+                    "GLOBAL-FAP-A4-LANDSCAPE": {
+                        "retail_price": "12.36"
+                    },
+                    "GLOBAL-FAP-12x12-SQUARE": {
+                        "images": {
+                            "front": {
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                },
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/187f0466-f0e9-49cc-ab22-72c16b9c2175.jpeg",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/187f0466-f0e9-49cc-ab22-72c16b9c2175_preview.jpeg"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-8x12-PORTRAIT": {
+                        "retail_price": "12.36"
+                    },
+                    "GLOBAL-FAP-A1-PORTRAIT": {
+                        "enabled": false
+                    },
+                    "GLOBAL-FAP-10x10-SQUARE": {
+                        "retail_price": "12.36"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "preview_image_url": "https://s3.amazonaws.com/kiteshopify/d62e4fd9-38c3-4352-91fa-47698e373a0a_preview.jpeg",
+        "published": true,
+        "title": "Variety Family Tree Timeline Print",
+        "user_image_url": "https://s3.amazonaws.com/kiteshopify/d62e4fd9-38c3-4352-91fa-47698e373a0a.png",
+        "products": {
+            "global-fap": {
+                "description": "Resulting from the process of writing the World Atlas of Coffee, this poster shows a selection of the most common coffee varieties, and how they connect to each other as well as when they came to be.\n\nGicl\u00e9e printed on premium quality heavyweight 200gsm fine art A1 paper. \n\nPrinted on demand - please allow 10-15 business days for delivery (ships from AU, NL & US)\n\n \n\n*** First image credit:\n\nBryan Schiele (@letsbrew.coffee)",
+                "enabled": true,
+                "variants": {
+                    "GLOBAL-FAP-24x36-PORTRAIT": {
+                        "retail_price": "180",
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-30x40-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-16x32-PORTRAIT": {
+                        "retail_price": "123.33",
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-20x40-PORTRAIT": {
+                        "retail_price": "173.33",
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-8x12-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-16x24-PORTRAIT": {
+                        "retail_price": "90",
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-11x14-LANDSCAPE": {
+                        "retail_price": "66.67",
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-6x8-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-24x32-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-20x40-LANDSCAPE": {
+                        "retail_price": "173.33",
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-8x10-PORTRAIT": {
+                        "retail_price": "53.33",
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-A2-LANDSCAPE": {
+                        "retail_price": "96.67",
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-10x10-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-16x20-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-A0-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-32x32-SQUARE": {
+                        "retail_price": "200",
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-A3-PORTRAIT": {
+                        "retail_price": "73.33",
+                        "enabled": false,
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-A0-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-20x30-LANDSCAPE": {
+                        "retail_price": "143.33",
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-A4-PORTRAIT": {
+                        "retail_price": "60",
+                        "enabled": false,
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-A1-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-30x60-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-16x32-LANDSCAPE": {
+                        "retail_price": "123.33",
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-A5-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-20x20-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-A4-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-30x30-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-18x24-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-A1-PORTRAIT": {
+                        "retail_price": "156.67",
+                        "enabled": false,
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-12x18-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-16x20-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-18x24-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-8x8-SQUARE": {
+                        "retail_price": "53.33",
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-8x10-LANDSCAPE": {
+                        "retail_price": "53.33",
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-28x40-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-A5-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-20x28-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-10x20-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-30x40-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-20x28-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-40x48-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-16x24-LANDSCAPE": {
+                        "retail_price": "90",
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-12x12-SQUARE": {
+                        "retail_price": "66.67",
+                        "enabled": false,
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-A3-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-4x6-PORTRAIT": {
+                        "retail_price": "40",
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-12x18-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-24x36-LANDSCAPE": {
+                        "retail_price": "180",
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-40x48-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-24x32-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-30x60-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-6x6-SQUARE": {
+                        "retail_price": "43.33",
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-A2-PORTRAIT": {
+                        "retail_price": "96.67",
+                        "enabled": false,
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-40x40-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-11x14-PORTRAIT": {
+                        "retail_price": "66.67",
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-16x16-SQUARE": {
+                        "retail_price": "76.67",
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-40x60-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-24x24-SQUARE": {
+                        "retail_price": "136.67",
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-12x16-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-28x28-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-36x36-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-20x30-PORTRAIT": {
+                        "retail_price": "143.33",
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-40x60-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-6x8-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-8x12-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-12x16-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-4x6-LANDSCAPE": {
+                        "retail_price": "40",
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-28x40-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-10x20-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/db24de74-3de2-4cde-bb04-89c751629d2e_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "preview_image_url": "https://s3.amazonaws.com/kiteshopify/5737bbcf-c2b3-49c4-a7ad-02157f0f97b8_preview.jpeg",
+        "published": true,
+        "title": "Eugenioides",
+        "user_image_url": "https://s3.amazonaws.com/kiteshopify/5737bbcf-c2b3-49c4-a7ad-02157f0f97b8.png",
+        "products": {
+            "global-fap": {
+                "enabled": true,
+                "variants": {
+                    "GLOBAL-FAP-24x36-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-30x40-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-16x32-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-20x40-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-8x12-LANDSCAPE": {
+                        "retail_price": "12.36",
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-16x24-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-11x14-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-6x8-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-24x32-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-20x40-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-8x10-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-A2-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-10x10-SQUARE": {
+                        "retail_price": "12.36",
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-16x20-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-A0-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-32x32-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-A3-PORTRAIT": {
+                        "retail_price": "25.00",
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/da763be7-07f9-4974-a0e7-9113b9bbd1a5.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/da763be7-07f9-4974-a0e7-9113b9bbd1a5_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-A0-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-20x30-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-A4-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                },
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c_preview.jpeg"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-A1-LANDSCAPE": {
+                        "enabled": false,
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-30x60-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-16x32-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-A5-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-20x20-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-A4-LANDSCAPE": {
+                        "retail_price": "12.36",
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-30x30-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-18x24-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-A1-PORTRAIT": {
+                        "enabled": false,
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-12x18-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-16x20-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-18x24-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-8x8-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-8x10-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-28x40-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-A5-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-20x28-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-10x20-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-30x40-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-20x28-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-40x48-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-16x24-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-12x12-SQUARE": {
+                        "enabled": false,
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-A3-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-4x6-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-12x18-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-24x36-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-40x48-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-24x32-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-30x60-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-6x6-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-A2-PORTRAIT": {
+                        "enabled": false,
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-40x40-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-11x14-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-16x16-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-40x60-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-24x24-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-12x16-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-28x28-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-36x36-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-20x30-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-40x60-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-6x8-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-8x12-PORTRAIT": {
+                        "retail_price": "12.36",
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-12x16-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-4x6-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-28x40-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                }
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-10x20-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/2100668a-c965-46d5-b2f2-dc353b8caa9c_preview.jpeg",
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "preview_image_url": "https://s3.amazonaws.com/kiteshopify/5b460b71-b647-49f0-b8f7-3568437bf2b5_preview.jpeg",
+        "published": true,
+        "title": "Liberica",
+        "user_image_url": "https://s3.amazonaws.com/kiteshopify/5b460b71-b647-49f0-b8f7-3568437bf2b5.png",
+        "products": {
+            "global-fap": {
+                "enabled": true,
+                "variants": {
+                    "GLOBAL-FAP-A4-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                },
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/4683cd52-fc1e-4fd6-a62c-d32e46f0a6a1.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/4683cd52-fc1e-4fd6-a62c-d32e46f0a6a1_preview.jpeg"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-A1-LANDSCAPE": {
+                        "enabled": false
+                    },
+                    "GLOBAL-FAP-8x12-LANDSCAPE": {
+                        "retail_price": "12.36"
+                    },
+                    "GLOBAL-FAP-A2-PORTRAIT": {
+                        "enabled": false
+                    },
+                    "GLOBAL-FAP-A4-LANDSCAPE": {
+                        "retail_price": "12.36"
+                    },
+                    "GLOBAL-FAP-12x12-SQUARE": {
+                        "enabled": false
+                    },
+                    "GLOBAL-FAP-8x12-PORTRAIT": {
+                        "retail_price": "12.36"
+                    },
+                    "GLOBAL-FAP-A1-PORTRAIT": {
+                        "enabled": false
+                    },
+                    "GLOBAL-FAP-10x10-SQUARE": {
+                        "retail_price": "12.36"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "preview_image_url": "https://s3.amazonaws.com/kiteshopify/c0102d6a-425d-4809-907c-81e3c195a73a_preview.jpeg",
+        "published": true,
+        "title": "Racemosa",
+        "user_image_url": "https://s3.amazonaws.com/kiteshopify/c0102d6a-425d-4809-907c-81e3c195a73a.png",
+        "products": {
+            "global-fap": {
+                "enabled": true,
+                "variants": {
+                    "GLOBAL-FAP-A4-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "rotate": 0,
+                                    "mirror": false,
+                                    "scale": 1.0
+                                },
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/27e45c03-847f-4402-b676-d68742a85884.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/27e45c03-847f-4402-b676-d68742a85884_preview.jpeg"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-A1-LANDSCAPE": {
+                        "enabled": false
+                    },
+                    "GLOBAL-FAP-8x12-LANDSCAPE": {
+                        "retail_price": "12.36"
+                    },
+                    "GLOBAL-FAP-A2-PORTRAIT": {
+                        "enabled": false
+                    },
+                    "GLOBAL-FAP-A4-LANDSCAPE": {
+                        "retail_price": "12.36"
+                    },
+                    "GLOBAL-FAP-12x12-SQUARE": {
+                        "enabled": false
+                    },
+                    "GLOBAL-FAP-8x12-PORTRAIT": {
+                        "retail_price": "12.36"
+                    },
+                    "GLOBAL-FAP-A1-PORTRAIT": {
+                        "enabled": false
+                    },
+                    "GLOBAL-FAP-10x10-SQUARE": {
+                        "retail_price": "12.36"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "preview_image_url": "https://s3.amazonaws.com/kiteshopify/48fdb97d-1622-47ac-b5ef-453f9ec2b2e7_preview.jpeg",
+        "published": true,
+        "title": "Six Cultivated Coffee Species",
+        "user_image_url": "https://s3.amazonaws.com/kiteshopify/48fdb97d-1622-47ac-b5ef-453f9ec2b2e7.png",
+        "products": {
+            "global-fap": {
+                "enabled": true,
+                "variants": {
+                    "GLOBAL-FAP-A4-PORTRAIT": {
+                        "retail_price": "12.36",
+                        "enabled": false
+                    },
+                    "GLOBAL-FAP-A1-LANDSCAPE": {
+                        "enabled": false
+                    },
+                    "GLOBAL-FAP-8x12-LANDSCAPE": {
+                        "retail_price": "12.36"
+                    },
+                    "GLOBAL-FAP-A2-PORTRAIT": {
+                        "enabled": false
+                    },
+                    "GLOBAL-FAP-A4-LANDSCAPE": {
+                        "retail_price": "12.36"
+                    },
+                    "GLOBAL-FAP-12x12-SQUARE": {
+                        "enabled": false
+                    },
+                    "GLOBAL-FAP-8x12-PORTRAIT": {
+                        "retail_price": "12.36"
+                    },
+                    "GLOBAL-FAP-10x10-SQUARE": {
+                        "retail_price": "12.36"
+                    },
+                    "GLOBAL-FAP-A3-PORTRAIT": {
+                        "enabled": false
+                    }
+                }
+            }
+        }
+    },
+    {
+        "preview_image_url": "https://s3.amazonaws.com/kiteshopify/efba5249-9fd9-4a27-86f4-9a2fc02096bb_preview.jpeg",
+        "published": true,
+        "title": "Robusta",
+        "user_image_url": "https://s3.amazonaws.com/kiteshopify/efba5249-9fd9-4a27-86f4-9a2fc02096bb.png",
+        "products": {
+            "global-fap": {
+                "enabled": true,
+                "variants": {
+                    "GLOBAL-FAP-A4-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                },
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/bb1f1d34-a717-4f6b-ab4b-8a37a6f57cba.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/bb1f1d34-a717-4f6b-ab4b-8a37a6f57cba_preview.jpeg"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-A1-LANDSCAPE": {
+                        "enabled": false
+                    },
+                    "GLOBAL-FAP-8x12-LANDSCAPE": {
+                        "retail_price": "12.36"
+                    },
+                    "GLOBAL-FAP-A2-PORTRAIT": {
+                        "enabled": false
+                    },
+                    "GLOBAL-FAP-A4-LANDSCAPE": {
+                        "retail_price": "12.36"
+                    },
+                    "GLOBAL-FAP-12x12-SQUARE": {
+                        "enabled": false
+                    },
+                    "GLOBAL-FAP-8x12-PORTRAIT": {
+                        "retail_price": "12.36"
+                    },
+                    "GLOBAL-FAP-A1-PORTRAIT": {
+                        "enabled": false
+                    },
+                    "GLOBAL-FAP-10x10-SQUARE": {
+                        "retail_price": "12.36"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "preview_image_url": "https://s3.amazonaws.com/kiteshopify/598fa676-9f53-4e05-8eb4-67d77176f9a1_preview.jpeg",
+        "published": true,
+        "title": "Stenophylla",
+        "user_image_url": "https://s3.amazonaws.com/kiteshopify/598fa676-9f53-4e05-8eb4-67d77176f9a1.png",
+        "products": {
+            "global-fap": {
+                "enabled": true,
+                "variants": {
+                    "GLOBAL-FAP-A4-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                },
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/e636831b-6d1a-435f-8763-51d9ac927a4e.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/e636831b-6d1a-435f-8763-51d9ac927a4e_preview.jpeg"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-A1-LANDSCAPE": {
+                        "enabled": false
+                    },
+                    "GLOBAL-FAP-8x12-LANDSCAPE": {
+                        "retail_price": "12.36"
+                    },
+                    "GLOBAL-FAP-A2-PORTRAIT": {
+                        "enabled": false
+                    },
+                    "GLOBAL-FAP-A4-LANDSCAPE": {
+                        "retail_price": "12.36"
+                    },
+                    "GLOBAL-FAP-12x12-SQUARE": {
+                        "enabled": false
+                    },
+                    "GLOBAL-FAP-8x12-PORTRAIT": {
+                        "retail_price": "12.36"
+                    },
+                    "GLOBAL-FAP-A1-PORTRAIT": {
+                        "enabled": false
+                    },
+                    "GLOBAL-FAP-10x10-SQUARE": {
+                        "retail_price": "12.36"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "preview_image_url": "https://s3.amazonaws.com/kiteshopify/c0104bb2-03a1-4248-8e71-a980b3c4ac33_preview.jpeg",
+        "published": true,
+        "title": "Arabica",
+        "user_image_url": "https://s3.amazonaws.com/kiteshopify/c0104bb2-03a1-4248-8e71-a980b3c4ac33.png",
+        "products": {
+            "global-fap": {
+                "enabled": true,
+                "variants": {
+                    "GLOBAL-FAP-A4-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "image_arguments": {
+                                    "filters": "",
+                                    "translate": "0,0",
+                                    "border": "0",
+                                    "scale": 1.0,
+                                    "mirror": false,
+                                    "rotate": 0
+                                },
+                                "user_image_url": "https://s3.amazonaws.com/kiteshopify/14069090-3c18-47a5-9e19-4a271806742b.png",
+                                "preview_image_url": "https://s3.amazonaws.com/kiteshopify/14069090-3c18-47a5-9e19-4a271806742b_preview.jpeg"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-A1-LANDSCAPE": {
+                        "enabled": false
+                    },
+                    "GLOBAL-FAP-8x12-LANDSCAPE": {
+                        "retail_price": "12.36"
+                    },
+                    "GLOBAL-FAP-A2-PORTRAIT": {
+                        "enabled": false
+                    },
+                    "GLOBAL-FAP-A4-LANDSCAPE": {
+                        "retail_price": "12.36"
+                    },
+                    "GLOBAL-FAP-12x12-SQUARE": {
+                        "enabled": false
+                    },
+                    "GLOBAL-FAP-8x12-PORTRAIT": {
+                        "retail_price": "12.36"
+                    },
+                    "GLOBAL-FAP-A1-PORTRAIT": {
+                        "enabled": false
+                    },
+                    "GLOBAL-FAP-10x10-SQUARE": {
+                        "retail_price": "12.36"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "preview_image_url": "https://s3.amazonaws.com/kiteshopify/e06819ab-3e42-4c9c-b417-9bd035ab7327_preview.png",
+        "published": true,
+        "title": "DOOR",
+        "user_image_url": "https://s3.amazonaws.com/kiteshopify/e06819ab-3e42-4c9c-b417-9bd035ab7327.png",
+        "products": {
+            "global-fap": {
+                "description": "",
+                "enabled": true,
+                "variants": {
+                    "GLOBAL-FAP-A4-PORTRAIT": {
+                        "retail_price": "12.36"
+                    },
+                    "GLOBAL-FAP-A1-LANDSCAPE": {
+                        "enabled": false
+                    },
+                    "GLOBAL-FAP-8x12-LANDSCAPE": {
+                        "retail_price": "12.36"
+                    },
+                    "GLOBAL-FAP-A4-LANDSCAPE": {
+                        "retail_price": "12.36"
+                    },
+                    "GLOBAL-FAP-12x12-SQUARE": {
+                        "enabled": false
+                    },
+                    "GLOBAL-FAP-8x12-PORTRAIT": {
+                        "retail_price": "12.36"
+                    },
+                    "GLOBAL-FAP-A1-PORTRAIT": {
+                        "enabled": false
+                    },
+                    "GLOBAL-FAP-10x10-SQUARE": {
+                        "retail_price": "12.36"
+                    }
+                }
+            }
+        }
+    }
+]
+}

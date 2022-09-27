@@ -1,0 +1,246 @@
+{
+    "product_range_defaults": {
+        "published": true
+    },
+    "product_defaults": {
+        "enabled": false
+    },
+    "products_defaults": {
+        "global-cfp": {
+            "enabled": true
+        },
+        "global-fap": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false
+    },
+    "variants_defaults": {
+        "GLOBAL-CFP-A2-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 70.00
+        },
+        "GLOBAL-CFP-A3-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 60.00
+        },
+        "GLOBAL-CFP-A4-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 50.00
+        },
+        "GLOBAL-FAP-A2-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 28.00
+        },
+        "GLOBAL-FAP-A3-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 20.00
+        },
+        "GLOBAL-FAP-A4-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 15.00
+        },
+        "GLOBAL-FAP-A5-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 12.00
+        }
+    },
+    "product_ranges": [
+        {
+            "title": "Amsterdam Travel Poster Print",
+            "user_image_url": "https://www.dropbox.com/s/t8uvaywv3inoldz/Amsterdam%20Travel%20Poster%20Large.png?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "This is a fun whimsical view of Amsterdam, famous for its bicycles. The print is perfect for those who love to travel and enjoy the Dutch way of life, plus it makes a great gift.",
+                    "variants": {
+                        "GLOBAL-CFP-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/t8uvaywv3inoldz/Amsterdam%20Travel%20Poster%20Large.png?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/t8uvaywv3inoldz/Amsterdam%20Travel%20Poster%20Large.png?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A2-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/t8uvaywv3inoldz/Amsterdam%20Travel%20Poster%20Large.png?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-fap": {
+                    "description": "This is a fun whimsical view of Amsterdam, famous for its bicycles. The print is perfect for those who love to travel and enjoy the Dutch way of life, plus it makes a great gift.",
+                    "variants": {
+                        "GLOBAL-FAP-A5-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/t8uvaywv3inoldz/Amsterdam%20Travel%20Poster%20Large.png?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/t8uvaywv3inoldz/Amsterdam%20Travel%20Poster%20Large.png?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/t8uvaywv3inoldz/Amsterdam%20Travel%20Poster%20Large.png?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A2-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/t8uvaywv3inoldz/Amsterdam%20Travel%20Poster%20Large.png?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Antigua Travel Poster Print",
+            "user_image_url": "https://www.dropbox.com/s/op4w3pkf7yz0hmu/Antigua%20poster%20large.png?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "This vibrant print of the Caribbean island of Antigua will keep you dreaming of sunny days and wonderful times. It makes a great gift for any tropical travel lover.",
+                    "variants": {
+                        "GLOBAL-CFP-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/op4w3pkf7yz0hmu/Antigua%20poster%20large.png?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/op4w3pkf7yz0hmu/Antigua%20poster%20large.png?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A2-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/op4w3pkf7yz0hmu/Antigua%20poster%20large.png?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-fap": {
+                    "description": "This vibrant print of the Caribbean island of Antigua will keep you dreaming of sunny days and wonderful times. It makes a great gift for any tropical travel lover.",
+                    "variants": {
+                        "GLOBAL-FAP-A5-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/op4w3pkf7yz0hmu/Antigua%20poster%20large.png?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/op4w3pkf7yz0hmu/Antigua%20poster%20large.png?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/op4w3pkf7yz0hmu/Antigua%20poster%20large.png?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A2-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/op4w3pkf7yz0hmu/Antigua%20poster%20large.png?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+               {
+            "title": "Sangria Cocktail Poster Print",
+            "user_image_url": "https://www.dropbox.com/s/01wqlk5gwybd8hw/Sangria%20Cocktail%20Poster%20Large.png?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "Our Sangria Cocktail Print is perfect for your kitchen, dining room or above a home bar. Featuring a jug filled with a fruity punch cocktail is designed to bring back memories of enjoying sangria whilst on your travels",
+                    "variants": {
+                        "GLOBAL-CFP-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/01wqlk5gwybd8hw/Sangria%20Cocktail%20Poster%20Large.png?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/01wqlk5gwybd8hw/Sangria%20Cocktail%20Poster%20Large.png?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A2-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/01wqlk5gwybd8hw/Sangria%20Cocktail%20Poster%20Large.png?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-fap": {
+                    "description": "Our Sangria Cocktail Print is perfect for your kitchen, dining room or above a home bar. Featuring a jug filled with a fruity punch cocktail is designed to bring back memories of enjoying sangria whilst on your travels",
+                    "variants": {
+                        "GLOBAL-FAP-A5-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/01wqlk5gwybd8hw/Sangria%20Cocktail%20Poster%20Large.png?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/01wqlk5gwybd8hw/Sangria%20Cocktail%20Poster%20Large.png?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/01wqlk5gwybd8hw/Sangria%20Cocktail%20Poster%20Large.png?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A2-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/01wqlk5gwybd8hw/Sangria%20Cocktail%20Poster%20Large.png?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}

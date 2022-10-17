@@ -17,27 +17,27 @@
         "enabled": false
     },
     "variants_defaults": {
-        "GLOBAL-CFP-16x12-PORTRAIT": {
+        "GLOBAL-CFP-12x16-LANDSCAPE": {
             "enabled": true,
             "retail_price": 22.99
         },
-        "GLOBAL-CFP-24x18-PORTRAIT": {
+        "GLOBAL-CFP-18x24-LANDSCAPE": {
             "enabled": true,
             "retail_price": 32.99
         },
-        "GLOBAL-CFP-32x24-PORTRAIT": {
+        "GLOBAL-CFP-24x32-LANDSCAPE": {
             "enabled": true,
             "retail_price": 42.99
         },
-        "GLOBAL-FAP-16x12-PORTRAIT": {
+        "GLOBAL-FAP-12x16-LANDSCAPE": {
             "enabled": true,
             "retail_price": 42.99
         },
-        "GLOBAL-FAP-24x18-PORTRAIT": {
+        "GLOBAL-FAP-18x24-LANDSCAPE": {
             "enabled": true,
             "retail_price": 68.99
         },
-        "GLOBAL-FAP-32x24-PORTRAIT": {
+        "GLOBAL-FAP-24x32-LANDSCAPE": {
             "enabled": true,
             "retail_price": 92.99
         }
@@ -50,21 +50,21 @@
                 "global-cfp": {
                     "description": " ",
                     "variants": {
-                        "GLOBAL-CFP-32x24-PORTRAIT": {
+                        "GLOBAL-CFP-24x32-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/7-Octubus-Wall-Art.png"
                                 }
                             }
                         },
-                        "GLOBAL-CFP-24x18-PORTRAIT": {
+                        "GLOBAL-CFP-18x24-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/7-Octubus-Wall-Art.png"
                                 }
                             }
                         },
-                        "GLOBAL-CFP-16x12-PORTRAIT": {
+                        "GLOBAL-CFP-12x16-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/7-Octubus-Wall-Art.png"
@@ -76,21 +76,21 @@
                 "global-fap": {
                     "description": " ",
                     "variants": {
-                        "GLOBAL-FAP-32x24-PORTRAIT": {
+                        "GLOBAL-FAP-24x32-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/7-Octubus-Wall-Art.png"
                                 }
                             }
                         },
-                        "GLOBAL-FAP-24x18-PORTRAIT": {
+                        "GLOBAL-FAP-18x24-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/7-Octubus-Wall-Art.png"
                                 }
                             }
                         },
-                        "GLOBAL-FAP-16x12-PORTRAIT": {
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/7-Octubus-Wall-Art.png"
@@ -108,21 +108,21 @@
                 "global-cfp": {
                     "description": " ",
                     "variants": {
-                        "GLOBAL-CFP-32x24-PORTRAIT": {
+                        "GLOBAL-CFP-24x32-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/8-Junga-Wall-Art.png"
                                 }
                             }
                         },
-                        "GLOBAL-CFP-24x18-PORTRAIT": {
+                        "GLOBAL-CFP-18x24-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/8-Junga-Wall-Art.png"
                                 }
                             }
                         },
-                        "GLOBAL-CFP-16x12-PORTRAIT": {
+                        "GLOBAL-CFP-12x16-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/8-Junga-Wall-Art.png"
@@ -134,21 +134,21 @@
                 "global-fap": {
                     "description": " ",
                     "variants": {
-                        "GLOBAL-FAP-32x24-PORTRAIT": {
+                        "GLOBAL-FAP-24x32-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/8-Junga-Wall-Art.png"
                                 }
                             }
                         },
-                        "GLOBAL-FAP-24x18-PORTRAIT": {
+                        "GLOBAL-FAP-18x24-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/8-Junga-Wall-Art.png"
                                 }
                             }
                         },
-                        "GLOBAL-FAP-16x12-PORTRAIT": {
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/8-Junga-Wall-Art.png"
@@ -166,21 +166,21 @@
                 "global-cfp": {
                     "description": " ",
                     "variants": {
-                        "GLOBAL-CFP-32x24-PORTRAIT": {
+                        "GLOBAL-CFP-24x32-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/9-Calyssi-Wall-Art.png"
                                 }
                             }
                         },
-                        "GLOBAL-CFP-24x18-PORTRAIT": {
+                        "GLOBAL-CFP-18x24-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/9-Calyssi-Wall-Art.png"
                                 }
                             }
                         },
-                        "GLOBAL-CFP-16x12-PORTRAIT": {
+                        "GLOBAL-CFP-12x16-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/9-Calyssi-Wall-Art.png"
@@ -192,21 +192,21 @@
                 "global-fap": {
                     "description": " ",
                     "variants": {
-                        "GLOBAL-FAP-32x24-PORTRAIT": {
+                        "GLOBAL-FAP-24x32-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/9-Calyssi-Wall-Art.png"
                                 }
                             }
                         },
-                        "GLOBAL-FAP-24x18-PORTRAIT": {
+                        "GLOBAL-FAP-18x24-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/9-Calyssi-Wall-Art.png"
                                 }
                             }
                         },
-                        "GLOBAL-FAP-16x12-PORTRAIT": {
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/9-Calyssi-Wall-Art.png"
@@ -224,21 +224,21 @@
                 "global-cfp": {
                     "description": " ",
                     "variants": {
-                        "GLOBAL-CFP-32x24-PORTRAIT": {
+                        "GLOBAL-CFP-24x32-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Born-To-Roam-Wall-Art-5.png"
                                 }
                             }
                         },
-                        "GLOBAL-CFP-24x18-PORTRAIT": {
+                        "GLOBAL-CFP-18x24-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Born-To-Roam-Wall-Art-5.png"
                                 }
                             }
                         },
-                        "GLOBAL-CFP-16x12-PORTRAIT": {
+                        "GLOBAL-CFP-12x16-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Born-To-Roam-Wall-Art-5.png"
@@ -250,21 +250,21 @@
                 "global-fap": {
                     "description": " ",
                     "variants": {
-                        "GLOBAL-FAP-32x24-PORTRAIT": {
+                        "GLOBAL-FAP-24x32-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Born-To-Roam-Wall-Art-5.png"
                                 }
                             }
                         },
-                        "GLOBAL-FAP-24x18-PORTRAIT": {
+                        "GLOBAL-FAP-18x24-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Born-To-Roam-Wall-Art-5.png"
                                 }
                             }
                         },
-                        "GLOBAL-FAP-16x12-PORTRAIT": {
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Born-To-Roam-Wall-Art-5.png"
@@ -282,21 +282,21 @@
                 "global-cfp": {
                     "description": " ",
                     "variants": {
-                        "GLOBAL-CFP-32x24-PORTRAIT": {
+                        "GLOBAL-CFP-24x32-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Born-To-Roam-Wall-Art-19.png"
                                 }
                             }
                         },
-                        "GLOBAL-CFP-24x18-PORTRAIT": {
+                        "GLOBAL-CFP-18x24-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Born-To-Roam-Wall-Art-19.png"
                                 }
                             }
                         },
-                        "GLOBAL-CFP-16x12-PORTRAIT": {
+                        "GLOBAL-CFP-12x16-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Born-To-Roam-Wall-Art-19.png"
@@ -308,21 +308,21 @@
                 "global-fap": {
                     "description": " ",
                     "variants": {
-                        "GLOBAL-FAP-32x24-PORTRAIT": {
+                        "GLOBAL-FAP-24x32-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Born-To-Roam-Wall-Art-19.png"
                                 }
                             }
                         },
-                        "GLOBAL-FAP-24x18-PORTRAIT": {
+                        "GLOBAL-FAP-18x24-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Born-To-Roam-Wall-Art-19.png"
                                 }
                             }
                         },
-                        "GLOBAL-FAP-16x12-PORTRAIT": {
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Born-To-Roam-Wall-Art-19.png"
@@ -340,21 +340,21 @@
                 "global-cfp": {
                     "description": " ",
                     "variants": {
-                        "GLOBAL-CFP-32x24-PORTRAIT": {
+                        "GLOBAL-CFP-24x32-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Born-To-Roam-Wall-Art-21.png"
                                 }
                             }
                         },
-                        "GLOBAL-CFP-24x18-PORTRAIT": {
+                        "GLOBAL-CFP-18x24-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Born-To-Roam-Wall-Art-21.png"
                                 }
                             }
                         },
-                        "GLOBAL-CFP-16x12-PORTRAIT": {
+                        "GLOBAL-CFP-12x16-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Born-To-Roam-Wall-Art-21.png"
@@ -366,21 +366,21 @@
                 "global-fap": {
                     "description": " ",
                     "variants": {
-                        "GLOBAL-FAP-32x24-PORTRAIT": {
+                        "GLOBAL-FAP-24x32-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Born-To-Roam-Wall-Art-21.png"
                                 }
                             }
                         },
-                        "GLOBAL-FAP-24x18-PORTRAIT": {
+                        "GLOBAL-FAP-18x24-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Born-To-Roam-Wall-Art-21.png"
                                 }
                             }
                         },
-                        "GLOBAL-FAP-16x12-PORTRAIT": {
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Born-To-Roam-Wall-Art-21.png"
@@ -398,21 +398,21 @@
                 "global-cfp": {
                     "description": " ",
                     "variants": {
-                        "GLOBAL-CFP-32x24-PORTRAIT": {
+                        "GLOBAL-CFP-24x32-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Born-To-Roam-Wall-Art-25.png"
                                 }
                             }
                         },
-                        "GLOBAL-CFP-24x18-PORTRAIT": {
+                        "GLOBAL-CFP-18x24-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Born-To-Roam-Wall-Art-25.png"
                                 }
                             }
                         },
-                        "GLOBAL-CFP-16x12-PORTRAIT": {
+                        "GLOBAL-CFP-12x16-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Born-To-Roam-Wall-Art-25.png"
@@ -424,21 +424,21 @@
                 "global-fap": {
                     "description": " ",
                     "variants": {
-                        "GLOBAL-FAP-32x24-PORTRAIT": {
+                        "GLOBAL-FAP-24x32-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Born-To-Roam-Wall-Art-25.png"
                                 }
                             }
                         },
-                        "GLOBAL-FAP-24x18-PORTRAIT": {
+                        "GLOBAL-FAP-18x24-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Born-To-Roam-Wall-Art-25.png"
                                 }
                             }
                         },
-                        "GLOBAL-FAP-16x12-PORTRAIT": {
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Born-To-Roam-Wall-Art-25.png"
@@ -456,21 +456,21 @@
                 "global-cfp": {
                     "description": " ",
                     "variants": {
-                        "GLOBAL-CFP-32x24-PORTRAIT": {
+                        "GLOBAL-CFP-24x32-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Born-To-Roam-Wall-Art-27.png"
                                 }
                             }
                         },
-                        "GLOBAL-CFP-24x18-PORTRAIT": {
+                        "GLOBAL-CFP-18x24-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Born-To-Roam-Wall-Art-27.png"
                                 }
                             }
                         },
-                        "GLOBAL-CFP-16x12-PORTRAIT": {
+                        "GLOBAL-CFP-12x16-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Born-To-Roam-Wall-Art-27.png"
@@ -482,21 +482,21 @@
                 "global-fap": {
                     "description": " ",
                     "variants": {
-                        "GLOBAL-FAP-32x24-PORTRAIT": {
+                        "GLOBAL-FAP-24x32-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Born-To-Roam-Wall-Art-27.png"
                                 }
                             }
                         },
-                        "GLOBAL-FAP-24x18-PORTRAIT": {
+                        "GLOBAL-FAP-18x24-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Born-To-Roam-Wall-Art-27.png"
                                 }
                             }
                         },
-                        "GLOBAL-FAP-16x12-PORTRAIT": {
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Born-To-Roam-Wall-Art-27.png"
@@ -514,21 +514,21 @@
                 "global-cfp": {
                     "description": " ",
                     "variants": {
-                        "GLOBAL-CFP-32x24-PORTRAIT": {
+                        "GLOBAL-CFP-24x32-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Born-To-Roam-Wall-Art-29.png"
                                 }
                             }
                         },
-                        "GLOBAL-CFP-24x18-PORTRAIT": {
+                        "GLOBAL-CFP-18x24-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Born-To-Roam-Wall-Art-29.png"
                                 }
                             }
                         },
-                        "GLOBAL-CFP-16x12-PORTRAIT": {
+                        "GLOBAL-CFP-12x16-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Born-To-Roam-Wall-Art-29.png"
@@ -540,21 +540,21 @@
                 "global-fap": {
                     "description": " ",
                     "variants": {
-                        "GLOBAL-FAP-32x24-PORTRAIT": {
+                        "GLOBAL-FAP-24x32-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Born-To-Roam-Wall-Art-29.png"
                                 }
                             }
                         },
-                        "GLOBAL-FAP-24x18-PORTRAIT": {
+                        "GLOBAL-FAP-18x24-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Born-To-Roam-Wall-Art-29.png"
                                 }
                             }
                         },
-                        "GLOBAL-FAP-16x12-PORTRAIT": {
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Born-To-Roam-Wall-Art-29.png"
@@ -572,21 +572,21 @@
                 "global-cfp": {
                     "description": " ",
                     "variants": {
-                        "GLOBAL-CFP-32x24-PORTRAIT": {
+                        "GLOBAL-CFP-24x32-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Born-To-Roam-Wall-Art-35.png"
                                 }
                             }
                         },
-                        "GLOBAL-CFP-24x18-PORTRAIT": {
+                        "GLOBAL-CFP-18x24-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Born-To-Roam-Wall-Art-35.png"
                                 }
                             }
                         },
-                        "GLOBAL-CFP-16x12-PORTRAIT": {
+                        "GLOBAL-CFP-12x16-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Born-To-Roam-Wall-Art-35.png"
@@ -598,21 +598,21 @@
                 "global-fap": {
                     "description": " ",
                     "variants": {
-                        "GLOBAL-FAP-32x24-PORTRAIT": {
+                        "GLOBAL-FAP-24x32-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Born-To-Roam-Wall-Art-35.png"
                                 }
                             }
                         },
-                        "GLOBAL-FAP-24x18-PORTRAIT": {
+                        "GLOBAL-FAP-18x24-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Born-To-Roam-Wall-Art-35.png"
                                 }
                             }
                         },
-                        "GLOBAL-FAP-16x12-PORTRAIT": {
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Born-To-Roam-Wall-Art-35.png"
@@ -630,21 +630,21 @@
                 "global-cfp": {
                     "description": " ",
                     "variants": {
-                        "GLOBAL-CFP-32x24-PORTRAIT": {
+                        "GLOBAL-CFP-24x32-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Born-To-Roam-Wall-Art-38.png"
                                 }
                             }
                         },
-                        "GLOBAL-CFP-24x18-PORTRAIT": {
+                        "GLOBAL-CFP-18x24-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Born-To-Roam-Wall-Art-38.png"
                                 }
                             }
                         },
-                        "GLOBAL-CFP-16x12-PORTRAIT": {
+                        "GLOBAL-CFP-12x16-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Born-To-Roam-Wall-Art-38.png"
@@ -656,21 +656,21 @@
                 "global-fap": {
                     "description": " ",
                     "variants": {
-                        "GLOBAL-FAP-32x24-PORTRAIT": {
+                        "GLOBAL-FAP-24x32-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Born-To-Roam-Wall-Art-38.png"
                                 }
                             }
                         },
-                        "GLOBAL-FAP-24x18-PORTRAIT": {
+                        "GLOBAL-FAP-18x24-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Born-To-Roam-Wall-Art-38.png"
                                 }
                             }
                         },
-                        "GLOBAL-FAP-16x12-PORTRAIT": {
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Born-To-Roam-Wall-Art-38.png"
@@ -688,21 +688,21 @@
                 "global-cfp": {
                     "description": " ",
                     "variants": {
-                        "GLOBAL-CFP-32x24-PORTRAIT": {
+                        "GLOBAL-CFP-24x32-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Arabian-Mystiques-Wall-Art-1.png"
                                 }
                             }
                         },
-                        "GLOBAL-CFP-24x18-PORTRAIT": {
+                        "GLOBAL-CFP-18x24-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Arabian-Mystiques-Wall-Art-1.png"
                                 }
                             }
                         },
-                        "GLOBAL-CFP-16x12-PORTRAIT": {
+                        "GLOBAL-CFP-12x16-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Arabian-Mystiques-Wall-Art-1.png"
@@ -714,21 +714,21 @@
                 "global-fap": {
                     "description": " ",
                     "variants": {
-                        "GLOBAL-FAP-32x24-PORTRAIT": {
+                        "GLOBAL-FAP-24x32-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Arabian-Mystiques-Wall-Art-1.png"
                                 }
                             }
                         },
-                        "GLOBAL-FAP-24x18-PORTRAIT": {
+                        "GLOBAL-FAP-18x24-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Arabian-Mystiques-Wall-Art-1.png"
                                 }
                             }
                         },
-                        "GLOBAL-FAP-16x12-PORTRAIT": {
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Arabian-Mystiques-Wall-Art-1.png"
@@ -746,21 +746,21 @@
                 "global-cfp": {
                     "description": " ",
                     "variants": {
-                        "GLOBAL-CFP-32x24-PORTRAIT": {
+                        "GLOBAL-CFP-24x32-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Arabian-Mystiques-Wall-Art-2.png"
                                 }
                             }
                         },
-                        "GLOBAL-CFP-24x18-PORTRAIT": {
+                        "GLOBAL-CFP-18x24-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Arabian-Mystiques-Wall-Art-2.png"
                                 }
                             }
                         },
-                        "GLOBAL-CFP-16x12-PORTRAIT": {
+                        "GLOBAL-CFP-12x16-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Arabian-Mystiques-Wall-Art-2.png"
@@ -772,21 +772,21 @@
                 "global-fap": {
                     "description": " ",
                     "variants": {
-                        "GLOBAL-FAP-32x24-PORTRAIT": {
+                        "GLOBAL-FAP-24x32-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Arabian-Mystiques-Wall-Art-2.png"
                                 }
                             }
                         },
-                        "GLOBAL-FAP-24x18-PORTRAIT": {
+                        "GLOBAL-FAP-18x24-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Arabian-Mystiques-Wall-Art-2.png"
                                 }
                             }
                         },
-                        "GLOBAL-FAP-16x12-PORTRAIT": {
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Arabian-Mystiques-Wall-Art-2.png"
@@ -804,21 +804,21 @@
                 "global-cfp": {
                     "description": " ",
                     "variants": {
-                        "GLOBAL-CFP-32x24-PORTRAIT": {
+                        "GLOBAL-CFP-24x32-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Arabian-Mystiques-Wall-Art-3.png"
                                 }
                             }
                         },
-                        "GLOBAL-CFP-24x18-PORTRAIT": {
+                        "GLOBAL-CFP-18x24-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Arabian-Mystiques-Wall-Art-3.png"
                                 }
                             }
                         },
-                        "GLOBAL-CFP-16x12-PORTRAIT": {
+                        "GLOBAL-CFP-12x16-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Arabian-Mystiques-Wall-Art-3.png"
@@ -830,21 +830,21 @@
                 "global-fap": {
                     "description": " ",
                     "variants": {
-                        "GLOBAL-FAP-32x24-PORTRAIT": {
+                        "GLOBAL-FAP-24x32-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Arabian-Mystiques-Wall-Art-3.png"
                                 }
                             }
                         },
-                        "GLOBAL-FAP-24x18-PORTRAIT": {
+                        "GLOBAL-FAP-18x24-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Arabian-Mystiques-Wall-Art-3.png"
                                 }
                             }
                         },
-                        "GLOBAL-FAP-16x12-PORTRAIT": {
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Arabian-Mystiques-Wall-Art-3.png"
@@ -862,21 +862,21 @@
                 "global-cfp": {
                     "description": " ",
                     "variants": {
-                        "GLOBAL-CFP-32x24-PORTRAIT": {
+                        "GLOBAL-CFP-24x32-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Desert-Fuego-Wall-Art-1.png"
                                 }
                             }
                         },
-                        "GLOBAL-CFP-24x18-PORTRAIT": {
+                        "GLOBAL-CFP-18x24-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Desert-Fuego-Wall-Art-1.png"
                                 }
                             }
                         },
-                        "GLOBAL-CFP-16x12-PORTRAIT": {
+                        "GLOBAL-CFP-12x16-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Desert-Fuego-Wall-Art-1.png"
@@ -888,21 +888,21 @@
                 "global-fap": {
                     "description": " ",
                     "variants": {
-                        "GLOBAL-FAP-32x24-PORTRAIT": {
+                        "GLOBAL-FAP-24x32-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Desert-Fuego-Wall-Art-1.png"
                                 }
                             }
                         },
-                        "GLOBAL-FAP-24x18-PORTRAIT": {
+                        "GLOBAL-FAP-18x24-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Desert-Fuego-Wall-Art-1.png"
                                 }
                             }
                         },
-                        "GLOBAL-FAP-16x12-PORTRAIT": {
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Desert-Fuego-Wall-Art-1.png"
@@ -920,21 +920,21 @@
                 "global-cfp": {
                     "description": " ",
                     "variants": {
-                        "GLOBAL-CFP-32x24-PORTRAIT": {
+                        "GLOBAL-CFP-24x32-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Desert-Fuego-Wall-Art-2.png"
                                 }
                             }
                         },
-                        "GLOBAL-CFP-24x18-PORTRAIT": {
+                        "GLOBAL-CFP-18x24-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Desert-Fuego-Wall-Art-2.png"
                                 }
                             }
                         },
-                        "GLOBAL-CFP-16x12-PORTRAIT": {
+                        "GLOBAL-CFP-12x16-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Desert-Fuego-Wall-Art-2.png"
@@ -946,21 +946,21 @@
                 "global-fap": {
                     "description": " ",
                     "variants": {
-                        "GLOBAL-FAP-32x24-PORTRAIT": {
+                        "GLOBAL-FAP-24x32-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Desert-Fuego-Wall-Art-2.png"
                                 }
                             }
                         },
-                        "GLOBAL-FAP-24x18-PORTRAIT": {
+                        "GLOBAL-FAP-18x24-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Desert-Fuego-Wall-Art-2.png"
                                 }
                             }
                         },
-                        "GLOBAL-FAP-16x12-PORTRAIT": {
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Desert-Fuego-Wall-Art-2.png"
@@ -978,21 +978,21 @@
                 "global-cfp": {
                     "description": " ",
                     "variants": {
-                        "GLOBAL-CFP-32x24-PORTRAIT": {
+                        "GLOBAL-CFP-24x32-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Desert-Fuego-Wall-Art-3.png"
                                 }
                             }
                         },
-                        "GLOBAL-CFP-24x18-PORTRAIT": {
+                        "GLOBAL-CFP-18x24-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Desert-Fuego-Wall-Art-3.png"
                                 }
                             }
                         },
-                        "GLOBAL-CFP-16x12-PORTRAIT": {
+                        "GLOBAL-CFP-12x16-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Desert-Fuego-Wall-Art-3.png"
@@ -1004,21 +1004,21 @@
                 "global-fap": {
                     "description": " ",
                     "variants": {
-                        "GLOBAL-FAP-32x24-PORTRAIT": {
+                        "GLOBAL-FAP-24x32-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Desert-Fuego-Wall-Art-3.png"
                                 }
                             }
                         },
-                        "GLOBAL-FAP-24x18-PORTRAIT": {
+                        "GLOBAL-FAP-18x24-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Desert-Fuego-Wall-Art-3.png"
                                 }
                             }
                         },
-                        "GLOBAL-FAP-16x12-PORTRAIT": {
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Desert-Fuego-Wall-Art-3.png"
@@ -1036,21 +1036,21 @@
                 "global-cfp": {
                     "description": " ",
                     "variants": {
-                        "GLOBAL-CFP-32x24-PORTRAIT": {
+                        "GLOBAL-CFP-24x32-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Elixir-Of-Mother-Nature-Wall-Art-10.png"
                                 }
                             }
                         },
-                        "GLOBAL-CFP-24x18-PORTRAIT": {
+                        "GLOBAL-CFP-18x24-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Elixir-Of-Mother-Nature-Wall-Art-10.png"
                                 }
                             }
                         },
-                        "GLOBAL-CFP-16x12-PORTRAIT": {
+                        "GLOBAL-CFP-12x16-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Elixir-Of-Mother-Nature-Wall-Art-10.png"
@@ -1062,21 +1062,21 @@
                 "global-fap": {
                     "description": " ",
                     "variants": {
-                        "GLOBAL-FAP-32x24-PORTRAIT": {
+                        "GLOBAL-FAP-24x32-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Elixir-Of-Mother-Nature-Wall-Art-10.png"
                                 }
                             }
                         },
-                        "GLOBAL-FAP-24x18-PORTRAIT": {
+                        "GLOBAL-FAP-18x24-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Elixir-Of-Mother-Nature-Wall-Art-10.png"
                                 }
                             }
                         },
-                        "GLOBAL-FAP-16x12-PORTRAIT": {
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Elixir-Of-Mother-Nature-Wall-Art-10.png"
@@ -1094,21 +1094,21 @@
                 "global-cfp": {
                     "description": " ",
                     "variants": {
-                        "GLOBAL-CFP-32x24-PORTRAIT": {
+                        "GLOBAL-CFP-24x32-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Elixir-Of-Mother-Nature-Wall-Art-11.png"
                                 }
                             }
                         },
-                        "GLOBAL-CFP-24x18-PORTRAIT": {
+                        "GLOBAL-CFP-18x24-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Elixir-Of-Mother-Nature-Wall-Art-11.png"
                                 }
                             }
                         },
-                        "GLOBAL-CFP-16x12-PORTRAIT": {
+                        "GLOBAL-CFP-12x16-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Elixir-Of-Mother-Nature-Wall-Art-11.png"
@@ -1120,21 +1120,21 @@
                 "global-fap": {
                     "description": " ",
                     "variants": {
-                        "GLOBAL-FAP-32x24-PORTRAIT": {
+                        "GLOBAL-FAP-24x32-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Elixir-Of-Mother-Nature-Wall-Art-11.png"
                                 }
                             }
                         },
-                        "GLOBAL-FAP-24x18-PORTRAIT": {
+                        "GLOBAL-FAP-18x24-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Elixir-Of-Mother-Nature-Wall-Art-11.png"
                                 }
                             }
                         },
-                        "GLOBAL-FAP-16x12-PORTRAIT": {
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Elixir-Of-Mother-Nature-Wall-Art-11.png"
@@ -1152,21 +1152,21 @@
                 "global-cfp": {
                     "description": " ",
                     "variants": {
-                        "GLOBAL-CFP-32x24-PORTRAIT": {
+                        "GLOBAL-CFP-24x32-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Elixir-Of-Mother-Nature-Wall-Art-12.png"
                                 }
                             }
                         },
-                        "GLOBAL-CFP-24x18-PORTRAIT": {
+                        "GLOBAL-CFP-18x24-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Elixir-Of-Mother-Nature-Wall-Art-12.png"
                                 }
                             }
                         },
-                        "GLOBAL-CFP-16x12-PORTRAIT": {
+                        "GLOBAL-CFP-12x16-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Elixir-Of-Mother-Nature-Wall-Art-12.png"
@@ -1178,21 +1178,21 @@
                 "global-fap": {
                     "description": " ",
                     "variants": {
-                        "GLOBAL-FAP-32x24-PORTRAIT": {
+                        "GLOBAL-FAP-24x32-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Elixir-Of-Mother-Nature-Wall-Art-12.png"
                                 }
                             }
                         },
-                        "GLOBAL-FAP-24x18-PORTRAIT": {
+                        "GLOBAL-FAP-18x24-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Elixir-Of-Mother-Nature-Wall-Art-12.png"
                                 }
                             }
                         },
-                        "GLOBAL-FAP-16x12-PORTRAIT": {
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Elixir-Of-Mother-Nature-Wall-Art-12.png"

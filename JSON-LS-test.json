@@ -17,27 +17,27 @@
         "enabled": false
     },
     "variants_defaults": {
-        "GLOBAL-CFP-16x12-PORTRAIT": {
+        "GLOBAL-CFP-12x16-LANDSCAPE": {
             "enabled": true,
             "retail_price": 22.99
         },
-        "GLOBAL-CFP-24x18-PORTRAIT": {
+        "GLOBAL-CFP-18x24-LANDSCAPE": {
             "enabled": true,
             "retail_price": 32.99
         },
-        "GLOBAL-CFP-32x24-PORTRAIT": {
+        "GLOBAL-CFP-24x32-LANDSCAPE": {
             "enabled": true,
             "retail_price": 42.99
         },
-        "GLOBAL-FAP-16x12-PORTRAIT": {
+        "GLOBAL-FAP-12x16-LANDSCAPE": {
             "enabled": true,
             "retail_price": 42.99
         },
-        "GLOBAL-FAP-24x18-PORTRAIT": {
+        "GLOBAL-FAP-18x24-LANDSCAPE": {
             "enabled": true,
             "retail_price": 68.99
         },
-        "GLOBAL-FAP-32x24-PORTRAIT": {
+        "GLOBAL-FAP-24x32-LANDSCAPE": {
             "enabled": true,
             "retail_price": 92.99
         }
@@ -50,21 +50,21 @@
                 "global-cfp": {
                     "description": " ",
                     "variants": {
-                        "GLOBAL-CFP-32x24-PORTRAIT": {
+                        "GLOBAL-CFP-24x32-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/7-Octubus-Wall-Art.png"
                                 }
                             }
                         },
-                        "GLOBAL-CFP-24x18-PORTRAIT": {
+                        "GLOBAL-CFP-18x24-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/7-Octubus-Wall-Art.png"
                                 }
                             }
                         },
-                        "GLOBAL-CFP-16x12-PORTRAIT": {
+                        "GLOBAL-CFP-12x16-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/7-Octubus-Wall-Art.png"
@@ -76,21 +76,21 @@
                 "global-fap": {
                     "description": " ",
                     "variants": {
-                        "GLOBAL-FAP-32x24-PORTRAIT": {
+                        "GLOBAL-FAP-24x32-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/7-Octubus-Wall-Art.png"
                                 }
                             }
                         },
-                        "GLOBAL-FAP-24x18-PORTRAIT": {
+                        "GLOBAL-FAP-18x24-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/7-Octubus-Wall-Art.png"
                                 }
                             }
                         },
-                        "GLOBAL-FAP-16x12-PORTRAIT": {
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/7-Octubus-Wall-Art.png"
@@ -108,21 +108,21 @@
                 "global-cfp": {
                     "description": " ",
                     "variants": {
-                        "GLOBAL-CFP-32x24-PORTRAIT": {
+                        "GLOBAL-CFP-24x32-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Elixir-Of-Mother-Nature-Wall-Art-12.png"
                                 }
                             }
                         },
-                        "GLOBAL-CFP-24x18-PORTRAIT": {
+                        "GLOBAL-CFP-18x24-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Elixir-Of-Mother-Nature-Wall-Art-12.png"
                                 }
                             }
                         },
-                        "GLOBAL-CFP-16x12-PORTRAIT": {
+                        "GLOBAL-CFP-12x16-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Elixir-Of-Mother-Nature-Wall-Art-12.png"
@@ -134,21 +134,21 @@
                 "global-fap": {
                     "description": " ",
                     "variants": {
-                        "GLOBAL-FAP-32x24-PORTRAIT": {
+                        "GLOBAL-FAP-24x32-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Elixir-Of-Mother-Nature-Wall-Art-12.png"
                                 }
                             }
                         },
-                        "GLOBAL-FAP-24x18-PORTRAIT": {
+                        "GLOBAL-FAP-18x24-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Elixir-Of-Mother-Nature-Wall-Art-12.png"
                                 }
                             }
                         },
-                        "GLOBAL-FAP-16x12-PORTRAIT": {
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "Https://blog.idleuwi.com/wp-content/art/Elixir-Of-Mother-Nature-Wall-Art-12.png"

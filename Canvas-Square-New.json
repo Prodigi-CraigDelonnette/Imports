@@ -1,0 +1,579 @@
+{
+    "product_range_defaults": {
+        "published": true
+    },
+    "product_defaults": {
+        "enabled": false
+    },
+    "products_defaults": {
+        "vybe-global-can": {
+            "enabled": true
+        },
+        "vybe-global-fra-can": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false
+    },
+    "variants_defaults": {
+        "GLOBAL-CAN-20x20-SQUARE": {
+            "enabled": true,
+            "retail_price": 126.00
+        },
+        "GLOBAL-CAN-24x24-SQUARE": {
+            "enabled": true,
+            "retail_price": 148.00
+        },
+        "GLOBAL-CAN-32x32-SQUARE": {
+            "enabled": true,
+            "retail_price": 184.00
+        },
+        "GLOBAL-CAN-36x36-SQUARE": {
+            "enabled": true,
+            "retail_price": 237.00
+        },
+        "GLOBAL-CAN-40x40-SQUARE": {
+            "enabled": true,
+            "retail_price": 246.00
+        },
+        "GLOBAL-FRA-CAN-20x20-SQUARE": {
+            "enabled": true,
+            "retail_price": 168.00
+        },
+        "GLOBAL-FRA-CAN-24x24-SQUARE": {
+            "enabled": true,
+            "retail_price": 198.00
+        },
+        "GLOBAL-FRA-CAN-32x32-SQUARE": {
+            "enabled": true,
+            "retail_price": 253.00
+        },
+        "GLOBAL-FRA-CAN-36x36-SQUARE": {
+            "enabled": true,
+            "retail_price": 324.00
+        },
+        "GLOBAL-FRA-CAN-40x40-SQUARE": {
+            "enabled": true,
+            "retail_price": 362.50
+        }
+    },
+    "product_ranges": [
+        {
+            "title": "German Nights",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1aBYyfVGd3JpfpjKbJO1CeeRqLsJ8w5nE",
+            "products": {
+                "global-can": {
+                    "description": "",
+                    "variants": {
+                        "GLOBAL-CAN-20x20-SQUARE-MW": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1aBYyfVGd3JpfpjKbJO1CeeRqLsJ8w5nE"
+                                }
+                            }
+                        },
+                        "GLOBAL-CAN-24x24-SQUARE-MW": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1aBYyfVGd3JpfpjKbJO1CeeRqLsJ8w5nE"
+                                }
+                            }
+                        },
+                        "GLOBAL-CAN-32x32-SQUARE-MW": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1aBYyfVGd3JpfpjKbJO1CeeRqLsJ8w5nE"
+                                }
+                            }
+                        },
+                        "GLOBAL-CAN-36x36-SQUARE-MW": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1aBYyfVGd3JpfpjKbJO1CeeRqLsJ8w5nE"
+                                }
+                            }
+                        },
+                        "GLOBAL-CAN-40x40-SQUARE-MW": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1aBYyfVGd3JpfpjKbJO1CeeRqLsJ8w5nE"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-fra-can": {
+                    "description": "",
+                    "variants": {
+                        "GLOBAL-FRA-CAN-20x20-SQUARE-MW": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1aBYyfVGd3JpfpjKbJO1CeeRqLsJ8w5nE"
+                                }
+                            }
+                        },
+                        "GLOBAL-FRA-CAN-24x24-SQUARE-MW": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1aBYyfVGd3JpfpjKbJO1CeeRqLsJ8w5nE"
+                                }
+                            }
+                        },
+                        "GLOBAL-FRA-CAN-32x32-SQUARE-MW": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1aBYyfVGd3JpfpjKbJO1CeeRqLsJ8w5nE"
+                                }
+                            }
+                        },
+                        "GLOBAL-FRA-CAN-36x36-SQUARE-MW": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1aBYyfVGd3JpfpjKbJO1CeeRqLsJ8w5nE"
+                                }
+                            }
+                        },
+                        "GLOBAL-FRA-CAN-40x40-SQUARE-MW": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1aBYyfVGd3JpfpjKbJO1CeeRqLsJ8w5nE"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "On the Trail",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1HsyAHoZU_e_EfR8CMbTHFhLUmM-LEl_5",
+            "products": {
+                "global-can": {
+                    "description": "",
+                    "variants": {
+                        "GLOBAL-CAN-20x20-SQUARE-MW": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1HsyAHoZU_e_EfR8CMbTHFhLUmM-LEl_5"
+                                }
+                            }
+                        },
+                        "GLOBAL-CAN-24x24-SQUARE-MW": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1HsyAHoZU_e_EfR8CMbTHFhLUmM-LEl_5"
+                                }
+                            }
+                        },
+                        "GLOBAL-CAN-32x32-SQUARE-MW": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1HsyAHoZU_e_EfR8CMbTHFhLUmM-LEl_5"
+                                }
+                            }
+                        },
+                        "GLOBAL-CAN-36x36-SQUARE-MW": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1HsyAHoZU_e_EfR8CMbTHFhLUmM-LEl_5"
+                                }
+                            }
+                        },
+                        "GLOBAL-CAN-40x40-SQUARE-MW": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1HsyAHoZU_e_EfR8CMbTHFhLUmM-LEl_5"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-fra-can": {
+                    "description": "",
+                    "variants": {
+                        "GLOBAL-FRA-CAN-20x20-SQUARE-MW": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1HsyAHoZU_e_EfR8CMbTHFhLUmM-LEl_5"
+                                }
+                            }
+                        },
+                        "GLOBAL-FRA-CAN-24x24-SQUARE-MW": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1HsyAHoZU_e_EfR8CMbTHFhLUmM-LEl_5"
+                                }
+                            }
+                        },
+                        "GLOBAL-FRA-CAN-32x32-SQUARE-MW": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1HsyAHoZU_e_EfR8CMbTHFhLUmM-LEl_5"
+                                }
+                            }
+                        },
+                        "GLOBAL-FRA-CAN-36x36-SQUARE-MW": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1HsyAHoZU_e_EfR8CMbTHFhLUmM-LEl_5"
+                                }
+                            }
+                        },
+                        "GLOBAL-FRA-CAN-40x40-SQUARE-MW": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1HsyAHoZU_e_EfR8CMbTHFhLUmM-LEl_5"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "One Day",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1VcZlcCLOGI4SzHPmrHr4HN2Il_6ec5Fh",
+            "products": {
+                "global-can": {
+                    "description": "",
+                    "variants": {
+                        "GLOBAL-CAN-20x20-SQUARE-MW": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1VcZlcCLOGI4SzHPmrHr4HN2Il_6ec5Fh"
+                                }
+                            }
+                        },
+                        "GLOBAL-CAN-24x24-SQUARE-MW": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1VcZlcCLOGI4SzHPmrHr4HN2Il_6ec5Fh"
+                                }
+                            }
+                        },
+                        "GLOBAL-CAN-32x32-SQUARE-MW": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1VcZlcCLOGI4SzHPmrHr4HN2Il_6ec5Fh"
+                                }
+                            }
+                        },
+                        "GLOBAL-CAN-36x36-SQUARE-MW": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1VcZlcCLOGI4SzHPmrHr4HN2Il_6ec5Fh"
+                                }
+                            }
+                        },
+                        "GLOBAL-CAN-40x40-SQUARE-MW": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1VcZlcCLOGI4SzHPmrHr4HN2Il_6ec5Fh"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-fra-can": {
+                    "description": "",
+                    "variants": {
+                        "GLOBAL-FRA-CAN-20x20-SQUARE-MW": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1VcZlcCLOGI4SzHPmrHr4HN2Il_6ec5Fh"
+                                }
+                            }
+                        },
+                        "GLOBAL-FRA-CAN-24x24-SQUARE-MW": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1VcZlcCLOGI4SzHPmrHr4HN2Il_6ec5Fh"
+                                }
+                            }
+                        },
+                        "GLOBAL-FRA-CAN-32x32-SQUARE-MW": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1VcZlcCLOGI4SzHPmrHr4HN2Il_6ec5Fh"
+                                }
+                            }
+                        },
+                        "GLOBAL-FRA-CAN-36x36-SQUARE-MW": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1VcZlcCLOGI4SzHPmrHr4HN2Il_6ec5Fh"
+                                }
+                            }
+                        },
+                        "GLOBAL-FRA-CAN-40x40-SQUARE-MW": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1VcZlcCLOGI4SzHPmrHr4HN2Il_6ec5Fh"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Shape Change - A",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1q_2k7OXpuFRvqc5UB4i827DrCk6ms0mf",
+            "products": {
+                "global-can": {
+                    "description": "",
+                    "variants": {
+                        "GLOBAL-CAN-20x20-SQUARE-MW": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1q_2k7OXpuFRvqc5UB4i827DrCk6ms0mf"
+                                }
+                            }
+                        },
+                        "GLOBAL-CAN-24x24-SQUARE-MW": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1q_2k7OXpuFRvqc5UB4i827DrCk6ms0mf"
+                                }
+                            }
+                        },
+                        "GLOBAL-CAN-32x32-SQUARE-MW": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1q_2k7OXpuFRvqc5UB4i827DrCk6ms0mf"
+                                }
+                            }
+                        },
+                        "GLOBAL-CAN-36x36-SQUARE-MW": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1q_2k7OXpuFRvqc5UB4i827DrCk6ms0mf"
+                                }
+                            }
+                        },
+                        "GLOBAL-CAN-40x40-SQUARE-MW": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1q_2k7OXpuFRvqc5UB4i827DrCk6ms0mf"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-fra-can": {
+                    "description": "",
+                    "variants": {
+                        "GLOBAL-FRA-CAN-20x20-SQUARE-MW": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1q_2k7OXpuFRvqc5UB4i827DrCk6ms0mf"
+                                }
+                            }
+                        },
+                        "GLOBAL-FRA-CAN-24x24-SQUARE-MW": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1q_2k7OXpuFRvqc5UB4i827DrCk6ms0mf"
+                                }
+                            }
+                        },
+                        "GLOBAL-FRA-CAN-32x32-SQUARE-MW": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1q_2k7OXpuFRvqc5UB4i827DrCk6ms0mf"
+                                }
+                            }
+                        },
+                        "GLOBAL-FRA-CAN-36x36-SQUARE-MW": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1q_2k7OXpuFRvqc5UB4i827DrCk6ms0mf"
+                                }
+                            }
+                        },
+                        "GLOBAL-FRA-CAN-40x40-SQUARE-MW": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1q_2k7OXpuFRvqc5UB4i827DrCk6ms0mf"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Shape Change - B",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1UTOtV1V1uNS1Uu4h3_brhB6O-ugd_V9i",
+            "products": {
+                "global-can": {
+                    "description": "",
+                    "variants": {
+                        "GLOBAL-CAN-20x20-SQUARE-MW": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1UTOtV1V1uNS1Uu4h3_brhB6O-ugd_V9i"
+                                }
+                            }
+                        },
+                        "GLOBAL-CAN-24x24-SQUARE-MW": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1UTOtV1V1uNS1Uu4h3_brhB6O-ugd_V9i"
+                                }
+                            }
+                        },
+                        "GLOBAL-CAN-32x32-SQUARE-MW": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1UTOtV1V1uNS1Uu4h3_brhB6O-ugd_V9i"
+                                }
+                            }
+                        },
+                        "GLOBAL-CAN-36x36-SQUARE-MW": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1UTOtV1V1uNS1Uu4h3_brhB6O-ugd_V9i"
+                                }
+                            }
+                        },
+                        "GLOBAL-CAN-40x40-SQUARE-MW": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1UTOtV1V1uNS1Uu4h3_brhB6O-ugd_V9i"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-fra-can": {
+                    "description": "",
+                    "variants": {
+                        "GLOBAL-FRA-CAN-20x20-SQUARE-MW": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1UTOtV1V1uNS1Uu4h3_brhB6O-ugd_V9i"
+                                }
+                            }
+                        },
+                        "GLOBAL-FRA-CAN-24x24-SQUARE-MW": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1UTOtV1V1uNS1Uu4h3_brhB6O-ugd_V9i"
+                                }
+                            }
+                        },
+                        "GLOBAL-FRA-CAN-32x32-SQUARE-MW": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1UTOtV1V1uNS1Uu4h3_brhB6O-ugd_V9i"
+                                }
+                            }
+                        },
+                        "GLOBAL-FRA-CAN-36x36-SQUARE-MW": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1UTOtV1V1uNS1Uu4h3_brhB6O-ugd_V9i"
+                                }
+                            }
+                        },
+                        "GLOBAL-FRA-CAN-40x40-SQUARE-MW": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1UTOtV1V1uNS1Uu4h3_brhB6O-ugd_V9i"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Shape Change - C",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1OTz9NDOKSMiPOuzuJRgXyJZsS8tAJhXd",
+            "products": {
+                "global-can": {
+                    "description": "",
+                    "variants": {
+                        "GLOBAL-CAN-20x20-SQUARE-MW": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1OTz9NDOKSMiPOuzuJRgXyJZsS8tAJhXd"
+                                }
+                            }
+                        },
+                        "GLOBAL-CAN-24x24-SQUARE-MW": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1OTz9NDOKSMiPOuzuJRgXyJZsS8tAJhXd"
+                                }
+                            }
+                        },
+                        "GLOBAL-CAN-32x32-SQUARE-MW": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1OTz9NDOKSMiPOuzuJRgXyJZsS8tAJhXd"
+                                }
+                            }
+                        },
+                        "GLOBAL-CAN-36x36-SQUARE-MW": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1OTz9NDOKSMiPOuzuJRgXyJZsS8tAJhXd"
+                                }
+                            }
+                        },
+                        "GLOBAL-CAN-40x40-SQUARE-MW": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1OTz9NDOKSMiPOuzuJRgXyJZsS8tAJhXd"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-fra-can": {
+                    "description": "",
+                    "variants": {
+                        "GLOBAL-FRA-CAN-20x20-SQUARE-MW": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1OTz9NDOKSMiPOuzuJRgXyJZsS8tAJhXd"
+                                }
+                            }
+                        },
+                        "GLOBAL-FRA-CAN-24x24-SQUARE-MW": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1OTz9NDOKSMiPOuzuJRgXyJZsS8tAJhXd"
+                                }
+                            }
+                        },
+                        "GLOBAL-FRA-CAN-32x32-SQUARE-MW": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1OTz9NDOKSMiPOuzuJRgXyJZsS8tAJhXd"
+                                }
+                            }
+                        },
+                        "GLOBAL-FRA-CAN-36x36-SQUARE-MW": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1OTz9NDOKSMiPOuzuJRgXyJZsS8tAJhXd"
+                                }
+                            }
+                        },
+                        "GLOBAL-FRA-CAN-40x40-SQUARE-MW": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1OTz9NDOKSMiPOuzuJRgXyJZsS8tAJhXd"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}

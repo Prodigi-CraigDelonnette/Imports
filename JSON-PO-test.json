@@ -1,0 +1,1959 @@
+{
+    "product_range_defaults": {
+        "published": true
+    },
+    "product_defaults": {
+        "enabled": false
+    },
+    "products_defaults": {
+        "global-fap": {
+            "enabled": true
+        },
+        "global-cfpm": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false
+    },
+    "variants_defaults": {
+        "GLOBAL-FAP-8x12-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 29.92
+        },
+        "GLOBAL-FAP-A4-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 29.92
+        },
+        "GLOBAL-FAP-12x16-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 31.68
+        },
+        "GLOBAL-FAP-A3-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 31.68
+        },
+        "GLOBAL-FAP-12x18-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 31.68
+        },
+        "GLOBAL-FAP-16x24-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 33.88
+        },
+        "GLOBAL-FAP-A2-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 34.76
+        },
+        "GLOBAL-FAP-18x24-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 36.52
+        },
+        "GLOBAL-FAP-20x28-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 39.16
+        },
+        "GLOBAL-FAP-20x30-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 40.92
+        },
+        "GLOBAL-FAP-24x32-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 41.80
+        },
+        "GLOBAL-FAP-A1-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 42.68
+        },
+        "GLOBAL-FAP-24x36-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 45.76
+        },
+        "GLOBAL-FAP-28x40-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 50.16
+        },
+        "GLOBAL-FAP-30x40-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 52.80
+        },
+        "GLOBAL-FAP-A0-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 57.20
+        },
+        "GLOBAL-CFPM-8x12-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 46.64
+        },
+        "GLOBAL-CFPM-A4-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 46.64
+        },
+        "GLOBAL-CFPM-12x16-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 55.44
+        },
+        "GLOBAL-CFPM-A3-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 55.44
+        },
+        "GLOBAL-CFPM-A2-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 64.24
+        },
+        "GLOBAL-CFPM-20x28-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 73.04
+        },
+        "GLOBAL-CFPM-A1-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 85.36
+        },
+        "GLOBAL-CFPM-28x40-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 101.20
+        }
+    },
+    "product_ranges": [
+        {
+            "title": "All roads lead to Albania map",
+            "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Albania_euN_Europe_Southern-Europe_portrait_5f6621ef76d4c5c453310cf43a6b1290.svg.png",
+            "products": {
+                "global-fap": {
+                    "description": "Albania map.<br><br>Printed on matte fine art paper with museum-grade ink.<br><br>Note that sizes in inches (8&Prime; x 12&Prime;, 12&Prime; x 18&Prime;...) will be rounded off to cm if delivered outside of US and Australia.<br><br>Keywords:<br>Region:Europe_Southern Europe",
+                    "variants": {
+                        "GLOBAL-FAP-8x12-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Albania_euN_Europe_Southern-Europe_portrait_5f6621ef76d4c5c453310cf43a6b1290.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Albania_euN_Europe_Southern-Europe_portrait_5f6621ef76d4c5c453310cf43a6b1290.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Albania_euN_Europe_Southern-Europe_portrait_5f6621ef76d4c5c453310cf43a6b1290.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Albania_euN_Europe_Southern-Europe_portrait_5f6621ef76d4c5c453310cf43a6b1290.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x18-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Albania_euN_Europe_Southern-Europe_portrait_5f6621ef76d4c5c453310cf43a6b1290.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-16x24-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Albania_euN_Europe_Southern-Europe_portrait_5f6621ef76d4c5c453310cf43a6b1290.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A2-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Albania_euN_Europe_Southern-Europe_portrait_5f6621ef76d4c5c453310cf43a6b1290.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-18x24-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Albania_euN_Europe_Southern-Europe_portrait_5f6621ef76d4c5c453310cf43a6b1290.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Albania_euN_Europe_Southern-Europe_portrait_5f6621ef76d4c5c453310cf43a6b1290.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x30-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Albania_euN_Europe_Southern-Europe_portrait_5f6621ef76d4c5c453310cf43a6b1290.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-24x32-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Albania_euN_Europe_Southern-Europe_portrait_5f6621ef76d4c5c453310cf43a6b1290.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A1-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Albania_euN_Europe_Southern-Europe_portrait_5f6621ef76d4c5c453310cf43a6b1290.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-24x36-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Albania_euN_Europe_Southern-Europe_portrait_5f6621ef76d4c5c453310cf43a6b1290.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Albania_euN_Europe_Southern-Europe_portrait_5f6621ef76d4c5c453310cf43a6b1290.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-30x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Albania_euN_Europe_Southern-Europe_portrait_5f6621ef76d4c5c453310cf43a6b1290.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A0-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Albania_euN_Europe_Southern-Europe_portrait_5f6621ef76d4c5c453310cf43a6b1290.svg.png"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-cfpm": {
+                    "description": "Albania map.<br><br>Printed on matte fine art paper with museum-grade ink.<br><br>Note that sizes in inches (8&Prime; x 12&Prime;, 12&Prime; x 18&Prime;...) will be rounded off to cm if delivered outside of US and Australia.<br><br>Keywords:<br>Region:Europe_Southern Europe",
+                    "variants": {
+                        "GLOBAL-CFPM-8x12-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Albania_euN_Europe_Southern-Europe_portrait_5f6621ef76d4c5c453310cf43a6b1290.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Albania_euN_Europe_Southern-Europe_portrait_5f6621ef76d4c5c453310cf43a6b1290.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Albania_euN_Europe_Southern-Europe_portrait_5f6621ef76d4c5c453310cf43a6b1290.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Albania_euN_Europe_Southern-Europe_portrait_5f6621ef76d4c5c453310cf43a6b1290.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A2-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Albania_euN_Europe_Southern-Europe_portrait_5f6621ef76d4c5c453310cf43a6b1290.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Albania_euN_Europe_Southern-Europe_portrait_5f6621ef76d4c5c453310cf43a6b1290.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A1-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Albania_euN_Europe_Southern-Europe_portrait_5f6621ef76d4c5c453310cf43a6b1290.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Albania_euN_Europe_Southern-Europe_portrait_5f6621ef76d4c5c453310cf43a6b1290.svg.png"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "All roads lead to Algeria map",
+            "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Algeria_af_Africa_Northern-Africa_portrait_9650d11af5119bdaccdd01a6fd7bd212.svg.png",
+            "products": {
+                "global-fap": {
+                    "description": "Algeria map.<br><br>Printed on matte fine art paper with museum-grade ink.<br><br>Note that sizes in inches (8&Prime; x 12&Prime;, 12&Prime; x 18&Prime;...) will be rounded off to cm if delivered outside of US and Australia.<br><br>Keywords:<br>Region:Africa_Northern Africa",
+                    "variants": {
+                        "GLOBAL-FAP-8x12-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Algeria_af_Africa_Northern-Africa_portrait_9650d11af5119bdaccdd01a6fd7bd212.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Algeria_af_Africa_Northern-Africa_portrait_9650d11af5119bdaccdd01a6fd7bd212.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Algeria_af_Africa_Northern-Africa_portrait_9650d11af5119bdaccdd01a6fd7bd212.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Algeria_af_Africa_Northern-Africa_portrait_9650d11af5119bdaccdd01a6fd7bd212.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x18-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Algeria_af_Africa_Northern-Africa_portrait_9650d11af5119bdaccdd01a6fd7bd212.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-16x24-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Algeria_af_Africa_Northern-Africa_portrait_9650d11af5119bdaccdd01a6fd7bd212.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A2-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Algeria_af_Africa_Northern-Africa_portrait_9650d11af5119bdaccdd01a6fd7bd212.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-18x24-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Algeria_af_Africa_Northern-Africa_portrait_9650d11af5119bdaccdd01a6fd7bd212.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Algeria_af_Africa_Northern-Africa_portrait_9650d11af5119bdaccdd01a6fd7bd212.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x30-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Algeria_af_Africa_Northern-Africa_portrait_9650d11af5119bdaccdd01a6fd7bd212.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-24x32-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Algeria_af_Africa_Northern-Africa_portrait_9650d11af5119bdaccdd01a6fd7bd212.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A1-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Algeria_af_Africa_Northern-Africa_portrait_9650d11af5119bdaccdd01a6fd7bd212.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-24x36-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Algeria_af_Africa_Northern-Africa_portrait_9650d11af5119bdaccdd01a6fd7bd212.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Algeria_af_Africa_Northern-Africa_portrait_9650d11af5119bdaccdd01a6fd7bd212.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-30x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Algeria_af_Africa_Northern-Africa_portrait_9650d11af5119bdaccdd01a6fd7bd212.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A0-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Algeria_af_Africa_Northern-Africa_portrait_9650d11af5119bdaccdd01a6fd7bd212.svg.png"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-cfpm": {
+                    "description": "Algeria map.<br><br>Printed on matte fine art paper with museum-grade ink.<br><br>Note that sizes in inches (8&Prime; x 12&Prime;, 12&Prime; x 18&Prime;...) will be rounded off to cm if delivered outside of US and Australia.<br><br>Keywords:<br>Region:Africa_Northern Africa",
+                    "variants": {
+                        "GLOBAL-CFPM-8x12-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Algeria_af_Africa_Northern-Africa_portrait_9650d11af5119bdaccdd01a6fd7bd212.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Algeria_af_Africa_Northern-Africa_portrait_9650d11af5119bdaccdd01a6fd7bd212.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Algeria_af_Africa_Northern-Africa_portrait_9650d11af5119bdaccdd01a6fd7bd212.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Algeria_af_Africa_Northern-Africa_portrait_9650d11af5119bdaccdd01a6fd7bd212.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A2-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Algeria_af_Africa_Northern-Africa_portrait_9650d11af5119bdaccdd01a6fd7bd212.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Algeria_af_Africa_Northern-Africa_portrait_9650d11af5119bdaccdd01a6fd7bd212.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A1-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Algeria_af_Africa_Northern-Africa_portrait_9650d11af5119bdaccdd01a6fd7bd212.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Algeria_af_Africa_Northern-Africa_portrait_9650d11af5119bdaccdd01a6fd7bd212.svg.png"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "All roads lead to Andorra map",
+            "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Andorra_euN_Europe_Southern-Europe_portrait_d7b1156c10f7dd9bee301ab1da512c77.svg.png",
+            "products": {
+                "global-fap": {
+                    "description": "Andorra map.<br><br>Printed on matte fine art paper with museum-grade ink.<br><br>Note that sizes in inches (8&Prime; x 12&Prime;, 12&Prime; x 18&Prime;...) will be rounded off to cm if delivered outside of US and Australia.<br><br>Keywords:<br>Region:Europe_Southern Europe",
+                    "variants": {
+                        "GLOBAL-FAP-8x12-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Andorra_euN_Europe_Southern-Europe_portrait_d7b1156c10f7dd9bee301ab1da512c77.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Andorra_euN_Europe_Southern-Europe_portrait_d7b1156c10f7dd9bee301ab1da512c77.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Andorra_euN_Europe_Southern-Europe_portrait_d7b1156c10f7dd9bee301ab1da512c77.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Andorra_euN_Europe_Southern-Europe_portrait_d7b1156c10f7dd9bee301ab1da512c77.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x18-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Andorra_euN_Europe_Southern-Europe_portrait_d7b1156c10f7dd9bee301ab1da512c77.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-16x24-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Andorra_euN_Europe_Southern-Europe_portrait_d7b1156c10f7dd9bee301ab1da512c77.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A2-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Andorra_euN_Europe_Southern-Europe_portrait_d7b1156c10f7dd9bee301ab1da512c77.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-18x24-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Andorra_euN_Europe_Southern-Europe_portrait_d7b1156c10f7dd9bee301ab1da512c77.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Andorra_euN_Europe_Southern-Europe_portrait_d7b1156c10f7dd9bee301ab1da512c77.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x30-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Andorra_euN_Europe_Southern-Europe_portrait_d7b1156c10f7dd9bee301ab1da512c77.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-24x32-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Andorra_euN_Europe_Southern-Europe_portrait_d7b1156c10f7dd9bee301ab1da512c77.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A1-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Andorra_euN_Europe_Southern-Europe_portrait_d7b1156c10f7dd9bee301ab1da512c77.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-24x36-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Andorra_euN_Europe_Southern-Europe_portrait_d7b1156c10f7dd9bee301ab1da512c77.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Andorra_euN_Europe_Southern-Europe_portrait_d7b1156c10f7dd9bee301ab1da512c77.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-30x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Andorra_euN_Europe_Southern-Europe_portrait_d7b1156c10f7dd9bee301ab1da512c77.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A0-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Andorra_euN_Europe_Southern-Europe_portrait_d7b1156c10f7dd9bee301ab1da512c77.svg.png"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-cfpm": {
+                    "description": "Andorra map.<br><br>Printed on matte fine art paper with museum-grade ink.<br><br>Note that sizes in inches (8&Prime; x 12&Prime;, 12&Prime; x 18&Prime;...) will be rounded off to cm if delivered outside of US and Australia.<br><br>Keywords:<br>Region:Europe_Southern Europe",
+                    "variants": {
+                        "GLOBAL-CFPM-8x12-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Andorra_euN_Europe_Southern-Europe_portrait_d7b1156c10f7dd9bee301ab1da512c77.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Andorra_euN_Europe_Southern-Europe_portrait_d7b1156c10f7dd9bee301ab1da512c77.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Andorra_euN_Europe_Southern-Europe_portrait_d7b1156c10f7dd9bee301ab1da512c77.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Andorra_euN_Europe_Southern-Europe_portrait_d7b1156c10f7dd9bee301ab1da512c77.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A2-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Andorra_euN_Europe_Southern-Europe_portrait_d7b1156c10f7dd9bee301ab1da512c77.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Andorra_euN_Europe_Southern-Europe_portrait_d7b1156c10f7dd9bee301ab1da512c77.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A1-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Andorra_euN_Europe_Southern-Europe_portrait_d7b1156c10f7dd9bee301ab1da512c77.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Andorra_euN_Europe_Southern-Europe_portrait_d7b1156c10f7dd9bee301ab1da512c77.svg.png"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "All roads lead to Angola map",
+            "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Angola_af_Africa_Middle-Africa_portrait_e006ecc9de6dc988a54fddf7328e2530.svg.png",
+            "products": {
+                "global-fap": {
+                    "description": "Angola map.<br><br>Printed on matte fine art paper with museum-grade ink.<br><br>Note that sizes in inches (8&Prime; x 12&Prime;, 12&Prime; x 18&Prime;...) will be rounded off to cm if delivered outside of US and Australia.<br><br>Keywords:<br>Region:Africa_Middle Africa",
+                    "variants": {
+                        "GLOBAL-FAP-8x12-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Angola_af_Africa_Middle-Africa_portrait_e006ecc9de6dc988a54fddf7328e2530.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Angola_af_Africa_Middle-Africa_portrait_e006ecc9de6dc988a54fddf7328e2530.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Angola_af_Africa_Middle-Africa_portrait_e006ecc9de6dc988a54fddf7328e2530.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Angola_af_Africa_Middle-Africa_portrait_e006ecc9de6dc988a54fddf7328e2530.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x18-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Angola_af_Africa_Middle-Africa_portrait_e006ecc9de6dc988a54fddf7328e2530.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-16x24-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Angola_af_Africa_Middle-Africa_portrait_e006ecc9de6dc988a54fddf7328e2530.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A2-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Angola_af_Africa_Middle-Africa_portrait_e006ecc9de6dc988a54fddf7328e2530.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-18x24-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Angola_af_Africa_Middle-Africa_portrait_e006ecc9de6dc988a54fddf7328e2530.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Angola_af_Africa_Middle-Africa_portrait_e006ecc9de6dc988a54fddf7328e2530.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x30-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Angola_af_Africa_Middle-Africa_portrait_e006ecc9de6dc988a54fddf7328e2530.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-24x32-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Angola_af_Africa_Middle-Africa_portrait_e006ecc9de6dc988a54fddf7328e2530.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A1-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Angola_af_Africa_Middle-Africa_portrait_e006ecc9de6dc988a54fddf7328e2530.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-24x36-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Angola_af_Africa_Middle-Africa_portrait_e006ecc9de6dc988a54fddf7328e2530.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Angola_af_Africa_Middle-Africa_portrait_e006ecc9de6dc988a54fddf7328e2530.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-30x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Angola_af_Africa_Middle-Africa_portrait_e006ecc9de6dc988a54fddf7328e2530.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A0-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Angola_af_Africa_Middle-Africa_portrait_e006ecc9de6dc988a54fddf7328e2530.svg.png"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-cfpm": {
+                    "description": "Angola map.<br><br>Printed on matte fine art paper with museum-grade ink.<br><br>Note that sizes in inches (8&Prime; x 12&Prime;, 12&Prime; x 18&Prime;...) will be rounded off to cm if delivered outside of US and Australia.<br><br>Keywords:<br>Region:Africa_Middle Africa",
+                    "variants": {
+                        "GLOBAL-CFPM-8x12-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Angola_af_Africa_Middle-Africa_portrait_e006ecc9de6dc988a54fddf7328e2530.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Angola_af_Africa_Middle-Africa_portrait_e006ecc9de6dc988a54fddf7328e2530.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Angola_af_Africa_Middle-Africa_portrait_e006ecc9de6dc988a54fddf7328e2530.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Angola_af_Africa_Middle-Africa_portrait_e006ecc9de6dc988a54fddf7328e2530.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A2-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Angola_af_Africa_Middle-Africa_portrait_e006ecc9de6dc988a54fddf7328e2530.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Angola_af_Africa_Middle-Africa_portrait_e006ecc9de6dc988a54fddf7328e2530.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A1-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Angola_af_Africa_Middle-Africa_portrait_e006ecc9de6dc988a54fddf7328e2530.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Angola_af_Africa_Middle-Africa_portrait_e006ecc9de6dc988a54fddf7328e2530.svg.png"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "All roads lead to Argentina map",
+            "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Argentina_SAm_South-America_Americas_portrait_8dfd89b9c30a5d14d95018380571952a.svg.png",
+            "products": {
+                "global-fap": {
+                    "description": "Argentina map.<br><br>Printed on matte fine art paper with museum-grade ink.<br><br>Note that sizes in inches (8&Prime; x 12&Prime;, 12&Prime; x 18&Prime;...) will be rounded off to cm if delivered outside of US and Australia.<br><br>Keywords:<br>Region:South America_Americas",
+                    "variants": {
+                        "GLOBAL-FAP-8x12-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Argentina_SAm_South-America_Americas_portrait_8dfd89b9c30a5d14d95018380571952a.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Argentina_SAm_South-America_Americas_portrait_8dfd89b9c30a5d14d95018380571952a.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Argentina_SAm_South-America_Americas_portrait_8dfd89b9c30a5d14d95018380571952a.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Argentina_SAm_South-America_Americas_portrait_8dfd89b9c30a5d14d95018380571952a.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x18-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Argentina_SAm_South-America_Americas_portrait_8dfd89b9c30a5d14d95018380571952a.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-16x24-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Argentina_SAm_South-America_Americas_portrait_8dfd89b9c30a5d14d95018380571952a.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A2-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Argentina_SAm_South-America_Americas_portrait_8dfd89b9c30a5d14d95018380571952a.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-18x24-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Argentina_SAm_South-America_Americas_portrait_8dfd89b9c30a5d14d95018380571952a.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Argentina_SAm_South-America_Americas_portrait_8dfd89b9c30a5d14d95018380571952a.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x30-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Argentina_SAm_South-America_Americas_portrait_8dfd89b9c30a5d14d95018380571952a.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-24x32-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Argentina_SAm_South-America_Americas_portrait_8dfd89b9c30a5d14d95018380571952a.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A1-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Argentina_SAm_South-America_Americas_portrait_8dfd89b9c30a5d14d95018380571952a.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-24x36-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Argentina_SAm_South-America_Americas_portrait_8dfd89b9c30a5d14d95018380571952a.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Argentina_SAm_South-America_Americas_portrait_8dfd89b9c30a5d14d95018380571952a.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-30x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Argentina_SAm_South-America_Americas_portrait_8dfd89b9c30a5d14d95018380571952a.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A0-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Argentina_SAm_South-America_Americas_portrait_8dfd89b9c30a5d14d95018380571952a.svg.png"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-cfpm": {
+                    "description": "Argentina map.<br><br>Printed on matte fine art paper with museum-grade ink.<br><br>Note that sizes in inches (8&Prime; x 12&Prime;, 12&Prime; x 18&Prime;...) will be rounded off to cm if delivered outside of US and Australia.<br><br>Keywords:<br>Region:South America_Americas",
+                    "variants": {
+                        "GLOBAL-CFPM-8x12-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Argentina_SAm_South-America_Americas_portrait_8dfd89b9c30a5d14d95018380571952a.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Argentina_SAm_South-America_Americas_portrait_8dfd89b9c30a5d14d95018380571952a.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Argentina_SAm_South-America_Americas_portrait_8dfd89b9c30a5d14d95018380571952a.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Argentina_SAm_South-America_Americas_portrait_8dfd89b9c30a5d14d95018380571952a.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A2-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Argentina_SAm_South-America_Americas_portrait_8dfd89b9c30a5d14d95018380571952a.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Argentina_SAm_South-America_Americas_portrait_8dfd89b9c30a5d14d95018380571952a.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A1-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Argentina_SAm_South-America_Americas_portrait_8dfd89b9c30a5d14d95018380571952a.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Argentina_SAm_South-America_Americas_portrait_8dfd89b9c30a5d14d95018380571952a.svg.png"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "All roads lead to Austria map",
+            "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Austria_euN_Europe_Western-Europe_portrait_a36a5b03539435f2d111e56566908911.svg.png",
+            "products": {
+                "global-fap": {
+                    "description": "Austria map.<br><br>Printed on matte fine art paper with museum-grade ink.<br><br>Note that sizes in inches (8&Prime; x 12&Prime;, 12&Prime; x 18&Prime;...) will be rounded off to cm if delivered outside of US and Australia.<br><br>Keywords:<br>Region:Europe_Western Europe",
+                    "variants": {
+                        "GLOBAL-FAP-8x12-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Austria_euN_Europe_Western-Europe_portrait_a36a5b03539435f2d111e56566908911.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Austria_euN_Europe_Western-Europe_portrait_a36a5b03539435f2d111e56566908911.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Austria_euN_Europe_Western-Europe_portrait_a36a5b03539435f2d111e56566908911.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Austria_euN_Europe_Western-Europe_portrait_a36a5b03539435f2d111e56566908911.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x18-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Austria_euN_Europe_Western-Europe_portrait_a36a5b03539435f2d111e56566908911.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-16x24-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Austria_euN_Europe_Western-Europe_portrait_a36a5b03539435f2d111e56566908911.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A2-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Austria_euN_Europe_Western-Europe_portrait_a36a5b03539435f2d111e56566908911.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-18x24-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Austria_euN_Europe_Western-Europe_portrait_a36a5b03539435f2d111e56566908911.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Austria_euN_Europe_Western-Europe_portrait_a36a5b03539435f2d111e56566908911.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x30-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Austria_euN_Europe_Western-Europe_portrait_a36a5b03539435f2d111e56566908911.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-24x32-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Austria_euN_Europe_Western-Europe_portrait_a36a5b03539435f2d111e56566908911.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A1-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Austria_euN_Europe_Western-Europe_portrait_a36a5b03539435f2d111e56566908911.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-24x36-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Austria_euN_Europe_Western-Europe_portrait_a36a5b03539435f2d111e56566908911.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Austria_euN_Europe_Western-Europe_portrait_a36a5b03539435f2d111e56566908911.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-30x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Austria_euN_Europe_Western-Europe_portrait_a36a5b03539435f2d111e56566908911.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A0-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Austria_euN_Europe_Western-Europe_portrait_a36a5b03539435f2d111e56566908911.svg.png"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-cfpm": {
+                    "description": "Austria map.<br><br>Printed on matte fine art paper with museum-grade ink.<br><br>Note that sizes in inches (8&Prime; x 12&Prime;, 12&Prime; x 18&Prime;...) will be rounded off to cm if delivered outside of US and Australia.<br><br>Keywords:<br>Region:Europe_Western Europe",
+                    "variants": {
+                        "GLOBAL-CFPM-8x12-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Austria_euN_Europe_Western-Europe_portrait_a36a5b03539435f2d111e56566908911.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Austria_euN_Europe_Western-Europe_portrait_a36a5b03539435f2d111e56566908911.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Austria_euN_Europe_Western-Europe_portrait_a36a5b03539435f2d111e56566908911.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Austria_euN_Europe_Western-Europe_portrait_a36a5b03539435f2d111e56566908911.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A2-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Austria_euN_Europe_Western-Europe_portrait_a36a5b03539435f2d111e56566908911.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Austria_euN_Europe_Western-Europe_portrait_a36a5b03539435f2d111e56566908911.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A1-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Austria_euN_Europe_Western-Europe_portrait_a36a5b03539435f2d111e56566908911.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Austria_euN_Europe_Western-Europe_portrait_a36a5b03539435f2d111e56566908911.svg.png"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "All roads lead to Belgium map",
+            "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belgium_euN_Europe_Western-Europe_portrait_9d7eebf2c63eda1e42d6d26b905a12fd.svg.png",
+            "products": {
+                "global-fap": {
+                    "description": "Belgium map.<br><br>Printed on matte fine art paper with museum-grade ink.<br><br>Note that sizes in inches (8&Prime; x 12&Prime;, 12&Prime; x 18&Prime;...) will be rounded off to cm if delivered outside of US and Australia.<br><br>Keywords:<br>Region:Europe_Western Europe",
+                    "variants": {
+                        "GLOBAL-FAP-8x12-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belgium_euN_Europe_Western-Europe_portrait_9d7eebf2c63eda1e42d6d26b905a12fd.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belgium_euN_Europe_Western-Europe_portrait_9d7eebf2c63eda1e42d6d26b905a12fd.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belgium_euN_Europe_Western-Europe_portrait_9d7eebf2c63eda1e42d6d26b905a12fd.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belgium_euN_Europe_Western-Europe_portrait_9d7eebf2c63eda1e42d6d26b905a12fd.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x18-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belgium_euN_Europe_Western-Europe_portrait_9d7eebf2c63eda1e42d6d26b905a12fd.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-16x24-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belgium_euN_Europe_Western-Europe_portrait_9d7eebf2c63eda1e42d6d26b905a12fd.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A2-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belgium_euN_Europe_Western-Europe_portrait_9d7eebf2c63eda1e42d6d26b905a12fd.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-18x24-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belgium_euN_Europe_Western-Europe_portrait_9d7eebf2c63eda1e42d6d26b905a12fd.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belgium_euN_Europe_Western-Europe_portrait_9d7eebf2c63eda1e42d6d26b905a12fd.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x30-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belgium_euN_Europe_Western-Europe_portrait_9d7eebf2c63eda1e42d6d26b905a12fd.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-24x32-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belgium_euN_Europe_Western-Europe_portrait_9d7eebf2c63eda1e42d6d26b905a12fd.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A1-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belgium_euN_Europe_Western-Europe_portrait_9d7eebf2c63eda1e42d6d26b905a12fd.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-24x36-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belgium_euN_Europe_Western-Europe_portrait_9d7eebf2c63eda1e42d6d26b905a12fd.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belgium_euN_Europe_Western-Europe_portrait_9d7eebf2c63eda1e42d6d26b905a12fd.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-30x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belgium_euN_Europe_Western-Europe_portrait_9d7eebf2c63eda1e42d6d26b905a12fd.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A0-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belgium_euN_Europe_Western-Europe_portrait_9d7eebf2c63eda1e42d6d26b905a12fd.svg.png"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-cfpm": {
+                    "description": "Belgium map.<br><br>Printed on matte fine art paper with museum-grade ink.<br><br>Note that sizes in inches (8&Prime; x 12&Prime;, 12&Prime; x 18&Prime;...) will be rounded off to cm if delivered outside of US and Australia.<br><br>Keywords:<br>Region:Europe_Western Europe",
+                    "variants": {
+                        "GLOBAL-CFPM-8x12-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belgium_euN_Europe_Western-Europe_portrait_9d7eebf2c63eda1e42d6d26b905a12fd.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belgium_euN_Europe_Western-Europe_portrait_9d7eebf2c63eda1e42d6d26b905a12fd.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belgium_euN_Europe_Western-Europe_portrait_9d7eebf2c63eda1e42d6d26b905a12fd.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belgium_euN_Europe_Western-Europe_portrait_9d7eebf2c63eda1e42d6d26b905a12fd.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A2-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belgium_euN_Europe_Western-Europe_portrait_9d7eebf2c63eda1e42d6d26b905a12fd.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belgium_euN_Europe_Western-Europe_portrait_9d7eebf2c63eda1e42d6d26b905a12fd.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A1-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belgium_euN_Europe_Western-Europe_portrait_9d7eebf2c63eda1e42d6d26b905a12fd.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belgium_euN_Europe_Western-Europe_portrait_9d7eebf2c63eda1e42d6d26b905a12fd.svg.png"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "All roads lead to Belize map",
+            "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belize_CAm_Central-America_Americas_landscape_cde8efb5889574c3ff21739323b35462.svg.png",
+            "products": {
+                "global-fap": {
+                    "description": "Belize map.<br><br>Printed on matte fine art paper with museum-grade ink.<br><br>Note that sizes in inches (8&Prime; x 12&Prime;, 12&Prime; x 18&Prime;...) will be rounded off to cm if delivered outside of US and Australia.<br><br>Keywords:<br>Region:Central America_Americas",
+                    "variants": {
+                        "GLOBAL-FAP-8x12-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belize_CAm_Central-America_Americas_landscape_cde8efb5889574c3ff21739323b35462.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belize_CAm_Central-America_Americas_landscape_cde8efb5889574c3ff21739323b35462.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belize_CAm_Central-America_Americas_landscape_cde8efb5889574c3ff21739323b35462.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belize_CAm_Central-America_Americas_landscape_cde8efb5889574c3ff21739323b35462.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x18-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belize_CAm_Central-America_Americas_landscape_cde8efb5889574c3ff21739323b35462.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-16x24-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belize_CAm_Central-America_Americas_landscape_cde8efb5889574c3ff21739323b35462.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A2-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belize_CAm_Central-America_Americas_landscape_cde8efb5889574c3ff21739323b35462.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-18x24-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belize_CAm_Central-America_Americas_landscape_cde8efb5889574c3ff21739323b35462.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belize_CAm_Central-America_Americas_landscape_cde8efb5889574c3ff21739323b35462.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x30-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belize_CAm_Central-America_Americas_landscape_cde8efb5889574c3ff21739323b35462.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-24x32-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belize_CAm_Central-America_Americas_landscape_cde8efb5889574c3ff21739323b35462.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A1-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belize_CAm_Central-America_Americas_landscape_cde8efb5889574c3ff21739323b35462.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-24x36-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belize_CAm_Central-America_Americas_landscape_cde8efb5889574c3ff21739323b35462.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belize_CAm_Central-America_Americas_landscape_cde8efb5889574c3ff21739323b35462.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-30x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belize_CAm_Central-America_Americas_landscape_cde8efb5889574c3ff21739323b35462.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A0-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belize_CAm_Central-America_Americas_landscape_cde8efb5889574c3ff21739323b35462.svg.png"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-cfpm": {
+                    "description": "Belize map.<br><br>Printed on matte fine art paper with museum-grade ink.<br><br>Note that sizes in inches (8&Prime; x 12&Prime;, 12&Prime; x 18&Prime;...) will be rounded off to cm if delivered outside of US and Australia.<br><br>Keywords:<br>Region:Central America_Americas",
+                    "variants": {
+                        "GLOBAL-CFPM-8x12-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belize_CAm_Central-America_Americas_landscape_cde8efb5889574c3ff21739323b35462.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belize_CAm_Central-America_Americas_landscape_cde8efb5889574c3ff21739323b35462.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belize_CAm_Central-America_Americas_landscape_cde8efb5889574c3ff21739323b35462.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belize_CAm_Central-America_Americas_landscape_cde8efb5889574c3ff21739323b35462.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A2-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belize_CAm_Central-America_Americas_landscape_cde8efb5889574c3ff21739323b35462.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belize_CAm_Central-America_Americas_landscape_cde8efb5889574c3ff21739323b35462.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A1-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belize_CAm_Central-America_Americas_landscape_cde8efb5889574c3ff21739323b35462.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belize_CAm_Central-America_Americas_landscape_cde8efb5889574c3ff21739323b35462.svg.png"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "All roads lead to Bolivia map",
+            "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bolivia_SAm_South-America_Americas_portrait_d94e7a74780aa016ec181219bee10563.svg.png",
+            "products": {
+                "global-fap": {
+                    "description": "Bolivia map.<br><br>Printed on matte fine art paper with museum-grade ink.<br><br>Note that sizes in inches (8&Prime; x 12&Prime;, 12&Prime; x 18&Prime;...) will be rounded off to cm if delivered outside of US and Australia.<br><br>Keywords:<br>Region:South America_Americas",
+                    "variants": {
+                        "GLOBAL-FAP-8x12-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bolivia_SAm_South-America_Americas_portrait_d94e7a74780aa016ec181219bee10563.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bolivia_SAm_South-America_Americas_portrait_d94e7a74780aa016ec181219bee10563.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bolivia_SAm_South-America_Americas_portrait_d94e7a74780aa016ec181219bee10563.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bolivia_SAm_South-America_Americas_portrait_d94e7a74780aa016ec181219bee10563.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x18-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bolivia_SAm_South-America_Americas_portrait_d94e7a74780aa016ec181219bee10563.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-16x24-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bolivia_SAm_South-America_Americas_portrait_d94e7a74780aa016ec181219bee10563.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A2-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bolivia_SAm_South-America_Americas_portrait_d94e7a74780aa016ec181219bee10563.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-18x24-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bolivia_SAm_South-America_Americas_portrait_d94e7a74780aa016ec181219bee10563.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bolivia_SAm_South-America_Americas_portrait_d94e7a74780aa016ec181219bee10563.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x30-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bolivia_SAm_South-America_Americas_portrait_d94e7a74780aa016ec181219bee10563.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-24x32-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bolivia_SAm_South-America_Americas_portrait_d94e7a74780aa016ec181219bee10563.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A1-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bolivia_SAm_South-America_Americas_portrait_d94e7a74780aa016ec181219bee10563.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-24x36-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bolivia_SAm_South-America_Americas_portrait_d94e7a74780aa016ec181219bee10563.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bolivia_SAm_South-America_Americas_portrait_d94e7a74780aa016ec181219bee10563.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-30x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bolivia_SAm_South-America_Americas_portrait_d94e7a74780aa016ec181219bee10563.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A0-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bolivia_SAm_South-America_Americas_portrait_d94e7a74780aa016ec181219bee10563.svg.png"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-cfpm": {
+                    "description": "Bolivia map.<br><br>Printed on matte fine art paper with museum-grade ink.<br><br>Note that sizes in inches (8&Prime; x 12&Prime;, 12&Prime; x 18&Prime;...) will be rounded off to cm if delivered outside of US and Australia.<br><br>Keywords:<br>Region:South America_Americas",
+                    "variants": {
+                        "GLOBAL-CFPM-8x12-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bolivia_SAm_South-America_Americas_portrait_d94e7a74780aa016ec181219bee10563.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bolivia_SAm_South-America_Americas_portrait_d94e7a74780aa016ec181219bee10563.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bolivia_SAm_South-America_Americas_portrait_d94e7a74780aa016ec181219bee10563.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bolivia_SAm_South-America_Americas_portrait_d94e7a74780aa016ec181219bee10563.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A2-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bolivia_SAm_South-America_Americas_portrait_d94e7a74780aa016ec181219bee10563.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bolivia_SAm_South-America_Americas_portrait_d94e7a74780aa016ec181219bee10563.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A1-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bolivia_SAm_South-America_Americas_portrait_d94e7a74780aa016ec181219bee10563.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bolivia_SAm_South-America_Americas_portrait_d94e7a74780aa016ec181219bee10563.svg.png"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "All roads lead to Bosnia and Herzegovina map",
+            "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bosnia%20and%20Herzegovina_euN_Europe_Southern-Europe_portrait_fe531e1ddc3f628cf9f5d065d816908f.svg.png",
+            "products": {
+                "global-fap": {
+                    "description": "Bosnia and Herzegovina map.<br><br>Printed on matte fine art paper with museum-grade ink.<br><br>Note that sizes in inches (8&Prime; x 12&Prime;, 12&Prime; x 18&Prime;...) will be rounded off to cm if delivered outside of US and Australia.<br><br>Keywords:<br>Region:Europe_Southern Europe",
+                    "variants": {
+                        "GLOBAL-FAP-8x12-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bosnia%20and%20Herzegovina_euN_Europe_Southern-Europe_portrait_fe531e1ddc3f628cf9f5d065d816908f.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bosnia%20and%20Herzegovina_euN_Europe_Southern-Europe_portrait_fe531e1ddc3f628cf9f5d065d816908f.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bosnia%20and%20Herzegovina_euN_Europe_Southern-Europe_portrait_fe531e1ddc3f628cf9f5d065d816908f.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bosnia%20and%20Herzegovina_euN_Europe_Southern-Europe_portrait_fe531e1ddc3f628cf9f5d065d816908f.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x18-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bosnia%20and%20Herzegovina_euN_Europe_Southern-Europe_portrait_fe531e1ddc3f628cf9f5d065d816908f.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-16x24-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bosnia%20and%20Herzegovina_euN_Europe_Southern-Europe_portrait_fe531e1ddc3f628cf9f5d065d816908f.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A2-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bosnia%20and%20Herzegovina_euN_Europe_Southern-Europe_portrait_fe531e1ddc3f628cf9f5d065d816908f.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-18x24-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bosnia%20and%20Herzegovina_euN_Europe_Southern-Europe_portrait_fe531e1ddc3f628cf9f5d065d816908f.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bosnia%20and%20Herzegovina_euN_Europe_Southern-Europe_portrait_fe531e1ddc3f628cf9f5d065d816908f.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x30-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bosnia%20and%20Herzegovina_euN_Europe_Southern-Europe_portrait_fe531e1ddc3f628cf9f5d065d816908f.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-24x32-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bosnia%20and%20Herzegovina_euN_Europe_Southern-Europe_portrait_fe531e1ddc3f628cf9f5d065d816908f.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A1-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bosnia%20and%20Herzegovina_euN_Europe_Southern-Europe_portrait_fe531e1ddc3f628cf9f5d065d816908f.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-24x36-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bosnia%20and%20Herzegovina_euN_Europe_Southern-Europe_portrait_fe531e1ddc3f628cf9f5d065d816908f.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bosnia%20and%20Herzegovina_euN_Europe_Southern-Europe_portrait_fe531e1ddc3f628cf9f5d065d816908f.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-30x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bosnia%20and%20Herzegovina_euN_Europe_Southern-Europe_portrait_fe531e1ddc3f628cf9f5d065d816908f.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A0-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bosnia%20and%20Herzegovina_euN_Europe_Southern-Europe_portrait_fe531e1ddc3f628cf9f5d065d816908f.svg.png"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-cfpm": {
+                    "description": "Bosnia and Herzegovina map.<br><br>Printed on matte fine art paper with museum-grade ink.<br><br>Note that sizes in inches (8&Prime; x 12&Prime;, 12&Prime; x 18&Prime;...) will be rounded off to cm if delivered outside of US and Australia.<br><br>Keywords:<br>Region:Europe_Southern Europe",
+                    "variants": {
+                        "GLOBAL-CFPM-8x12-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bosnia%20and%20Herzegovina_euN_Europe_Southern-Europe_portrait_fe531e1ddc3f628cf9f5d065d816908f.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bosnia%20and%20Herzegovina_euN_Europe_Southern-Europe_portrait_fe531e1ddc3f628cf9f5d065d816908f.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bosnia%20and%20Herzegovina_euN_Europe_Southern-Europe_portrait_fe531e1ddc3f628cf9f5d065d816908f.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bosnia%20and%20Herzegovina_euN_Europe_Southern-Europe_portrait_fe531e1ddc3f628cf9f5d065d816908f.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A2-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bosnia%20and%20Herzegovina_euN_Europe_Southern-Europe_portrait_fe531e1ddc3f628cf9f5d065d816908f.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bosnia%20and%20Herzegovina_euN_Europe_Southern-Europe_portrait_fe531e1ddc3f628cf9f5d065d816908f.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A1-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bosnia%20and%20Herzegovina_euN_Europe_Southern-Europe_portrait_fe531e1ddc3f628cf9f5d065d816908f.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bosnia%20and%20Herzegovina_euN_Europe_Southern-Europe_portrait_fe531e1ddc3f628cf9f5d065d816908f.svg.png"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}

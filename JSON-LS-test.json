@@ -1,0 +1,1885 @@
+{
+    "product_range_defaults": {
+        "published": true
+    },
+    "product_defaults": {
+        "enabled": false
+    },
+    "products_defaults": {
+        "global-fap": {
+            "enabled": true
+        },
+        "global-cfpm": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false
+    },
+    "variants_defaults": {
+        "GLOBAL-FAP-8x12-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 29.92
+        },
+        "GLOBAL-FAP-A4-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 29.92
+        },
+        "GLOBAL-FAP-12x16-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 31.68
+        },
+        "GLOBAL-FAP-A3-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 31.68
+        },
+        "GLOBAL-FAP-12x18-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 31.68
+        },
+        "GLOBAL-FAP-16x24-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 33.88
+        },
+        "GLOBAL-FAP-A2-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 34.76
+        },
+        "GLOBAL-FAP-18x24-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 36.52
+        },
+        "GLOBAL-FAP-20x28-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 39.16
+        },
+        "GLOBAL-FAP-20x30-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 40.92
+        },
+        "GLOBAL-FAP-24x32-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 41.80
+        },
+        "GLOBAL-FAP-24x36-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 45.76
+        },
+        "GLOBAL-FAP-28x40-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 50.16
+        },
+        "GLOBAL-FAP-30x40-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 52.80
+        },
+        "GLOBAL-FAP-A0-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 57.20
+        },
+        "GLOBAL-CFPM-8x12-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 46.64
+        },
+        "GLOBAL-CFPM-A4-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 46.64
+        },
+        "GLOBAL-CFPM-12x16-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 55.44
+        },
+        "GLOBAL-CFPM-A3-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 55.44
+        },
+        "GLOBAL-CFPM-A2-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 64.24
+        },
+        "GLOBAL-CFPM-20x28-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 73.04
+        },
+        "GLOBAL-CFPM-A1-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 85.36
+        },
+        "GLOBAL-CFPM-28x40-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 101.20
+        }
+    },
+    "product_ranges": [
+        {
+            "title": "All roads lead to Afghanistan map",
+            "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Afghanistan_SAs_Asia_Southern-Asia_landscape_7d675a3ffdf26fdc5aec7abe047a9474.svg.png",
+            "products": {
+                "global-fap": {
+                    "description": "Fine Art Print & Framed and mounted",
+                    "variants": {
+                        "GLOBAL-FAP-8x12-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Afghanistan_SAs_Asia_Southern-Asia_landscape_7d675a3ffdf26fdc5aec7abe047a9474.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A4-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Afghanistan_SAs_Asia_Southern-Asia_landscape_7d675a3ffdf26fdc5aec7abe047a9474.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Afghanistan_SAs_Asia_Southern-Asia_landscape_7d675a3ffdf26fdc5aec7abe047a9474.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A3-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Afghanistan_SAs_Asia_Southern-Asia_landscape_7d675a3ffdf26fdc5aec7abe047a9474.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x18-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Afghanistan_SAs_Asia_Southern-Asia_landscape_7d675a3ffdf26fdc5aec7abe047a9474.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-16x24-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Afghanistan_SAs_Asia_Southern-Asia_landscape_7d675a3ffdf26fdc5aec7abe047a9474.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A2-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Afghanistan_SAs_Asia_Southern-Asia_landscape_7d675a3ffdf26fdc5aec7abe047a9474.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-18x24-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Afghanistan_SAs_Asia_Southern-Asia_landscape_7d675a3ffdf26fdc5aec7abe047a9474.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Afghanistan_SAs_Asia_Southern-Asia_landscape_7d675a3ffdf26fdc5aec7abe047a9474.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x30-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Afghanistan_SAs_Asia_Southern-Asia_landscape_7d675a3ffdf26fdc5aec7abe047a9474.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-24x32-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Afghanistan_SAs_Asia_Southern-Asia_landscape_7d675a3ffdf26fdc5aec7abe047a9474.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-24x36-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Afghanistan_SAs_Asia_Southern-Asia_landscape_7d675a3ffdf26fdc5aec7abe047a9474.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-28x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Afghanistan_SAs_Asia_Southern-Asia_landscape_7d675a3ffdf26fdc5aec7abe047a9474.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-30x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Afghanistan_SAs_Asia_Southern-Asia_landscape_7d675a3ffdf26fdc5aec7abe047a9474.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A0-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Afghanistan_SAs_Asia_Southern-Asia_landscape_7d675a3ffdf26fdc5aec7abe047a9474.svg.png"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-cfpm": {
+                    "description": "Afghanistan map.<br><br>Printed on matte fine art paper with museum-grade ink.<br><br>Note that sizes in inches (8&Prime; x 12&Prime;, 12&Prime; x 18&Prime;...) will be rounded off to cm if delivered outside of US and Australia.<br><br>Keywords:<br>Region:Asia_Southern Asia",
+                    "variants": {
+                        "GLOBAL-CFPM-8x12-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Afghanistan_SAs_Asia_Southern-Asia_landscape_7d675a3ffdf26fdc5aec7abe047a9474.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A4-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Afghanistan_SAs_Asia_Southern-Asia_landscape_7d675a3ffdf26fdc5aec7abe047a9474.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Afghanistan_SAs_Asia_Southern-Asia_landscape_7d675a3ffdf26fdc5aec7abe047a9474.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A3-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Afghanistan_SAs_Asia_Southern-Asia_landscape_7d675a3ffdf26fdc5aec7abe047a9474.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A2-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Afghanistan_SAs_Asia_Southern-Asia_landscape_7d675a3ffdf26fdc5aec7abe047a9474.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Afghanistan_SAs_Asia_Southern-Asia_landscape_7d675a3ffdf26fdc5aec7abe047a9474.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A1-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Afghanistan_SAs_Asia_Southern-Asia_landscape_7d675a3ffdf26fdc5aec7abe047a9474.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-28x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Afghanistan_SAs_Asia_Southern-Asia_landscape_7d675a3ffdf26fdc5aec7abe047a9474.svg.png"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "All roads lead to Australia map",
+            "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Australia_Aus_Oceania_Australia-and-New-Zealand_landscape_7515fe1d1742e8afd0e3b81e552a3eed.svg.png",
+            "products": {
+                "global-fap": {
+                    "description": "Fine Art Print & Framed and mounted",
+                    "variants": {
+                        "GLOBAL-FAP-8x12-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Australia_Aus_Oceania_Australia-and-New-Zealand_landscape_7515fe1d1742e8afd0e3b81e552a3eed.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A4-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Australia_Aus_Oceania_Australia-and-New-Zealand_landscape_7515fe1d1742e8afd0e3b81e552a3eed.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Australia_Aus_Oceania_Australia-and-New-Zealand_landscape_7515fe1d1742e8afd0e3b81e552a3eed.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A3-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Australia_Aus_Oceania_Australia-and-New-Zealand_landscape_7515fe1d1742e8afd0e3b81e552a3eed.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x18-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Australia_Aus_Oceania_Australia-and-New-Zealand_landscape_7515fe1d1742e8afd0e3b81e552a3eed.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-16x24-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Australia_Aus_Oceania_Australia-and-New-Zealand_landscape_7515fe1d1742e8afd0e3b81e552a3eed.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A2-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Australia_Aus_Oceania_Australia-and-New-Zealand_landscape_7515fe1d1742e8afd0e3b81e552a3eed.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-18x24-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Australia_Aus_Oceania_Australia-and-New-Zealand_landscape_7515fe1d1742e8afd0e3b81e552a3eed.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Australia_Aus_Oceania_Australia-and-New-Zealand_landscape_7515fe1d1742e8afd0e3b81e552a3eed.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x30-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Australia_Aus_Oceania_Australia-and-New-Zealand_landscape_7515fe1d1742e8afd0e3b81e552a3eed.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-24x32-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Australia_Aus_Oceania_Australia-and-New-Zealand_landscape_7515fe1d1742e8afd0e3b81e552a3eed.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-24x36-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Australia_Aus_Oceania_Australia-and-New-Zealand_landscape_7515fe1d1742e8afd0e3b81e552a3eed.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-28x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Australia_Aus_Oceania_Australia-and-New-Zealand_landscape_7515fe1d1742e8afd0e3b81e552a3eed.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-30x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Australia_Aus_Oceania_Australia-and-New-Zealand_landscape_7515fe1d1742e8afd0e3b81e552a3eed.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A0-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Australia_Aus_Oceania_Australia-and-New-Zealand_landscape_7515fe1d1742e8afd0e3b81e552a3eed.svg.png"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-cfpm": {
+                    "description": "Australia map.<br><br>Printed on matte fine art paper with museum-grade ink.<br><br>Note that sizes in inches (8&Prime; x 12&Prime;, 12&Prime; x 18&Prime;...) will be rounded off to cm if delivered outside of US and Australia.<br><br>Keywords:<br>Region:Oceania_Australia and New Zealand",
+                    "variants": {
+                        "GLOBAL-CFPM-8x12-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Australia_Aus_Oceania_Australia-and-New-Zealand_landscape_7515fe1d1742e8afd0e3b81e552a3eed.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A4-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Australia_Aus_Oceania_Australia-and-New-Zealand_landscape_7515fe1d1742e8afd0e3b81e552a3eed.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Australia_Aus_Oceania_Australia-and-New-Zealand_landscape_7515fe1d1742e8afd0e3b81e552a3eed.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A3-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Australia_Aus_Oceania_Australia-and-New-Zealand_landscape_7515fe1d1742e8afd0e3b81e552a3eed.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A2-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Australia_Aus_Oceania_Australia-and-New-Zealand_landscape_7515fe1d1742e8afd0e3b81e552a3eed.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Australia_Aus_Oceania_Australia-and-New-Zealand_landscape_7515fe1d1742e8afd0e3b81e552a3eed.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A1-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Australia_Aus_Oceania_Australia-and-New-Zealand_landscape_7515fe1d1742e8afd0e3b81e552a3eed.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-28x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Australia_Aus_Oceania_Australia-and-New-Zealand_landscape_7515fe1d1742e8afd0e3b81e552a3eed.svg.png"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "All roads lead to Bangladesh map",
+            "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bangladesh_SAs_Asia_Southern-Asia_landscape_d1037cc9e4fb3d90d538e494e4ed3778.svg.png",
+            "products": {
+                "global-fap": {
+                    "description": "Fine Art Print & Framed and mounted",
+                    "variants": {
+                        "GLOBAL-FAP-8x12-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bangladesh_SAs_Asia_Southern-Asia_landscape_d1037cc9e4fb3d90d538e494e4ed3778.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A4-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bangladesh_SAs_Asia_Southern-Asia_landscape_d1037cc9e4fb3d90d538e494e4ed3778.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bangladesh_SAs_Asia_Southern-Asia_landscape_d1037cc9e4fb3d90d538e494e4ed3778.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A3-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bangladesh_SAs_Asia_Southern-Asia_landscape_d1037cc9e4fb3d90d538e494e4ed3778.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x18-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bangladesh_SAs_Asia_Southern-Asia_landscape_d1037cc9e4fb3d90d538e494e4ed3778.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-16x24-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bangladesh_SAs_Asia_Southern-Asia_landscape_d1037cc9e4fb3d90d538e494e4ed3778.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A2-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bangladesh_SAs_Asia_Southern-Asia_landscape_d1037cc9e4fb3d90d538e494e4ed3778.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-18x24-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bangladesh_SAs_Asia_Southern-Asia_landscape_d1037cc9e4fb3d90d538e494e4ed3778.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bangladesh_SAs_Asia_Southern-Asia_landscape_d1037cc9e4fb3d90d538e494e4ed3778.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x30-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bangladesh_SAs_Asia_Southern-Asia_landscape_d1037cc9e4fb3d90d538e494e4ed3778.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-24x32-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bangladesh_SAs_Asia_Southern-Asia_landscape_d1037cc9e4fb3d90d538e494e4ed3778.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-24x36-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bangladesh_SAs_Asia_Southern-Asia_landscape_d1037cc9e4fb3d90d538e494e4ed3778.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-28x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bangladesh_SAs_Asia_Southern-Asia_landscape_d1037cc9e4fb3d90d538e494e4ed3778.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-30x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bangladesh_SAs_Asia_Southern-Asia_landscape_d1037cc9e4fb3d90d538e494e4ed3778.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A0-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bangladesh_SAs_Asia_Southern-Asia_landscape_d1037cc9e4fb3d90d538e494e4ed3778.svg.png"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-cfpm": {
+                    "description": "Bangladesh map.<br><br>Printed on matte fine art paper with museum-grade ink.<br><br>Note that sizes in inches (8&Prime; x 12&Prime;, 12&Prime; x 18&Prime;...) will be rounded off to cm if delivered outside of US and Australia.<br><br>Keywords:<br>Region:Asia_Southern Asia",
+                    "variants": {
+                        "GLOBAL-CFPM-8x12-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bangladesh_SAs_Asia_Southern-Asia_landscape_d1037cc9e4fb3d90d538e494e4ed3778.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A4-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bangladesh_SAs_Asia_Southern-Asia_landscape_d1037cc9e4fb3d90d538e494e4ed3778.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bangladesh_SAs_Asia_Southern-Asia_landscape_d1037cc9e4fb3d90d538e494e4ed3778.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A3-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bangladesh_SAs_Asia_Southern-Asia_landscape_d1037cc9e4fb3d90d538e494e4ed3778.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A2-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bangladesh_SAs_Asia_Southern-Asia_landscape_d1037cc9e4fb3d90d538e494e4ed3778.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bangladesh_SAs_Asia_Southern-Asia_landscape_d1037cc9e4fb3d90d538e494e4ed3778.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A1-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bangladesh_SAs_Asia_Southern-Asia_landscape_d1037cc9e4fb3d90d538e494e4ed3778.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-28x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bangladesh_SAs_Asia_Southern-Asia_landscape_d1037cc9e4fb3d90d538e494e4ed3778.svg.png"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "All roads lead to Belarus map",
+            "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belarus_eu_Europe_Eastern-Europe_landscape_5b5a79e3b191841cf42f505929b6a31d.svg.png",
+            "products": {
+                "global-fap": {
+                    "description": "Fine Art Print & Framed and mounted",
+                    "variants": {
+                        "GLOBAL-FAP-8x12-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belarus_eu_Europe_Eastern-Europe_landscape_5b5a79e3b191841cf42f505929b6a31d.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A4-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belarus_eu_Europe_Eastern-Europe_landscape_5b5a79e3b191841cf42f505929b6a31d.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belarus_eu_Europe_Eastern-Europe_landscape_5b5a79e3b191841cf42f505929b6a31d.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A3-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belarus_eu_Europe_Eastern-Europe_landscape_5b5a79e3b191841cf42f505929b6a31d.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x18-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belarus_eu_Europe_Eastern-Europe_landscape_5b5a79e3b191841cf42f505929b6a31d.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-16x24-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belarus_eu_Europe_Eastern-Europe_landscape_5b5a79e3b191841cf42f505929b6a31d.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A2-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belarus_eu_Europe_Eastern-Europe_landscape_5b5a79e3b191841cf42f505929b6a31d.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-18x24-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belarus_eu_Europe_Eastern-Europe_landscape_5b5a79e3b191841cf42f505929b6a31d.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belarus_eu_Europe_Eastern-Europe_landscape_5b5a79e3b191841cf42f505929b6a31d.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x30-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belarus_eu_Europe_Eastern-Europe_landscape_5b5a79e3b191841cf42f505929b6a31d.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-24x32-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belarus_eu_Europe_Eastern-Europe_landscape_5b5a79e3b191841cf42f505929b6a31d.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-24x36-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belarus_eu_Europe_Eastern-Europe_landscape_5b5a79e3b191841cf42f505929b6a31d.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-28x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belarus_eu_Europe_Eastern-Europe_landscape_5b5a79e3b191841cf42f505929b6a31d.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-30x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belarus_eu_Europe_Eastern-Europe_landscape_5b5a79e3b191841cf42f505929b6a31d.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A0-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belarus_eu_Europe_Eastern-Europe_landscape_5b5a79e3b191841cf42f505929b6a31d.svg.png"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-cfpm": {
+                    "description": "Belarus map.<br><br>Printed on matte fine art paper with museum-grade ink.<br><br>Note that sizes in inches (8&Prime; x 12&Prime;, 12&Prime; x 18&Prime;...) will be rounded off to cm if delivered outside of US and Australia.<br><br>Keywords:<br>Region:Europe_Eastern Europe",
+                    "variants": {
+                        "GLOBAL-CFPM-8x12-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belarus_eu_Europe_Eastern-Europe_landscape_5b5a79e3b191841cf42f505929b6a31d.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A4-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belarus_eu_Europe_Eastern-Europe_landscape_5b5a79e3b191841cf42f505929b6a31d.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belarus_eu_Europe_Eastern-Europe_landscape_5b5a79e3b191841cf42f505929b6a31d.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A3-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belarus_eu_Europe_Eastern-Europe_landscape_5b5a79e3b191841cf42f505929b6a31d.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A2-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belarus_eu_Europe_Eastern-Europe_landscape_5b5a79e3b191841cf42f505929b6a31d.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belarus_eu_Europe_Eastern-Europe_landscape_5b5a79e3b191841cf42f505929b6a31d.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A1-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belarus_eu_Europe_Eastern-Europe_landscape_5b5a79e3b191841cf42f505929b6a31d.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-28x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belarus_eu_Europe_Eastern-Europe_landscape_5b5a79e3b191841cf42f505929b6a31d.svg.png"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "All roads lead to Bhutan map",
+            "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bhutan_SAs_Asia_Southern-Asia_landscape_a3869437284fb9ccceb8c8a89c9b7ea6.svg.png",
+            "products": {
+                "global-fap": {
+                    "description": "Fine Art Print & Framed and mounted",
+                    "variants": {
+                        "GLOBAL-FAP-8x12-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bhutan_SAs_Asia_Southern-Asia_landscape_a3869437284fb9ccceb8c8a89c9b7ea6.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A4-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bhutan_SAs_Asia_Southern-Asia_landscape_a3869437284fb9ccceb8c8a89c9b7ea6.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bhutan_SAs_Asia_Southern-Asia_landscape_a3869437284fb9ccceb8c8a89c9b7ea6.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A3-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bhutan_SAs_Asia_Southern-Asia_landscape_a3869437284fb9ccceb8c8a89c9b7ea6.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x18-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bhutan_SAs_Asia_Southern-Asia_landscape_a3869437284fb9ccceb8c8a89c9b7ea6.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-16x24-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bhutan_SAs_Asia_Southern-Asia_landscape_a3869437284fb9ccceb8c8a89c9b7ea6.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A2-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bhutan_SAs_Asia_Southern-Asia_landscape_a3869437284fb9ccceb8c8a89c9b7ea6.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-18x24-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bhutan_SAs_Asia_Southern-Asia_landscape_a3869437284fb9ccceb8c8a89c9b7ea6.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bhutan_SAs_Asia_Southern-Asia_landscape_a3869437284fb9ccceb8c8a89c9b7ea6.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x30-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bhutan_SAs_Asia_Southern-Asia_landscape_a3869437284fb9ccceb8c8a89c9b7ea6.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-24x32-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bhutan_SAs_Asia_Southern-Asia_landscape_a3869437284fb9ccceb8c8a89c9b7ea6.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-24x36-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bhutan_SAs_Asia_Southern-Asia_landscape_a3869437284fb9ccceb8c8a89c9b7ea6.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-28x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bhutan_SAs_Asia_Southern-Asia_landscape_a3869437284fb9ccceb8c8a89c9b7ea6.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-30x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bhutan_SAs_Asia_Southern-Asia_landscape_a3869437284fb9ccceb8c8a89c9b7ea6.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A0-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bhutan_SAs_Asia_Southern-Asia_landscape_a3869437284fb9ccceb8c8a89c9b7ea6.svg.png"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-cfpm": {
+                    "description": "Bhutan map.<br><br>Printed on matte fine art paper with museum-grade ink.<br><br>Note that sizes in inches (8&Prime; x 12&Prime;, 12&Prime; x 18&Prime;...) will be rounded off to cm if delivered outside of US and Australia.<br><br>Keywords:<br>Region:Asia_Southern Asia",
+                    "variants": {
+                        "GLOBAL-CFPM-8x12-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bhutan_SAs_Asia_Southern-Asia_landscape_a3869437284fb9ccceb8c8a89c9b7ea6.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A4-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bhutan_SAs_Asia_Southern-Asia_landscape_a3869437284fb9ccceb8c8a89c9b7ea6.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bhutan_SAs_Asia_Southern-Asia_landscape_a3869437284fb9ccceb8c8a89c9b7ea6.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A3-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bhutan_SAs_Asia_Southern-Asia_landscape_a3869437284fb9ccceb8c8a89c9b7ea6.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A2-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bhutan_SAs_Asia_Southern-Asia_landscape_a3869437284fb9ccceb8c8a89c9b7ea6.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bhutan_SAs_Asia_Southern-Asia_landscape_a3869437284fb9ccceb8c8a89c9b7ea6.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A1-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bhutan_SAs_Asia_Southern-Asia_landscape_a3869437284fb9ccceb8c8a89c9b7ea6.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-28x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bhutan_SAs_Asia_Southern-Asia_landscape_a3869437284fb9ccceb8c8a89c9b7ea6.svg.png"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "All roads lead to Bulgaria map",
+            "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bulgaria_eu_Europe_Eastern-Europe_landscape_b85d530cd61339d7e3a62483999347e4.svg.png",
+            "products": {
+                "global-fap": {
+                    "description": "Fine Art Print & Framed and mounted",
+                    "variants": {
+                        "GLOBAL-FAP-8x12-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bulgaria_eu_Europe_Eastern-Europe_landscape_b85d530cd61339d7e3a62483999347e4.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A4-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bulgaria_eu_Europe_Eastern-Europe_landscape_b85d530cd61339d7e3a62483999347e4.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bulgaria_eu_Europe_Eastern-Europe_landscape_b85d530cd61339d7e3a62483999347e4.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A3-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bulgaria_eu_Europe_Eastern-Europe_landscape_b85d530cd61339d7e3a62483999347e4.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x18-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bulgaria_eu_Europe_Eastern-Europe_landscape_b85d530cd61339d7e3a62483999347e4.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-16x24-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bulgaria_eu_Europe_Eastern-Europe_landscape_b85d530cd61339d7e3a62483999347e4.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A2-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bulgaria_eu_Europe_Eastern-Europe_landscape_b85d530cd61339d7e3a62483999347e4.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-18x24-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bulgaria_eu_Europe_Eastern-Europe_landscape_b85d530cd61339d7e3a62483999347e4.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bulgaria_eu_Europe_Eastern-Europe_landscape_b85d530cd61339d7e3a62483999347e4.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x30-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bulgaria_eu_Europe_Eastern-Europe_landscape_b85d530cd61339d7e3a62483999347e4.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-24x32-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bulgaria_eu_Europe_Eastern-Europe_landscape_b85d530cd61339d7e3a62483999347e4.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-24x36-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bulgaria_eu_Europe_Eastern-Europe_landscape_b85d530cd61339d7e3a62483999347e4.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-28x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bulgaria_eu_Europe_Eastern-Europe_landscape_b85d530cd61339d7e3a62483999347e4.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-30x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bulgaria_eu_Europe_Eastern-Europe_landscape_b85d530cd61339d7e3a62483999347e4.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A0-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bulgaria_eu_Europe_Eastern-Europe_landscape_b85d530cd61339d7e3a62483999347e4.svg.png"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-cfpm": {
+                    "description": "Bulgaria map.<br><br>Printed on matte fine art paper with museum-grade ink.<br><br>Note that sizes in inches (8&Prime; x 12&Prime;, 12&Prime; x 18&Prime;...) will be rounded off to cm if delivered outside of US and Australia.<br><br>Keywords:<br>Region:Europe_Eastern Europe",
+                    "variants": {
+                        "GLOBAL-CFPM-8x12-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bulgaria_eu_Europe_Eastern-Europe_landscape_b85d530cd61339d7e3a62483999347e4.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A4-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bulgaria_eu_Europe_Eastern-Europe_landscape_b85d530cd61339d7e3a62483999347e4.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bulgaria_eu_Europe_Eastern-Europe_landscape_b85d530cd61339d7e3a62483999347e4.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A3-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bulgaria_eu_Europe_Eastern-Europe_landscape_b85d530cd61339d7e3a62483999347e4.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A2-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bulgaria_eu_Europe_Eastern-Europe_landscape_b85d530cd61339d7e3a62483999347e4.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bulgaria_eu_Europe_Eastern-Europe_landscape_b85d530cd61339d7e3a62483999347e4.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A1-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bulgaria_eu_Europe_Eastern-Europe_landscape_b85d530cd61339d7e3a62483999347e4.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-28x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bulgaria_eu_Europe_Eastern-Europe_landscape_b85d530cd61339d7e3a62483999347e4.svg.png"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "All roads lead to China map",
+            "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/China_ch_Asia_Eastern-Asia_countries-CN-TW_landscape_7acefc8da13d9fb548ae7520050670cd.svg.png",
+            "products": {
+                "global-fap": {
+                    "description": "Fine Art Print & Framed and mounted",
+                    "variants": {
+                        "GLOBAL-FAP-8x12-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/China_ch_Asia_Eastern-Asia_countries-CN-TW_landscape_7acefc8da13d9fb548ae7520050670cd.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A4-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/China_ch_Asia_Eastern-Asia_countries-CN-TW_landscape_7acefc8da13d9fb548ae7520050670cd.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/China_ch_Asia_Eastern-Asia_countries-CN-TW_landscape_7acefc8da13d9fb548ae7520050670cd.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A3-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/China_ch_Asia_Eastern-Asia_countries-CN-TW_landscape_7acefc8da13d9fb548ae7520050670cd.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x18-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/China_ch_Asia_Eastern-Asia_countries-CN-TW_landscape_7acefc8da13d9fb548ae7520050670cd.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-16x24-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/China_ch_Asia_Eastern-Asia_countries-CN-TW_landscape_7acefc8da13d9fb548ae7520050670cd.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A2-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/China_ch_Asia_Eastern-Asia_countries-CN-TW_landscape_7acefc8da13d9fb548ae7520050670cd.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-18x24-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/China_ch_Asia_Eastern-Asia_countries-CN-TW_landscape_7acefc8da13d9fb548ae7520050670cd.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/China_ch_Asia_Eastern-Asia_countries-CN-TW_landscape_7acefc8da13d9fb548ae7520050670cd.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x30-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/China_ch_Asia_Eastern-Asia_countries-CN-TW_landscape_7acefc8da13d9fb548ae7520050670cd.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-24x32-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/China_ch_Asia_Eastern-Asia_countries-CN-TW_landscape_7acefc8da13d9fb548ae7520050670cd.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-24x36-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/China_ch_Asia_Eastern-Asia_countries-CN-TW_landscape_7acefc8da13d9fb548ae7520050670cd.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-28x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/China_ch_Asia_Eastern-Asia_countries-CN-TW_landscape_7acefc8da13d9fb548ae7520050670cd.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-30x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/China_ch_Asia_Eastern-Asia_countries-CN-TW_landscape_7acefc8da13d9fb548ae7520050670cd.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A0-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/China_ch_Asia_Eastern-Asia_countries-CN-TW_landscape_7acefc8da13d9fb548ae7520050670cd.svg.png"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-cfpm": {
+                    "description": "China map.<br><br>Printed on matte fine art paper with museum-grade ink.<br><br>Note that sizes in inches (8&Prime; x 12&Prime;, 12&Prime; x 18&Prime;...) will be rounded off to cm if delivered outside of US and Australia.<br><br>Keywords:<br>Region:Asia_Eastern Asia",
+                    "variants": {
+                        "GLOBAL-CFPM-8x12-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/China_ch_Asia_Eastern-Asia_countries-CN-TW_landscape_7acefc8da13d9fb548ae7520050670cd.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A4-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/China_ch_Asia_Eastern-Asia_countries-CN-TW_landscape_7acefc8da13d9fb548ae7520050670cd.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/China_ch_Asia_Eastern-Asia_countries-CN-TW_landscape_7acefc8da13d9fb548ae7520050670cd.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A3-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/China_ch_Asia_Eastern-Asia_countries-CN-TW_landscape_7acefc8da13d9fb548ae7520050670cd.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A2-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/China_ch_Asia_Eastern-Asia_countries-CN-TW_landscape_7acefc8da13d9fb548ae7520050670cd.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/China_ch_Asia_Eastern-Asia_countries-CN-TW_landscape_7acefc8da13d9fb548ae7520050670cd.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A1-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/China_ch_Asia_Eastern-Asia_countries-CN-TW_landscape_7acefc8da13d9fb548ae7520050670cd.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-28x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/China_ch_Asia_Eastern-Asia_countries-CN-TW_landscape_7acefc8da13d9fb548ae7520050670cd.svg.png"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "All roads lead to Czech Republic map",
+            "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Czech%20Republic_eu_Europe_Eastern-Europe_landscape_46b8c613ea673c611a9a5cf80bbbb1f3.svg.png",
+            "products": {
+                "global-fap": {
+                    "description": "Fine Art Print & Framed and mounted",
+                    "variants": {
+                        "GLOBAL-FAP-8x12-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Czech%20Republic_eu_Europe_Eastern-Europe_landscape_46b8c613ea673c611a9a5cf80bbbb1f3.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A4-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Czech%20Republic_eu_Europe_Eastern-Europe_landscape_46b8c613ea673c611a9a5cf80bbbb1f3.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Czech%20Republic_eu_Europe_Eastern-Europe_landscape_46b8c613ea673c611a9a5cf80bbbb1f3.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A3-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Czech%20Republic_eu_Europe_Eastern-Europe_landscape_46b8c613ea673c611a9a5cf80bbbb1f3.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x18-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Czech%20Republic_eu_Europe_Eastern-Europe_landscape_46b8c613ea673c611a9a5cf80bbbb1f3.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-16x24-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Czech%20Republic_eu_Europe_Eastern-Europe_landscape_46b8c613ea673c611a9a5cf80bbbb1f3.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A2-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Czech%20Republic_eu_Europe_Eastern-Europe_landscape_46b8c613ea673c611a9a5cf80bbbb1f3.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-18x24-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Czech%20Republic_eu_Europe_Eastern-Europe_landscape_46b8c613ea673c611a9a5cf80bbbb1f3.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Czech%20Republic_eu_Europe_Eastern-Europe_landscape_46b8c613ea673c611a9a5cf80bbbb1f3.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x30-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Czech%20Republic_eu_Europe_Eastern-Europe_landscape_46b8c613ea673c611a9a5cf80bbbb1f3.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-24x32-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Czech%20Republic_eu_Europe_Eastern-Europe_landscape_46b8c613ea673c611a9a5cf80bbbb1f3.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-24x36-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Czech%20Republic_eu_Europe_Eastern-Europe_landscape_46b8c613ea673c611a9a5cf80bbbb1f3.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-28x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Czech%20Republic_eu_Europe_Eastern-Europe_landscape_46b8c613ea673c611a9a5cf80bbbb1f3.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-30x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Czech%20Republic_eu_Europe_Eastern-Europe_landscape_46b8c613ea673c611a9a5cf80bbbb1f3.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A0-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Czech%20Republic_eu_Europe_Eastern-Europe_landscape_46b8c613ea673c611a9a5cf80bbbb1f3.svg.png"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-cfpm": {
+                    "description": "Czech Republic map.<br><br>Printed on matte fine art paper with museum-grade ink.<br><br>Note that sizes in inches (8&Prime; x 12&Prime;, 12&Prime; x 18&Prime;...) will be rounded off to cm if delivered outside of US and Australia.<br><br>Keywords:<br>Region:Europe_Eastern Europe",
+                    "variants": {
+                        "GLOBAL-CFPM-8x12-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Czech%20Republic_eu_Europe_Eastern-Europe_landscape_46b8c613ea673c611a9a5cf80bbbb1f3.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A4-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Czech%20Republic_eu_Europe_Eastern-Europe_landscape_46b8c613ea673c611a9a5cf80bbbb1f3.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Czech%20Republic_eu_Europe_Eastern-Europe_landscape_46b8c613ea673c611a9a5cf80bbbb1f3.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A3-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Czech%20Republic_eu_Europe_Eastern-Europe_landscape_46b8c613ea673c611a9a5cf80bbbb1f3.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A2-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Czech%20Republic_eu_Europe_Eastern-Europe_landscape_46b8c613ea673c611a9a5cf80bbbb1f3.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Czech%20Republic_eu_Europe_Eastern-Europe_landscape_46b8c613ea673c611a9a5cf80bbbb1f3.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A1-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Czech%20Republic_eu_Europe_Eastern-Europe_landscape_46b8c613ea673c611a9a5cf80bbbb1f3.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-28x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Czech%20Republic_eu_Europe_Eastern-Europe_landscape_46b8c613ea673c611a9a5cf80bbbb1f3.svg.png"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "All roads lead to Hungary map",
+            "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Hungary_eu_Europe_Eastern-Europe_landscape_d1bae46767903e830ba6b04af3a94962.svg.png",
+            "products": {
+                "global-fap": {
+                    "description": "Fine Art Print & Framed and mounted",
+                    "variants": {
+                        "GLOBAL-FAP-8x12-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Hungary_eu_Europe_Eastern-Europe_landscape_d1bae46767903e830ba6b04af3a94962.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A4-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Hungary_eu_Europe_Eastern-Europe_landscape_d1bae46767903e830ba6b04af3a94962.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Hungary_eu_Europe_Eastern-Europe_landscape_d1bae46767903e830ba6b04af3a94962.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A3-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Hungary_eu_Europe_Eastern-Europe_landscape_d1bae46767903e830ba6b04af3a94962.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x18-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Hungary_eu_Europe_Eastern-Europe_landscape_d1bae46767903e830ba6b04af3a94962.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-16x24-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Hungary_eu_Europe_Eastern-Europe_landscape_d1bae46767903e830ba6b04af3a94962.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A2-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Hungary_eu_Europe_Eastern-Europe_landscape_d1bae46767903e830ba6b04af3a94962.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-18x24-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Hungary_eu_Europe_Eastern-Europe_landscape_d1bae46767903e830ba6b04af3a94962.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Hungary_eu_Europe_Eastern-Europe_landscape_d1bae46767903e830ba6b04af3a94962.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x30-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Hungary_eu_Europe_Eastern-Europe_landscape_d1bae46767903e830ba6b04af3a94962.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-24x32-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Hungary_eu_Europe_Eastern-Europe_landscape_d1bae46767903e830ba6b04af3a94962.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-24x36-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Hungary_eu_Europe_Eastern-Europe_landscape_d1bae46767903e830ba6b04af3a94962.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-28x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Hungary_eu_Europe_Eastern-Europe_landscape_d1bae46767903e830ba6b04af3a94962.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-30x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Hungary_eu_Europe_Eastern-Europe_landscape_d1bae46767903e830ba6b04af3a94962.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A0-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Hungary_eu_Europe_Eastern-Europe_landscape_d1bae46767903e830ba6b04af3a94962.svg.png"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-cfpm": {
+                    "description": "Hungary map.<br><br>Printed on matte fine art paper with museum-grade ink.<br><br>Note that sizes in inches (8&Prime; x 12&Prime;, 12&Prime; x 18&Prime;...) will be rounded off to cm if delivered outside of US and Australia.<br><br>Keywords:<br>Region:Europe_Eastern Europe",
+                    "variants": {
+                        "GLOBAL-CFPM-8x12-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Hungary_eu_Europe_Eastern-Europe_landscape_d1bae46767903e830ba6b04af3a94962.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A4-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Hungary_eu_Europe_Eastern-Europe_landscape_d1bae46767903e830ba6b04af3a94962.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Hungary_eu_Europe_Eastern-Europe_landscape_d1bae46767903e830ba6b04af3a94962.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A3-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Hungary_eu_Europe_Eastern-Europe_landscape_d1bae46767903e830ba6b04af3a94962.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A2-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Hungary_eu_Europe_Eastern-Europe_landscape_d1bae46767903e830ba6b04af3a94962.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Hungary_eu_Europe_Eastern-Europe_landscape_d1bae46767903e830ba6b04af3a94962.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A1-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Hungary_eu_Europe_Eastern-Europe_landscape_d1bae46767903e830ba6b04af3a94962.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-28x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Hungary_eu_Europe_Eastern-Europe_landscape_d1bae46767903e830ba6b04af3a94962.svg.png"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "All roads lead to Kazakhstan map",
+            "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Kazakhstan_CAs_Asia_Central-Asia_landscape_426df5b804867eef99aae326326e0658.svg.png",
+            "products": {
+                "global-fap": {
+                    "description": "Fine Art Print & Framed and mounted",
+                    "variants": {
+                        "GLOBAL-FAP-8x12-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Kazakhstan_CAs_Asia_Central-Asia_landscape_426df5b804867eef99aae326326e0658.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A4-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Kazakhstan_CAs_Asia_Central-Asia_landscape_426df5b804867eef99aae326326e0658.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Kazakhstan_CAs_Asia_Central-Asia_landscape_426df5b804867eef99aae326326e0658.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A3-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Kazakhstan_CAs_Asia_Central-Asia_landscape_426df5b804867eef99aae326326e0658.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x18-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Kazakhstan_CAs_Asia_Central-Asia_landscape_426df5b804867eef99aae326326e0658.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-16x24-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Kazakhstan_CAs_Asia_Central-Asia_landscape_426df5b804867eef99aae326326e0658.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A2-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Kazakhstan_CAs_Asia_Central-Asia_landscape_426df5b804867eef99aae326326e0658.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-18x24-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Kazakhstan_CAs_Asia_Central-Asia_landscape_426df5b804867eef99aae326326e0658.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Kazakhstan_CAs_Asia_Central-Asia_landscape_426df5b804867eef99aae326326e0658.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x30-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Kazakhstan_CAs_Asia_Central-Asia_landscape_426df5b804867eef99aae326326e0658.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-24x32-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Kazakhstan_CAs_Asia_Central-Asia_landscape_426df5b804867eef99aae326326e0658.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-24x36-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Kazakhstan_CAs_Asia_Central-Asia_landscape_426df5b804867eef99aae326326e0658.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-28x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Kazakhstan_CAs_Asia_Central-Asia_landscape_426df5b804867eef99aae326326e0658.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-30x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Kazakhstan_CAs_Asia_Central-Asia_landscape_426df5b804867eef99aae326326e0658.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A0-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Kazakhstan_CAs_Asia_Central-Asia_landscape_426df5b804867eef99aae326326e0658.svg.png"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-cfpm": {
+                    "description": "Kazakhstan map.<br><br>Printed on matte fine art paper with museum-grade ink.<br><br>Note that sizes in inches (8&Prime; x 12&Prime;, 12&Prime; x 18&Prime;...) will be rounded off to cm if delivered outside of US and Australia.<br><br>Keywords:<br>Region:Asia_Central Asia",
+                    "variants": {
+                        "GLOBAL-CFPM-8x12-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Kazakhstan_CAs_Asia_Central-Asia_landscape_426df5b804867eef99aae326326e0658.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A4-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Kazakhstan_CAs_Asia_Central-Asia_landscape_426df5b804867eef99aae326326e0658.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Kazakhstan_CAs_Asia_Central-Asia_landscape_426df5b804867eef99aae326326e0658.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A3-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Kazakhstan_CAs_Asia_Central-Asia_landscape_426df5b804867eef99aae326326e0658.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A2-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Kazakhstan_CAs_Asia_Central-Asia_landscape_426df5b804867eef99aae326326e0658.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Kazakhstan_CAs_Asia_Central-Asia_landscape_426df5b804867eef99aae326326e0658.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-A1-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Kazakhstan_CAs_Asia_Central-Asia_landscape_426df5b804867eef99aae326326e0658.svg.png"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFPM-28x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Kazakhstan_CAs_Asia_Central-Asia_landscape_426df5b804867eef99aae326326e0658.svg.png"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}

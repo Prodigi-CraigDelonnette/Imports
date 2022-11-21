@@ -1,0 +1,271 @@
+{
+    "product_range_defaults": {
+        "published": true
+    },
+    "product_defaults": {
+        "enabled": false
+    },
+    "products_defaults": {
+        "global-fap": {
+            "enabled": true
+        },
+        "global-cfp": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false
+    },
+    "variants_defaults": {
+        "GLOBAL-FAP-A4-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 34.95
+        },
+        "GLOBAL-FAP-A3-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 43.95
+        },
+        "GLOBAL-FAP-A2-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 54.95
+        },
+        "GLOBAL-FAP-A1-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 69.95
+        },
+        "GLOBAL-CFP-A4-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 78.95
+        },
+        "GLOBAL-CFP-A3-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 92.95
+        },
+        "GLOBAL-CFP-A2-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 119.95
+        },
+        "GLOBAL-CFP-A1-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 179.95
+        }
+    },
+    "product_ranges": [
+        {
+            "title": "Mammoth Fuzz - Fuzz Print - Pink",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1iXTrVYN6KghMcXbYxY3jXJBwb_mnCn7i",
+            "products": {
+                "global-fap": {
+                    "description": "",
+                    "variants": {
+                        "GLOBAL-FAP-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1iXTrVYN6KghMcXbYxY3jXJBwb_mnCn7i"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1iXTrVYN6KghMcXbYxY3jXJBwb_mnCn7i"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A2-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1iXTrVYN6KghMcXbYxY3jXJBwb_mnCn7i"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A1-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1iXTrVYN6KghMcXbYxY3jXJBwb_mnCn7i"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-CFP": {
+                    "description": "",
+                    "variants": {
+                        "GLOBAL-CFP-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1iXTrVYN6KghMcXbYxY3jXJBwb_mnCn7i"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1iXTrVYN6KghMcXbYxY3jXJBwb_mnCn7i"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A2-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1iXTrVYN6KghMcXbYxY3jXJBwb_mnCn7i"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A1-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1iXTrVYN6KghMcXbYxY3jXJBwb_mnCn7i"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Space Verb - Reverb Print - Purple",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1xCflhPWXNueQqKllit43SlLU_eUir7xu",
+            "products": {
+                "global-fap": {
+                    "description": "",
+                    "variants": {
+                        "GLOBAL-FAP-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1xCflhPWXNueQqKllit43SlLU_eUir7xu"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1xCflhPWXNueQqKllit43SlLU_eUir7xu"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A2-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1xCflhPWXNueQqKllit43SlLU_eUir7xu"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A1-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1xCflhPWXNueQqKllit43SlLU_eUir7xu"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-CFP": {
+                    "description": "",
+                    "variants": {
+                        "GLOBAL-CFP-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1xCflhPWXNueQqKllit43SlLU_eUir7xu"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1xCflhPWXNueQqKllit43SlLU_eUir7xu"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A2-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1xCflhPWXNueQqKllit43SlLU_eUir7xu"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A1-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1xCflhPWXNueQqKllit43SlLU_eUir7xu"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Swirly Verb - Reverb Print - Pink",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1f_-bHvx4HfY148aK6YBHbhaQpSv-ZF1v",
+            "products": {
+                "global-fap": {
+                    "description": "",
+                    "variants": {
+                        "GLOBAL-FAP-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1f_-bHvx4HfY148aK6YBHbhaQpSv-ZF1v"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1f_-bHvx4HfY148aK6YBHbhaQpSv-ZF1v"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A2-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1f_-bHvx4HfY148aK6YBHbhaQpSv-ZF1v"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A1-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1f_-bHvx4HfY148aK6YBHbhaQpSv-ZF1v"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-CFP": {
+                    "description": "",
+                    "variants": {
+                        "GLOBAL-CFP-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1f_-bHvx4HfY148aK6YBHbhaQpSv-ZF1v"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1f_-bHvx4HfY148aK6YBHbhaQpSv-ZF1v"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A2-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1f_-bHvx4HfY148aK6YBHbhaQpSv-ZF1v"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A1-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://drive.google.com/uc?export=download&id=1f_-bHvx4HfY148aK6YBHbhaQpSv-ZF1v"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,486 @@
+{
+    "product_range_defaults": {
+        "published": true
+    },
+    "product_defaults": {
+        "enabled": false
+    },
+    "products_defaults": {
+        "global-fap": {
+            "enabled": true
+        },
+        "global-cfp": {
+            "enabled": true
+        },
+        "poster-hanger": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false
+    },
+    "variants_defaults": {
+        "GLOBAL-FAP-6x8-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 9.00
+        },
+        "GLOBAL-FAP-A4-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 14.00
+        },
+        "GLOBAL-FAP-A3-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 19.00
+        },
+        "GLOBAL-FAP-12x16-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 19.00
+        },
+        "GLOBAL-FAP-16x20-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 24.00
+        },
+        "GLOBAL-FAP-20x28-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 35.00
+        },
+        "GLOBAL-FAP-28x40-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 42.00
+        },
+        "GLOBAL-CFP-6x8-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 29.00
+        },
+        "GLOBAL-CFP-A4-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 35.00
+        },
+        "GLOBAL-CFP-A3-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 49.00
+        },
+        "GLOBAL-CFP-12x16-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 49.00
+        },
+        "GLOBAL-CFP-16x20-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 58.00
+        },
+        "GLOBAL-CFP-20x28-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 73.00
+        },
+        "GLOBAL-CFP-28x40-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 92.00
+        },
+        "POSTER-HANGER-20-A4-LAND": {
+            "enabled": true,
+            "retail_price": 27.00
+        },
+        "POSTER-HANGER-30-12x16-LAND": {
+            "enabled": true,
+            "retail_price": 33.00
+        },
+        "POSTER-HANGER-40-16x20-LAND": {
+            "enabled": true,
+            "retail_price": 41.00
+        }
+    },
+    "product_ranges": [
+        {
+            "title": "Personalised Planet print in stone ",
+            "user_image_url": "https://www.dropbox.com/s/u03rau99nxr69ll/R%20Planet%20stone%20NF.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": "All our artwork is printed on beautiful fine art paper using the highest quality Giclée printing process and archival inks. All designs are created by Kid of the Village.",
+                    "variants": {
+                        "GLOBAL-FAP-A4-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/u03rau99nxr69ll/R%20Planet%20stone%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A3-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/u03rau99nxr69ll/R%20Planet%20stone%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A2-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/u03rau99nxr69ll/R%20Planet%20stone%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A1-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/u03rau99nxr69ll/R%20Planet%20stone%20NF.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "All our artwork is printed on beautiful fine art paper using the highest quality Giclée printing process and archival inks. All designs are created by Kid of the Village. Frames Our frames are made using high quality wood with a satin finish and handmade for your order, ready to hang. The frame add adds 2cm to each side of the print. ",
+                    "variants": {
+                        "GLOBAL-CFP-A4-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https: //www.dropbox.com/s/u03rau99nxr69ll/R%20Planet%20stone%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A3-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/u03rau99nxr69ll/R%20Planet%20stone%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A2-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/u03rau99nxr69ll/R%20Planet%20stone%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A1-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/u03rau99nxr69ll/R%20Planet%20stone%20NF.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "poster-hanger": {
+                    "description": "Fine art print and poster hanger with magnetic fastening. This magnetic hanger frame holds our prints firmly without damaging them.",
+                    "variants": {
+                        "POSTER-HANGER-20-A4-LAND": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https: //www.dropbox.com/s/u03rau99nxr69ll/R%20Planet%20stone%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-30-12x16-LAND": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/u03rau99nxr69ll/R%20Planet%20stone%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-40-16x20-LAND": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/u03rau99nxr69ll/R%20Planet%20stone%20NF.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Personalised Planet print in white ",
+            "user_image_url": "https://www.dropbox.com/s/00t5fczbwnpt6h0/R%20Planet%20white%20NF.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": "All our artwork is printed on beautiful fine art paper using the highest quality Giclée printing process and archival inks. All designs are created by Kid of the Village.",
+                    "variants": {
+                        "GLOBAL-FAP-A4-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https: //www.dropbox.com/s/00t5fczbwnpt6h0/R%20Planet%20white%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A3-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/00t5fczbwnpt6h0/R%20Planet%20white%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A2-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/00t5fczbwnpt6h0/R%20Planet%20white%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A1-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/00t5fczbwnpt6h0/R%20Planet%20white%20NF.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "All our artwork is printed on beautiful fine art paper using the highest quality Giclée printing process and archival inks. All designs are created by Kid of the Village. Frames Our frames are made using high quality wood with a satin finish and handmade for your order, ready to hang. The frame add adds 2cm to each side of the print. ",
+                    "variants": {
+                        "GLOBAL-CFP-A4-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https: //www.dropbox.com/s/00t5fczbwnpt6h0/R%20Planet%20white%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A3-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/00t5fczbwnpt6h0/R%20Planet%20white%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A2-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/00t5fczbwnpt6h0/R%20Planet%20white%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A1-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/00t5fczbwnpt6h0/R%20Planet%20white%20NF.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "poster-hanger": {
+                    "description": "Fine art print and poster hanger with magnetic fastening. This magnetic hanger frame holds our prints firmly without damaging them.",
+                    "variants": {
+                        "POSTER-HANGER-20-A4-LAND": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https: //www.dropbox.com/s/00t5fczbwnpt6h0/R%20Planet%20white%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-30-12x16-LAND": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/00t5fczbwnpt6h0/R%20Planet%20white%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-40-16x20-LAND": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/00t5fczbwnpt6h0/R%20Planet%20white%20NF.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Personalised Planet print in black",
+            "user_image_url": "https://www.dropbox.com/s/ko6f5kzt2y7g2u1/R%20Planet%20black%20NF.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": "All our artwork is printed on beautiful fine art paper using the highest quality Giclée printing process and archival inks. All designs are created by Kid of the Village.",
+                    "variants": {
+                        "GLOBAL-FAP-A4-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https: //www.dropbox.com/s/ko6f5kzt2y7g2u1/R%20Planet%20black%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A3-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ko6f5kzt2y7g2u1/R%20Planet%20black%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A2-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ko6f5kzt2y7g2u1/R%20Planet%20black%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A1-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ko6f5kzt2y7g2u1/R%20Planet%20black%20NF.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "All our artwork is printed on beautiful fine art paper using the highest quality Giclée printing process and archival inks. All designs are created by Kid of the Village. Frames Our frames are made using high quality wood with a satin finish and handmade for your order, ready to hang. The frame add adds 2cm to each side of the print. ",
+                    "variants": {
+                        "GLOBAL-CFP-A4-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https: //www.dropbox.com/s/ko6f5kzt2y7g2u1/R%20Planet%20black%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A3-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ko6f5kzt2y7g2u1/R%20Planet%20black%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A2-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ko6f5kzt2y7g2u1/R%20Planet%20black%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A1-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ko6f5kzt2y7g2u1/R%20Planet%20black%20NF.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "poster-hanger": {
+                    "description": "Fine art print and poster hanger with magnetic fastening. This magnetic hanger frame holds our prints firmly without damaging them.",
+                    "variants": {
+                        "POSTER-HANGER-20-A4-LAND": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https: //www.dropbox.com/s/ko6f5kzt2y7g2u1/R%20Planet%20black%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-30-12x16-LAND": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ko6f5kzt2y7g2u1/R%20Planet%20black%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-40-16x20-LAND": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ko6f5kzt2y7g2u1/R%20Planet%20black%20NF.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Personalised Name Floral print",
+            "user_image_url": "https://www.dropbox.com/s/c18saxflyffsdn7/Bridget%20how%20lovely%20NF.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": "All our artwork is printed on beautiful fine art paper using the highest quality Giclée printing process and archival inks. All designs are created by Kid of the Village.",
+                    "variants": {
+                        "GLOBAL-FAP-A4-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https: //www.dropbox.com/s/c18saxflyffsdn7/Bridget%20how%20lovely%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A3-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/c18saxflyffsdn7/Bridget%20how%20lovely%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A2-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/c18saxflyffsdn7/Bridget%20how%20lovely%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A1-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/c18saxflyffsdn7/Bridget%20how%20lovely%20NF.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "All our artwork is printed on beautiful fine art paper using the highest quality Giclée printing process and archival inks. All designs are created by Kid of the Village. Frames Our frames are made using high quality wood with a satin finish and handmade for your order, ready to hang. The frame add adds 2cm to each side of the print. ",
+                    "variants": {
+                        "GLOBAL-CFP-A4-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https: //www.dropbox.com/s/c18saxflyffsdn7/Bridget%20how%20lovely%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A3-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/c18saxflyffsdn7/Bridget%20how%20lovely%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A2-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/c18saxflyffsdn7/Bridget%20how%20lovely%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A1-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/c18saxflyffsdn7/Bridget%20how%20lovely%20NF.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "poster-hanger": {
+                    "description": "Fine art print and poster hanger with magnetic fastening. This magnetic hanger frame holds our prints firmly without damaging them.",
+                    "variants": {
+                        "POSTER-HANGER-20-A4-LAND": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https: //www.dropbox.com/s/c18saxflyffsdn7/Bridget%20how%20lovely%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-30-12x16-LAND": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/c18saxflyffsdn7/Bridget%20how%20lovely%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-40-16x20-LAND": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/c18saxflyffsdn7/Bridget%20how%20lovely%20NF.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,686 @@
+{
+    "product_range_defaults": {
+        "published": true
+    },
+    "product_defaults": {
+        "enabled": false
+    },
+    "products_defaults": {
+        "global-fap": {
+            "enabled": true
+        },
+        "global-cfp": {
+            "enabled": true
+        },
+        "poster-hanger": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false
+    },
+    "variants_defaults": {
+        "GLOBAL-FAP-6x8-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 9.00
+        },
+        "GLOBAL-FAP-A4-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 14.00
+        },
+        "GLOBAL-FAP-A3-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 19.00
+        },
+        "GLOBAL-FAP-12x16-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 19.00
+        },
+        "GLOBAL-FAP-16x20-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 24.00
+        },
+        "GLOBAL-FAP-20x28-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 35.00
+        },
+        "GLOBAL-FAP-28x40-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 42.00
+        },
+        "GLOBAL-CFP-6x8-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 29.00
+        },
+        "GLOBAL-CFP-A4-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 35.00
+        },
+        "GLOBAL-CFP-A3-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 49.00
+        },
+        "GLOBAL-CFP-12x16-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 49.00
+        },
+        "GLOBAL-CFP-16x20-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 58.00
+        },
+        "GLOBAL-CFP-20x28-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 73.00
+        },
+        "GLOBAL-CFP-28x40-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 92.00
+        },
+        "POSTER-HANGER-20-A4-PORT": {
+            "enabled": true,
+            "retail_price": 27.00
+        },
+        "POSTER-HANGER-30-12x16-PORT": {
+            "enabled": true,
+            "retail_price": 33.00
+        },
+        "POSTER-HANGER-40-16x20-PORT": {
+            "enabled": true,
+            "retail_price": 41.00
+        },
+        "POSTER-HANGER-50-20x28-PORT": {
+            "enabled": true,
+            "retail_price": 54.00
+        }
+    },
+    "product_ranges": [
+        {
+            "title": "Personalised Name Planets print in stone ",
+            "user_image_url": "https://www.dropbox.com/s/ey2iugjqz94xk6w/Rudy%20Planets%20stone%20NF.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": "All our artwork is printed on beautiful fine art paper using the highest quality Giclée printing process and archival inks. All designs are created by Kid of the Village.",
+                    "variants": {
+                        "GLOBAL-FAP-6x8-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ey2iugjqz94xk6w/Rudy%20Planets%20stone%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ey2iugjqz94xk6w/Rudy%20Planets%20stone%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ey2iugjqz94xk6w/Rudy%20Planets%20stone%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ey2iugjqz94xk6w/Rudy%20Planets%20stone%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-16x20-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ey2iugjqz94xk6w/Rudy%20Planets%20stone%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ey2iugjqz94xk6w/Rudy%20Planets%20stone%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ey2iugjqz94xk6w/Rudy%20Planets%20stone%20NF.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "All our artwork is printed on beautiful fine art paper using the highest quality Giclée printing process and archival inks. All designs are created by Kid of the Village. Frames Our frames are made using high quality wood with a satin finish and handmade for your order, ready to hang. The frame add adds 2cm to each side of the print.",
+                    "variants": {
+                        "GLOBAL-CFP-6x8-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ey2iugjqz94xk6w/Rudy%20Planets%20stone%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ey2iugjqz94xk6w/Rudy%20Planets%20stone%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ey2iugjqz94xk6w/Rudy%20Planets%20stone%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ey2iugjqz94xk6w/Rudy%20Planets%20stone%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-16x20-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ey2iugjqz94xk6w/Rudy%20Planets%20stone%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ey2iugjqz94xk6w/Rudy%20Planets%20stone%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ey2iugjqz94xk6w/Rudy%20Planets%20stone%20NF.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "poster-hanger": {
+                    "description": "Fine art print and poster hanger with magnetic fastening. This magnetic hanger frame holds our prints firmly without damaging them.",
+                    "variants": {
+                        "POSTER-HANGER-20-A4-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ey2iugjqz94xk6w/Rudy%20Planets%20stone%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-30-12x16-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ey2iugjqz94xk6w/Rudy%20Planets%20stone%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-40-16x20-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ey2iugjqz94xk6w/Rudy%20Planets%20stone%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-50-20x28-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ey2iugjqz94xk6w/Rudy%20Planets%20stone%20NF.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Personalised Name Planets print in white",
+            "user_image_url": "https: //www.dropbox.com/s/ft1bu8jrwc5x3uh/Rudy%20Planets%20white%20NF.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": "All our artwork is printed on beautiful fine art paper using the highest quality Giclée printing process and archival inks. All designs are created by Kid of the Village.",
+                    "variants": {
+                        "GLOBAL-FAP-6x8-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https: //www.dropbox.com/s/ft1bu8jrwc5x3uh/Rudy%20Planets%20white%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ft1bu8jrwc5x3uh/Rudy%20Planets%20white%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ft1bu8jrwc5x3uh/Rudy%20Planets%20white%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ft1bu8jrwc5x3uh/Rudy%20Planets%20white%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-16x20-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ft1bu8jrwc5x3uh/Rudy%20Planets%20white%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ft1bu8jrwc5x3uh/Rudy%20Planets%20white%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ft1bu8jrwc5x3uh/Rudy%20Planets%20white%20NF.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "All our artwork is printed on beautiful fine art paper using the highest quality Giclée printing process and archival inks. All designs are created by Kid of the Village. Frames Our frames are made using high quality wood with a satin finish and handmade for your order, ready to hang. The frame add adds 2cm to each side of the print. ",
+                    "variants": {
+                        "GLOBAL-CFP-6x8-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https: //www.dropbox.com/s/ft1bu8jrwc5x3uh/Rudy%20Planets%20white%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ft1bu8jrwc5x3uh/Rudy%20Planets%20white%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ft1bu8jrwc5x3uh/Rudy%20Planets%20white%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ft1bu8jrwc5x3uh/Rudy%20Planets%20white%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-16x20-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ft1bu8jrwc5x3uh/Rudy%20Planets%20white%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ft1bu8jrwc5x3uh/Rudy%20Planets%20white%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ft1bu8jrwc5x3uh/Rudy%20Planets%20white%20NF.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "poster-hanger": {
+                    "description": "Fine art print and poster hanger with magnetic fastening. This magnetic hanger frame holds our prints firmly without damaging them.",
+                    "variants": {
+                        "POSTER-HANGER-20-A4-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https: //www.dropbox.com/s/ft1bu8jrwc5x3uh/Rudy%20Planets%20white%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-30-12x16-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ft1bu8jrwc5x3uh/Rudy%20Planets%20white%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-40-16x20-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ft1bu8jrwc5x3uh/Rudy%20Planets%20white%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-50-20x28-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ft1bu8jrwc5x3uh/Rudy%20Planets%20white%20NF.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Personalised Name Planets print in black",
+            "user_image_url": "https: //www.dropbox.com/s/rlbc4qyjow6f2p0/Rudy%20Planets%20black%20NF.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": "All our artwork is printed on beautiful fine art paper using the highest quality Giclée printing process and archival inks. All designs are created by Kid of the Village.",
+                    "variants": {
+                        "GLOBAL-FAP-6x8-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https: //www.dropbox.com/s/rlbc4qyjow6f2p0/Rudy%20Planets%20black%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/rlbc4qyjow6f2p0/Rudy%20Planets%20black%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/rlbc4qyjow6f2p0/Rudy%20Planets%20black%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/rlbc4qyjow6f2p0/Rudy%20Planets%20black%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-16x20-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/rlbc4qyjow6f2p0/Rudy%20Planets%20black%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/rlbc4qyjow6f2p0/Rudy%20Planets%20black%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/rlbc4qyjow6f2p0/Rudy%20Planets%20black%20NF.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "All our artwork is printed on beautiful fine art paper using the highest quality Giclée printing process and archival inks. All designs are created by Kid of the Village. Frames Our frames are made using high quality wood with a satin finish and handmade for your order, ready to hang. The frame add adds 2cm to each side of the print. ",
+                    "variants": {
+                        "GLOBAL-CFP-6x8-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https: //www.dropbox.com/s/rlbc4qyjow6f2p0/Rudy%20Planets%20black%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/rlbc4qyjow6f2p0/Rudy%20Planets%20black%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/rlbc4qyjow6f2p0/Rudy%20Planets%20black%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/rlbc4qyjow6f2p0/Rudy%20Planets%20black%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-16x20-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/rlbc4qyjow6f2p0/Rudy%20Planets%20black%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/rlbc4qyjow6f2p0/Rudy%20Planets%20black%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/rlbc4qyjow6f2p0/Rudy%20Planets%20black%20NF.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "poster-hanger": {
+                    "description": "Fine art print and poster hanger with magnetic fastening. This magnetic hanger frame holds our prints firmly without damaging them.",
+                    "variants": {
+                        "POSTER-HANGER-20-A4-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https: //www.dropbox.com/s/rlbc4qyjow6f2p0/Rudy%20Planets%20black%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-30-12x16-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/rlbc4qyjow6f2p0/Rudy%20Planets%20black%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-40-16x20-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/rlbc4qyjow6f2p0/Rudy%20Planets%20black%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-50-20x28-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/rlbc4qyjow6f2p0/Rudy%20Planets%20black%20NF.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Personalised Woodland print in stone",
+            "user_image_url": "https: //www.dropbox.com/s/x0oaidkn3hn791f/B%20woodland%20initial%20NF.jpg?dl=0",
+            "products": {
+                "global-fap": {
+                    "description": "All our artwork is printed on beautiful fine art paper using the highest quality Giclée printing process and archival inks. All designs are created by Kid of the Village.",
+                    "variants": {
+                        "GLOBAL-FAP-6x8-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https: //www.dropbox.com/s/x0oaidkn3hn791f/B%20woodland%20initial%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/x0oaidkn3hn791f/B%20woodland%20initial%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/x0oaidkn3hn791f/B%20woodland%20initial%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/x0oaidkn3hn791f/B%20woodland%20initial%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-16x20-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/x0oaidkn3hn791f/B%20woodland%20initial%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/x0oaidkn3hn791f/B%20woodland%20initial%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/x0oaidkn3hn791f/B%20woodland%20initial%20NF.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "All our artwork is printed on beautiful fine art paper using the highest quality Giclée printing process and archival inks. All designs are created by Kid of the Village. Frames Our frames are made using high quality wood with a satin finish and handmade for your order, ready to hang. The frame add adds 2cm to each side of the print. ",
+                    "variants": {
+                        "GLOBAL-CFP-6x8-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https: //www.dropbox.com/s/x0oaidkn3hn791f/B%20woodland%20initial%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/x0oaidkn3hn791f/B%20woodland%20initial%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/x0oaidkn3hn791f/B%20woodland%20initial%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-12x16-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/x0oaidkn3hn791f/B%20woodland%20initial%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-16x20-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/x0oaidkn3hn791f/B%20woodland%20initial%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-20x28-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/x0oaidkn3hn791f/B%20woodland%20initial%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-28x40-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/x0oaidkn3hn791f/B%20woodland%20initial%20NF.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "poster-hanger": {
+                    "description": "Fine art print and poster hanger with magnetic fastening. This magnetic hanger frame holds our prints firmly without damaging them.",
+                    "variants": {
+                        "POSTER-HANGER-20-A4-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https: //www.dropbox.com/s/x0oaidkn3hn791f/B%20woodland%20initial%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-30-12x16-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/x0oaidkn3hn791f/B%20woodland%20initial%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-40-16x20-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/x0oaidkn3hn791f/B%20woodland%20initial%20NF.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-50-20x28-PORT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/x0oaidkn3hn791f/B%20woodland%20initial%20NF.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}

@@ -24,7 +24,7 @@
             "enabled": true,
             "retail_price": 9.00
         },
-        "GLOBAL-FAP-20X20-SQUARE": {
+        "GLOBAL-FAP-20x20-SQUARE": {
             "enabled": true,
             "retail_price": 14.00
         },
@@ -32,7 +32,7 @@
             "enabled": true,
             "retail_price": 29.00
         },
-        "GLOBAL-CFP-20X20-SQUARE": {
+        "GLOBAL-CFP-20x20-SQUARE": {
             "enabled": true,
             "retail_price": 35.00
         },
@@ -40,7 +40,7 @@
             "enabled": true,
             "retail_price": 27.00
         },
-        "POSTER-HANGER-50-20X20-SQUARE": {
+        "POSTER-HANGER-50-20x20-SQUARE": {
             "enabled": true,
             "retail_price": 33.00
         }
@@ -53,7 +53,7 @@
                 "global-fap": {
                     "description": "All our artwork is printed on beautiful fine art paper using the highest quality Giclée printing process and archival inks. All designs are created by Kid of the Village.",
                     "variants": {
-                        "GLOBAL-FAP-20X20-SQUARE": {
+                        "GLOBAL-FAP-20x20-SQUARE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "https://www.dropbox.com/s/lg8cdg481wlwqlp/R%20Under%20the%20sea%20initial.jpg?dl=1"
@@ -72,7 +72,7 @@
                 "global-cfp": {
                     "description": "All our artwork is printed on beautiful fine art paper using the highest quality Giclée printing process and archival inks. All designs are created by Kid of the Village. Frames Our frames are made using high quality wood with a satin finish and handmade for your order, ready to hang. The frame add adds 2cm to each side of the print. ",
                     "variants": {
-                        "GLOBAL-CFP-20X20-SQUARE": {
+                        "GLOBAL-CFP-20x20-SQUARE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "https://www.dropbox.com/s/lg8cdg481wlwqlp/R%20Under%20the%20sea%20initial.jpg?dl=1"
@@ -98,7 +98,7 @@
                                 }
                             }
                         },
-                        "POSTER-HANGER-50-20X20-SQUARE": {
+                        "POSTER-HANGER-50-20x20-SQUARE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "https://www.dropbox.com/s/lg8cdg481wlwqlp/R%20Under%20the%20sea%20initial.jpg?dl=1"
@@ -116,7 +116,7 @@
                 "global-fap": {
                     "description": "All our artwork is printed on beautiful fine art paper using the highest quality Giclée printing process and archival inks. All designs are created by Kid of the Village.",
                     "variants": {
-                        "GLOBAL-FAP-20X20-SQUARE": {
+                        "GLOBAL-FAP-20x20-SQUARE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "https://www.dropbox.com/s/v6nuvos17tpyf22/Dinosaur%20initial.jpg?dl=1"
@@ -135,7 +135,7 @@
                 "global-cfp": {
                     "description": "All our artwork is printed on beautiful fine art paper using the highest quality Giclée printing process and archival inks. All designs are created by Kid of the Village. Frames Our frames are made using high quality wood with a satin finish and handmade for your order, ready to hang. The frame add adds 2cm to each side of the print. ",
                     "variants": {
-                        "GLOBAL-CFP-20X20-SQUARE": {
+                        "GLOBAL-CFP-20x20-SQUARE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "https://www.dropbox.com/s/v6nuvos17tpyf22/Dinosaur%20initial.jpg?dl=1"
@@ -161,7 +161,7 @@
                                 }
                             }
                         },
-                        "POSTER-HANGER-50-20X20-SQUARE": {
+                        "POSTER-HANGER-50-20x20-SQUARE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "https://www.dropbox.com/s/v6nuvos17tpyf22/Dinosaur%20initial.jpg?dl=1"
@@ -179,7 +179,7 @@
                 "global-fap": {
                     "description": "All our artwork is printed on beautiful fine art paper using the highest quality Giclée printing process and archival inks. All designs are created by Kid of the Village.",
                     "variants": {
-                        "GLOBAL-FAP-20X20-SQUARE": {
+                        "GLOBAL-FAP-20x20-SQUARE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "https://www.dropbox.com/s/dvqmg0ah9xl3ws5/Dinosaur%20initial%20stone.jpg?dl=1"
@@ -198,7 +198,7 @@
                 "global-cfp": {
                     "description": "All our artwork is printed on beautiful fine art paper using the highest quality Giclée printing process and archival inks. All designs are created by Kid of the Village. Frames Our frames are made using high quality wood with a satin finish and handmade for your order, ready to hang. The frame add adds 2cm to each side of the print. ",
                     "variants": {
-                        "GLOBAL-CFP-20X20-SQUARE": {
+                        "GLOBAL-CFP-20x20-SQUARE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "https://www.dropbox.com/s/dvqmg0ah9xl3ws5/Dinosaur%20initial%20stone.jpg?dl=1"
@@ -224,7 +224,7 @@
                                 }
                             }
                         },
-                        "POSTER-HANGER-50-20X20-SQUARE": {
+                        "POSTER-HANGER-50-20x20-SQUARE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "https://www.dropbox.com/s/dvqmg0ah9xl3ws5/Dinosaur%20initial%20stone.jpg?dl=1"
@@ -242,7 +242,7 @@
                 "global-fap": {
                     "description": "All our artwork is printed on beautiful fine art paper using the highest quality Giclée printing process and archival inks. All designs are created by Kid of the Village.",
                     "variants": {
-                        "GLOBAL-FAP-20X20-SQUARE": {
+                        "GLOBAL-FAP-20x20-SQUARE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "https://www.dropbox.com/s/5jkg92t29vseqih/Dinosaur%20initial%20black.jpg?dl=1"
@@ -261,7 +261,7 @@
                 "global-cfp": {
                     "description": "All our artwork is printed on beautiful fine art paper using the highest quality Giclée printing process and archival inks. All designs are created by Kid of the Village. Frames Our frames are made using high quality wood with a satin finish and handmade for your order, ready to hang. The frame add adds 2cm to each side of the print. ",
                     "variants": {
-                        "GLOBAL-CFP-20X20-SQUARE": {
+                        "GLOBAL-CFP-20x20-SQUARE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "https://www.dropbox.com/s/5jkg92t29vseqih/Dinosaur%20initial%20black.jpg?dl=1"
@@ -287,7 +287,7 @@
                                 }
                             }
                         },
-                        "POSTER-HANGER-50-20X20-SQUARE": {
+                        "POSTER-HANGER-50-20x20-SQUARE": {
                             "images": {
                                 "front": {
                                     "user_image_url": "https://www.dropbox.com/s/5jkg92t29vseqih/Dinosaur%20initial%20black.jpg?dl=1"

@@ -76,15 +76,15 @@
             "enabled": true,
             "retail_price": 92.00
         },
-        "POSTER-HANGER-20-A4-LAND": {
+        "POSTER-HANGER-30-A4-LAND": {
             "enabled": true,
             "retail_price": 27.00
         },
-        "POSTER-HANGER-30-12x16-LAND": {
+        "POSTER-HANGER-40-12x16-LAND": {
             "enabled": true,
             "retail_price": 33.00
         },
-        "POSTER-HANGER-40-16x20-LAND": {
+        "POSTER-HANGER-50-16x20-LAND": {
             "enabled": true,
             "retail_price": 41.00
         }
@@ -163,21 +163,21 @@
                 "poster-hanger": {
                     "description": "Fine art print and poster hanger with magnetic fastening. This magnetic hanger frame holds our prints firmly without damaging them.",
                     "variants": {
-                        "POSTER-HANGER-20-A4-LAND": {
+                        "POSTER-HANGER-30-A4-LAND": {
                             "images": {
                                 "front": {
                                     "user_image_url": "https: //www.dropbox.com/s/u03rau99nxr69ll/R%20Planet%20stone%20NF.jpg?dl=0"
                                 }
                             }
                         },
-                        "POSTER-HANGER-30-12x16-LAND": {
+                        "POSTER-HANGER-40-12x16-LAND": {
                             "images": {
                                 "front": {
                                     "user_image_url": "https://www.dropbox.com/s/u03rau99nxr69ll/R%20Planet%20stone%20NF.jpg?dl=0"
                                 }
                             }
                         },
-                        "POSTER-HANGER-40-16x20-LAND": {
+                        "POSTER-HANGER-50-16x20-LAND": {
                             "images": {
                                 "front": {
                                     "user_image_url": "https://www.dropbox.com/s/u03rau99nxr69ll/R%20Planet%20stone%20NF.jpg?dl=0"
@@ -261,21 +261,21 @@
                 "poster-hanger": {
                     "description": "Fine art print and poster hanger with magnetic fastening. This magnetic hanger frame holds our prints firmly without damaging them.",
                     "variants": {
-                        "POSTER-HANGER-20-A4-LAND": {
+                        "POSTER-HANGER-30-A4-LAND": {
                             "images": {
                                 "front": {
                                     "user_image_url": "https: //www.dropbox.com/s/00t5fczbwnpt6h0/R%20Planet%20white%20NF.jpg?dl=0"
                                 }
                             }
                         },
-                        "POSTER-HANGER-30-12x16-LAND": {
+                        "POSTER-HANGER-40-12x16-LAND": {
                             "images": {
                                 "front": {
                                     "user_image_url": "https://www.dropbox.com/s/00t5fczbwnpt6h0/R%20Planet%20white%20NF.jpg?dl=0"
                                 }
                             }
                         },
-                        "POSTER-HANGER-40-16x20-LAND": {
+                        "POSTER-HANGER-50-16x20-LAND": {
                             "images": {
                                 "front": {
                                     "user_image_url": "https://www.dropbox.com/s/00t5fczbwnpt6h0/R%20Planet%20white%20NF.jpg?dl=0"
@@ -359,21 +359,21 @@
                 "poster-hanger": {
                     "description": "Fine art print and poster hanger with magnetic fastening. This magnetic hanger frame holds our prints firmly without damaging them.",
                     "variants": {
-                        "POSTER-HANGER-20-A4-LAND": {
+                        "POSTER-HANGER-30-A4-LAND": {
                             "images": {
                                 "front": {
                                     "user_image_url": "https: //www.dropbox.com/s/ko6f5kzt2y7g2u1/R%20Planet%20black%20NF.jpg?dl=0"
                                 }
                             }
                         },
-                        "POSTER-HANGER-30-12x16-LAND": {
+                        "POSTER-HANGER-40-12x16-LAND": {
                             "images": {
                                 "front": {
                                     "user_image_url": "https://www.dropbox.com/s/ko6f5kzt2y7g2u1/R%20Planet%20black%20NF.jpg?dl=0"
                                 }
                             }
                         },
-                        "POSTER-HANGER-40-16x20-LAND": {
+                        "POSTER-HANGER-50-16x20-LAND": {
                             "images": {
                                 "front": {
                                     "user_image_url": "https://www.dropbox.com/s/ko6f5kzt2y7g2u1/R%20Planet%20black%20NF.jpg?dl=0"
@@ -457,21 +457,21 @@
                 "poster-hanger": {
                     "description": "Fine art print and poster hanger with magnetic fastening. This magnetic hanger frame holds our prints firmly without damaging them.",
                     "variants": {
-                        "POSTER-HANGER-20-A4-LAND": {
+                        "POSTER-HANGER-30-A4-LAND": {
                             "images": {
                                 "front": {
                                     "user_image_url": "https: //www.dropbox.com/s/c18saxflyffsdn7/Bridget%20how%20lovely%20NF.jpg?dl=0"
                                 }
                             }
                         },
-                        "POSTER-HANGER-30-12x16-LAND": {
+                        "POSTER-HANGER-40-12x16-LAND": {
                             "images": {
                                 "front": {
                                     "user_image_url": "https://www.dropbox.com/s/c18saxflyffsdn7/Bridget%20how%20lovely%20NF.jpg?dl=0"
                                 }
                             }
                         },
-                        "POSTER-HANGER-40-16x20-LAND": {
+                        "POSTER-HANGER-50-16x20-LAND": {
                             "images": {
                                 "front": {
                                     "user_image_url": "https://www.dropbox.com/s/c18saxflyffsdn7/Bridget%20how%20lovely%20NF.jpg?dl=0"

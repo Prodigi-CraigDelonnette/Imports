@@ -1,0 +1,743 @@
+{
+    "product_range_defaults": {
+        "published": true
+    },
+    "product_defaults": {
+        "enabled": false
+    },
+    "products_defaults": {
+        "global-fap": {
+            "enabled": true
+        },
+        "global-cfp": {
+            "enabled": true
+        },
+        "poster-hanger": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false
+    },
+    "variants_defaults": {
+        "GLOBAL-FAP-12x12-SQUARE": {
+            "enabled": true,
+            "retail_price": 9.00
+        },
+        "GLOBAL-FAP-20x20-SQUARE": {
+            "enabled": true,
+            "retail_price": 14.00
+        },
+        "GLOBAL-CFP-12x12-SQUARE": {
+            "enabled": true,
+            "retail_price": 29.00
+        },
+        "GLOBAL-CFP-20x20-SQUARE": {
+            "enabled": true,
+            "retail_price": 35.00
+        },
+        "POSTER-HANGER-30-12x12-SQUARE": {
+            "enabled": true,
+            "retail_price": 27.00
+        },
+        "POSTER-HANGER-50-20x20-SQUARE": {
+            "enabled": true,
+            "retail_price": 33.00
+        }
+    },
+    "product_ranges": [
+        {
+            "title": "Shells print ",
+            "user_image_url": "https://www.dropbox.com/s/yd0k7u5mr415r8e/Shells.jpg?dl=1",
+            "products": {
+                "global-fap": {
+                    "description": "<p>All our artwork is printed on beautiful fine art paper using the highest quality Giclée printing process and archival inks.</p><p>All designs are created by Kid of the Village.</p>",
+                    "variants": {
+                        "GLOBAL-FAP-20x20-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/yd0k7u5mr415r8e/Shells.jpg?dl=1"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x12-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/yd0k7u5mr415r8e/Shells.jpg?dl=1"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "<p>All our artwork is printed on beautiful fine art paper using the highest quality Giclée printing process and archival inks.</p><p>All designs are created by Kid of the Village.</p><p><strong>Frames</strong><br />Our frames are made using high quality wood with a satin finish and handmade for your order, ready to hang. The frame add adds 2cm to each side of the print.</p>",
+                    "variants": {
+                        "GLOBAL-CFP-20x20-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/yd0k7u5mr415r8e/Shells.jpg?dl=1"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-12x12-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/yd0k7u5mr415r8e/Shells.jpg?dl=1"
+                                }
+                            }
+                        }
+                    }
+                },
+                "poster-hanger": {
+                    "description": "<p>Fine art print and poster hanger with magnetic fastening.</p><p>This magnetic hanger frame holds our prints firmly without damaging them.</p>",
+                    "variants": {
+                        "POSTER-HANGER-30-12x12-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/yd0k7u5mr415r8e/Shells.jpg?dl=1"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-50-20x20-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/yd0k7u5mr415r8e/Shells.jpg?dl=1"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Floral Dove print in pink",
+            "user_image_url": "https://www.dropbox.com/s/su5efm4dc83ki64/Floral%20Dove%20in%20pink.jpg?dl=1",
+            "products": {
+                "global-fap": {
+                    "description": "<p>All our artwork is printed on beautiful fine art paper using the highest quality Giclée printing process and archival inks.</p><p>All designs are created by Kid of the Village.</p>",
+                    "variants": {
+                        "GLOBAL-FAP-20x20-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/su5efm4dc83ki64/Floral%20Dove%20in%20pink.jpg?dl=1"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x12-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/su5efm4dc83ki64/Floral%20Dove%20in%20pink.jpg?dl=1"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "<p>All our artwork is printed on beautiful fine art paper using the highest quality Giclée printing process and archival inks.</p><p>All designs are created by Kid of the Village.</p><p><strong>Frames</strong><br />Our frames are made using high quality wood with a satin finish and handmade for your order, ready to hang. The frame add adds 2cm to each side of the print.</p>",
+                    "variants": {
+                        "GLOBAL-CFP-20x20-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/su5efm4dc83ki64/Floral%20Dove%20in%20pink.jpg?dl=1"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-12x12-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/su5efm4dc83ki64/Floral%20Dove%20in%20pink.jpg?dl=1"
+                                }
+                            }
+                        }
+                    }
+                },
+                "poster-hanger": {
+                    "description": "<p>Fine art print and poster hanger with magnetic fastening.</p><p>This magnetic hanger frame holds our prints firmly without damaging them.</p>",
+                    "variants": {
+                        "POSTER-HANGER-30-12x12-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/su5efm4dc83ki64/Floral%20Dove%20in%20pink.jpg?dl=1"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-50-20x20-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/su5efm4dc83ki64/Floral%20Dove%20in%20pink.jpg?dl=1"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Floral Dove print in sage",
+            "user_image_url": "https://www.dropbox.com/s/3hc6fiyomhc16an/Floral%20Dove%20in%20age.jpg?dl=1",
+            "products": {
+                "global-fap": {
+                    "description": "<p>All our artwork is printed on beautiful fine art paper using the highest quality Giclée printing process and archival inks.</p><p>All designs are created by Kid of the Village.</p>",
+                    "variants": {
+                        "GLOBAL-FAP-20x20-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/3hc6fiyomhc16an/Floral%20Dove%20in%20age.jpg?dl=1"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x12-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/3hc6fiyomhc16an/Floral%20Dove%20in%20age.jpg?dl=1"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "<p>All our artwork is printed on beautiful fine art paper using the highest quality Giclée printing process and archival inks.</p><p>All designs are created by Kid of the Village.</p><p><strong>Frames</strong><br />Our frames are made using high quality wood with a satin finish and handmade for your order, ready to hang. The frame add adds 2cm to each side of the print.</p>",
+                    "variants": {
+                        "GLOBAL-CFP-20x20-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/3hc6fiyomhc16an/Floral%20Dove%20in%20age.jpg?dl=1"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-12x12-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/3hc6fiyomhc16an/Floral%20Dove%20in%20age.jpg?dl=1"
+                                }
+                            }
+                        }
+                    }
+                },
+                "poster-hanger": {
+                    "description": "<p>Fine art print and poster hanger with magnetic fastening.</p><p>This magnetic hanger frame holds our prints firmly without damaging them.</p>",
+                    "variants": {
+                        "POSTER-HANGER-30-12x12-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/3hc6fiyomhc16an/Floral%20Dove%20in%20age.jpg?dl=1"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-50-20x20-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/3hc6fiyomhc16an/Floral%20Dove%20in%20age.jpg?dl=1"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Pink Apple print ",
+            "user_image_url": "https://www.dropbox.com/s/r9fuuuvx0lc4oc4/Apple%20pink.jpg?dl=1",
+            "products": {
+                "global-fap": {
+                    "description": "<p>All our artwork is printed on beautiful fine art paper using the highest quality Giclée printing process and archival inks.</p><p>All designs are created by Kid of the Village.</p>",
+                    "variants": {
+                        "GLOBAL-FAP-20x20-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/r9fuuuvx0lc4oc4/Apple%20pink.jpg?dl=1"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x12-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/r9fuuuvx0lc4oc4/Apple%20pink.jpg?dl=1"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "<p>All our artwork is printed on beautiful fine art paper using the highest quality Giclée printing process and archival inks.</p><p>All designs are created by Kid of the Village.</p><p><strong>Frames</strong><br />Our frames are made using high quality wood with a satin finish and handmade for your order, ready to hang. The frame add adds 2cm to each side of the print.</p>",
+                    "variants": {
+                        "GLOBAL-CFP-20x20-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/r9fuuuvx0lc4oc4/Apple%20pink.jpg?dl=1"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-12x12-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/r9fuuuvx0lc4oc4/Apple%20pink.jpg?dl=1"
+                                }
+                            }
+                        }
+                    }
+                },
+                "poster-hanger": {
+                    "description": "<p>Fine art print and poster hanger with magnetic fastening.</p><p>This magnetic hanger frame holds our prints firmly without damaging them.</p>",
+                    "variants": {
+                        "POSTER-HANGER-30-12x12-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/r9fuuuvx0lc4oc4/Apple%20pink.jpg?dl=1"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-50-20x20-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/r9fuuuvx0lc4oc4/Apple%20pink.jpg?dl=1"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Mushroom print in pink",
+            "user_image_url": "https://www.dropbox.com/s/vozznuibv0q1g7b/Mushroom%20pink.jpg?dl=1",
+            "products": {
+                "global-fap": {
+                    "description": "<p>All our artwork is printed on beautiful fine art paper using the highest quality Giclée printing process and archival inks.</p><p>All designs are created by Kid of the Village.</p>",
+                    "variants": {
+                        "GLOBAL-FAP-20x20-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/vozznuibv0q1g7b/Mushroom%20pink.jpg?dl=1"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x12-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/vozznuibv0q1g7b/Mushroom%20pink.jpg?dl=1"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "<p>All our artwork is printed on beautiful fine art paper using the highest quality Giclée printing process and archival inks.</p><p>All designs are created by Kid of the Village.</p><p><strong>Frames</strong><br />Our frames are made using high quality wood with a satin finish and handmade for your order, ready to hang. The frame add adds 2cm to each side of the print.</p>",
+                    "variants": {
+                        "GLOBAL-CFP-20x20-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/vozznuibv0q1g7b/Mushroom%20pink.jpg?dl=1"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-12x12-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/vozznuibv0q1g7b/Mushroom%20pink.jpg?dl=1"
+                                }
+                            }
+                        }
+                    }
+                },
+                "poster-hanger": {
+                    "description": "<p>Fine art print and poster hanger with magnetic fastening.</p><p>This magnetic hanger frame holds our prints firmly without damaging them.</p>",
+                    "variants": {
+                        "POSTER-HANGER-30-12x12-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/vozznuibv0q1g7b/Mushroom%20pink.jpg?dl=1"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-50-20x20-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/vozznuibv0q1g7b/Mushroom%20pink.jpg?dl=1"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Apple print ",
+            "user_image_url": "https://www.dropbox.com/s/5kx309uxzoe82yn/Apple%20green%20red.jpg?dl=1",
+            "products": {
+                "global-fap": {
+                    "description": "<p>All our artwork is printed on beautiful fine art paper using the highest quality Giclée printing process and archival inks.</p><p>All designs are created by Kid of the Village.</p>",
+                    "variants": {
+                        "GLOBAL-FAP-20x20-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/5kx309uxzoe82yn/Apple%20green%20red.jpg?dl=1"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x12-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/5kx309uxzoe82yn/Apple%20green%20red.jpg?dl=1"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "<p>All our artwork is printed on beautiful fine art paper using the highest quality Giclée printing process and archival inks.</p><p>All designs are created by Kid of the Village.</p><p><strong>Frames</strong><br />Our frames are made using high quality wood with a satin finish and handmade for your order, ready to hang. The frame add adds 2cm to each side of the print.</p>",
+                    "variants": {
+                        "GLOBAL-CFP-20x20-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/5kx309uxzoe82yn/Apple%20green%20red.jpg?dl=1"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-12x12-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/5kx309uxzoe82yn/Apple%20green%20red.jpg?dl=1"
+                                }
+                            }
+                        }
+                    }
+                },
+                "poster-hanger": {
+                    "description": "<p>Fine art print and poster hanger with magnetic fastening.</p><p>This magnetic hanger frame holds our prints firmly without damaging them.</p>",
+                    "variants": {
+                        "POSTER-HANGER-30-12x12-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/5kx309uxzoe82yn/Apple%20green%20red.jpg?dl=1"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-50-20x20-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/5kx309uxzoe82yn/Apple%20green%20red.jpg?dl=1"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Mushroom print",
+            "user_image_url": "https://www.dropbox.com/s/79fbg82f2r00jd8/Mushroom.jpg?dl=1",
+            "products": {
+                "global-fap": {
+                    "description": "<p>All our artwork is printed on beautiful fine art paper using the highest quality Giclée printing process and archival inks.</p><p>All designs are created by Kid of the Village.</p>",
+                    "variants": {
+                        "GLOBAL-FAP-20x20-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/79fbg82f2r00jd8/Mushroom.jpg?dl=1"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x12-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/79fbg82f2r00jd8/Mushroom.jpg?dl=1"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "<p>All our artwork is printed on beautiful fine art paper using the highest quality Giclée printing process and archival inks.</p><p>All designs are created by Kid of the Village.</p><p><strong>Frames</strong><br />Our frames are made using high quality wood with a satin finish and handmade for your order, ready to hang. The frame add adds 2cm to each side of the print.</p>",
+                    "variants": {
+                        "GLOBAL-CFP-20x20-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/79fbg82f2r00jd8/Mushroom.jpg?dl=1"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-12x12-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/79fbg82f2r00jd8/Mushroom.jpg?dl=1"
+                                }
+                            }
+                        }
+                    }
+                },
+                "poster-hanger": {
+                    "description": "<p>Fine art print and poster hanger with magnetic fastening.</p><p>This magnetic hanger frame holds our prints firmly without damaging them.</p>",
+                    "variants": {
+                        "POSTER-HANGER-30-12x12-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/79fbg82f2r00jd8/Mushroom.jpg?dl=1"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-50-20x20-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/79fbg82f2r00jd8/Mushroom.jpg?dl=1"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Woodland Life print ",
+            "user_image_url": "https://www.dropbox.com/s/ewymwf6adbqc4q3/Woodland%20Life.jpg?dl=1",
+            "products": {
+                "global-fap": {
+                    "description": "<p>All our artwork is printed on beautiful fine art paper using the highest quality Giclée printing process and archival inks.</p><p>All designs are created by Kid of the Village.</p>",
+                    "variants": {
+                        "GLOBAL-FAP-20x20-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ewymwf6adbqc4q3/Woodland%20Life.jpg?dl=1"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x12-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ewymwf6adbqc4q3/Woodland%20Life.jpg?dl=1"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "<p>All our artwork is printed on beautiful fine art paper using the highest quality Giclée printing process and archival inks.</p><p>All designs are created by Kid of the Village.</p><p><strong>Frames</strong><br />Our frames are made using high quality wood with a satin finish and handmade for your order, ready to hang. The frame add adds 2cm to each side of the print.</p>",
+                    "variants": {
+                        "GLOBAL-CFP-20x20-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ewymwf6adbqc4q3/Woodland%20Life.jpg?dl=1"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-12x12-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ewymwf6adbqc4q3/Woodland%20Life.jpg?dl=1"
+                                }
+                            }
+                        }
+                    }
+                },
+                "poster-hanger": {
+                    "description": "<p>Fine art print and poster hanger with magnetic fastening.</p><p>This magnetic hanger frame holds our prints firmly without damaging them.</p>",
+                    "variants": {
+                        "POSTER-HANGER-30-12x12-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ewymwf6adbqc4q3/Woodland%20Life.jpg?dl=1"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-50-20x20-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ewymwf6adbqc4q3/Woodland%20Life.jpg?dl=1"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Love and Kindness print",
+            "user_image_url": "https://www.dropbox.com/s/2t2x9s3v6f38tye/love%20and%20kindness.jpg?dl=1",
+            "products": {
+                "global-fap": {
+                    "description": "<p>All our artwork is printed on beautiful fine art paper using the highest quality Giclée printing process and archival inks.</p><p>All designs are created by Kid of the Village.</p>",
+                    "variants": {
+                        "GLOBAL-FAP-20x20-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/2t2x9s3v6f38tye/love%20and%20kindness.jpg?dl=1"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x12-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/2t2x9s3v6f38tye/love%20and%20kindness.jpg?dl=1"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "<p>All our artwork is printed on beautiful fine art paper using the highest quality Giclée printing process and archival inks.</p><p>All designs are created by Kid of the Village.</p><p><strong>Frames</strong><br />Our frames are made using high quality wood with a satin finish and handmade for your order, ready to hang. The frame add adds 2cm to each side of the print.</p>",
+                    "variants": {
+                        "GLOBAL-CFP-20x20-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/2t2x9s3v6f38tye/love%20and%20kindness.jpg?dl=1"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-12x12-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/2t2x9s3v6f38tye/love%20and%20kindness.jpg?dl=1"
+                                }
+                            }
+                        }
+                    }
+                },
+                "poster-hanger": {
+                    "description": "<p>Fine art print and poster hanger with magnetic fastening.</p><p>This magnetic hanger frame holds our prints firmly without damaging them.</p>",
+                    "variants": {
+                        "POSTER-HANGER-30-12x12-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/2t2x9s3v6f38tye/love%20and%20kindness.jpg?dl=1"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-50-20x20-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/2t2x9s3v6f38tye/love%20and%20kindness.jpg?dl=1"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Growing love flower print ",
+            "user_image_url": "https://www.dropbox.com/s/a94imnv2rl76ozz/Flowers.jpg?dl=1",
+            "products": {
+                "global-fap": {
+                    "description": "<p>All our artwork is printed on beautiful fine art paper using the highest quality Giclée printing process and archival inks.</p><p>All designs are created by Kid of the Village.</p>",
+                    "variants": {
+                        "GLOBAL-FAP-20x20-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/a94imnv2rl76ozz/Flowers.jpg?dl=1"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x12-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/a94imnv2rl76ozz/Flowers.jpg?dl=1"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "<p>All our artwork is printed on beautiful fine art paper using the highest quality Giclée printing process and archival inks.</p><p>All designs are created by Kid of the Village.</p><p><strong>Frames</strong><br />Our frames are made using high quality wood with a satin finish and handmade for your order, ready to hang. The frame add adds 2cm to each side of the print.</p>",
+                    "variants": {
+                        "GLOBAL-CFP-20x20-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/a94imnv2rl76ozz/Flowers.jpg?dl=1"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-12x12-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/a94imnv2rl76ozz/Flowers.jpg?dl=1"
+                                }
+                            }
+                        }
+                    }
+                },
+                "poster-hanger": {
+                    "description": "<p>Fine art print and poster hanger with magnetic fastening.</p><p>This magnetic hanger frame holds our prints firmly without damaging them.</p>",
+                    "variants": {
+                        "POSTER-HANGER-30-12x12-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/a94imnv2rl76ozz/Flowers.jpg?dl=1"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-50-20x20-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/a94imnv2rl76ozz/Flowers.jpg?dl=1"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Seasons print ",
+            "user_image_url": "https://www.dropbox.com/s/ag9hfxp6pof6gkc/Seasons.jpg?dl=1",
+            "products": {
+                "global-fap": {
+                    "description": "<p>All our artwork is printed on beautiful fine art paper using the highest quality Giclée printing process and archival inks.</p><p>All designs are created by Kid of the Village.</p>",
+                    "variants": {
+                        "GLOBAL-FAP-20x20-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ag9hfxp6pof6gkc/Seasons.jpg?dl=1"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x12-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ag9hfxp6pof6gkc/Seasons.jpg?dl=1"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-cfp": {
+                    "description": "<p>All our artwork is printed on beautiful fine art paper using the highest quality Giclée printing process and archival inks.</p><p>All designs are created by Kid of the Village.</p><p><strong>Frames</strong><br />Our frames are made using high quality wood with a satin finish and handmade for your order, ready to hang. The frame add adds 2cm to each side of the print.</p>",
+                    "variants": {
+                        "GLOBAL-CFP-20x20-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ag9hfxp6pof6gkc/Seasons.jpg?dl=1"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-12x12-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ag9hfxp6pof6gkc/Seasons.jpg?dl=1"
+                                }
+                            }
+                        }
+                    }
+                },
+                "poster-hanger": {
+                    "description": "<p>Fine art print and poster hanger with magnetic fastening.</p><p>This magnetic hanger frame holds our prints firmly without damaging them.</p>",
+                    "variants": {
+                        "POSTER-HANGER-30-12x12-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ag9hfxp6pof6gkc/Seasons.jpg?dl=1"
+                                }
+                            }
+                        },
+                        "POSTER-HANGER-50-20x20-SQUARE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/ag9hfxp6pof6gkc/Seasons.jpg?dl=1"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}

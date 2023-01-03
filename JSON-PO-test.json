@@ -1,0 +1,45 @@
+{
+    "product_range_defaults": {
+        "published": true
+    },
+    "product_defaults": {
+        "enabled": false
+    },
+    "products_defaults": {
+        "global-fap": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false
+    },
+    "variants_defaults": {
+        "GLOBAL-FAP-A3-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 19.90
+        },
+        "GLOBAL-FAP-A2-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 29.90
+        },
+        "GLOBAL-FAP-A1-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 49.90
+        },
+        "GLOBAL-FAP-A0-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 69.90
+        }
+    },
+    "product_ranges": [
+        {
+            "title": "Fire by Sofia Doudine",
+            "user_image_url": "https://drive.google.com/uc?id=1N7aQ_IrH8E5O8u_w6xhf3NGj-QPN7vDg&export=download",
+            "products": {
+                "global-fap": {
+                    "description": " "
+                }
+            }
+        }
+    ]
+}

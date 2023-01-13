@@ -1,0 +1,620 @@
+{
+    "product_range_defaults": {
+        "published": true
+    },
+    "product_defaults": {
+        "enabled": false
+    },
+    "products_defaults": {
+        "global-fap": {
+            "enabled": true
+        },
+        "global-cfpm": {
+            "enabled": true
+        },
+        "global-cfp": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false
+    },
+    "variants_defaults": {
+        "GLOBAL-FAP-8x12-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 32.92
+        },
+        "GLOBAL-FAP-12x16-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 34.85
+        },
+        "GLOBAL-FAP-18x24-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 40.17
+        },
+        "GLOBAL-FAP-20x28-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 43.08
+        },
+        "GLOBAL-FAP-24x36-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 50.34
+        },
+        "GLOBAL-FAP-28x40-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 55.18
+        },
+        "GLOBAL-CFPM-8x12-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 61.20,
+            "images": {
+                "front": {
+                    "image_arguments": {
+                        "scale": "0.8"
+                    }
+                }
+            }
+        },
+        "GLOBAL-CFPM-12x16-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 70.88,
+            "images": {
+                "front": {
+                    "image_arguments": {
+                        "scale": "0.96"
+                    }
+                }
+            }
+        },
+        "GLOBAL-CFPM-18x24-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 84.44,
+            "images": {
+                "front": {
+                    "image_arguments": {
+                        "scale": "1.0"
+                    }
+                }
+            }
+        },
+        "GLOBAL-CFPM-20x28-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 90.24,
+            "images": {
+                "front": {
+                    "image_arguments": {
+                        "scale": "0.95"
+                    }
+                }
+            }
+        },
+        "GLOBAL-CFPM-24x36-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 111.54,
+            "images": {
+                "front": {
+                    "image_arguments": {
+                        "scale": "0.9"
+                    }
+                }
+            }
+        },
+        "GLOBAL-CFPM-28x40-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 121.22,
+            "images": {
+                "front": {
+                    "image_arguments": {
+                        "scale": "0.96"
+                    }
+                }
+            }
+        },
+        "GLOBAL-CFP-8x12-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 58.30
+        },
+        "GLOBAL-CFP-12x16-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 68.95
+        },
+        "GLOBAL-CFP-18x24-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 80.56
+        },
+        "GLOBAL-CFP-20x28-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 87.34
+        },
+        "GLOBAL-CFP-24x36-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 103.80
+        },
+        "GLOBAL-CFP-28x40-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 111.54
+        }
+    },
+    "product_ranges": [
+        {
+            "title": "All roads lead to Belize map",
+            "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Belize_CAm_Central-America_Americas_landscape_cde8efb5889574c3ff21739323b35462.svg.png",
+            "products": {
+                "global-fap": {
+                    "description": "The quickest route to Belize from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Americas,CentralAmerica,country_BZ,bounds_CAm<br>Product ref: cde8efb588<br>Country code: BZ<br>Destination city: Belmopan</div>"
+                },
+                "global-cfpm": {
+                    "description": "The quickest route to Belize from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Americas,CentralAmerica,country_BZ,bounds_CAm<br>Product ref: cde8efb588<br>Country code: BZ<br>Destination city: Belmopan</div>"
+                },
+                "global-cfp": {
+                    "description": "The quickest route to Belize from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Americas,CentralAmerica,country_BZ,bounds_CAm<br>Product ref: cde8efb588<br>Country code: BZ<br>Destination city: Belmopan</div>"
+                }
+            }
+        },
+        {
+            "title": "All roads lead to Cambodia map",
+            "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Cambodia_SEAs_Asia_South-Eastern-Asia_landscape_6e0a91ef4fad0d93a5153e98a824f91e.svg.png",
+            "products": {
+                "global-fap": {
+                    "description": "The quickest route to Cambodia from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Asia,South-EasternAsia,country_KH,bounds_SEAs<br>Product ref: 6e0a91ef4f<br>Country code: KH<br>Destination city: Phnom Penh</div>"
+                },
+                "global-cfpm": {
+                    "description": "The quickest route to Cambodia from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Asia,South-EasternAsia,country_KH,bounds_SEAs<br>Product ref: 6e0a91ef4f<br>Country code: KH<br>Destination city: Phnom Penh</div>"
+                },
+                "global-cfp": {
+                    "description": "The quickest route to Cambodia from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Asia,South-EasternAsia,country_KH,bounds_SEAs<br>Product ref: 6e0a91ef4f<br>Country code: KH<br>Destination city: Phnom Penh</div>"
+                }
+            }
+        },
+        {
+            "title": "All roads lead to Costa Rica map",
+            "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Costa%20Rica_CAm_Central-America_Americas_landscape_5a827c74dd3e93bc707a670480d565b0.svg.png",
+            "products": {
+                "global-fap": {
+                    "description": "The quickest route to Costa Rica from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Americas,CentralAmerica,country_CR,bounds_CAm<br>Product ref: 5a827c74dd<br>Country code: CR<br>Destination city: San José</div>"
+                },
+                "global-cfpm": {
+                    "description": "The quickest route to Costa Rica from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Americas,CentralAmerica,country_CR,bounds_CAm<br>Product ref: 5a827c74dd<br>Country code: CR<br>Destination city: San José</div>"
+                },
+                "global-cfp": {
+                    "description": "The quickest route to Costa Rica from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Americas,CentralAmerica,country_CR,bounds_CAm<br>Product ref: 5a827c74dd<br>Country code: CR<br>Destination city: San José</div>"
+                }
+            }
+        },
+        {
+            "title": "All roads lead to El Salvador map",
+            "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/El%20Salvador_CAm_Central-America_Americas_landscape_6cbc93dc8aa8cc75f2b82ed4f5c5332c.svg.png",
+            "products": {
+                "global-fap": {
+                    "description": "The quickest route to El Salvador from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Americas,CentralAmerica,country_SV,bounds_CAm<br>Product ref: 6cbc93dc8a<br>Country code: SV<br>Destination city: San Salvador</div>"
+                },
+                "global-cfpm": {
+                    "description": "The quickest route to El Salvador from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Americas,CentralAmerica,country_SV,bounds_CAm<br>Product ref: 6cbc93dc8a<br>Country code: SV<br>Destination city: San Salvador</div>"
+                },
+                "global-cfp": {
+                    "description": "The quickest route to El Salvador from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Americas,CentralAmerica,country_SV,bounds_CAm<br>Product ref: 6cbc93dc8a<br>Country code: SV<br>Destination city: San Salvador</div>"
+                }
+            }
+        },
+        {
+            "title": "All roads lead to Guatemala map",
+            "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Guatemala_CAm_Central-America_Americas_landscape_95b7c2728fbc84ab8f77359b0fb57f22.svg.png",
+            "products": {
+                "global-fap": {
+                    "description": "The quickest route to Guatemala from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Americas,CentralAmerica,country_GT,bounds_CAm<br>Product ref: 95b7c2728f<br>Country code: GT<br>Destination city: Guatemala City</div>"
+                },
+                "global-cfpm": {
+                    "description": "The quickest route to Guatemala from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Americas,CentralAmerica,country_GT,bounds_CAm<br>Product ref: 95b7c2728f<br>Country code: GT<br>Destination city: Guatemala City</div>"
+                },
+                "global-cfp": {
+                    "description": "The quickest route to Guatemala from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Americas,CentralAmerica,country_GT,bounds_CAm<br>Product ref: 95b7c2728f<br>Country code: GT<br>Destination city: Guatemala City</div>"
+                }
+            }
+        },
+        {
+            "title": "All roads lead to Honduras map",
+            "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Honduras_CAm_Central-America_Americas_landscape_f359eae36e2dd6419c14b45557301413.svg.png",
+            "products": {
+                "global-fap": {
+                    "description": "The quickest route to Honduras from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Americas,CentralAmerica,country_HN,bounds_CAm<br>Product ref: f359eae36e<br>Country code: HN<br>Destination city: Tegucigalpa</div>"
+                },
+                "global-cfpm": {
+                    "description": "The quickest route to Honduras from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Americas,CentralAmerica,country_HN,bounds_CAm<br>Product ref: f359eae36e<br>Country code: HN<br>Destination city: Tegucigalpa</div>"
+                },
+                "global-cfp": {
+                    "description": "The quickest route to Honduras from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Americas,CentralAmerica,country_HN,bounds_CAm<br>Product ref: f359eae36e<br>Country code: HN<br>Destination city: Tegucigalpa</div>"
+                }
+            }
+        },
+        {
+            "title": "All roads lead to Laos map",
+            "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Laos_SEAs_Asia_South-Eastern-Asia_landscape_b5e0e5e9afd22ea7248abf9c3bb5d532.svg.png",
+            "products": {
+                "global-fap": {
+                    "description": "The quickest route to Laos from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Asia,South-EasternAsia,country_LA,bounds_SEAs<br>Product ref: b5e0e5e9af<br>Country code: LA<br>Destination city: Vientiane</div>"
+                },
+                "global-cfpm": {
+                    "description": "The quickest route to Laos from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Asia,South-EasternAsia,country_LA,bounds_SEAs<br>Product ref: b5e0e5e9af<br>Country code: LA<br>Destination city: Vientiane</div>"
+                },
+                "global-cfp": {
+                    "description": "The quickest route to Laos from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Asia,South-EasternAsia,country_LA,bounds_SEAs<br>Product ref: b5e0e5e9af<br>Country code: LA<br>Destination city: Vientiane</div>"
+                }
+            }
+        },
+        {
+            "title": "All roads lead to Malaysia map",
+            "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Malaysia_SEAs_Asia_South-Eastern-Asia_landscape_07bcea4d78af1e60aa027010f707aa87.svg.png",
+            "products": {
+                "global-fap": {
+                    "description": "The quickest route to Malaysia from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Asia,South-EasternAsia,country_MY,bounds_SEAs<br>Product ref: 07bcea4d78<br>Country code: MY<br>Destination city: Kuala Lumpur</div>"
+                },
+                "global-cfpm": {
+                    "description": "The quickest route to Malaysia from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Asia,South-EasternAsia,country_MY,bounds_SEAs<br>Product ref: 07bcea4d78<br>Country code: MY<br>Destination city: Kuala Lumpur</div>"
+                },
+                "global-cfp": {
+                    "description": "The quickest route to Malaysia from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Asia,South-EasternAsia,country_MY,bounds_SEAs<br>Product ref: 07bcea4d78<br>Country code: MY<br>Destination city: Kuala Lumpur</div>"
+                }
+            }
+        },
+        {
+            "title": "All roads lead to Mexico map",
+            "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Mexico_CAm_Central-America_Americas_landscape_54b85b9f99de42bf238d9f7d76a2ac87.svg.png",
+            "products": {
+                "global-fap": {
+                    "description": "The quickest route to Mexico from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Americas,CentralAmerica,country_MX,bounds_CAm<br>Product ref: 54b85b9f99<br>Country code: MX<br>Destination city: Mexico City</div>"
+                },
+                "global-cfpm": {
+                    "description": "The quickest route to Mexico from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Americas,CentralAmerica,country_MX,bounds_CAm<br>Product ref: 54b85b9f99<br>Country code: MX<br>Destination city: Mexico City</div>"
+                },
+                "global-cfp": {
+                    "description": "The quickest route to Mexico from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Americas,CentralAmerica,country_MX,bounds_CAm<br>Product ref: 54b85b9f99<br>Country code: MX<br>Destination city: Mexico City</div>"
+                }
+            }
+        },
+        {
+            "title": "All roads lead to Myanmar map",
+            "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Myanmar_SEAs_Asia_South-Eastern-Asia_landscape_4e1e296bbc0f92592d89b177edca274f.svg.png",
+            "products": {
+                "global-fap": {
+                    "description": "The quickest route to Myanmar from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Asia,South-EasternAsia,country_MM,bounds_SEAs<br>Product ref: 4e1e296bbc<br>Country code: MM<br>Destination city: Nay Pyi Taw</div>"
+                },
+                "global-cfpm": {
+                    "description": "The quickest route to Myanmar from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Asia,South-EasternAsia,country_MM,bounds_SEAs<br>Product ref: 4e1e296bbc<br>Country code: MM<br>Destination city: Nay Pyi Taw</div>"
+                },
+                "global-cfp": {
+                    "description": "The quickest route to Myanmar from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Asia,South-EasternAsia,country_MM,bounds_SEAs<br>Product ref: 4e1e296bbc<br>Country code: MM<br>Destination city: Nay Pyi Taw</div>"
+                }
+            }
+        },
+        {
+            "title": "All roads lead to Nicaragua map",
+            "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Nicaragua_CAm_Central-America_Americas_landscape_7993a08518b11cb6377c1c685157ff9f.svg.png",
+            "products": {
+                "global-fap": {
+                    "description": "The quickest route to Nicaragua from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Americas,CentralAmerica,country_NI,bounds_CAm<br>Product ref: 7993a08518<br>Country code: NI<br>Destination city: Managua</div>"
+                },
+                "global-cfpm": {
+                    "description": "The quickest route to Nicaragua from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Americas,CentralAmerica,country_NI,bounds_CAm<br>Product ref: 7993a08518<br>Country code: NI<br>Destination city: Managua</div>"
+                },
+                "global-cfp": {
+                    "description": "The quickest route to Nicaragua from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Americas,CentralAmerica,country_NI,bounds_CAm<br>Product ref: 7993a08518<br>Country code: NI<br>Destination city: Managua</div>"
+                }
+            }
+        },
+        {
+            "title": "All roads lead to Singapore map",
+            "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Singapore_SEAs_Asia_South-Eastern-Asia_landscape_bfe90af841fde8b092d6637e0538d0d4.svg.png",
+            "products": {
+                "global-fap": {
+                    "description": "The quickest route to Singapore from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Asia,South-EasternAsia,country_SG,bounds_SEAs<br>Product ref: bfe90af841<br>Country code: SG<br>Destination city: Singapore</div>"
+                },
+                "global-cfpm": {
+                    "description": "The quickest route to Singapore from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Asia,South-EasternAsia,country_SG,bounds_SEAs<br>Product ref: bfe90af841<br>Country code: SG<br>Destination city: Singapore</div>"
+                },
+                "global-cfp": {
+                    "description": "The quickest route to Singapore from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Asia,South-EasternAsia,country_SG,bounds_SEAs<br>Product ref: bfe90af841<br>Country code: SG<br>Destination city: Singapore</div>"
+                }
+            }
+        },
+        {
+            "title": "All roads lead to Thailand map",
+            "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Thailand_SEAs_Asia_South-Eastern-Asia_landscape_9e7ed34503eae849b7bd7685bc0c2dca.svg.png",
+            "products": {
+                "global-fap": {
+                    "description": "The quickest route to Thailand from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Asia,South-EasternAsia,country_TH,bounds_SEAs<br>Product ref: 9e7ed34503<br>Country code: TH<br>Destination city: Bangkok</div>"
+                },
+                "global-cfpm": {
+                    "description": "The quickest route to Thailand from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Asia,South-EasternAsia,country_TH,bounds_SEAs<br>Product ref: 9e7ed34503<br>Country code: TH<br>Destination city: Bangkok</div>"
+                },
+                "global-cfp": {
+                    "description": "The quickest route to Thailand from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Asia,South-EasternAsia,country_TH,bounds_SEAs<br>Product ref: 9e7ed34503<br>Country code: TH<br>Destination city: Bangkok</div>"
+                }
+            }
+        },
+        {
+            "title": "All roads lead to Vietnam map",
+            "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Vietnam_SEAs_Asia_South-Eastern-Asia_landscape_44f8622478f28475b9ab76d07f28be09.svg.png",
+            "products": {
+                "global-fap": {
+                    "description": "The quickest route to Vietnam from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Asia,South-EasternAsia,country_VN,bounds_SEAs<br>Product ref: 44f8622478<br>Country code: VN<br>Destination city: Hanoi</div>"
+                },
+                "global-cfpm": {
+                    "description": "The quickest route to Vietnam from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Asia,South-EasternAsia,country_VN,bounds_SEAs<br>Product ref: 44f8622478<br>Country code: VN<br>Destination city: Hanoi</div>"
+                },
+                "global-cfp": {
+                    "description": "The quickest route to Vietnam from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Asia,South-EasternAsia,country_VN,bounds_SEAs<br>Product ref: 44f8622478<br>Country code: VN<br>Destination city: Hanoi</div>"
+                }
+            }
+        },
+        {
+            "title": "All roads lead to Bangkok map",
+            "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Bangkok_SEAs_Asia_South-Eastern-Asia_landscape_4de75578e9e019f5c829c86e27ef8057.svg.png",
+            "products": {
+                "global-fap": {
+                    "description": "The quickest route to Bangkok from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Asia,South-EasternAsia,country_TH,bounds_SEAs<br>Product ref: 4de75578e9<br>Country code: TH<br>Destination city: Bangkok</div>"
+                },
+                "global-cfpm": {
+                    "description": "The quickest route to Bangkok from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Asia,South-EasternAsia,country_TH,bounds_SEAs<br>Product ref: 4de75578e9<br>Country code: TH<br>Destination city: Bangkok</div>"
+                },
+                "global-cfp": {
+                    "description": "The quickest route to Bangkok from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Asia,South-EasternAsia,country_TH,bounds_SEAs<br>Product ref: 4de75578e9<br>Country code: TH<br>Destination city: Bangkok</div>"
+                }
+            }
+        },
+        {
+            "title": "All roads lead to Kuala Lumpur map",
+            "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Kuala%20Lumpur_SEAs_Asia_South-Eastern-Asia_landscape_3083335c6b8e521b6d86e13c29d85c22.svg.png",
+            "products": {
+                "global-fap": {
+                    "description": "The quickest route to Kuala Lumpur from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Asia,South-EasternAsia,country_MY,bounds_SEAs<br>Product ref: 3083335c6b<br>Country code: MY<br>Destination city: Kuala Lumpur</div>"
+                },
+                "global-cfpm": {
+                    "description": "The quickest route to Kuala Lumpur from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Asia,South-EasternAsia,country_MY,bounds_SEAs<br>Product ref: 3083335c6b<br>Country code: MY<br>Destination city: Kuala Lumpur</div>"
+                },
+                "global-cfp": {
+                    "description": "The quickest route to Kuala Lumpur from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Asia,South-EasternAsia,country_MY,bounds_SEAs<br>Product ref: 3083335c6b<br>Country code: MY<br>Destination city: Kuala Lumpur</div>"
+                }
+            }
+        },
+        {
+            "title": "All roads lead to Phuket map",
+            "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Phuket_SEAs_Asia_South-Eastern-Asia_landscape_33ec694ed4566af633bf6e28f34f1fb4.svg.png",
+            "products": {
+                "global-fap": {
+                    "description": "The quickest route to Phuket from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Asia,South-EasternAsia,country_TH,bounds_SEAs<br>Product ref: 33ec694ed4<br>Country code: TH<br>Destination city: Phuket</div>"
+                },
+                "global-cfpm": {
+                    "description": "The quickest route to Phuket from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Asia,South-EasternAsia,country_TH,bounds_SEAs<br>Product ref: 33ec694ed4<br>Country code: TH<br>Destination city: Phuket</div>"
+                },
+                "global-cfp": {
+                    "description": "The quickest route to Phuket from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Asia,South-EasternAsia,country_TH,bounds_SEAs<br>Product ref: 33ec694ed4<br>Country code: TH<br>Destination city: Phuket</div>"
+                }
+            }
+        },
+        {
+            "title": "All roads lead to Ho Chi Minh City map",
+            "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Ho%20Chi%20Minh%20City_SEAs_Asia_South-Eastern-Asia_landscape_2963066bfae9a2ab1506eacf6e50af81.svg.png",
+            "products": {
+                "global-fap": {
+                    "description": "The quickest route to Ho Chi Minh City from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Asia,South-EasternAsia,country_VN,bounds_SEAs<br>Product ref: 2963066bfa<br>Country code: VN<br>Destination city: Ho Chi Minh City</div>"
+                },
+                "global-cfpm": {
+                    "description": "The quickest route to Ho Chi Minh City from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Asia,South-EasternAsia,country_VN,bounds_SEAs<br>Product ref: 2963066bfa<br>Country code: VN<br>Destination city: Ho Chi Minh City</div>"
+                },
+                "global-cfp": {
+                    "description": "The quickest route to Ho Chi Minh City from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Asia,South-EasternAsia,country_VN,bounds_SEAs<br>Product ref: 2963066bfa<br>Country code: VN<br>Destination city: Ho Chi Minh City</div>"
+                }
+            }
+        },
+        {
+            "title": "All roads lead to Johor Bahru map",
+            "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Johor%20Bahru_SEAs_Asia_South-Eastern-Asia_landscape_eb7e6e0aa7917344126ada9f63b2088b.svg.png",
+            "products": {
+                "global-fap": {
+                    "description": "The quickest route to Johor Bahru from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Asia,South-EasternAsia,country_MY,bounds_SEAs<br>Product ref: eb7e6e0aa7<br>Country code: MY<br>Destination city: Johor Bahru</div>"
+                },
+                "global-cfpm": {
+                    "description": "The quickest route to Johor Bahru from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Asia,South-EasternAsia,country_MY,bounds_SEAs<br>Product ref: eb7e6e0aa7<br>Country code: MY<br>Destination city: Johor Bahru</div>"
+                },
+                "global-cfp": {
+                    "description": "The quickest route to Johor Bahru from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Asia,South-EasternAsia,country_MY,bounds_SEAs<br>Product ref: eb7e6e0aa7<br>Country code: MY<br>Destination city: Johor Bahru</div>"
+                }
+            }
+        },
+        {
+            "title": "All roads lead to Cancún map",
+            "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Canc%C3%BAn_CAm_Central-America_Americas_landscape_a20bdc75fc1275857471fd9ad543387d.svg.png",
+            "products": {
+                "global-fap": {
+                    "description": "The quickest route to Cancún from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Americas,CentralAmerica,country_MX,bounds_CAm<br>Product ref: a20bdc75fc<br>Country code: MX<br>Destination city: Cancún</div>"
+                },
+                "global-cfpm": {
+                    "description": "The quickest route to Cancún from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Americas,CentralAmerica,country_MX,bounds_CAm<br>Product ref: a20bdc75fc<br>Country code: MX<br>Destination city: Cancún</div>"
+                },
+                "global-cfp": {
+                    "description": "The quickest route to Cancún from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Americas,CentralAmerica,country_MX,bounds_CAm<br>Product ref: a20bdc75fc<br>Country code: MX<br>Destination city: Cancún</div>"
+                }
+            }
+        },
+        {
+            "title": "All roads lead to Hanoi map",
+            "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Hanoi_SEAs_Asia_South-Eastern-Asia_landscape_422151c1f23a42b957dc4d3c1d471d43.svg.png",
+            "products": {
+                "global-fap": {
+                    "description": "The quickest route to Hanoi from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Asia,South-EasternAsia,country_VN,bounds_SEAs<br>Product ref: 422151c1f2<br>Country code: VN<br>Destination city: Hanoi</div>"
+                },
+                "global-cfpm": {
+                    "description": "The quickest route to Hanoi from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Asia,South-EasternAsia,country_VN,bounds_SEAs<br>Product ref: 422151c1f2<br>Country code: VN<br>Destination city: Hanoi</div>"
+                },
+                "global-cfp": {
+                    "description": "The quickest route to Hanoi from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Asia,South-EasternAsia,country_VN,bounds_SEAs<br>Product ref: 422151c1f2<br>Country code: VN<br>Destination city: Hanoi</div>"
+                }
+            }
+        },
+        {
+            "title": "All roads lead to Toronto map",
+            "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Toronto_NAm_Northern-America_Americas_landscape_a74289a0db9fd5e3c56f68fedb64c2e1.svg.png",
+            "products": {
+                "global-fap": {
+                    "description": "The quickest route to Toronto from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Americas,NorthernAmerica,country_CA,bounds_NAm<br>Product ref: a74289a0db<br>Country code: CA<br>Destination city: Toronto</div>"
+                },
+                "global-cfpm": {
+                    "description": "The quickest route to Toronto from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Americas,NorthernAmerica,country_CA,bounds_NAm<br>Product ref: a74289a0db<br>Country code: CA<br>Destination city: Toronto</div>"
+                },
+                "global-cfp": {
+                    "description": "The quickest route to Toronto from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Americas,NorthernAmerica,country_CA,bounds_NAm<br>Product ref: a74289a0db<br>Country code: CA<br>Destination city: Toronto</div>"
+                }
+            }
+        },
+        {
+            "title": "All roads lead to Vancouver map",
+            "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Vancouver_NAm_Northern-America_Americas_landscape_4d847712495ad81011f6c07f1c0c697f.svg.png",
+            "products": {
+                "global-fap": {
+                    "description": "The quickest route to Vancouver from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Americas,NorthernAmerica,country_CA,bounds_NAm<br>Product ref: 4d84771249<br>Country code: CA<br>Destination city: Vancouver</div>"
+                },
+                "global-cfpm": {
+                    "description": "The quickest route to Vancouver from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Americas,NorthernAmerica,country_CA,bounds_NAm<br>Product ref: 4d84771249<br>Country code: CA<br>Destination city: Vancouver</div>"
+                },
+                "global-cfp": {
+                    "description": "The quickest route to Vancouver from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Americas,NorthernAmerica,country_CA,bounds_NAm<br>Product ref: 4d84771249<br>Country code: CA<br>Destination city: Vancouver</div>"
+                }
+            }
+        },
+        {
+            "title": "All roads lead to Chiang Mai map",
+            "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Chiang%20Mai_SEAs_Asia_South-Eastern-Asia_landscape_860c3a469193237d1272e2d2d51841df.svg.png",
+            "products": {
+                "global-fap": {
+                    "description": "The quickest route to Chiang Mai from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Asia,South-EasternAsia,country_TH,bounds_SEAs<br>Product ref: 860c3a4691<br>Country code: TH<br>Destination city: Chiang Mai</div>"
+                },
+                "global-cfpm": {
+                    "description": "The quickest route to Chiang Mai from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Asia,South-EasternAsia,country_TH,bounds_SEAs<br>Product ref: 860c3a4691<br>Country code: TH<br>Destination city: Chiang Mai</div>"
+                },
+                "global-cfp": {
+                    "description": "The quickest route to Chiang Mai from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Asia,South-EasternAsia,country_TH,bounds_SEAs<br>Product ref: 860c3a4691<br>Country code: TH<br>Destination city: Chiang Mai</div>"
+                }
+            }
+        },
+        {
+            "title": "All roads lead to Da Nang map",
+            "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Da%20Nang_SEAs_Asia_South-Eastern-Asia_landscape_40f5d3d3764ffbfae53571378b18ca8e.svg.png",
+            "products": {
+                "global-fap": {
+                    "description": "The quickest route to Da Nang from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Asia,South-EasternAsia,country_VN,bounds_SEAs<br>Product ref: 40f5d3d376<br>Country code: VN<br>Destination city: Da Nang</div>"
+                },
+                "global-cfpm": {
+                    "description": "The quickest route to Da Nang from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Asia,South-EasternAsia,country_VN,bounds_SEAs<br>Product ref: 40f5d3d376<br>Country code: VN<br>Destination city: Da Nang</div>"
+                },
+                "global-cfp": {
+                    "description": "The quickest route to Da Nang from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Asia,South-EasternAsia,country_VN,bounds_SEAs<br>Product ref: 40f5d3d376<br>Country code: VN<br>Destination city: Da Nang</div>"
+                }
+            }
+        },
+        {
+            "title": "All roads lead to Krabi map",
+            "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Krabi_SEAs_Asia_South-Eastern-Asia_landscape_8278a2dce320298a0c6f012f43ad29ae.svg.png",
+            "products": {
+                "global-fap": {
+                    "description": "The quickest route to Krabi from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Asia,South-EasternAsia,country_TH,bounds_SEAs<br>Product ref: 8278a2dce3<br>Country code: TH<br>Destination city: Krabi</div>"
+                },
+                "global-cfpm": {
+                    "description": "The quickest route to Krabi from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Asia,South-EasternAsia,country_TH,bounds_SEAs<br>Product ref: 8278a2dce3<br>Country code: TH<br>Destination city: Krabi</div>"
+                },
+                "global-cfp": {
+                    "description": "The quickest route to Krabi from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Asia,South-EasternAsia,country_TH,bounds_SEAs<br>Product ref: 8278a2dce3<br>Country code: TH<br>Destination city: Krabi</div>"
+                }
+            }
+        },
+        {
+            "title": "All roads lead to Mexico City map",
+            "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Mexico%20City_CAm_Central-America_Americas_landscape_a5bd6c27c9e2fa0706221a2edb395578.svg.png",
+            "products": {
+                "global-fap": {
+                    "description": "The quickest route to Mexico City from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Americas,CentralAmerica,country_MX,bounds_CAm<br>Product ref: a5bd6c27c9<br>Country code: MX<br>Destination city: Mexico City</div>"
+                },
+                "global-cfpm": {
+                    "description": "The quickest route to Mexico City from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Americas,CentralAmerica,country_MX,bounds_CAm<br>Product ref: a5bd6c27c9<br>Country code: MX<br>Destination city: Mexico City</div>"
+                },
+                "global-cfp": {
+                    "description": "The quickest route to Mexico City from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Americas,CentralAmerica,country_MX,bounds_CAm<br>Product ref: a5bd6c27c9<br>Country code: MX<br>Destination city: Mexico City</div>"
+                }
+            }
+        },
+        {
+            "title": "All roads lead to Montréal map",
+            "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Montr%C3%A9al_NAm_Northern-America_Americas_landscape_0e03c5273a48d77b3faa67b5266ae208.svg.png",
+            "products": {
+                "global-fap": {
+                    "description": "The quickest route to Montréal from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Americas,NorthernAmerica,country_CA,bounds_NAm<br>Product ref: 0e03c5273a<br>Country code: CA<br>Destination city: Montréal</div>"
+                },
+                "global-cfpm": {
+                    "description": "The quickest route to Montréal from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Americas,NorthernAmerica,country_CA,bounds_NAm<br>Product ref: 0e03c5273a<br>Country code: CA<br>Destination city: Montréal</div>"
+                },
+                "global-cfp": {
+                    "description": "The quickest route to Montréal from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Americas,NorthernAmerica,country_CA,bounds_NAm<br>Product ref: 0e03c5273a<br>Country code: CA<br>Destination city: Montréal</div>"
+                }
+            }
+        },
+        {
+            "title": "All roads lead to San José map",
+            "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/San%20Jos%C3%A9_CAm_Central-America_Americas_landscape_9dd318253371d61c4743d3f4611500cf.svg.png",
+            "products": {
+                "global-fap": {
+                    "description": "The quickest route to San José from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Americas,CentralAmerica,country_CR,bounds_CAm<br>Product ref: 9dd3182533<br>Country code: CR<br>Destination city: San José</div>"
+                },
+                "global-cfpm": {
+                    "description": "The quickest route to San José from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Americas,CentralAmerica,country_CR,bounds_CAm<br>Product ref: 9dd3182533<br>Country code: CR<br>Destination city: San José</div>"
+                },
+                "global-cfp": {
+                    "description": "The quickest route to San José from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Americas,CentralAmerica,country_CR,bounds_CAm<br>Product ref: 9dd3182533<br>Country code: CR<br>Destination city: San José</div>"
+                }
+            }
+        },
+        {
+            "title": "All roads lead to Yangon map",
+            "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Yangon_SEAs_Asia_South-Eastern-Asia_landscape_e5bb56adb96f042647f1292bb5c7a40d.svg.png",
+            "products": {
+                "global-fap": {
+                    "description": "The quickest route to Yangon from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Asia,South-EasternAsia,country_MM,bounds_SEAs<br>Product ref: e5bb56adb9<br>Country code: MM<br>Destination city: Yangon</div>"
+                },
+                "global-cfpm": {
+                    "description": "The quickest route to Yangon from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Asia,South-EasternAsia,country_MM,bounds_SEAs<br>Product ref: e5bb56adb9<br>Country code: MM<br>Destination city: Yangon</div>"
+                },
+                "global-cfp": {
+                    "description": "The quickest route to Yangon from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Asia,South-EasternAsia,country_MM,bounds_SEAs<br>Product ref: e5bb56adb9<br>Country code: MM<br>Destination city: Yangon</div>"
+                }
+            }
+        },
+        {
+            "title": "All roads lead to Havana map",
+            "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Havana_map_Caribbean_Americas_landscape_f7da660c000447e5e507219de855d681.svg.png",
+            "products": {
+                "global-fap": {
+                    "description": "The quickest route to Havana from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Americas,CaribbeanAmerica,country_CU,bounds_map<br>Product ref: f7da660c00<br>Country code: CU<br>Destination city: Havana</div>"
+                },
+                "global-cfpm": {
+                    "description": "The quickest route to Havana from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Americas,CaribbeanAmerica,country_CU,bounds_map<br>Product ref: f7da660c00<br>Country code: CU<br>Destination city: Havana</div>"
+                },
+                "global-cfp": {
+                    "description": "The quickest route to Havana from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Americas,CaribbeanAmerica,country_CU,bounds_map<br>Product ref: f7da660c00<br>Country code: CU<br>Destination city: Havana</div>"
+                }
+            }
+        },
+        {
+            "title": "All roads lead to Panama map",
+            "user_image_url": "https://storage.googleapis.com/all-roads-lead-home/maps1/Panama_CAm_Central-America_Americas_landscape_e38e7a2bc41effad19579ae60e17a5a1.svg.png",
+            "products": {
+                "global-fap": {
+                    "description": "The quickest route to Panama from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Americas,CentralAmerica,country_PA,bounds_CAm<br>Product ref: e38e7a2bc4<br>Country code: PA<br>Destination city: Panamá</div>"
+                },
+                "global-cfpm": {
+                    "description": "The quickest route to Panama from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Americas,CentralAmerica,country_PA,bounds_CAm<br>Product ref: e38e7a2bc4<br>Country code: PA<br>Destination city: Panamá</div>"
+                },
+                "global-cfp": {
+                    "description": "The quickest route to Panama from everywhere. <br><br>Printed on matte fine art paper with museum-grade ink.<div style='display: none'><br><br>Keywords:<br>Region: Americas,CentralAmerica,country_PA,bounds_CAm<br>Product ref: e38e7a2bc4<br>Country code: PA<br>Destination city: Panamá</div>"
+                }
+            }
+        }
+    ]
+}

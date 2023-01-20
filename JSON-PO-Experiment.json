@@ -26,7 +26,14 @@
         },
         "GLOBAL-CFPM-28x40-PORTRAIT": {
             "enabled": true,
-            "retail_price": 121.22
+            "retail_price": 121.22,
+            "images": {
+                "front": {
+                    "image_arguments": {
+                        "scale": 0.96
+                    }
+                }
+            }
         },
         "GLOBAL-CFP-28x40-PORTRAIT": {
             "enabled": true,

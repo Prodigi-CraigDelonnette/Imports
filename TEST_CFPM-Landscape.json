@@ -1,0 +1,59 @@
+{
+    "product_range_defaults": {
+        "published": true
+    },
+    "product_defaults": {
+        "enabled": false
+    },
+    "products_defaults": {
+        "vybe-global-cfpm": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false
+    },
+    "variants_defaults": {
+        "GLOBAL-CFPM-18x24-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 80.00
+        },
+        "GLOBAL-CFPM-24x32-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 90.00
+        },
+        "GLOBAL-CFPM-30x40-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 100.00
+        }
+    },
+    "product_ranges": [
+        {
+            "title": "Karine 6",
+            "user_image_url": "https://drive.google.com/file/d/1wFX3EUQVUg8A_Y3MAqcgce-sFVEgUpDI",
+            "products": {
+                "global-cfpm": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Dan Hob 16",
+            "user_image_url": "https://drive.google.com/file/d/1FqiyuVaj4F19GGfV5o8LTFz634muv6ft",
+            "products": {
+                "global-cfpm": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Dan Hob 17",
+            "user_image_url": "https://drive.google.com/file/d/1lSUCw2WjDj05DNC8G1QVz8WjXwiilxdZ",
+            "products": {
+                "global-cfpm": {
+                    "description": " "
+                }
+            }
+        }
+    ]
+}

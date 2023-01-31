@@ -1,0 +1,311 @@
+{
+    "product_range_defaults": {
+        "published": true
+    },
+    "product_defaults": {
+        "enabled": false
+    },
+    "products_defaults": {
+        "vybe-global-cfpm": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false
+    },
+    "variants_defaults": {
+        "GLOBAL-CFPM-18x24-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 80.00
+        },
+        "GLOBAL-CFPM-24x32-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 90.00
+        },
+        "GLOBAL-CFPM-30x40-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 100.00
+        }
+    },
+    "product_ranges": [
+        {
+            "title": "Pili & Dano 1",
+            "user_image_url": "https://drive.google.com/file/d/1R6Nm256f3VnVpvmivLiyRpTxlfndkNGC&export=download&export=download",
+            "products": {
+                "global-cfpm": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Pili & Dano 2",
+            "user_image_url": "https://drive.google.com/file/d/1o-yoiW7EKggyGOGVeDj9EWdT322VA0v7&export=download&export=download",
+            "products": {
+                "global-cfpm": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Pili & Dano 3",
+            "user_image_url": "https://drive.google.com/file/d/1xouMuELPcGhcMiZyKC5oMLy6EDJoCDeL&export=download&export=download",
+            "products": {
+                "global-cfpm": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Pili & Dano 4",
+            "user_image_url": "https://drive.google.com/file/d/1qjuEeDCOV3E5JFw87rrjL_5oeASRw-De&export=download&export=download",
+            "products": {
+                "global-cfpm": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Pili & Dano 5",
+            "user_image_url": "https://drive.google.com/file/d/1JFOVdAZybvIHdYWHbqXIpR_tTrcQxKOW&export=download&export=download",
+            "products": {
+                "global-cfpm": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Pili & Dano 6",
+            "user_image_url": "https://drive.google.com/file/d/1XgHIKn4f_jUMn_EyksgvyUSQKF9Pcf_I&export=download&export=download",
+            "products": {
+                "global-cfpm": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Pili & Dano 7",
+            "user_image_url": "https://drive.google.com/file/d/1sS-xuoFkU2aSF4JKFCFGiKFF3OWOgJY9&export=download&export=download",
+            "products": {
+                "global-cfpm": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Pili & Dano 8",
+            "user_image_url": "https://drive.google.com/file/d/17Vr4S7y8sOMrp7qJ53pv0MVPH5VvX_nt&export=download&export=download",
+            "products": {
+                "global-cfpm": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Pili & Dano 9",
+            "user_image_url": "https://drive.google.com/file/d/1iiSIebGzDE5R5uheC4frbB0hgK-i3agW&export=download&export=download",
+            "products": {
+                "global-cfpm": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Pili & Dano 10",
+            "user_image_url": "https://drive.google.com/file/d/1qi_KCB6sdNFbrRX4ZoJE5pSE_uCFAZcd&export=download&export=download",
+            "products": {
+                "global-cfpm": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Pili & Dano 11",
+            "user_image_url": "https://drive.google.com/file/d/1eKc8D8Ek9aNqhJNz2xelC3x1Bfr9ydwc&export=download&export=download",
+            "products": {
+                "global-cfpm": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Pili & Dano 12",
+            "user_image_url": "https://drive.google.com/file/d/1TWqnt-L2LZVb3kr2nWx8OmunER9RkUXQ&export=download&export=download",
+            "products": {
+                "global-cfpm": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Pili & Dano 13",
+            "user_image_url": "https://drive.google.com/file/d/15VCPd2hW0wJ8YebFuJy0cWRISTrdxsdc&export=download&export=download",
+            "products": {
+                "global-cfpm": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Pili & Dano 14",
+            "user_image_url": "https://drive.google.com/file/d/1nUU7qrRVClgmDJ8Y9Psb7oXnHHClwB98&export=download&export=download",
+            "products": {
+                "global-cfpm": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Pili & Dano 15",
+            "user_image_url": "https://drive.google.com/file/d/1hUx3LctKH1syujBoCXWeoG57XNWcrzk1&export=download&export=download",
+            "products": {
+                "global-cfpm": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Pili & Dano 16",
+            "user_image_url": "https://drive.google.com/file/d/14N-J8GD0WItSZxgwRPwX3swxviww5eA1&export=download&export=download",
+            "products": {
+                "global-cfpm": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Pili & Dano 17",
+            "user_image_url": "https://drive.google.com/file/d/1yYOZr2jRqT7SuYje99GhAfRKnTeDDeoP&export=download&export=download",
+            "products": {
+                "global-cfpm": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Pili & Dano 18",
+            "user_image_url": "https://drive.google.com/file/d/1YOq1GhZo3r_cSTn48c-HIg95wQy4wkD0&export=download&export=download",
+            "products": {
+                "global-cfpm": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Pili & Dano 19",
+            "user_image_url": "https://drive.google.com/file/d/1AiQCkGSKs6LRYvlH0pUrz7jD3yy2sHCb&export=download&export=download",
+            "products": {
+                "global-cfpm": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Pili & Dano 20",
+            "user_image_url": "https://drive.google.com/file/d/1D2gjZ7iNmVBLeTGjxqJrRVehTKiH_mOT&export=download&export=download",
+            "products": {
+                "global-cfpm": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Jan Erik 3",
+            "user_image_url": "https://drive.google.com/file/d/1syb9nmf0MX_wywKg9NKEkMisZdD6S9zB&export=download&export=download",
+            "products": {
+                "global-cfpm": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Jan Erik 4",
+            "user_image_url": "https://drive.google.com/file/d/1vBFPi9-RQKu6X_w7fv86oIWo99VWe7Vf&export=download&export=download",
+            "products": {
+                "global-cfpm": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Jan Erik 5",
+            "user_image_url": "https://drive.google.com/file/d/1bbQYNU1iSLUzePq68RJowDk1l-jOMMPa&export=download&export=download",
+            "products": {
+                "global-cfpm": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Jan Erik 6",
+            "user_image_url": "https://drive.google.com/file/d/1in41QckdrklPrp4Yxt3A1LnEZm5YIIUk&export=download&export=download",
+            "products": {
+                "global-cfpm": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Jan Erik 7",
+            "user_image_url": "https://drive.google.com/file/d/1h5mso8dEzzXvfutuPo6K6Thi9D7mqWjv&export=download&export=download",
+            "products": {
+                "global-cfpm": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Jan Erik 8",
+            "user_image_url": "https://drive.google.com/file/d/1WLNzoD8jN7oXpb1ayS3Z6p9NkviTAZm9&export=download&export=download",
+            "products": {
+                "global-cfpm": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Jan Erik 9",
+            "user_image_url": "https://drive.google.com/file/d/1Nr-0wcs2-y0oTtH_UJ0M6me_NhhKdJ2Y&export=download&export=download",
+            "products": {
+                "global-cfpm": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Jan Erik 10",
+            "user_image_url": "https://drive.google.com/file/d/1ni665azD_r0pTB2c5A5QsX7aGKnuja2H&export=download&export=download",
+            "products": {
+                "global-cfpm": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Karine 6",
+            "user_image_url": "https://drive.google.com/file/d/1wFX3EUQVUg8A_Y3MAqcgce-sFVEgUpDI&export=download&export=download",
+            "products": {
+                "global-cfpm": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Dan Hob 16",
+            "user_image_url": "https://drive.google.com/file/d/1FqiyuVaj4F19GGfV5o8LTFz634muv6ft&export=download&export=download",
+            "products": {
+                "global-cfpm": {
+                    "description": " "
+                }
+            }
+        },
+        {
+            "title": "Dan Hob 17",
+            "user_image_url": "https://drive.google.com/file/d/1lSUCw2WjDj05DNC8G1QVz8WjXwiilxdZ&export=download&export=download",
+            "products": {
+                "global-cfpm": {
+                    "description": " "
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,931 @@
+{
+    "product_range_defaults": {
+        "published": true
+    },
+    "product_defaults": {
+        "enabled": false
+    },
+    "products_defaults": {
+        "global-cfp": {
+            "enabled": true
+        },
+        "global-fap": {
+            "enabled": true
+        },
+        "greeting_card": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false
+    },
+    "variants_defaults": {
+        "GLOBAL-CFP-A1-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 75.00
+        },
+        "GLOBAL-CFP-A2-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 55.00
+        },
+        "GLOBAL-CFP-A3-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 45.00
+        },
+        "GLOBAL-CFP-A4-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 35.00
+        },
+        "GLOBAL-FAP-A1-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 39.00
+        },
+        "GLOBAL-FAP-A2-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 30.00
+        },
+        "GLOBAL-FAP-A3-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 26.00
+        },
+        "GLOBAL-FAP-A4-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 18.00
+        },
+        "GLOBAL-FAP-A5-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 15.00
+        }
+    },
+    "product_ranges": [
+        {
+            "title": "HARD THINGS - Stone / Charcoal",
+            "user_image_url": "https://www.dropbox.com/s/l62mlpde50a0kur/HARD%20THINGS-01.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "Glennon Doyle's inspirational quote will keep you going when life gets hard.",
+                    "variants": {
+                        "GLOBAL-CFP-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/l62mlpde50a0kur/HARD%20THINGS-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/l62mlpde50a0kur/HARD%20THINGS-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A2-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/l62mlpde50a0kur/HARD%20THINGS-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A1-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/l62mlpde50a0kur/HARD%20THINGS-01.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-fap": {
+                    "description": "Glennon Doyle's inspirational quote will keep you going when life gets hard.",
+                    "variants": {
+                        "GLOBAL-FAP-A5-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/l62mlpde50a0kur/HARD%20THINGS-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/l62mlpde50a0kur/HARD%20THINGS-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/l62mlpde50a0kur/HARD%20THINGS-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A2-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/l62mlpde50a0kur/HARD%20THINGS-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A1-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/l62mlpde50a0kur/HARD%20THINGS-01.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "HARD THINGS - Pink / Red",
+            "user_image_url": "https://www.dropbox.com/s/7tth7ejx6tfgmt1/HARD%20THINGS-03.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "Glennon Doyle's inspirational quote will keep you going when life gets hard.",
+                    "variants": {
+                        "GLOBAL-CFP-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/7tth7ejx6tfgmt1/HARD%20THINGS-03.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/7tth7ejx6tfgmt1/HARD%20THINGS-03.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A2-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/7tth7ejx6tfgmt1/HARD%20THINGS-03.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A1-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/7tth7ejx6tfgmt1/HARD%20THINGS-03.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-fap": {
+                    "description": "Glennon Doyle's inspirational quote will keep you going when life gets hard.",
+                    "variants": {
+                        "GLOBAL-FAP-A5-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/7tth7ejx6tfgmt1/HARD%20THINGS-03.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/7tth7ejx6tfgmt1/HARD%20THINGS-03.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/7tth7ejx6tfgmt1/HARD%20THINGS-03.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A2-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/7tth7ejx6tfgmt1/HARD%20THINGS-03.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A1-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/7tth7ejx6tfgmt1/HARD%20THINGS-03.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "HARD THINGS - Olive / Charcoal",
+            "user_image_url": "https://www.dropbox.com/s/u06v06h1bbxgbg9/HARD%20THINGS-02.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "Glennon Doyle's inspirational quote will keep you going when life gets hard.",
+                    "variants": {
+                        "GLOBAL-CFP-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/u06v06h1bbxgbg9/HARD%20THINGS-02.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/u06v06h1bbxgbg9/HARD%20THINGS-02.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A2-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/u06v06h1bbxgbg9/HARD%20THINGS-02.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A1-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/u06v06h1bbxgbg9/HARD%20THINGS-02.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-fap": {
+                    "description": "Glennon Doyle's inspirational quote will keep you going when life gets hard.",
+                    "variants": {
+                        "GLOBAL-FAP-A5-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/u06v06h1bbxgbg9/HARD%20THINGS-02.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/u06v06h1bbxgbg9/HARD%20THINGS-02.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/u06v06h1bbxgbg9/HARD%20THINGS-02.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A2-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/u06v06h1bbxgbg9/HARD%20THINGS-02.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A1-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/u06v06h1bbxgbg9/HARD%20THINGS-02.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "HARD THINGS - Soft black / White",
+            "user_image_url": "https://www.dropbox.com/s/g54n7rqnf884por/HARD%20THINGS-04.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "Glennon Doyle's inspirational quote will keep you going when life gets hard.",
+                    "variants": {
+                        "GLOBAL-CFP-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/g54n7rqnf884por/HARD%20THINGS-04.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/g54n7rqnf884por/HARD%20THINGS-04.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A2-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/g54n7rqnf884por/HARD%20THINGS-04.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A1-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/g54n7rqnf884por/HARD%20THINGS-04.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-fap": {
+                    "description": "Glennon Doyle's inspirational quote will keep you going when life gets hard.",
+                    "variants": {
+                        "GLOBAL-FAP-A5-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/g54n7rqnf884por/HARD%20THINGS-04.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/g54n7rqnf884por/HARD%20THINGS-04.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/g54n7rqnf884por/HARD%20THINGS-04.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A2-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/g54n7rqnf884por/HARD%20THINGS-04.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A1-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/g54n7rqnf884por/HARD%20THINGS-04.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "NEVER GIVE UP - Stone / Charcoal",
+            "user_image_url": "https://www.dropbox.com/s/y4e5sjjb2ma9ibr/Never%20Give%20Up-03.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "Make a bold statement in any room with this inspirational quote from Winston Churchill.",
+                    "variants": {
+                        "GLOBAL-CFP-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/y4e5sjjb2ma9ibr/Never%20Give%20Up-03.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/y4e5sjjb2ma9ibr/Never%20Give%20Up-03.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A2-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/y4e5sjjb2ma9ibr/Never%20Give%20Up-03.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A1-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/y4e5sjjb2ma9ibr/Never%20Give%20Up-03.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-fap": {
+                    "description": "Make a bold statement in any room with this inspirational quote from Winston Churchill.",
+                    "variants": {
+                        "GLOBAL-FAP-A5-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/y4e5sjjb2ma9ibr/Never%20Give%20Up-03.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/y4e5sjjb2ma9ibr/Never%20Give%20Up-03.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/y4e5sjjb2ma9ibr/Never%20Give%20Up-03.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A2-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/y4e5sjjb2ma9ibr/Never%20Give%20Up-03.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A1-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/y4e5sjjb2ma9ibr/Never%20Give%20Up-03.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "NEVER GIVE UP - Pale pink / Orange",
+            "user_image_url": "https://www.dropbox.com/s/w4fltrj8nqvukli/Never%20Give%20Up-01.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "Make a bold statement in any room with this inspirational quote from Winston Churchill.",
+                    "variants": {
+                        "GLOBAL-CFP-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/w4fltrj8nqvukli/Never%20Give%20Up-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/w4fltrj8nqvukli/Never%20Give%20Up-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A2-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/w4fltrj8nqvukli/Never%20Give%20Up-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A1-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/w4fltrj8nqvukli/Never%20Give%20Up-01.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-fap": {
+                    "description": "Make a bold statement in any room with this inspirational quote from Winston Churchill.",
+                    "variants": {
+                        "GLOBAL-FAP-A5-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/w4fltrj8nqvukli/Never%20Give%20Up-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/w4fltrj8nqvukli/Never%20Give%20Up-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/w4fltrj8nqvukli/Never%20Give%20Up-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A2-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/w4fltrj8nqvukli/Never%20Give%20Up-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A1-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/w4fltrj8nqvukli/Never%20Give%20Up-01.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "NEVER GIVE UP - Black / White",
+            "user_image_url": "https://www.dropbox.com/s/q4mc6ulytk8tst3/Never%20Give%20Up-08.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "Make a bold statement in any room with this inspirational quote from Winston Churchill.",
+                    "variants": {
+                        "GLOBAL-CFP-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/q4mc6ulytk8tst3/Never%20Give%20Up-08.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/q4mc6ulytk8tst3/Never%20Give%20Up-08.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A2-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/q4mc6ulytk8tst3/Never%20Give%20Up-08.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A1-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/q4mc6ulytk8tst3/Never%20Give%20Up-08.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-fap": {
+                    "description": "Make a bold statement in any room with this inspirational quote from Winston Churchill.",
+                    "variants": {
+                        "GLOBAL-FAP-A5-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/q4mc6ulytk8tst3/Never%20Give%20Up-08.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/q4mc6ulytk8tst3/Never%20Give%20Up-08.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/q4mc6ulytk8tst3/Never%20Give%20Up-08.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A2-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/q4mc6ulytk8tst3/Never%20Give%20Up-08.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A1-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/q4mc6ulytk8tst3/Never%20Give%20Up-08.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "NEVER GIVE UP - Steel / White",
+            "user_image_url": "https://www.dropbox.com/s/2rvhwp4afvo7npm/Never%20Give%20Up-02.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "Make a bold statement in any room with this inspirational quote from Winston Churchill.",
+                    "variants": {
+                        "GLOBAL-CFP-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/2rvhwp4afvo7npm/Never%20Give%20Up-02.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/2rvhwp4afvo7npm/Never%20Give%20Up-02.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A2-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/2rvhwp4afvo7npm/Never%20Give%20Up-02.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A1-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/2rvhwp4afvo7npm/Never%20Give%20Up-02.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-fap": {
+                    "description": "Make a bold statement in any room with this inspirational quote from Winston Churchill.",
+                    "variants": {
+                        "GLOBAL-FAP-A5-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/2rvhwp4afvo7npm/Never%20Give%20Up-02.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/2rvhwp4afvo7npm/Never%20Give%20Up-02.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/2rvhwp4afvo7npm/Never%20Give%20Up-02.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A2-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/2rvhwp4afvo7npm/Never%20Give%20Up-02.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A1-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/2rvhwp4afvo7npm/Never%20Give%20Up-02.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "LOVE U - Vintage",
+            "user_image_url": "https://www.dropbox.com/s/yjfq9hxiy5arzcs/LOVE%20U-06.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "ALL profits from this design are donated to The Red Cross Ukraine Crisis Appeal. Thank you for your support.",
+                    "variants": {
+                        "GLOBAL-CFP-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/yjfq9hxiy5arzcs/LOVE%20U-06.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/yjfq9hxiy5arzcs/LOVE%20U-06.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A2-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/yjfq9hxiy5arzcs/LOVE%20U-06.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A1-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/yjfq9hxiy5arzcs/LOVE%20U-06.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-fap": {
+                    "description": "ALL profits from this design are donated to The Red Cross Ukraine Crisis Appeal. Thank you for your support.",
+                    "variants": {
+                        "GLOBAL-FAP-A5-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/yjfq9hxiy5arzcs/LOVE%20U-06.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/yjfq9hxiy5arzcs/LOVE%20U-06.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/yjfq9hxiy5arzcs/LOVE%20U-06.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A2-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/yjfq9hxiy5arzcs/LOVE%20U-06.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A1-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/yjfq9hxiy5arzcs/LOVE%20U-06.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "NICE ART - Green / Black",
+            "user_image_url": "https://www.dropbox.com/s/twthb08fabd8zmu/Asize%20Nice%20Art-01.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "Art got cheeky! A naughty print for the bath or bedroom.",
+                    "variants": {
+                        "GLOBAL-CFP-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/twthb08fabd8zmu/Asize%20Nice%20Art-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/twthb08fabd8zmu/Asize%20Nice%20Art-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A2-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/twthb08fabd8zmu/Asize%20Nice%20Art-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A1-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/twthb08fabd8zmu/Asize%20Nice%20Art-01.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-fap": {
+                    "description": "Art got cheeky! A naughty print for the bath or bedroom.",
+                    "variants": {
+                        "GLOBAL-FAP-A5-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/twthb08fabd8zmu/Asize%20Nice%20Art-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/twthb08fabd8zmu/Asize%20Nice%20Art-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/twthb08fabd8zmu/Asize%20Nice%20Art-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A2-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/twthb08fabd8zmu/Asize%20Nice%20Art-01.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A1-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/twthb08fabd8zmu/Asize%20Nice%20Art-01.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "NICE ART - Peachy",
+            "user_image_url": "https://www.dropbox.com/s/qzi1m6vebtkix9b/Nice%20Art-03.jpg?dl=0",
+            "products": {
+                "global-cfp": {
+                    "description": "Art got cheeky! A naughty print for the bath or bedroom.",
+                    "variants": {
+                        "GLOBAL-CFP-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/qzi1m6vebtkix9b/Nice%20Art-03.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/qzi1m6vebtkix9b/Nice%20Art-03.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A2-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/qzi1m6vebtkix9b/Nice%20Art-03.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-CFP-A1-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/qzi1m6vebtkix9b/Nice%20Art-03.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "global-fap": {
+                    "description": "Art got cheeky! A naughty print for the bath or bedroom.",
+                    "variants": {
+                        "GLOBAL-FAP-A5-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/qzi1m6vebtkix9b/Nice%20Art-03.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A4-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/qzi1m6vebtkix9b/Nice%20Art-03.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A3-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/qzi1m6vebtkix9b/Nice%20Art-03.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A2-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/qzi1m6vebtkix9b/Nice%20Art-03.jpg?dl=0"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-A1-PORTRAIT": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/s/qzi1m6vebtkix9b/Nice%20Art-03.jpg?dl=0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}
